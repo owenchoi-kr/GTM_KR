@@ -1,0 +1,174 @@
+{
+  "updated_at": "2026-02-05T14:46:57.153474",
+  "count": 24,
+  "games": [
+    {
+      "id": "GM_NCR_015790",
+      "title": "PUBG: BLINDSPOT",
+      "url": "https://game.naver.com/ProjectARC",
+      "release_date": "2026-02-05 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_020001",
+      "title": "드래곤 퀘스트 VII Reimagined",
+      "url": "https://game.naver.com/DRAGON_QUEST_VII_Reimagined",
+      "release_date": "2026-02-05 오픈",
+      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_021896",
+      "title": "나의 히어로 아카데미아 올즈 저스티스",
+      "url": "https://game.naver.com/MY_HERO_ACADEMIA_Alls_Justice",
+      "release_date": "2026-02-05 오픈",
+      "platform": "PS5,XBOX SERIES X/S"
+    },
+    {
+      "id": "GM_NCR_021532",
+      "title": "정사",
+      "url": "https://game.naver.com/MartialArts",
+      "release_date": "2026-01-09 ~  사전예약",
+      "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-02-04 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_021707",
+      "title": "한양 온라인 : 조선 무사 키우기",
+      "url": "https://game.naver.com/hanyang",
+      "release_date": "2026-01-26 ~ 2026-02-09 사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021148",
+      "title": "역대급영지설계사",
+      "url": "https://game.naver.com/TGED",
+      "release_date": "2025-12-11 ~ 2026-02-11 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_021611",
+      "title": "여고생과 리셋중!",
+      "url": "https://game.naver.com/reworld",
+      "release_date": "2026-01-16 ~  사전예약",
+      "platform": "Android"
+    },
+    {
+      "id": "GM_NCR_021779",
+      "title": "발키리 키우기 – 신들의 전쟁",
+      "url": "https://game.naver.com/idlevalkyrie",
+      "release_date": "2026-01-23 ~ 2026-02-13 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_019456",
+      "title": "에르피스",
+      "url": "https://game.naver.com/Ehrpis",
+      "release_date": "2025-08-22 ~  사전예약",
+      "platform": "Android,OneStore,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_018920",
+      "title": "DX: 각성자들",
+      "url": "https://game.naver.com/dx_awaken",
+      "release_date": "2026-01-06 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_021943",
+      "title": "사신키우기2: 중세편",
+      "url": "https://game.naver.com/saki2",
+      "release_date": "2026-02-04 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_020833",
+      "title": "픽셀 히어로즈 방치형 RPG",
+      "url": "https://game.naver.com/pixel_brave",
+      "release_date": "2026-01-13 ~ 2026-06-30 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_016009",
+      "title": "라스트 소녀 전사",
+      "url": "https://game.naver.com/Doomsday_Warrior",
+      "release_date": "2025-12-11 ~ 2026-07-01 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_014731",
+      "title": "THE NEW GATE Best Collection",
+      "url": "https://game.naver.com/the_new_gate",
+      "release_date": "2024-07-22 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_014818",
+      "title": "미남고교 지구방위부 Love Macho",
+      "url": "https://game.naver.com/earth_defense_club",
+      "release_date": "2024-07-29 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_017931",
+      "title": "아홉 군주",
+      "url": "https://game.naver.com/Nine_Lords",
+      "release_date": "2025-07-01 ~ 2026-07-31 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_019939",
+      "title": "리리의 세계",
+      "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
+      "release_date": "2025-12-08 ~  사전예약",
+      "platform": "Android,Console,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_020257",
+      "title": "이세계 유유자적 농가 Reverie",
+      "url": "https://game.naver.com/Farming_Life_in_Another_World_Reverie",
+      "release_date": "2025-10-10 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_017394",
+      "title": "카케구루이 ALL IN",
+      "url": "https://game.naver.com/Kakegurui_ALL_IN",
+      "release_date": "2025-03-12 ~  사전예약",
+      "platform": "Android,PC,iOS"
+    },
+    {
+      "id": "GM_NCR_020152",
+      "title": "학원묵시록 HIGH SCHOOL OF THE DEAD DAY 0",
+      "url": "https://game.naver.com/HIGH_SCHOOL_OF_THE_DEAD_DAY0",
+      "release_date": "2025-09-26 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_017102",
+      "title": "코바야시네 메이드래곤 판타지아",
+      "url": "https://game.naver.com/Miss_Kobayashis_Dragon_Maid_Fantasia",
+      "release_date": "2025-02-14 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_019295",
+      "title": "약사의 혼잣말 후궁이문록",
+      "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
+      "release_date": "2025-07-30 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021708",
+      "title": "프로젝트 제타",
+      "url": "https://game.naver.com/PROJECT_ZETA",
+      "release_date": "2026-02-02 ~ 2026-04-01 OBT",
+      "platform": "PC"
+    }
+  ]
+}

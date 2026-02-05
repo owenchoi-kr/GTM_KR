@@ -1,16 +1,21 @@
 {
-  "updated_at": "2026-02-05T23:13:23.014969",
-  "count": 63,
+  "updated_at": "2026-02-05T14:46:57.152299",
+  "count": 62,
   "games": [
     {
-      "id": "com.fh.kr.drc.gp",
-      "title": "DX: 각성자들",
-      "url": "https://play.google.com/store/apps/details?id=com.fh.kr.drc.gp&hl=ko"
+      "id": "com.unknownworlds.subnauticabelowzero",
+      "title": "서브노티카: 빌로우 제로",
+      "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnauticabelowzero&hl=ko"
     },
     {
-      "id": "com.Deliciousgames.PMC",
-      "title": "뽑만추 : 방치된 뽑기기계 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.PMC&hl=ko"
+      "id": "com.devolverdigital.ReignsWitcher",
+      "title": "Reigns: The Witcher",
+      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ReignsWitcher&hl=ko"
+    },
+    {
+      "id": "com.Deliciousgames.NGI",
+      "title": "닌자 갱스터즈: 방치된 거리",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.NGI&hl=ko"
     },
     {
       "id": "com.TeamSparta.battleshipgo",
@@ -28,11 +33,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.akshatsoftwares.mayaekpishachini&hl=ko"
     },
     {
-      "id": "com.angames.android.google.avatarbendingtheworld",
-      "title": "Avatar: Realms Collide",
-      "url": "https://play.google.com/store/apps/details?id=com.angames.android.google.avatarbendingtheworld&hl=ko"
-    },
-    {
       "id": "com.arumgames.darkwizard",
       "title": "66666년만에 환생한 흑마법사 : 전략 디펜스 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.darkwizard&hl=ko"
@@ -43,9 +43,24 @@
       "url": "https://play.google.com/store/apps/details?id=com.brazle.dollssort&hl=ko"
     },
     {
-      "id": "com.codemon.HeroLandlord",
-      "title": "용사는 건물주 - 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.codemon.HeroLandlord&hl=ko"
+      "id": "com.brazle.mylittlehotel",
+      "title": "마이리틀호텔",
+      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko"
+    },
+    {
+      "id": "com.bytro.warhammer40ksupremacy",
+      "title": "Supremacy: Warhammer 40,000",
+      "url": "https://play.google.com/store/apps/details?id=com.bytro.warhammer40ksupremacy&hl=ko"
+    },
+    {
+      "id": "com.com2us.rheroes.android.google.global.normal",
+      "title": "Pepp Heroes: Relic Quest",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko"
+    },
+    {
+      "id": "com.com2usholdings.starsailors.android.google.global.normal",
+      "title": "Star Sailors",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko"
     },
     {
       "id": "com.daeri.TenValkyrie",
@@ -58,19 +73,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko"
     },
     {
-      "id": "com.devolverdigital.ReignsWitcher",
-      "title": "Reigns: The Witcher",
-      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ReignsWitcher&hl=ko"
-    },
-    {
       "id": "com.digitalextremes.warframemobile",
       "title": "Warframe",
       "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=ko"
-    },
-    {
-      "id": "com.dino.steelkr",
-      "title": "서바이벌 메카",
-      "url": "https://play.google.com/store/apps/details?id=com.dino.steelkr&hl=ko"
     },
     {
       "id": "com.ea.gp.tacticalfootball",
@@ -81,6 +86,11 @@
       "id": "com.ellagames.bigguy",
       "title": "뚱기사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko"
+    },
+    {
+      "id": "com.emagroups.wl",
+      "title": "Spirits of Aetheria",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko"
     },
     {
       "id": "com.f5game.ern",
@@ -98,29 +108,19 @@
       "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko"
     },
     {
-      "id": "com.gravity.rooc.android",
-      "title": "라그나로크 오리진 클래식",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.rooc.android&hl=ko"
-    },
-    {
       "id": "com.indusgame.play",
-      "title": "BRX: 배틀로얄 추출",
+      "title": "BRX: Battle Royale Extraction",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko"
-    },
-    {
-      "id": "com.kr.lfhsgp",
-      "title": "그레이 사가",
-      "url": "https://play.google.com/store/apps/details?id=com.kr.lfhsgp&hl=ko"
-    },
-    {
-      "id": "com.lightcore.unknownherosagakor",
-      "title": "미송자의 노래: 도트 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.lightcore.unknownherosagakor&hl=ko"
     },
     {
       "id": "com.linegames.fq",
       "title": "페어리테일 퀘스트",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko"
+    },
+    {
+      "id": "com.linegames.gmg",
+      "title": "Genesis War",
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko"
     },
     {
       "id": "com.luno.b5",
@@ -131,6 +131,11 @@
       "id": "com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games",
       "title": "Panda World : Bubble Shooter",
       "url": "https://play.google.com/store/apps/details?id=com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games&hl=ko"
+    },
+    {
+      "id": "com.magicgame.yzhs",
+      "title": "Magicmon: World",
+      "url": "https://play.google.com/store/apps/details?id=com.magicgame.yzhs&hl=ko"
     },
     {
       "id": "com.minimuffin.princessstories",
@@ -148,11 +153,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko"
     },
     {
-      "id": "com.neptune.shootingislands",
-      "title": "가자! 탕탕섬으로",
-      "url": "https://play.google.com/store/apps/details?id=com.neptune.shootingislands&hl=ko"
-    },
-    {
       "id": "com.netmarble.monster2",
       "title": "몬길: STAR DIVE",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko"
@@ -168,6 +168,11 @@
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko"
     },
     {
+      "id": "com.nexwave.popepoch.android",
+      "title": "Pop Epoch",
+      "url": "https://play.google.com/store/apps/details?id=com.nexwave.popepoch.android&hl=ko"
+    },
+    {
       "id": "com.nhn.abyssdia",
       "title": "어비스디아",
       "url": "https://play.google.com/store/apps/details?id=com.nhn.abyssdia&hl=ko"
@@ -176,16 +181,6 @@
       "id": "com.ondi.pack.adventure",
       "title": "Backpack Legends Adventure RPG",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko"
-    },
-    {
-      "id": "com.orienjoy.heroland.kr",
-      "title": "히어로 랜드M",
-      "url": "https://play.google.com/store/apps/details?id=com.orienjoy.heroland.kr&hl=ko"
-    },
-    {
-      "id": "com.picorea.estherbunny",
-      "title": "에스더버니 팝걸",
-      "url": "https://play.google.com/store/apps/details?id=com.picorea.estherbunny&hl=ko"
     },
     {
       "id": "com.playdigious.seaofstars",
@@ -203,9 +198,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko"
     },
     {
-      "id": "com.rastargames.zdwjsea",
-      "title": "Three Kingdoms: World Conquest",
-      "url": "https://play.google.com/store/apps/details?id=com.rastargames.zdwjsea&hl=ko"
+      "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
+      "title": "Pawpop Match",
+      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko"
     },
     {
       "id": "com.runawayplay.dragons",
@@ -213,9 +208,14 @@
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko"
     },
     {
-      "id": "com.stormrise.dragonrise",
-      "title": "드래곤 라이즈",
-      "url": "https://play.google.com/store/apps/details?id=com.stormrise.dragonrise&hl=ko"
+      "id": "com.secondquest.divineedge.kr",
+      "title": "디바인엣지 방치형 RPG : 소녀와 마신의 이야기",
+      "url": "https://play.google.com/store/apps/details?id=com.secondquest.divineedge.kr&hl=ko"
+    },
+    {
+      "id": "com.studiobside.starMain",
+      "title": "스타세이비어",
+      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko"
     },
     {
       "id": "com.superbox.aos.collecthole",
@@ -258,9 +258,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=ko"
     },
     {
-      "id": "com.unknownworlds.subnauticabelowzero",
-      "title": "서브노티카: 빌로우 제로",
-      "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnauticabelowzero&hl=ko"
+      "id": "com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg",
+      "title": "더 디비전 리서전스",
+      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg&hl=ko"
     },
     {
       "id": "com.v2r.AbyssWorld",
@@ -276,11 +276,6 @@
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko"
-    },
-    {
-      "id": "com.yzlmkr.google",
-      "title": "우와 모험단",
-      "url": "https://play.google.com/store/apps/details?id=com.yzlmkr.google&hl=ko"
     },
     {
       "id": "com.zestbeat.tripletile",

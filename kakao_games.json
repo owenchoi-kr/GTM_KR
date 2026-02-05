@@ -1,5 +1,16 @@
 {
-  "updated_at": "2026-02-05T23:29:20.170991",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-02-05T14:46:57.153193",
+  "count": 2,
+  "games": [
+    {
+      "id": "tlwOmz",
+      "title": "어비스디아",
+      "url": "https://game.kakao.com/ar/tlwOmz?rtc=atb_K-GAM02X0111"
+    },
+    {
+      "id": "WKgorJ",
+      "title": "SMiniz",
+      "url": "https://game.kakao.com/ar/WKgorJ?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }
