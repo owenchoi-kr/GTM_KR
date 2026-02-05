@@ -437,18 +437,13 @@ def _add_source_blocks(blocks: list, header: str, emoji: str, new: list, removed
             "type": "section",
             "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
         })
-        for g in new[:10]:
+        for g in new:
             extra = ""
             if g.get("release_date"):
                 extra = f" | {g['release_date']}"
             blocks.append({
                 "type": "section",
                 "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
-            })
-        if len(new) > 10:
-            blocks.append({
-                "type": "context",
-                "elements": [{"type": "mrkdwn", "text": f"외 {len(new) - 10}개 더 있음..."}]
             })
 
     if removed:
