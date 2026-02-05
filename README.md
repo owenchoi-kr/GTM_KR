@@ -1,29 +1,29 @@
-# Google Play 사전등록 게임 모니터링
+# 게임 사전등록 모니터링
 
-Google Play 스토어의 사전등록 게임을 모니터링하고 신규 게임이 추가되면 Slack으로 알림을 보내는 시스템입니다.
+여러 게임 플랫폼의 사전등록/사전예약/출시 게임을 모니터링하고, 변경사항이 있으면 Slack으로 알림을 보내는 시스템입니다.
+
+## 모니터링 소스
+
+| 소스 | URL | 수집 방식 | 저장 파일 |
+|------|-----|-----------|-----------|
+| 🎮 Google Play | [사전등록 컬렉션](https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko) | Playwright (JS 렌더링) | `games.json` |
+| 📋 인벤 | [pick.inven.co.kr](https://pick.inven.co.kr/) | requests + BeautifulSoup | `inven_games.json` |
+| 🟡 카카오게임즈 | [game.kakao.com/pr](https://game.kakao.com/pr) | requests (AJAX API) | `kakao_games.json` |
+| 🟣 원스토어 | [사전예약](https://m.onestore.co.kr/v2/ko-kr/event/preregistrations) | requests (RSC 데이터 파싱) | `onestore_games.json` |
+| 🟢 네이버게임 | [game.naver.com](https://game.naver.com/) | requests (REST API) | `naver_games.json` |
 
 ## 기능
 
-- Google Play 사전등록 게임 목록 크롤링
-- JSON 파일로 게임 목록 저장 및 비교
+- 5개 플랫폼의 사전등록/출시 게임 목록 크롤링
+- JSON 파일로 게임 목록 저장 및 이전 데이터와 비교
 - 신규 게임 추가 시 Slack 알림
 - 사전등록 종료/출시 게임 알림
+- 변경사항이 없으면 알림 없음
 - GitHub Actions를 통한 자동 실행 (매일 오전 9시 30분 KST)
 
 ## 설정 방법
 
-### 1. Repository 생성 및 코드 푸시
-
-```bash
-cd google-play-preregister-monitor
-git init
-git add .
-git commit -m "feat: initial commit"
-git remote add origin https://github.com/YOUR_USERNAME/google-play-preregister-monitor.git
-git push -u origin main
-```
-
-### 2. Slack Webhook 설정
+### 1. Slack Webhook 설정
 
 1. [Slack API](https://api.slack.com/apps)에서 새 앱 생성
 2. **Incoming Webhooks** 활성화
@@ -31,17 +31,16 @@ git push -u origin main
 4. 알림 받을 채널 선택
 5. Webhook URL 복사
 
-### 3. GitHub Secrets 설정
+### 2. GitHub Secrets 설정
 
 1. GitHub Repository → Settings → Secrets and variables → Actions
 2. **New repository secret** 클릭
-3. Name: `SLACK_WEBHOOK_URL`
-4. Value: 복사한 Slack Webhook URL
+3. Name: `SLACK_WEBHOOK_URL`, Value: Slack Webhook URL
 
-### 4. GitHub Actions 권한 설정
+### 3. GitHub Actions 권한 설정
 
 1. Repository → Settings → Actions → General
-2. **Workflow permissions** 섹션에서 **Read and write permissions** 선택
+2. **Workflow permissions** → **Read and write permissions** 선택
 3. Save
 
 ## 로컬 실행
@@ -49,8 +48,10 @@ git push -u origin main
 ```bash
 # 의존성 설치
 pip install -r requirements.txt
+playwright install chromium
+playwright install-deps chromium
 
-# 환경변수 설정 (선택)
+# 환경변수 설정
 export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/..."
 
 # 실행
@@ -61,39 +62,26 @@ python main.py
 
 ```
 .
-├── main.py              # 메인 크롤링 스크립트
-├── games.json           # 저장된 게임 목록
-├── requirements.txt     # Python 의존성
+├── main.py                # 메인 크롤링 스크립트
+├── games.json             # Google Play 게임 목록
+├── inven_games.json       # 인벤 사전예약 목록
+├── kakao_games.json       # 카카오게임즈 사전예약 목록
+├── onestore_games.json    # 원스토어 사전예약 목록
+├── naver_games.json       # 네이버게임 이번 달 출시 목록
+├── requirements.txt       # Python 의존성
 ├── .github/
 │   └── workflows/
-│       └── check.yml    # GitHub Actions 워크플로우
+│       └── check.yml      # GitHub Actions 워크플로우
 └── README.md
 ```
 
-## 알림 예시
+## 자동 실행
 
-Slack에서 다음과 같은 알림을 받게 됩니다:
+GitHub Actions가 매일 오전 9:30 KST (UTC 0:30)에 자동 실행되며, 수집된 JSON 파일은 자동으로 커밋/푸시됩니다.
 
-```
-🎮 Google Play 사전등록 게임 업데이트
-
-🆕 신규 사전등록 게임 (3개)
-• Game Title 1
-• Game Title 2
-• Game Title 3
-
-🚀 사전등록 종료/출시 (1개)
-• Released Game
-
-⏰ 확인 시각: 2024-01-15 09:30:00 KST
-```
-
-## 수동 실행
-
-GitHub Actions 페이지에서 **Run workflow** 버튼을 클릭하여 수동으로 실행할 수 있습니다.
+수동 실행: GitHub Actions 페이지 → **Run workflow** 버튼
 
 ## 주의사항
 
-- Google Play 페이지 구조가 변경되면 크롤링이 실패할 수 있습니다
-- 너무 자주 실행하면 IP가 차단될 수 있으니 주의하세요
+- 각 사이트의 페이지 구조나 API가 변경되면 크롤링이 실패할 수 있습니다
 - Slack Webhook URL은 절대 코드에 직접 포함하지 마세요
