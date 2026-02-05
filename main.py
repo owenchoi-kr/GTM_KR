@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Google Play & 인벤 사전등록 게임 모니터링 시스템"""
+"""Google Play & 인벤 & 카카오 & 원스토어 & 네이버게임 사전등록 게임 모니터링 시스템"""
 
 import json
 import os
@@ -19,6 +19,7 @@ GAMES_FILE = BASE_DIR / "games.json"
 INVEN_GAMES_FILE = BASE_DIR / "inven_games.json"
 KAKAO_GAMES_FILE = BASE_DIR / "kakao_games.json"
 ONESTORE_GAMES_FILE = BASE_DIR / "onestore_games.json"
+NAVER_GAMES_FILE = BASE_DIR / "naver_games.json"
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 
 # URL
@@ -26,6 +27,7 @@ GPLAY_URL = "https://play.google.com/store/apps/collection/promotion_3000000d51_
 INVEN_URL = "https://pick.inven.co.kr/"
 KAKAO_URL = "https://game.kakao.com/pr"
 ONESTORE_URL = "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations"
+NAVER_API_URL = "https://comm-api.game.naver.com/nng_main/v1/home/launchGameOfMonth"
 
 
 # ──────────────────────────────────────────────
@@ -317,6 +319,65 @@ def fetch_onestore_games() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# 네이버게임 크롤링
+# ──────────────────────────────────────────────
+
+def fetch_naver_games() -> list[dict]:
+    """네이버게임에서 이번 달 출시 게임 목록을 가져옵니다."""
+    games = []
+
+    today = datetime.now().strftime("%Y-%m-%d")
+    print(f"[네이버게임] 이번 달 출시 게임 조회 중... (기준일: {today})")
+
+    try:
+        response = req.get(
+            NAVER_API_URL,
+            params={"count": 100, "offset": 0, "searchDate": today},
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+            timeout=15
+        )
+        response.raise_for_status()
+    except req.RequestException as e:
+        print(f"[네이버게임] API 호출 실패: {e}")
+        return games
+
+    data = response.json()
+    game_list = data.get("content", {}).get("launchGameList", [])
+
+    for item in game_list:
+        game_id = item.get("gameId", "")
+        game_name = item.get("gameName", "")
+        if not game_id or not game_name:
+            continue
+
+        landing_url = item.get("landingUrl", "")
+        if landing_url and not landing_url.startswith("http"):
+            landing_url = f"https://game.naver.com{landing_url}"
+
+        release_type = item.get("releaseType", "")
+        schedule = item.get("schedule", "")
+        platform = item.get("platform", "")
+
+        release_info = ""
+        if release_type and schedule:
+            release_info = f"{schedule} {release_type}"
+        elif schedule:
+            release_info = schedule
+
+        games.append({
+            "id": game_id,
+            "title": game_name,
+            "url": landing_url,
+            "release_date": release_info,
+            "platform": platform,
+        })
+        print(f"  + {game_name} ({release_info} / {platform})")
+
+    print(f"[네이버게임] 총 {len(games)}개 게임 발견\n")
+    return games
+
+
+# ──────────────────────────────────────────────
 # 공통 유틸
 # ──────────────────────────────────────────────
 
@@ -416,6 +477,7 @@ def send_slack_notification(changes: dict) -> bool:
         ("인벤 사전예약", "📋", "inven"),
         ("카카오게임즈 사전예약", "🟡", "kakao"),
         ("원스토어 사전예약", "🟣", "onestore"),
+        ("네이버게임 이번 달 출시", "🟢", "naver"),
     ]
 
     for header, emoji, key in sources:
@@ -466,6 +528,7 @@ def main():
         "inven": check_source("인벤", fetch_inven_games, INVEN_GAMES_FILE),
         "kakao": check_source("카카오게임즈", fetch_kakao_games, KAKAO_GAMES_FILE),
         "onestore": check_source("원스토어", fetch_onestore_games, ONESTORE_GAMES_FILE),
+        "naver": check_source("네이버게임", fetch_naver_games, NAVER_GAMES_FILE),
     }
 
     # 변경사항 확인
@@ -502,6 +565,7 @@ def main():
     save_games(INVEN_GAMES_FILE, sources["inven"]["current"])
     save_games(KAKAO_GAMES_FILE, sources["kakao"]["current"])
     save_games(ONESTORE_GAMES_FILE, sources["onestore"]["current"])
+    save_games(NAVER_GAMES_FILE, sources["naver"]["current"])
 
     print(f"\n{'='*50}")
     print("완료")
