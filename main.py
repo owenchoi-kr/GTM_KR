@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Google Play 사전등록 게임 모니터링 시스템
-
-Google Play 게임 페이지에서 "사전 등록" 섹션을 찾아 게임 목록을 수집합니다.
-"""
+"""Google Play & 인벤 사전등록 게임 모니터링 시스템"""
 
 import json
 import os
@@ -11,18 +8,26 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+import requests as req
+from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 
 
 # 설정
 GAMES_FILE = Path(__file__).parent / "games.json"
+INVEN_GAMES_FILE = Path(__file__).parent / "inven_games.json"
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 
-# 사전등록 게임 컬렉션 URL
-PREREGISTER_URL = "https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko"
+# URL
+GPLAY_URL = "https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko"
+INVEN_URL = "https://pick.inven.co.kr/"
 
 
-def fetch_preregister_games() -> list[dict]:
+# ──────────────────────────────────────────────
+# Google Play 크롤링
+# ──────────────────────────────────────────────
+
+def fetch_gplay_games() -> list[dict]:
     """Google Play에서 사전등록 게임 목록을 가져옵니다."""
     games = []
     seen_ids = set()
@@ -36,31 +41,25 @@ def fetch_preregister_games() -> list[dict]:
         )
         page = context.new_page()
 
-        # 사전등록 게임 컬렉션 페이지 로드
-        print(f"사전등록 게임 페이지 로드 중...")
-        print(f"URL: {PREREGISTER_URL}")
+        print(f"[Google Play] 페이지 로드 중...")
         try:
-            page.goto(PREREGISTER_URL, timeout=60000)
+            page.goto(GPLAY_URL, timeout=60000)
             page.wait_for_load_state("networkidle", timeout=30000)
         except PlaywrightTimeout:
-            print("페이지 로드 타임아웃, 계속 진행...")
+            print("  페이지 로드 타임아웃, 계속 진행...")
 
-        # 페이지 스크롤하여 모든 게임 로드
-        print("페이지 스크롤 중...")
+        # 스크롤
         prev_height = 0
         for i in range(20):
             page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
             page.wait_for_timeout(800)
             curr_height = page.evaluate("document.body.scrollHeight")
             if curr_height == prev_height:
-                print(f"  스크롤 완료 (총 {i+1}회)")
                 break
             prev_height = curr_height
 
         # 앱 링크 추출
-        print("\n앱 목록 추출 중...")
         app_links = page.locator("a[href*='/store/apps/details']").all()
-        print(f"  발견된 앱 링크: {len(app_links)}개")
 
         candidates = []
         for link in app_links:
@@ -77,7 +76,6 @@ def fetch_preregister_games() -> list[dict]:
                 if app_id in seen_ids:
                     continue
 
-                # 앱 이름 추출
                 title = link.inner_text().strip()
                 if title:
                     title = title.split("\n")[0].strip()
@@ -94,197 +92,307 @@ def fetch_preregister_games() -> list[dict]:
                         "title": title,
                         "url": f"https://play.google.com/store/apps/details?id={app_id}&hl=ko",
                     })
-
-            except Exception as e:
+            except Exception:
                 continue
 
-        # 각 앱의 상세 페이지에서 게임 카테고리인지 확인
-        print(f"\n게임 카테고리 필터링 중... (후보 {len(candidates)}개)")
+        # 게임 카테고리 필터링
+        print(f"[Google Play] 게임 카테고리 필터링 중... (후보 {len(candidates)}개)")
         for app in candidates:
             try:
                 page.goto(app["url"], timeout=15000)
                 page.wait_for_timeout(1000)
 
-                # 카테고리 링크에 GAME이 포함되어 있는지 확인
                 game_category = page.locator("a[href*='/store/apps/category/GAME']")
                 if game_category.count() > 0:
                     games.append(app)
-                    print(f"  + [게임] {app['title']}")
+                    print(f"  + {app['title']}")
                 else:
                     print(f"  - [게임아님] {app['title']}")
-
-            except Exception as e:
-                print(f"  ? [확인실패] {app['title']}")
+            except Exception:
                 continue
 
         browser.close()
 
-    print(f"\n총 {len(games)}개의 사전등록 게임 발견")
+    print(f"[Google Play] 총 {len(games)}개 게임 발견\n")
     return games
 
 
-def load_saved_games() -> list[dict]:
-    """저장된 게임 목록을 불러옵니다."""
-    if not GAMES_FILE.exists():
-        return []
+# ──────────────────────────────────────────────
+# 인벤 사전예약 크롤링
+# ──────────────────────────────────────────────
 
+def fetch_inven_games() -> list[dict]:
+    """인벤에서 사전예약 게임 목록을 가져옵니다."""
+    games = []
+
+    print(f"[인벤] 페이지 로드 중...")
     try:
-        with open(GAMES_FILE, "r", encoding="utf-8") as f:
+        response = req.get(
+            INVEN_URL,
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+            timeout=15
+        )
+        response.raise_for_status()
+    except req.RequestException as e:
+        print(f"[인벤] 페이지 로드 실패: {e}")
+        return games
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # 사전예약 캠페인 항목 추출
+    items = soup.select("li.item a[href*='/campaign/']")
+
+    for item in items:
+        try:
+            href = item.get("href", "")
+
+            # 캠페인 ID 추출
+            campaign_match = re.search(r"/campaign/(\d+)/(\w+)", href)
+            if not campaign_match:
+                continue
+
+            campaign_id = campaign_match.group(1)
+
+            # URL 정규화
+            if href.startswith("/"):
+                url = f"https://pick.inven.co.kr{href}"
+            else:
+                url = href
+
+            # 게임 이름
+            name_elem = item.select_one("p.name")
+            title = name_elem.get_text(strip=True) if name_elem else None
+
+            if not title:
+                img = item.find("img")
+                title = img.get("alt", "") if img else ""
+
+            if not title:
+                continue
+
+            # 출시 예정일
+            day_elem = item.select_one("p.day")
+            release_date = day_elem.get_text(strip=True) if day_elem else ""
+
+            # 보상 정보
+            reward_elem = item.select_one("p.sreward")
+            reward = reward_elem.get_text(strip=True) if reward_elem else ""
+
+            games.append({
+                "id": campaign_id,
+                "title": title,
+                "url": url,
+                "release_date": release_date,
+                "reward": reward,
+            })
+            print(f"  + {title} ({release_date})")
+
+        except Exception:
+            continue
+
+    print(f"[인벤] 총 {len(games)}개 게임 발견\n")
+    return games
+
+
+# ──────────────────────────────────────────────
+# 공통 유틸
+# ──────────────────────────────────────────────
+
+def load_saved(filepath: Path) -> list[dict]:
+    """저장된 게임 목록을 불러옵니다."""
+    if not filepath.exists():
+        return []
+    try:
+        with open(filepath, "r", encoding="utf-8") as f:
             data = json.load(f)
             return data.get("games", [])
     except (json.JSONDecodeError, IOError):
         return []
 
 
-def save_games(games: list[dict]) -> None:
+def save_games(filepath: Path, games: list[dict]) -> None:
     """게임 목록을 저장합니다."""
     data = {
         "updated_at": datetime.now().isoformat(),
         "count": len(games),
         "games": games,
     }
-
-    with open(GAMES_FILE, "w", encoding="utf-8") as f:
+    with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-def find_new_games(current: list[dict], saved: list[dict]) -> list[dict]:
-    """새로 추가된 게임을 찾습니다."""
-    saved_ids = {game["id"] for game in saved}
-    return [game for game in current if game["id"] not in saved_ids]
+def find_new(current: list[dict], saved: list[dict]) -> list[dict]:
+    saved_ids = {g["id"] for g in saved}
+    return [g for g in current if g["id"] not in saved_ids]
 
 
-def find_removed_games(current: list[dict], saved: list[dict]) -> list[dict]:
-    """제거된 게임을 찾습니다."""
-    current_ids = {game["id"] for game in current}
-    return [game for game in saved if game["id"] not in current_ids]
+def find_removed(current: list[dict], saved: list[dict]) -> list[dict]:
+    current_ids = {g["id"] for g in current}
+    return [g for g in saved if g["id"] not in current_ids]
 
 
-def send_slack_notification(new_games: list[dict], removed_games: list[dict]) -> bool:
+# ──────────────────────────────────────────────
+# Slack 알림
+# ──────────────────────────────────────────────
+
+def send_slack_notification(
+    gplay_new: list[dict], gplay_removed: list[dict],
+    inven_new: list[dict], inven_removed: list[dict],
+) -> bool:
     """Slack으로 알림을 보냅니다."""
-    import requests
-
     if not SLACK_WEBHOOK_URL:
         print("SLACK_WEBHOOK_URL이 설정되지 않았습니다.")
         return False
 
     blocks = []
 
-    blocks.append({
-        "type": "header",
-        "text": {
-            "type": "plain_text",
-            "text": "🎮 Google Play 사전등록 게임 업데이트",
-            "emoji": True
-        }
-    })
-
-    if new_games:
-        blocks.append({"type": "divider"})
+    # ── Google Play 섹션 ──
+    if gplay_new or gplay_removed:
         blocks.append({
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": f"*🆕 신규 사전등록 게임 ({len(new_games)}개)*"
-            }
+            "type": "header",
+            "text": {"type": "plain_text", "text": "🎮 Google Play 사전등록 업데이트", "emoji": True}
         })
 
-        for game in new_games[:10]:
+        if gplay_new:
+            blocks.append({"type": "divider"})
             blocks.append({
                 "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": f"• <{game['url']}|{game['title']}>"
-                }
+                "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(gplay_new)}개)*"}
             })
+            for g in gplay_new[:10]:
+                blocks.append({
+                    "type": "section",
+                    "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>"}
+                })
+            if len(gplay_new) > 10:
+                blocks.append({
+                    "type": "context",
+                    "elements": [{"type": "mrkdwn", "text": f"외 {len(gplay_new) - 10}개 더 있음..."}]
+                })
 
-        if len(new_games) > 10:
+        if gplay_removed:
+            blocks.append({"type": "divider"})
             blocks.append({
-                "type": "context",
-                "elements": [{
-                    "type": "mrkdwn",
-                    "text": f"외 {len(new_games) - 10}개 더 있음..."
-                }]
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": f"*🚀 종료/출시 ({len(gplay_removed)}개)*"}
             })
+            for g in gplay_removed[:5]:
+                blocks.append({
+                    "type": "section",
+                    "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>"}
+                })
 
-    if removed_games:
+    # ── 인벤 섹션 ──
+    if inven_new or inven_removed:
         blocks.append({"type": "divider"})
         blocks.append({
-            "type": "section",
-            "text": {
-                "type": "mrkdwn",
-                "text": f"*🚀 사전등록 종료/출시 ({len(removed_games)}개)*"
-            }
+            "type": "header",
+            "text": {"type": "plain_text", "text": "📋 인벤 사전예약 업데이트", "emoji": True}
         })
 
-        for game in removed_games[:5]:
+        if inven_new:
+            blocks.append({"type": "divider"})
             blocks.append({
                 "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": f"• <{game['url']}|{game['title']}>"
-                }
+                "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(inven_new)}개)*"}
             })
+            for g in inven_new[:10]:
+                release = f" | {g.get('release_date', '')}" if g.get("release_date") else ""
+                blocks.append({
+                    "type": "section",
+                    "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{release}"}
+                })
 
+        if inven_removed:
+            blocks.append({"type": "divider"})
+            blocks.append({
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": f"*🚀 종료 ({len(inven_removed)}개)*"}
+            })
+            for g in inven_removed[:5]:
+                blocks.append({
+                    "type": "section",
+                    "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>"}
+                })
+
+    # 시간 정보
     blocks.append({"type": "divider"})
     blocks.append({
         "type": "context",
-        "elements": [{
-            "type": "mrkdwn",
-            "text": f"⏰ 확인 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} KST"
-        }]
+        "elements": [{"type": "mrkdwn", "text": f"⏰ 확인 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} KST"}]
     })
 
     try:
-        response = requests.post(SLACK_WEBHOOK_URL, json={"blocks": blocks}, timeout=10)
+        response = req.post(SLACK_WEBHOOK_URL, json={"blocks": blocks}, timeout=10)
         response.raise_for_status()
         print("Slack 알림 전송 성공")
         return True
-    except requests.RequestException as e:
+    except req.RequestException as e:
         print(f"Slack 알림 전송 실패: {e}")
         return False
 
 
+# ──────────────────────────────────────────────
+# 메인
+# ──────────────────────────────────────────────
+
 def main():
-    """메인 실행 함수"""
     print(f"{'='*50}")
     print(f"[{datetime.now().isoformat()}] 사전등록 게임 확인 시작")
     print(f"{'='*50}\n")
 
-    current_games = fetch_preregister_games()
-    print(f"\n현재 사전등록 게임: {len(current_games)}개")
+    # Google Play
+    gplay_current = fetch_gplay_games()
+    gplay_saved = load_saved(GAMES_FILE)
+    gplay_new = find_new(gplay_current, gplay_saved)
+    gplay_removed = find_removed(gplay_current, gplay_saved)
 
-    saved_games = load_saved_games()
-    print(f"저장된 게임: {len(saved_games)}개")
+    print(f"[Google Play] 현재: {len(gplay_current)}개 | 신규: {len(gplay_new)}개 | 종료: {len(gplay_removed)}개")
 
-    new_games = find_new_games(current_games, saved_games)
-    removed_games = find_removed_games(current_games, saved_games)
+    # 인벤
+    inven_current = fetch_inven_games()
+    inven_saved = load_saved(INVEN_GAMES_FILE)
+    inven_new = find_new(inven_current, inven_saved)
+    inven_removed = find_removed(inven_current, inven_saved)
 
-    print(f"신규 게임: {len(new_games)}개")
-    print(f"종료된 게임: {len(removed_games)}개")
+    print(f"[인벤] 현재: {len(inven_current)}개 | 신규: {len(inven_new)}개 | 종료: {len(inven_removed)}개")
 
-    if new_games or removed_games:
+    # 변경사항 확인
+    has_changes = gplay_new or gplay_removed or inven_new or inven_removed
+
+    if has_changes:
         print(f"\n{'='*50}")
         print("변경사항 발견!")
         print(f"{'='*50}")
 
-        if new_games:
-            print("\n[신규 게임]")
-            for game in new_games:
-                print(f"  • {game['title']}")
-                print(f"    {game['url']}")
+        if gplay_new:
+            print("\n[Google Play 신규]")
+            for g in gplay_new:
+                print(f"  • {g['title']}")
 
-        if removed_games:
-            print("\n[종료된 게임]")
-            for game in removed_games:
-                print(f"  • {game['title']}")
+        if gplay_removed:
+            print("\n[Google Play 종료]")
+            for g in gplay_removed:
+                print(f"  • {g['title']}")
 
-        send_slack_notification(new_games, removed_games)
+        if inven_new:
+            print("\n[인벤 신규]")
+            for g in inven_new:
+                print(f"  • {g['title']} ({g.get('release_date', '')})")
 
+        if inven_removed:
+            print("\n[인벤 종료]")
+            for g in inven_removed:
+                print(f"  • {g['title']}")
+
+        send_slack_notification(gplay_new, gplay_removed, inven_new, inven_removed)
     else:
         print("\n변경사항이 없습니다.")
 
-    save_games(current_games)
+    # 저장
+    save_games(GAMES_FILE, gplay_current)
+    save_games(INVEN_GAMES_FILE, inven_current)
+
     print(f"\n{'='*50}")
     print("완료")
     print(f"{'='*50}")

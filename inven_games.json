@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-02-05T23:13:23.015964",
+  "count": 6,
+  "games": [
+    {
+      "id": "948",
+      "title": "어비스디아",
+      "url": "https://pick.inven.co.kr/campaign/948/abyssdia",
+      "release_date": "2월 25일 출시 예정",
+      "reward": "[2000이니, 100베니]SR 캐릭터 엘레나, 마나링 10,000, 에스트 1,400, 일반 티켓 10"
+    },
+    {
+      "id": "945",
+      "title": "린 크로니클",
+      "url": "https://pick.inven.co.kr/campaign/945/lynchronicle",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]레드다이아 1,000개 / 상급 정수 선택권 5개 / 고대 소환 1개"
+    },
+    {
+      "id": "942",
+      "title": "조선협객전 클래식",
+      "url": "https://pick.inven.co.kr/campaign/942/chosunclassic",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]고급 신수 알(5회) 외 9종 아이템"
+    },
+    {
+      "id": "909",
+      "title": "약사의 혼잣말 후궁이문록",
+      "url": "https://pick.inven.co.kr/campaign/909/kusuriya",
+      "release_date": "출시 미정",
+      "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란"
+    },
+    {
+      "id": "949",
+      "title": "라스트 발키리",
+      "url": "https://pick.inven.co.kr/campaign/949/LastValkyrie",
+      "release_date": "출시 미정",
+      "reward": "[1000이니]다이아몬드 10,000개/보급 소환권 100개/동료 소환권 100개 등"
+    },
+    {
+      "id": "902",
+      "title": "미남고교 지구방위부Love Macho",
+      "url": "https://pick.inven.co.kr/campaign/902/binan",
+      "release_date": "출시 미정",
+      "reward": "[20제니]다이아×1000, 캐릭터 소환권×15, SR 하코네 유모토"
+    }
+  ]
+}
