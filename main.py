@@ -58,10 +58,11 @@ def fetch_preregister_games() -> list[dict]:
             prev_height = curr_height
 
         # 앱 링크 추출
-        print("\n게임 목록 추출 중...")
+        print("\n앱 목록 추출 중...")
         app_links = page.locator("a[href*='/store/apps/details']").all()
         print(f"  발견된 앱 링크: {len(app_links)}개")
 
+        candidates = []
         for link in app_links:
             try:
                 href = link.get_attribute("href")
@@ -82,21 +83,38 @@ def fetch_preregister_games() -> list[dict]:
                     title = title.split("\n")[0].strip()
 
                 if not title or len(title) < 2:
-                    # 이미지 alt 텍스트에서 찾기
                     img = link.locator("img").first
                     if img.count() > 0:
                         title = img.get_attribute("alt") or app_id
 
                 if title and len(title) >= 2:
                     seen_ids.add(app_id)
-                    games.append({
+                    candidates.append({
                         "id": app_id,
                         "title": title,
                         "url": f"https://play.google.com/store/apps/details?id={app_id}&hl=ko",
                     })
-                    print(f"  + {title}")
 
             except Exception as e:
+                continue
+
+        # 각 앱의 상세 페이지에서 게임 카테고리인지 확인
+        print(f"\n게임 카테고리 필터링 중... (후보 {len(candidates)}개)")
+        for app in candidates:
+            try:
+                page.goto(app["url"], timeout=15000)
+                page.wait_for_timeout(1000)
+
+                # 카테고리 링크에 GAME이 포함되어 있는지 확인
+                game_category = page.locator("a[href*='/store/apps/category/GAME']")
+                if game_category.count() > 0:
+                    games.append(app)
+                    print(f"  + [게임] {app['title']}")
+                else:
+                    print(f"  - [게임아님] {app['title']}")
+
+            except Exception as e:
+                print(f"  ? [확인실패] {app['title']}")
                 continue
 
         browser.close()
