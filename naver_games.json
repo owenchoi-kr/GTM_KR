@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-06T05:11:33.085965",
-  "count": 24,
+  "updated_at": "2026-02-06T10:12:23.424391",
+  "count": 23,
   "games": [
     {
       "id": "GM_NCR_020001",
@@ -31,6 +31,13 @@
       "platform": "PC"
     },
     {
+      "id": "GM_NCR_017102",
+      "title": "코바야시네 메이드래곤 판타지아",
+      "url": "https://game.naver.com/Miss_Kobayashis_Dragon_Maid_Fantasia",
+      "release_date": "2025-02-14 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
       "id": "GM_NCR_021707",
       "title": "한양 온라인 : 조선 무사 키우기",
       "url": "https://game.naver.com/hanyang",
@@ -57,13 +64,6 @@
       "url": "https://game.naver.com/idlevalkyrie",
       "release_date": "2026-01-23 ~ 2026-02-13 사전예약",
       "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_019456",
-      "title": "에르피스",
-      "url": "https://game.naver.com/Ehrpis",
-      "release_date": "2025-08-22 ~  사전예약",
-      "platform": "Android,OneStore,iOS,PC"
     },
     {
       "id": "GM_NCR_013601",
@@ -147,13 +147,6 @@
       "title": "학원묵시록 HIGH SCHOOL OF THE DEAD DAY 0",
       "url": "https://game.naver.com/HIGH_SCHOOL_OF_THE_DEAD_DAY0",
       "release_date": "2025-09-26 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_017102",
-      "title": "코바야시네 메이드래곤 판타지아",
-      "url": "https://game.naver.com/Miss_Kobayashis_Dragon_Maid_Fantasia",
-      "release_date": "2025-02-14 ~  사전예약",
       "platform": "Android,iOS,PC"
     },
     {
