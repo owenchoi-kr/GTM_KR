@@ -1,211 +1,252 @@
 {
-  "updated_at": "2026-02-06T00:29:58.959698",
+  "updated_at": "2026-02-06T00:42:58.560697",
   "count": 41,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
       "title": "닌자 갱스터즈: 방치된 거리",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.NGI&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.NGI&hl=ko",
+      "developer": "DeliciousGames Inc."
     },
     {
       "id": "com.TeamSparta.battleshipgo",
       "title": "배틀 쉽 고 : 몬스터 웨이브",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.battleshipgo&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.battleshipgo&hl=ko",
+      "developer": "RocketdanGames"
     },
     {
       "id": "com.act7ent.evilsword",
       "title": "이블 소드",
-      "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko",
+      "developer": "Act Seven Entertainment Inc."
     },
     {
       "id": "com.arumgames.darkwizard",
       "title": "66666년만에 환생한 흑마법사 : 전략 디펜스 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.arumgames.darkwizard&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.arumgames.darkwizard&hl=ko",
+      "developer": "Arumgames"
     },
     {
       "id": "com.brazle.dollssort",
       "title": "Dolls Sort",
-      "url": "https://play.google.com/store/apps/details?id=com.brazle.dollssort&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.brazle.dollssort&hl=ko",
+      "developer": "Brazle"
     },
     {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
-      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
+      "developer": "Brazle"
     },
     {
       "id": "com.com2usholdings.starsailors.android.google.global.normal",
       "title": "Star Sailors",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko",
+      "developer": "Com2uS Holdings"
     },
     {
       "id": "com.daeri.TenValkyrie",
       "title": "텐 발키리",
-      "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
+      "developer": "DAERI SOFT Inc"
     },
     {
       "id": "com.detailgames.tged",
       "title": "역대급 영지 설계사: 촤라락 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko",
+      "developer": "Detailgames"
     },
     {
       "id": "com.ellagames.bigguy",
       "title": "뚱기사 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko",
+      "developer": "ELLA Games"
     },
     {
       "id": "com.gamee.godslayer.rpg.rougelike",
       "title": "God Rivals: RPG Roguelike",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
+      "developer": "GameeStudio"
     },
     {
       "id": "com.indusgame.play",
       "title": "BRX: Battle Royale Extraction",
-      "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
+      "developer": "SuperGaming SG"
     },
     {
       "id": "com.linegames.fq",
       "title": "페어리테일 퀘스트",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko",
+      "developer": "LINE Games"
     },
     {
       "id": "com.linegames.gmg",
       "title": "Genesis War",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko",
+      "developer": "LINE Games"
     },
     {
       "id": "com.luno.b5",
       "title": "마스터 오브 먼치킨 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.luno.b5&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.luno.b5&hl=ko",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "com.magicgame.yzhs",
       "title": "Magicmon: World",
-      "url": "https://play.google.com/store/apps/details?id=com.magicgame.yzhs&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.magicgame.yzhs&hl=ko",
+      "developer": "MAGIC NETWORK LIMITED"
     },
     {
       "id": "com.mobirix.mgct",
       "title": "머지 캣 타운",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko",
+      "developer": "mobirix"
     },
     {
       "id": "com.ncroquis.zombieisland",
       "title": "배틀레이서 : 좀비아일랜드",
-      "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko",
+      "developer": "NCROQUIS"
     },
     {
       "id": "com.netmarble.monster2",
       "title": "몬길: STAR DIVE",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.netmarble.nanaori",
       "title": "일곱 개의 대죄: Origin",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.netmarble.stonkey",
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.nexwave.popepoch.android",
       "title": "Pop Epoch",
-      "url": "https://play.google.com/store/apps/details?id=com.nexwave.popepoch.android&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.nexwave.popepoch.android&hl=ko",
+      "developer": "Nex Wave Games"
     },
     {
       "id": "com.ondi.pack.adventure",
       "title": "Backpack Legends Adventure RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.playdigious.seaofstars",
       "title": "Sea of Stars",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars&hl=ko",
+      "developer": "Playdigious"
     },
     {
       "id": "com.pujiagames.FishingJourney",
       "title": "냐옹이 낚시 일기",
-      "url": "https://play.google.com/store/apps/details?id=com.pujiagames.FishingJourney&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.pujiagames.FishingJourney&hl=ko",
+      "developer": "Pujia8 LTD"
     },
     {
       "id": "com.ranidagames.basketballslammyteam",
       "title": "Basketball Slam MyTEAM",
-      "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
+      "developer": "Ranida Games"
     },
     {
       "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
       "title": "Pawpop Match",
-      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko",
+      "developer": "RATEL"
     },
     {
       "id": "com.runawayplay.dragons",
       "title": "드래곤 둥지 – 수집 & 육성",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko",
+      "developer": "Runaway Play"
     },
     {
       "id": "com.secondquest.divineedge.kr",
       "title": "디바인엣지 방치형 RPG : 소녀와 마신의 이야기",
-      "url": "https://play.google.com/store/apps/details?id=com.secondquest.divineedge.kr&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.secondquest.divineedge.kr&hl=ko",
+      "developer": "Second Quest Corp."
     },
     {
       "id": "com.studiobside.starMain",
       "title": "스타세이비어",
-      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko",
+      "developer": "STUDIOBSIDE"
     },
     {
       "id": "com.superbox.aos.collecthole",
       "title": "드랍 인 더 홀",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.collecthole&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.collecthole&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superbox.aos.magicSquad",
       "title": "뿅뿅마법단",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superpixel.pixelknights",
       "title": "픽셀 기사단 키우기 : 방치형RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.tree.idle.cat.school",
       "title": "고양이 학교 : 귀여운 방치형 타이쿤 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko",
+      "developer": "TREEPLLA"
     },
     {
       "id": "com.v2r.AbyssWorld",
       "title": "Abyss World",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=ko",
+      "developer": "V2R"
     },
     {
       "id": "com.v2r.CatHomeMatch",
       "title": "Cat Home Match",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.CatHomeMatch&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.CatHomeMatch&hl=ko",
+      "developer": "V2R"
     },
     {
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
+      "developer": "Wemade Connect"
     },
     {
       "id": "com.zestbeat.tripletile",
       "title": "Kitty Home: Match 3 Tiles",
-      "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
+      "developer": "ZESTBEAT"
     },
     {
       "id": "net.gameduo.dfd",
       "title": "에덴 : 더 라스트 라인",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko",
+      "developer": "Gameduo"
     },
     {
       "id": "net.gameduo.smd",
       "title": "슈퍼마린디펜스",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.smd&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.smd&hl=ko",
+      "developer": "Gameduo"
     },
     {
       "id": "xyz.lightgame.tuantuan",
       "title": "픽셀 히어로즈: 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=xyz.lightgame.tuantuan&hl=ko"
+      "url": "https://play.google.com/store/apps/details?id=xyz.lightgame.tuantuan&hl=ko",
+      "developer": "HZ Game"
     }
   ]
 }
