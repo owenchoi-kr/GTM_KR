@@ -417,18 +417,13 @@ def find_new(current: list[dict], saved: list[dict]) -> list[dict]:
     return [g for g in current if g["id"] not in saved_ids]
 
 
-def find_removed(current: list[dict], saved: list[dict]) -> list[dict]:
-    current_ids = {g["id"] for g in current}
-    return [g for g in saved if g["id"] not in current_ids]
-
-
 # ──────────────────────────────────────────────
 # Slack 알림
 # ──────────────────────────────────────────────
 
-def _add_source_blocks(blocks: list, header: str, emoji: str, new: list, removed: list):
+def _add_source_blocks(blocks: list, header: str, emoji: str, new: list):
     """소스별 Slack 블록을 추가합니다."""
-    if not new and not removed:
+    if not new:
         return
 
     if blocks:  # 이전 섹션이 있으면 구분선
@@ -439,32 +434,19 @@ def _add_source_blocks(blocks: list, header: str, emoji: str, new: list, removed
         "text": {"type": "plain_text", "text": f"{emoji} {header}", "emoji": True}
     })
 
-    if new:
-        blocks.append({"type": "divider"})
+    blocks.append({"type": "divider"})
+    blocks.append({
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
+    })
+    for g in new:
+        extra = ""
+        if g.get("release_date"):
+            extra = f" | {g['release_date']}"
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
+            "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
         })
-        for g in new:
-            extra = ""
-            if g.get("release_date"):
-                extra = f" | {g['release_date']}"
-            blocks.append({
-                "type": "section",
-                "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
-            })
-
-    if removed:
-        blocks.append({"type": "divider"})
-        blocks.append({
-            "type": "section",
-            "text": {"type": "mrkdwn", "text": f"*🚀 종료/출시 ({len(removed)}개)*"}
-        })
-        for g in removed[:5]:
-            blocks.append({
-                "type": "section",
-                "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>"}
-            })
 
 
 def send_slack_notification(changes: dict) -> bool:
@@ -485,8 +467,7 @@ def send_slack_notification(changes: dict) -> bool:
 
     for header, emoji, key in sources:
         new = changes.get(f"{key}_new", [])
-        removed = changes.get(f"{key}_removed", [])
-        _add_source_blocks(blocks, header, emoji, new, removed)
+        _add_source_blocks(blocks, header, emoji, new)
 
     blocks.append({"type": "divider"})
     blocks.append({
@@ -513,11 +494,10 @@ def check_source(name: str, fetch_fn, filepath: Path) -> dict:
     current = fetch_fn()
     saved = load_saved(filepath)
     new = find_new(current, saved)
-    removed = find_removed(current, saved)
 
-    print(f"[{name}] 현재: {len(current)}개 | 신규: {len(new)}개 | 종료: {len(removed)}개")
+    print(f"[{name}] 현재: {len(current)}개 | 신규: {len(new)}개")
 
-    return {"current": current, "new": new, "removed": removed}
+    return {"current": current, "new": new}
 
 
 def main():
@@ -539,13 +519,12 @@ def main():
     has_changes = False
     for key, result in sources.items():
         changes[f"{key}_new"] = result["new"]
-        changes[f"{key}_removed"] = result["removed"]
-        if result["new"] or result["removed"]:
+        if result["new"]:
             has_changes = True
 
     if has_changes:
         print(f"\n{'='*50}")
-        print("변경사항 발견!")
+        print("신규 게임 발견!")
         print(f"{'='*50}")
 
         for key, result in sources.items():
@@ -554,10 +533,6 @@ def main():
                 for g in result["new"]:
                     extra = f" ({g.get('release_date', '')})" if g.get("release_date") else ""
                     print(f"  • {g['title']}{extra}")
-            if result["removed"]:
-                print(f"\n[{key} 종료]")
-                for g in result["removed"]:
-                    print(f"  • {g['title']}")
 
         send_slack_notification(changes)
     else:
