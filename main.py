@@ -121,8 +121,15 @@ def fetch_gplay_games() -> list[dict]:
                     print(f"  - [해외] {app['title']}")
                     continue
 
+                # 개발사 이름 추출
+                dev_link = page.locator("a[href*='/store/apps/dev']").first
+                developer = ""
+                if dev_link.count() > 0:
+                    developer = dev_link.inner_text().strip()
+
+                app["developer"] = developer
                 games.append(app)
-                print(f"  + {app['title']}")
+                print(f"  + {app['title']} ({developer})")
             except Exception:
                 continue
 
@@ -440,9 +447,12 @@ def _add_source_blocks(blocks: list, header: str, emoji: str, new: list):
         "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
     })
     for g in new:
-        extra = ""
+        extra_parts = []
+        if g.get("developer"):
+            extra_parts.append(g["developer"])
         if g.get("release_date"):
-            extra = f" | {g['release_date']}"
+            extra_parts.append(g["release_date"])
+        extra = f" | {' | '.join(extra_parts)}" if extra_parts else ""
         blocks.append({
             "type": "section",
             "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
