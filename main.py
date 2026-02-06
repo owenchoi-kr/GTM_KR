@@ -424,13 +424,18 @@ def find_new(current: list[dict], saved: list[dict]) -> list[dict]:
     return [g for g in current if g["id"] not in saved_ids]
 
 
+def find_removed(current: list[dict], saved: list[dict]) -> list[dict]:
+    current_ids = {g["id"] for g in current}
+    return [g for g in saved if g["id"] not in current_ids]
+
+
 # ──────────────────────────────────────────────
 # Slack 알림
 # ──────────────────────────────────────────────
 
-def _add_source_blocks(blocks: list, header: str, emoji: str, new: list):
+def _add_source_blocks(blocks: list, header: str, emoji: str, new: list, removed: list = None):
     """소스별 Slack 블록을 추가합니다."""
-    if not new:
+    if not new and not removed:
         return
 
     if blocks:  # 이전 섹션이 있으면 구분선
@@ -441,22 +446,39 @@ def _add_source_blocks(blocks: list, header: str, emoji: str, new: list):
         "text": {"type": "plain_text", "text": f"{emoji} {header}", "emoji": True}
     })
 
-    blocks.append({"type": "divider"})
-    blocks.append({
-        "type": "section",
-        "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
-    })
-    for g in new:
-        extra_parts = []
-        if g.get("developer"):
-            extra_parts.append(g["developer"])
-        if g.get("release_date"):
-            extra_parts.append(g["release_date"])
-        extra = f" | {' | '.join(extra_parts)}" if extra_parts else ""
+    if new:
+        blocks.append({"type": "divider"})
         blocks.append({
             "type": "section",
-            "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
+            "text": {"type": "mrkdwn", "text": f"*🆕 신규 ({len(new)}개)*"}
         })
+        for g in new:
+            extra_parts = []
+            if g.get("developer"):
+                extra_parts.append(g["developer"])
+            if g.get("release_date"):
+                extra_parts.append(g["release_date"])
+            extra = f" | {' | '.join(extra_parts)}" if extra_parts else ""
+            blocks.append({
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
+            })
+
+    if removed:
+        blocks.append({"type": "divider"})
+        blocks.append({
+            "type": "section",
+            "text": {"type": "mrkdwn", "text": f"*🚀 종료/출시 ({len(removed)}개)*"}
+        })
+        for g in removed:
+            extra_parts = []
+            if g.get("developer"):
+                extra_parts.append(g["developer"])
+            extra = f" | {' | '.join(extra_parts)}" if extra_parts else ""
+            blocks.append({
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": f"• <{g['url']}|{g['title']}>{extra}"}
+            })
 
 
 def send_slack_notification(changes: dict) -> bool:
@@ -477,7 +499,9 @@ def send_slack_notification(changes: dict) -> bool:
 
     for header, emoji, key in sources:
         new = changes.get(f"{key}_new", [])
-        _add_source_blocks(blocks, header, emoji, new)
+        # Google Play만 종료/출시 알림 포함
+        removed = changes.get(f"{key}_removed", []) if key == "gplay" else []
+        _add_source_blocks(blocks, header, emoji, new, removed)
 
     blocks.append({"type": "divider"})
     blocks.append({
@@ -499,15 +523,19 @@ def send_slack_notification(changes: dict) -> bool:
 # 메인
 # ──────────────────────────────────────────────
 
-def check_source(name: str, fetch_fn, filepath: Path) -> dict:
+def check_source(name: str, fetch_fn, filepath: Path, track_removed: bool = False) -> dict:
     """소스별 크롤링 및 비교를 수행합니다."""
     current = fetch_fn()
     saved = load_saved(filepath)
     new = find_new(current, saved)
+    removed = find_removed(current, saved) if track_removed else []
 
-    print(f"[{name}] 현재: {len(current)}개 | 신규: {len(new)}개")
+    if track_removed:
+        print(f"[{name}] 현재: {len(current)}개 | 신규: {len(new)}개 | 종료: {len(removed)}개")
+    else:
+        print(f"[{name}] 현재: {len(current)}개 | 신규: {len(new)}개")
 
-    return {"current": current, "new": new}
+    return {"current": current, "new": new, "removed": removed}
 
 
 def main():
@@ -515,9 +543,9 @@ def main():
     print(f"[{datetime.now().isoformat()}] 사전등록 게임 확인 시작")
     print(f"{'='*50}\n")
 
-    # 각 소스 크롤링
+    # 각 소스 크롤링 (Google Play만 종료/출시 추적)
     sources = {
-        "gplay": check_source("Google Play", fetch_gplay_games, GAMES_FILE),
+        "gplay": check_source("Google Play", fetch_gplay_games, GAMES_FILE, track_removed=True),
         "inven": check_source("인벤", fetch_inven_games, INVEN_GAMES_FILE),
         "kakao": check_source("카카오게임즈", fetch_kakao_games, KAKAO_GAMES_FILE),
         "onestore": check_source("원스토어", fetch_onestore_games, ONESTORE_GAMES_FILE),
@@ -529,19 +557,25 @@ def main():
     has_changes = False
     for key, result in sources.items():
         changes[f"{key}_new"] = result["new"]
-        if result["new"]:
+        changes[f"{key}_removed"] = result.get("removed", [])
+        if result["new"] or result.get("removed"):
             has_changes = True
 
     if has_changes:
         print(f"\n{'='*50}")
-        print("신규 게임 발견!")
+        print("변경사항 발견!")
         print(f"{'='*50}")
 
         for key, result in sources.items():
             if result["new"]:
                 print(f"\n[{key} 신규]")
                 for g in result["new"]:
-                    extra = f" ({g.get('release_date', '')})" if g.get("release_date") else ""
+                    extra = f" ({g.get('developer', '')})" if g.get("developer") else ""
+                    print(f"  • {g['title']}{extra}")
+            if result.get("removed"):
+                print(f"\n[{key} 종료/출시]")
+                for g in result["removed"]:
+                    extra = f" ({g.get('developer', '')})" if g.get("developer") else ""
                     print(f"  • {g['title']}{extra}")
 
         send_slack_notification(changes)
