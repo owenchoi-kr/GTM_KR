@@ -102,19 +102,27 @@ def fetch_gplay_games() -> list[dict]:
             except Exception:
                 continue
 
-        # 게임 카테고리 필터링
-        print(f"[Google Play] 게임 카테고리 필터링 중... (후보 {len(candidates)}개)")
+        # 게임 카테고리 + 사전등록 상태 필터링
+        print(f"[Google Play] 사전등록 게임 필터링 중... (후보 {len(candidates)}개)")
         for app in candidates:
             try:
                 page.goto(app["url"], timeout=15000)
                 page.wait_for_timeout(1000)
 
+                # 게임 카테고리 확인
                 game_category = page.locator("a[href*='/store/apps/category/GAME']")
-                if game_category.count() > 0:
-                    games.append(app)
-                    print(f"  + {app['title']}")
-                else:
+                if game_category.count() == 0:
                     print(f"  - [게임아님] {app['title']}")
+                    continue
+
+                # 사전등록 상태 확인 (HTML에 '사전 등록' 텍스트가 있는지)
+                html = page.content()
+                if '사전 등록' not in html:
+                    print(f"  - [출시됨] {app['title']}")
+                    continue
+
+                games.append(app)
+                print(f"  + {app['title']}")
             except Exception:
                 continue
 
