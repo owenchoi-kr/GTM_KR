@@ -102,8 +102,8 @@ def fetch_gplay_games() -> list[dict]:
             except Exception:
                 continue
 
-        # 게임 카테고리 + 사전등록 상태 필터링
-        print(f"[Google Play] 사전등록 게임 필터링 중... (후보 {len(candidates)}개)")
+        # 게임 카테고리 + 한국 개발사 필터링
+        print(f"[Google Play] 한국 개발사 게임 필터링 중... (후보 {len(candidates)}개)")
         for app in candidates:
             try:
                 page.goto(app["url"], timeout=15000)
@@ -115,10 +115,10 @@ def fetch_gplay_games() -> list[dict]:
                     print(f"  - [게임아님] {app['title']}")
                     continue
 
-                # 사전등록 상태 확인 (HTML에 '사전 등록' 텍스트가 있는지)
+                # 한국 개발사 확인 (개발자 정보에 South Korea가 있는지)
                 html = page.content()
-                if '사전 등록' not in html:
-                    print(f"  - [출시됨] {app['title']}")
+                if 'South Korea' not in html:
+                    print(f"  - [해외] {app['title']}")
                     continue
 
                 games.append(app)
