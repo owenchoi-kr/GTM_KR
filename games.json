@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-06T00:42:58.560697",
-  "count": 41,
+  "updated_at": "2026-02-06T02:57:11.136000",
+  "count": 40,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -234,12 +234,6 @@
       "id": "net.gameduo.dfd",
       "title": "에덴 : 더 라스트 라인",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko",
-      "developer": "Gameduo"
-    },
-    {
-      "id": "net.gameduo.smd",
-      "title": "슈퍼마린디펜스",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.smd&hl=ko",
       "developer": "Gameduo"
     },
     {

@@ -1,56 +1,66 @@
 {
-  "updated_at": "2026-02-06T00:42:58.561375",
+  "updated_at": "2026-02-06T02:57:11.136690",
   "count": 14,
   "games": [
     {
       "id": "0001004083",
       "title": "[베타게임] 프로젝트 임진",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004083"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004083",
+      "developer": "RedGinkgo Games Co Ltd"
     },
     {
       "id": "0001003413",
       "title": " 다크 발키리:블레이드",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413",
+      "developer": "GM 게임"
     },
     {
       "id": "0001003823",
       "title": "패스트던전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
+      "developer": "gameduo Co Ltd"
     },
     {
       "id": "0001003431",
       "title": "페달소녀",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003431"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003431",
+      "developer": "275GAMES"
     },
     {
       "id": "0001003789",
       "title": "에덴 : 더 라스트 라인",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003789"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003789",
+      "developer": "gameduo Co Ltd"
     },
     {
       "id": "0001003337",
       "title": "그레이 사가",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
+      "developer": "Leniu Games"
     },
     {
       "id": "0000781339",
       "title": "히어로 랜드M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
+      "developer": "Orienjoy International Company Limited"
     },
     {
       "id": "0000779318",
       "title": "조선협객전 클래식",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000779318"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000779318",
+      "developer": "(주)스마트나우"
     },
     {
       "id": "0001002473",
       "title": "마스터 오브 먼치킨 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "0001003149",
       "title": "신수의 전설",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
+      "developer": "SHARK ENTERTAINMENT LIMITED"
     },
     {
       "id": "0001003620",
