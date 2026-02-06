@@ -1,41 +1,34 @@
 {
-  "updated_at": "2026-02-05T15:07:45.239703",
+  "updated_at": "2026-02-06T00:29:58.960649",
   "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_015790",
-      "title": "PUBG: BLINDSPOT",
-      "url": "https://game.naver.com/ProjectARC",
-      "release_date": "2026-02-05 오픈",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_020001",
       "title": "드래곤 퀘스트 VII Reimagined",
       "url": "https://game.naver.com/DRAGON_QUEST_VII_Reimagined",
-      "release_date": "2026-02-05 오픈",
-      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+      "release_date": "2026-02-06 오픈",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_021896",
       "title": "나의 히어로 아카데미아 올즈 저스티스",
       "url": "https://game.naver.com/MY_HERO_ACADEMIA_Alls_Justice",
-      "release_date": "2026-02-05 오픈",
-      "platform": "PS5,XBOX SERIES X/S"
+      "release_date": "2026-02-06 오픈",
+      "platform": "PC"
     },
     {
-      "id": "GM_NCR_021532",
-      "title": "정사",
-      "url": "https://game.naver.com/MartialArts",
-      "release_date": "2026-01-09 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
+      "id": "GM_NCR_020167",
+      "title": "인왕 3",
+      "url": "https://game.naver.com/Nioh3",
+      "release_date": "2026-02-06 오픈",
+      "platform": "PC,PS5"
     },
     {
-      "id": "GM_NCR_013601",
-      "title": "아너 오브 킹즈(왕자영요 글로벌)",
-      "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-02-04 ~  사전예약",
-      "platform": "Android,OneStore"
+      "id": "GM_NCR_021898",
+      "title": "자칼",
+      "url": "https://game.naver.com/Jackal",
+      "release_date": "2026-02-06 오픈",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_021707",
@@ -71,6 +64,13 @@
       "url": "https://game.naver.com/Ehrpis",
       "release_date": "2025-08-22 ~  사전예약",
       "platform": "Android,OneStore,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-02-05 ~ 2026-02-28 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_018920",

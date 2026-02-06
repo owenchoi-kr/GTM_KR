@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-02-05T15:07:45.238439",
-  "count": 62,
+  "updated_at": "2026-02-06T00:29:58.959698",
+  "count": 41,
   "games": [
-    {
-      "id": "com.unknownworlds.subnauticabelowzero",
-      "title": "서브노티카: 빌로우 제로",
-      "url": "https://play.google.com/store/apps/details?id=com.unknownworlds.subnauticabelowzero&hl=ko"
-    },
-    {
-      "id": "com.devolverdigital.ReignsWitcher",
-      "title": "Reigns: The Witcher",
-      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ReignsWitcher&hl=ko"
-    },
     {
       "id": "com.Deliciousgames.NGI",
       "title": "닌자 갱스터즈: 방치된 거리",
@@ -26,11 +16,6 @@
       "id": "com.act7ent.evilsword",
       "title": "이블 소드",
       "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko"
-    },
-    {
-      "id": "com.akshatsoftwares.mayaekpishachini",
-      "title": "Maya Ek Pishachini Horror Game",
-      "url": "https://play.google.com/store/apps/details?id=com.akshatsoftwares.mayaekpishachini&hl=ko"
     },
     {
       "id": "com.arumgames.darkwizard",
@@ -48,16 +33,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko"
     },
     {
-      "id": "com.bytro.warhammer40ksupremacy",
-      "title": "Supremacy: Warhammer 40,000",
-      "url": "https://play.google.com/store/apps/details?id=com.bytro.warhammer40ksupremacy&hl=ko"
-    },
-    {
-      "id": "com.com2us.rheroes.android.google.global.normal",
-      "title": "Pepp Heroes: Relic Quest",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko"
-    },
-    {
       "id": "com.com2usholdings.starsailors.android.google.global.normal",
       "title": "Star Sailors",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko"
@@ -73,34 +48,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko"
     },
     {
-      "id": "com.digitalextremes.warframemobile",
-      "title": "Warframe",
-      "url": "https://play.google.com/store/apps/details?id=com.digitalextremes.warframemobile&hl=ko"
-    },
-    {
-      "id": "com.ea.gp.tacticalfootball",
-      "title": "EA SPORTS FC™ Tactical",
-      "url": "https://play.google.com/store/apps/details?id=com.ea.gp.tacticalfootball&hl=ko"
-    },
-    {
       "id": "com.ellagames.bigguy",
       "title": "뚱기사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko"
-    },
-    {
-      "id": "com.emagroups.wl",
-      "title": "Spirits of Aetheria",
-      "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko"
-    },
-    {
-      "id": "com.f5game.ern",
-      "title": "Eternal Rebellion",
-      "url": "https://play.google.com/store/apps/details?id=com.f5game.ern&hl=ko"
-    },
-    {
-      "id": "com.game.NightclubSimulator",
-      "title": "NightClub Simulator",
-      "url": "https://play.google.com/store/apps/details?id=com.game.NightclubSimulator&hl=ko"
     },
     {
       "id": "com.gamee.godslayer.rpg.rougelike",
@@ -128,19 +78,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.luno.b5&hl=ko"
     },
     {
-      "id": "com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games",
-      "title": "Panda World : Bubble Shooter",
-      "url": "https://play.google.com/store/apps/details?id=com.madovergames.pandaworld.bubbleshooter.pop.fun.family.baby.games&hl=ko"
-    },
-    {
       "id": "com.magicgame.yzhs",
       "title": "Magicmon: World",
       "url": "https://play.google.com/store/apps/details?id=com.magicgame.yzhs&hl=ko"
-    },
-    {
-      "id": "com.minimuffin.princessstories",
-      "title": "2세 이상 여아를 위한 교육용 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.minimuffin.princessstories&hl=ko"
     },
     {
       "id": "com.mobirix.mgct",
@@ -171,11 +111,6 @@
       "id": "com.nexwave.popepoch.android",
       "title": "Pop Epoch",
       "url": "https://play.google.com/store/apps/details?id=com.nexwave.popepoch.android&hl=ko"
-    },
-    {
-      "id": "com.nhn.abyssdia",
-      "title": "어비스디아",
-      "url": "https://play.google.com/store/apps/details?id=com.nhn.abyssdia&hl=ko"
     },
     {
       "id": "com.ondi.pack.adventure",
@@ -233,34 +168,9 @@
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko"
     },
     {
-      "id": "com.sybogames.subway.surfers.game",
-      "title": "Subway Surfers City",
-      "url": "https://play.google.com/store/apps/details?id=com.sybogames.subway.surfers.game&hl=ko"
-    },
-    {
-      "id": "com.thp019.number.shooting.strategy.game",
-      "title": "갤럭시 슈터: 에일리언 스웜",
-      "url": "https://play.google.com/store/apps/details?id=com.thp019.number.shooting.strategy.game&hl=ko"
-    },
-    {
-      "id": "com.thp021.stickman.survivor.epic.idle.rpg",
-      "title": "Stickman Survivor: Idle RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.thp021.stickman.survivor.epic.idle.rpg&hl=ko"
-    },
-    {
       "id": "com.tree.idle.cat.school",
       "title": "고양이 학교 : 귀여운 방치형 타이쿤 게임",
       "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko"
-    },
-    {
-      "id": "com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter",
-      "title": "레인보우 식스 모바일 (Rainbow Six M)",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.rainbowsixmobile.r6.fps.pvp.shooter&hl=ko"
-    },
-    {
-      "id": "com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg",
-      "title": "더 디비전 리서전스",
-      "url": "https://play.google.com/store/apps/details?id=com.ubisoft.the.division.mobile.combat.shooting.open.world.rpg&hl=ko"
     },
     {
       "id": "com.v2r.AbyssWorld",
@@ -283,11 +193,6 @@
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko"
     },
     {
-      "id": "jp.co.imagineer.medarotsurvivors",
-      "title": "Medabots Survivors",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medarotsurvivors&hl=ko"
-    },
-    {
       "id": "net.gameduo.dfd",
       "title": "에덴 : 더 라스트 라인",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko"
@@ -296,16 +201,6 @@
       "id": "net.gameduo.smd",
       "title": "슈퍼마린디펜스",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.smd&hl=ko"
-    },
-    {
-      "id": "net.pixelrabbit.huayuan",
-      "title": "풀 뜯어먹는 소리 금지",
-      "url": "https://play.google.com/store/apps/details?id=net.pixelrabbit.huayuan&hl=ko"
-    },
-    {
-      "id": "super4.coloring.games.draw.princess.art.girls.paint.fantasy",
-      "title": "컬러링 게임 – 드로잉 게임",
-      "url": "https://play.google.com/store/apps/details?id=super4.coloring.games.draw.princess.art.girls.paint.fantasy&hl=ko"
     },
     {
       "id": "xyz.lightgame.tuantuan",
