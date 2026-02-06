@@ -212,6 +212,25 @@ def fetch_inven_games() -> list[dict]:
         except Exception:
             continue
 
+    # 상세 페이지에서 개발사 정보 추출
+    for game in games:
+        try:
+            detail_resp = req.get(
+                game["url"],
+                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+                timeout=10
+            )
+            detail_resp.raise_for_status()
+            detail_soup = BeautifulSoup(detail_resp.text, "html.parser")
+            company_elem = detail_soup.select_one("div.information > p.company")
+            if company_elem:
+                # p.company에 개발사 + 출시일이 함께 있을 수 있으므로 첫 번째 텍스트 노드만 추출
+                developer = list(company_elem.stripped_strings)[0] if company_elem.stripped_strings else ""
+                game["developer"] = developer
+                print(f"  [개발사] {game['title']} → {developer}")
+        except Exception:
+            continue
+
     print(f"[인벤] 총 {len(games)}개 게임 발견\n")
     return games
 
@@ -328,6 +347,24 @@ def fetch_onestore_games() -> list[dict]:
             "url": url,
         })
         print(f"  + {prod_name}")
+
+    # 상세 페이지에서 개발사 정보 추출
+    for game in games:
+        try:
+            detail_resp = req.get(
+                game["url"],
+                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+                timeout=10
+            )
+            detail_resp.raise_for_status()
+            detail_decoded = urllib.parse.unquote(detail_resp.text)
+            detail_cleaned = detail_decoded.replace('\\"', '"')
+            seller_match = re.search(r'"sellerName":"([^"]+)"', detail_cleaned)
+            if seller_match:
+                game["developer"] = seller_match.group(1)
+                print(f"  [개발사] {game['title']} → {game['developer']}")
+        except Exception:
+            continue
 
     print(f"[원스토어] 총 {len(games)}개 게임 발견\n")
     return games

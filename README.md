@@ -4,20 +4,19 @@
 
 ## 모니터링 소스
 
-| 소스 | URL | 수집 방식 | 저장 파일 |
-|------|-----|-----------|-----------|
-| 🎮 Google Play | [사전등록 컬렉션](https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko) | Playwright (JS 렌더링) | `games.json` |
-| 📋 인벤 | [pick.inven.co.kr](https://pick.inven.co.kr/) | requests + BeautifulSoup | `inven_games.json` |
-| 🟡 카카오게임즈 | [game.kakao.com/pr](https://game.kakao.com/pr) | requests (AJAX API) | `kakao_games.json` |
-| 🟣 원스토어 | [사전예약](https://m.onestore.co.kr/v2/ko-kr/event/preregistrations) | requests (RSC 데이터 파싱) | `onestore_games.json` |
-| 🟢 네이버게임 | [game.naver.com](https://game.naver.com/) | requests (REST API) | `naver_games.json` |
+| 소스 | URL | 수집 방식 | 수집 정보 | 저장 파일 |
+|------|-----|-----------|-----------|-----------|
+| 🎮 Google Play | [사전등록 컬렉션](https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko) | Playwright (JS 렌더링) | 게임명, 개발사 | `games.json` |
+| 📋 인벤 | [pick.inven.co.kr](https://pick.inven.co.kr/) | requests + BeautifulSoup | 게임명, 개발사, 출시일, 보상 | `inven_games.json` |
+| 🟡 카카오게임즈 | [game.kakao.com/pr](https://game.kakao.com/pr) | requests (AJAX API) | 게임명 | `kakao_games.json` |
+| 🟣 원스토어 | [사전예약](https://m.onestore.co.kr/v2/ko-kr/event/preregistrations) | requests (RSC 데이터 파싱) | 게임명, 개발사 | `onestore_games.json` |
+| 🟢 네이버게임 | [game.naver.com](https://game.naver.com/) | requests (REST API) | 게임명, 출시일, 플랫폼 | `naver_games.json` |
 
 ## 기능
 
 - 5개 플랫폼의 사전등록/출시 게임 목록 크롤링
 - JSON 파일로 게임 목록 저장 및 이전 데이터와 비교
-- 신규 게임 추가 시 Slack 알림
-- 사전등록 종료/출시 게임 알림
+- **신규 게임이 추가되었을 때만** 해당 게임 정보를 Slack으로 알림 (게임명, 개발사 등)
 - 변경사항이 없으면 알림 없음
 - GitHub Actions를 통한 자동 실행 (매일 오전 9시 30분 KST)
 
