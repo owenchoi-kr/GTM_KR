@@ -1,42 +1,7 @@
 {
-  "updated_at": "2026-02-06T10:12:23.424391",
-  "count": 23,
+  "updated_at": "2026-02-07T05:01:13.286350",
+  "count": 18,
   "games": [
-    {
-      "id": "GM_NCR_020001",
-      "title": "드래곤 퀘스트 VII Reimagined",
-      "url": "https://game.naver.com/DRAGON_QUEST_VII_Reimagined",
-      "release_date": "2026-02-06 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_021896",
-      "title": "나의 히어로 아카데미아 올즈 저스티스",
-      "url": "https://game.naver.com/MY_HERO_ACADEMIA_Alls_Justice",
-      "release_date": "2026-02-06 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_020167",
-      "title": "인왕 3",
-      "url": "https://game.naver.com/Nioh3",
-      "release_date": "2026-02-06 오픈",
-      "platform": "PC,PS5"
-    },
-    {
-      "id": "GM_NCR_021898",
-      "title": "자칼",
-      "url": "https://game.naver.com/Jackal",
-      "release_date": "2026-02-06 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_017102",
-      "title": "코바야시네 메이드래곤 판타지아",
-      "url": "https://game.naver.com/Miss_Kobayashis_Dragon_Maid_Fantasia",
-      "release_date": "2025-02-14 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_021707",
       "title": "한양 온라인 : 조선 무사 키우기",

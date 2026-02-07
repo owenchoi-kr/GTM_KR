@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-06T10:12:23.423537",
-  "count": 40,
+  "updated_at": "2026-02-07T05:01:13.285061",
+  "count": 41,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -67,6 +67,12 @@
       "title": "God Rivals: RPG Roguelike",
       "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
       "developer": "GameeStudio"
+    },
+    {
+      "id": "com.hottagames.nte",
+      "title": "이환",
+      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko",
+      "developer": "N2E"
     },
     {
       "id": "com.indusgame.play",
