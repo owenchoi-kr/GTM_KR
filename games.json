@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-07T05:01:13.285061",
-  "count": 41,
+  "updated_at": "2026-02-08T05:45:43.286833",
+  "count": 40,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -39,6 +39,12 @@
       "developer": "Brazle"
     },
     {
+      "id": "com.com2us.rheroes.android.google.global.normal",
+      "title": "Pepp Heroes: Relic Quest",
+      "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko",
+      "developer": "Com2uS"
+    },
+    {
       "id": "com.com2usholdings.starsailors.android.google.global.normal",
       "title": "Star Sailors",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko",
@@ -69,16 +75,16 @@
       "developer": "GameeStudio"
     },
     {
-      "id": "com.hottagames.nte",
-      "title": "이환",
-      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko",
-      "developer": "N2E"
-    },
-    {
       "id": "com.indusgame.play",
       "title": "BRX: Battle Royale Extraction",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
       "developer": "SuperGaming SG"
+    },
+    {
+      "id": "com.kakaogames.smgame",
+      "title": "SMiniz",
+      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.smgame&hl=ko",
+      "developer": "Kakao Games Corp."
     },
     {
       "id": "com.linegames.fq",
@@ -97,12 +103,6 @@
       "title": "마스터 오브 먼치킨 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.luno.b5&hl=ko",
       "developer": "LUNOSOFT INC"
-    },
-    {
-      "id": "com.magicgame.yzhs",
-      "title": "Magicmon: World",
-      "url": "https://play.google.com/store/apps/details?id=com.magicgame.yzhs&hl=ko",
-      "developer": "MAGIC NETWORK LIMITED"
     },
     {
       "id": "com.mobirix.mgct",
@@ -145,12 +145,6 @@
       "title": "Backpack Legends Adventure RPG",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.playdigious.seaofstars",
-      "title": "Sea of Stars",
-      "url": "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars&hl=ko",
-      "developer": "Playdigious"
     },
     {
       "id": "com.pujiagames.FishingJourney",
