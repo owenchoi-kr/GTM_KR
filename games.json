@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08T05:45:43.286833",
+  "updated_at": "2026-02-09T05:52:24.900345",
   "count": 40,
   "games": [
     {
@@ -75,6 +75,12 @@
       "developer": "GameeStudio"
     },
     {
+      "id": "com.hottagames.nte",
+      "title": "이환",
+      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko",
+      "developer": "N2E"
+    },
+    {
       "id": "com.indusgame.play",
       "title": "BRX: Battle Royale Extraction",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
@@ -97,12 +103,6 @@
       "title": "Genesis War",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko",
       "developer": "LINE Games"
-    },
-    {
-      "id": "com.luno.b5",
-      "title": "마스터 오브 먼치킨 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.luno.b5&hl=ko",
-      "developer": "LUNOSOFT INC"
     },
     {
       "id": "com.mobirix.mgct",

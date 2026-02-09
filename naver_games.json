@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-02-08T05:45:43.287867",
-  "count": 18,
+  "updated_at": "2026-02-09T05:52:24.901355",
+  "count": 21,
   "games": [
+    {
+      "id": "GM_NCR_021999",
+      "title": "마왕성 스토리",
+      "url": "https://game.naver.com/Demon_Castle_Story",
+      "release_date": "2026-02-09 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_021922",
+      "title": "디 오일리 뎁스",
+      "url": "https://game.naver.com/The_Oily_Depths",
+      "release_date": "2026-02-09 오픈",
+      "platform": "PC"
+    },
     {
       "id": "GM_NCR_021707",
       "title": "한양 온라인 : 조선 무사 키우기",
@@ -29,6 +43,13 @@
       "url": "https://game.naver.com/idlevalkyrie",
       "release_date": "2026-01-23 ~ 2026-02-13 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_021875",
+      "title": "식스타 게이트: 유니버스",
+      "url": "https://game.naver.com/Sixtar_Gate_UNIVERSE",
+      "release_date": "2026-02-08 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_013601",

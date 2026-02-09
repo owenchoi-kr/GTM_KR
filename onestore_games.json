@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-08T05:45:43.287647",
+  "updated_at": "2026-02-09T05:52:24.901155",
   "count": 13,
   "games": [
     {
@@ -51,12 +51,6 @@
       "developer": "(주)스마트나우"
     },
     {
-      "id": "0001002473",
-      "title": "마스터 오브 먼치킨 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473",
-      "developer": "LUNOSOFT INC"
-    },
-    {
       "id": "0001003149",
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
@@ -71,6 +65,11 @@
       "id": "0001003231",
       "title": "정사",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003231"
+    },
+    {
+      "id": "0001002473",
+      "title": "마스터 오브 먼치킨 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473"
     },
     {
       "id": "0001002285",
