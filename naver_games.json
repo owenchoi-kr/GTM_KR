@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-02-09T05:52:24.901355",
-  "count": 21,
+  "updated_at": "2026-02-10T05:59:10.743065",
+  "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_021999",
-      "title": "마왕성 스토리",
-      "url": "https://game.naver.com/Demon_Castle_Story",
-      "release_date": "2026-02-09 오픈",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_021922",
       "title": "디 오일리 뎁스",
       "url": "https://game.naver.com/The_Oily_Depths",
-      "release_date": "2026-02-09 오픈",
+      "release_date": "2026-02-10 오픈",
       "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_021707",
-      "title": "한양 온라인 : 조선 무사 키우기",
-      "url": "https://game.naver.com/hanyang",
-      "release_date": "2026-01-26 ~ 2026-02-09 사전예약",
-      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_021148",
@@ -41,7 +27,7 @@
       "id": "GM_NCR_021779",
       "title": "발키리 키우기 – 신들의 전쟁",
       "url": "https://game.naver.com/idlevalkyrie",
-      "release_date": "2026-01-23 ~ 2026-02-13 사전예약",
+      "release_date": "2026-01-23 ~ 2026-02-14 사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {

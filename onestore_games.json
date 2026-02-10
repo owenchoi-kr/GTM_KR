@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-02-09T05:52:24.901155",
-  "count": 13,
+  "updated_at": "2026-02-10T05:59:10.742898",
+  "count": 14,
   "games": [
     {
-      "id": "0001004083",
-      "title": "[베타게임] 프로젝트 임진",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004083",
-      "developer": "RedGinkgo Games Co Ltd"
-    },
-    {
-      "id": "0001003413",
-      "title": " 다크 발키리:블레이드",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413",
+      "id": "0001003372",
+      "title": "데스 헌터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372",
       "developer": "GM 게임"
     },
     {
@@ -55,6 +49,16 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
+    },
+    {
+      "id": "0001004083",
+      "title": "[베타게임] 프로젝트 임진",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004083"
+    },
+    {
+      "id": "0001003413",
+      "title": " 다크 발키리:블레이드",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413"
     },
     {
       "id": "0001003620",
