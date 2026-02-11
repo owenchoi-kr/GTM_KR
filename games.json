@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-10T05:59:10.741944",
-  "count": 40,
+  "updated_at": "2026-02-11T05:52:29.081385",
+  "count": 38,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -159,22 +159,10 @@
       "developer": "Ranida Games"
     },
     {
-      "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
-      "title": "Pawpop Match",
-      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko",
-      "developer": "RATEL"
-    },
-    {
       "id": "com.runawayplay.dragons",
       "title": "드래곤 둥지 – 수집 & 육성",
       "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko",
       "developer": "Runaway Play"
-    },
-    {
-      "id": "com.secondquest.divineedge.kr",
-      "title": "디바인엣지 방치형 RPG : 소녀와 마신의 이야기",
-      "url": "https://play.google.com/store/apps/details?id=com.secondquest.divineedge.kr&hl=ko",
-      "developer": "Second Quest Corp."
     },
     {
       "id": "com.studiobside.starMain",

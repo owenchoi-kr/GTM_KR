@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-02-10T05:59:10.743065",
-  "count": 19,
+  "updated_at": "2026-02-11T05:52:29.082433",
+  "count": 18,
   "games": [
     {
-      "id": "GM_NCR_021922",
-      "title": "디 오일리 뎁스",
-      "url": "https://game.naver.com/The_Oily_Depths",
-      "release_date": "2026-02-10 오픈",
-      "platform": "PC"
+      "id": "GM_NCR_021755",
+      "title": "로미오 이즈 어 데드 맨",
+      "url": "https://game.naver.com/ROMEO_IS_A_DEAD_MAN",
+      "release_date": "2026-02-11 오픈",
+      "platform": "PS5,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_021148",
@@ -127,13 +127,6 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021708",
-      "title": "프로젝트 제타",
-      "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-02-02 ~ 2026-04-01 OBT",
-      "platform": "PC"
     }
   ]
 }
