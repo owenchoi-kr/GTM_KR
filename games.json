@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-11T05:52:29.081385",
+  "updated_at": "2026-02-12T05:46:51.541931",
   "count": 38,
   "games": [
     {
@@ -7,6 +7,12 @@
       "title": "닌자 갱스터즈: 방치된 거리",
       "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.NGI&hl=ko",
       "developer": "DeliciousGames Inc."
+    },
+    {
+      "id": "com.TeamSparta.SpaceMinions",
+      "title": "스페이스 미니언즈: 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.SpaceMinions&hl=ko",
+      "developer": "RocketdanGames"
     },
     {
       "id": "com.TeamSparta.battleshipgo",
@@ -55,12 +61,6 @@
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
-    },
-    {
-      "id": "com.detailgames.tged",
-      "title": "역대급 영지 설계사: 촤라락 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.detailgames.tged&hl=ko",
-      "developer": "Detailgames"
     },
     {
       "id": "com.ellagames.bigguy",

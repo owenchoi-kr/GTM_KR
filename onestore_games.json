@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-11T05:52:29.082233",
-  "count": 13,
+  "updated_at": "2026-02-12T05:46:51.542716",
+  "count": 12,
   "games": [
+    {
+      "id": "0001002358",
+      "title": "쿠키런: 오븐스매시",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002358",
+      "developer": "Devsisters Corp"
+    },
     {
       "id": "0001003372",
       "title": "데스 헌터",
@@ -61,19 +67,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413"
     },
     {
-      "id": "0001003231",
-      "title": "정사",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003231"
-    },
-    {
       "id": "0001002473",
       "title": "마스터 오브 먼치킨 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473"
-    },
-    {
-      "id": "0001002285",
-      "title": "에르피스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002285"
     }
   ]
 }

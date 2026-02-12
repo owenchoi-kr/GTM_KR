@@ -1,19 +1,33 @@
 {
-  "updated_at": "2026-02-11T05:52:29.082433",
-  "count": 18,
+  "updated_at": "2026-02-12T05:46:51.542938",
+  "count": 20,
   "games": [
     {
-      "id": "GM_NCR_021755",
-      "title": "로미오 이즈 어 데드 맨",
-      "url": "https://game.naver.com/ROMEO_IS_A_DEAD_MAN",
-      "release_date": "2026-02-11 오픈",
-      "platform": "PS5,XBOX SERIES X/S"
+      "id": "GM_NCR_021323",
+      "title": "블레이블루 엔트로피 이펙트X",
+      "url": "https://game.naver.com/BlazBlue_Entropy_Effect_X",
+      "release_date": "2026-02-12 오픈",
+      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_021953",
+      "title": "마리오 테니스 피버",
+      "url": "https://game.naver.com/MARIO_TENNIS_FEVER",
+      "release_date": "2026-02-12 오픈",
+      "platform": "닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_021969",
+      "title": "용과 같이 극3 / 용과 같이3 외전 Dark Ties",
+      "url": "https://game.naver.com/Yakuza_Kiwami3_Dark_Ties",
+      "release_date": "2026-02-12 오픈",
+      "platform": "PC,PS4,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
     },
     {
       "id": "GM_NCR_021148",
       "title": "역대급영지설계사",
       "url": "https://game.naver.com/TGED",
-      "release_date": "2025-12-11 ~ 2026-02-11 사전예약",
+      "release_date": "2025-12-11 ~ 2026-02-12 사전예약",
       "platform": "Android,iOS"
     },
     {
