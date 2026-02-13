@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-12T05:46:51.542716",
-  "count": 12,
+  "updated_at": "2026-02-13T05:41:51.235916",
+  "count": 14,
   "games": [
     {
       "id": "0001002358",
@@ -9,10 +9,22 @@
       "developer": "Devsisters Corp"
     },
     {
+      "id": "0001004317",
+      "title": "영혼 인도자：신의 이름으로",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004317",
+      "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
+    },
+    {
       "id": "0001003372",
       "title": "데스 헌터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001004273",
+      "title": "뽑만추 : 방치된 뽑기기계 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004273",
+      "developer": "DeliciousGames Inc"
     },
     {
       "id": "0001003823",

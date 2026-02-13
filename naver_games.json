@@ -1,41 +1,27 @@
 {
-  "updated_at": "2026-02-12T05:46:51.542938",
-  "count": 20,
+  "updated_at": "2026-02-13T05:41:51.236054",
+  "count": 19,
   "games": [
     {
-      "id": "GM_NCR_021323",
-      "title": "블레이블루 엔트로피 이펙트X",
-      "url": "https://game.naver.com/BlazBlue_Entropy_Effect_X",
-      "release_date": "2026-02-12 오픈",
+      "id": "GM_NCR_019199",
+      "title": "킬러 인",
+      "url": "https://game.naver.com/KILLER_INN",
+      "release_date": "2026-02-13 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_020339",
+      "title": "리애니멀",
+      "url": "https://game.naver.com/REANIMAL",
+      "release_date": "2026-02-13 오픈",
+      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_018557",
+      "title": "룬 팩토리: 가디언즈 오브 아즈마",
+      "url": "https://game.naver.com/Rune_Factory_Guardians_of_Azuma",
+      "release_date": "2026-02-13 오픈",
       "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_021953",
-      "title": "마리오 테니스 피버",
-      "url": "https://game.naver.com/MARIO_TENNIS_FEVER",
-      "release_date": "2026-02-12 오픈",
-      "platform": "닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_021969",
-      "title": "용과 같이 극3 / 용과 같이3 외전 Dark Ties",
-      "url": "https://game.naver.com/Yakuza_Kiwami3_Dark_Ties",
-      "release_date": "2026-02-12 오픈",
-      "platform": "PC,PS4,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_021148",
-      "title": "역대급영지설계사",
-      "url": "https://game.naver.com/TGED",
-      "release_date": "2025-12-11 ~ 2026-02-12 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_021611",
-      "title": "여고생과 리셋중!",
-      "url": "https://game.naver.com/reworld",
-      "release_date": "2026-01-16 ~  사전예약",
-      "platform": "Android"
     },
     {
       "id": "GM_NCR_021779",
@@ -63,6 +49,13 @@
       "title": "DX: 각성자들",
       "url": "https://game.naver.com/dx_awaken",
       "release_date": "2026-01-06 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_021996",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://game.naver.com/The_Warrior_Returns_AFK",
+      "release_date": "2026-02-12 ~ 2026-04-07 사전예약",
       "platform": "Android,iOS"
     },
     {
