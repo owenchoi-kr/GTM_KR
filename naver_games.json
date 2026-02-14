@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-02-13T05:41:51.236054",
+  "updated_at": "2026-02-14T05:05:13.491593",
   "count": 19,
   "games": [
     {
-      "id": "GM_NCR_019199",
-      "title": "킬러 인",
-      "url": "https://game.naver.com/KILLER_INN",
-      "release_date": "2026-02-13 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_020339",
-      "title": "리애니멀",
-      "url": "https://game.naver.com/REANIMAL",
-      "release_date": "2026-02-13 오픈",
-      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_018557",
-      "title": "룬 팩토리: 가디언즈 오브 아즈마",
-      "url": "https://game.naver.com/Rune_Factory_Guardians_of_Azuma",
-      "release_date": "2026-02-13 오픈",
-      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+      "id": "GM_NCR_021752",
+      "title": "하이 온 라이프 2",
+      "url": "https://game.naver.com/High_On_Life2",
+      "release_date": "2026-02-14 오픈",
+      "platform": "PC,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_021779",
@@ -29,6 +15,13 @@
       "url": "https://game.naver.com/idlevalkyrie",
       "release_date": "2026-01-23 ~ 2026-02-14 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_105",
+      "title": "워프레임",
+      "url": "https://game.naver.com/Warframe",
+      "release_date": "2026-02-13 ~ 2026-02-18 사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_021875",
@@ -63,6 +56,13 @@
       "title": "사신키우기2: 중세편",
       "url": "https://game.naver.com/saki2",
       "release_date": "2026-02-04 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_022055",
+      "title": "렐리온: NPC들의 생존기",
+      "url": "https://game.naver.com/rellion",
+      "release_date": "2026-02-13 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {

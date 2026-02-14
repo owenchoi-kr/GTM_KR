@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-13T05:41:51.235160",
-  "count": 38,
+  "updated_at": "2026-02-14T05:05:13.490491",
+  "count": 40,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -69,10 +69,22 @@
       "developer": "ELLA Games"
     },
     {
+      "id": "com.f5game.at",
+      "title": "Arcath Tales: roguelike RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.f5game.at&hl=ko",
+      "developer": "Proficient City Hong Kong"
+    },
+    {
       "id": "com.gamee.godslayer.rpg.rougelike",
       "title": "God Rivals: RPG Roguelike",
       "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
       "developer": "GameeStudio"
+    },
+    {
+      "id": "com.gamehouse.little.rescue.mosaic.novel.art.puzzle.jigsaw.games",
+      "title": "Little Rescue: Mosaic Novel",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.little.rescue.mosaic.novel.art.puzzle.jigsaw.games&hl=ko",
+      "developer": "GameHouse LLC"
     },
     {
       "id": "com.hottagames.nte",
