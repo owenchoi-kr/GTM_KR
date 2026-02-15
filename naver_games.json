@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-02-14T05:05:13.491593",
-  "count": 19,
+  "updated_at": "2026-02-15T03:28:49.230779",
+  "count": 17,
   "games": [
-    {
-      "id": "GM_NCR_021752",
-      "title": "하이 온 라이프 2",
-      "url": "https://game.naver.com/High_On_Life2",
-      "release_date": "2026-02-14 오픈",
-      "platform": "PC,XBOX SERIES X/S"
-    },
-    {
-      "id": "GM_NCR_021779",
-      "title": "발키리 키우기 – 신들의 전쟁",
-      "url": "https://game.naver.com/idlevalkyrie",
-      "release_date": "2026-01-23 ~ 2026-02-14 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_105",
       "title": "워프레임",
