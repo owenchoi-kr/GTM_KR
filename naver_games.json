@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-02-16T03:26:54.993044",
-  "count": 17,
+  "updated_at": "2026-02-17T03:21:20.249873",
+  "count": 20,
   "games": [
+    {
+      "id": "GM_NCR_019388",
+      "title": "세클루사",
+      "url": "https://game.naver.com/Seclusa",
+      "release_date": "2026-02-17 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_021966",
+      "title": "홀드 더 마인",
+      "url": "https://game.naver.com/Hold_The_Mine",
+      "release_date": "2026-02-17 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_019720",
+      "title": "노스: 오스 오브 블러드",
+      "url": "https://game.naver.com/NORSE_Oath_of_Blood",
+      "release_date": "2026-02-17 오픈",
+      "platform": "PC"
+    },
     {
       "id": "GM_105",
       "title": "워프레임",

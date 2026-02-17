@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-16T03:26:54.992819",
-  "count": 14,
+  "updated_at": "2026-02-17T03:21:20.249673",
+  "count": 11,
   "games": [
     {
       "id": "0001002358",
@@ -67,21 +67,6 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
-    },
-    {
-      "id": "0001004083",
-      "title": "[베타게임] 프로젝트 임진",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004083"
-    },
-    {
-      "id": "0001003413",
-      "title": " 다크 발키리:블레이드",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003413"
-    },
-    {
-      "id": "0001002473",
-      "title": "마스터 오브 먼치킨 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002473"
     }
   ]
 }
