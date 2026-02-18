@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-17T03:21:20.248827",
-  "count": 40,
+  "updated_at": "2026-02-18T03:24:27.403806",
+  "count": 39,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -85,12 +85,6 @@
       "title": "Little Rescue: Mosaic Novel",
       "url": "https://play.google.com/store/apps/details?id=com.gamehouse.little.rescue.mosaic.novel.art.puzzle.jigsaw.games&hl=ko",
       "developer": "GameHouse LLC"
-    },
-    {
-      "id": "com.hottagames.nte",
-      "title": "이환",
-      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko",
-      "developer": "N2E"
     },
     {
       "id": "com.indusgame.play",

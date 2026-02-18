@@ -1,34 +1,20 @@
 {
-  "updated_at": "2026-02-17T03:21:20.249873",
-  "count": 20,
+  "updated_at": "2026-02-18T03:24:27.404821",
+  "count": 18,
   "games": [
     {
-      "id": "GM_NCR_019388",
-      "title": "세클루사",
-      "url": "https://game.naver.com/Seclusa",
-      "release_date": "2026-02-17 오픈",
+      "id": "GM_NCR_015647",
+      "title": "킬 더 위치",
+      "url": "https://game.naver.com/KILL_THE_WITCH",
+      "release_date": "2026-02-18 오픈",
       "platform": "PC"
     },
     {
-      "id": "GM_NCR_021966",
-      "title": "홀드 더 마인",
-      "url": "https://game.naver.com/Hold_The_Mine",
-      "release_date": "2026-02-17 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_019720",
-      "title": "노스: 오스 오브 블러드",
-      "url": "https://game.naver.com/NORSE_Oath_of_Blood",
-      "release_date": "2026-02-17 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_105",
-      "title": "워프레임",
-      "url": "https://game.naver.com/Warframe",
-      "release_date": "2026-02-13 ~ 2026-02-18 사전예약",
-      "platform": "Android"
+      "id": "GM_NCR_015110",
+      "title": "어바우드",
+      "url": "https://game.naver.com/Avowed",
+      "release_date": "2026-02-18 오픈",
+      "platform": "PS5"
     },
     {
       "id": "GM_NCR_021875",
