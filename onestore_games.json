@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-18T03:24:27.404691",
-  "count": 11,
+  "updated_at": "2026-02-19T03:23:17.957596",
+  "count": 12,
   "games": [
+    {
+      "id": "0001003851",
+      "title": "탐욕의 동굴: 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003851",
+      "developer": "Chengdu Avalon Network Media Co Ltd"
+    },
     {
       "id": "0001002358",
       "title": "쿠키런: 오븐스매시",
@@ -13,12 +19,6 @@
       "title": "영혼 인도자：신의 이름으로",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004317",
       "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
-    },
-    {
-      "id": "0001003372",
-      "title": "데스 헌터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372",
-      "developer": "GM 게임"
     },
     {
       "id": "0001004273",
@@ -67,6 +67,11 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
+    },
+    {
+      "id": "0001003372",
+      "title": "데스 헌터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372"
     }
   ]
 }

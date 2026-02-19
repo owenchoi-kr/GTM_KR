@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-02-18T03:24:27.404821",
+  "updated_at": "2026-02-19T03:23:17.957745",
   "count": 18,
   "games": [
     {
-      "id": "GM_NCR_015647",
-      "title": "킬 더 위치",
-      "url": "https://game.naver.com/KILL_THE_WITCH",
-      "release_date": "2026-02-18 오픈",
+      "id": "GM_NCR_022041",
+      "title": "인사이더 트레이딩",
+      "url": "https://game.naver.com/Insider_Trading",
+      "release_date": "2026-02-19 오픈",
       "platform": "PC"
     },
     {
-      "id": "GM_NCR_015110",
-      "title": "어바우드",
-      "url": "https://game.naver.com/Avowed",
-      "release_date": "2026-02-18 오픈",
-      "platform": "PS5"
+      "id": "GM_NCR_021600",
+      "title": "스틱스: 블레이드 오브 그리드",
+      "url": "https://game.naver.com/Styx_Blades_of_Greed",
+      "release_date": "2026-02-19 오픈",
+      "platform": "PS5,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_021875",
