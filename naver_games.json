@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-02-19T03:23:17.957745",
-  "count": 18,
+  "updated_at": "2026-02-20T03:21:17.234191",
+  "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_022041",
-      "title": "인사이더 트레이딩",
-      "url": "https://game.naver.com/Insider_Trading",
-      "release_date": "2026-02-19 오픈",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_021600",
       "title": "스틱스: 블레이드 오브 그리드",
       "url": "https://game.naver.com/Styx_Blades_of_Greed",
-      "release_date": "2026-02-19 오픈",
-      "platform": "PS5,XBOX SERIES X/S"
+      "release_date": "2026-02-20 오픈",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_021875",
@@ -35,6 +28,13 @@
       "title": "DX: 각성자들",
       "url": "https://game.naver.com/dx_awaken",
       "release_date": "2026-01-06 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_019382",
+      "title": "냥냥섬: 전설의 집사",
+      "url": "https://game.naver.com/meowland",
+      "release_date": "2026-02-19 ~  사전예약",
       "platform": "Android,iOS"
     },
     {
@@ -127,6 +127,13 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021376",
+      "title": "엘트릭스",
+      "url": "https://game.naver.com/Realgod",
+      "release_date": "2026-02-19 ~ 2026-02-26 OBT",
+      "platform": "Android"
     }
   ]
 }
