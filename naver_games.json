@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-02-20T03:21:17.234191",
-  "count": 19,
+  "updated_at": "2026-02-21T03:09:24.309405",
+  "count": 18,
   "games": [
-    {
-      "id": "GM_NCR_021600",
-      "title": "스틱스: 블레이드 오브 그리드",
-      "url": "https://game.naver.com/Styx_Blades_of_Greed",
-      "release_date": "2026-02-20 오픈",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_021875",
       "title": "식스타 게이트: 유니버스",

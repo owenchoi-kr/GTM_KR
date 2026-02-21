@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-20T03:21:17.233997",
-  "count": 12,
+  "updated_at": "2026-02-21T03:09:24.309198",
+  "count": 13,
   "games": [
+    {
+      "id": "0001004452",
+      "title": "마법사 강화하기: 미소녀 성장 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452",
+      "developer": "302GAMES"
+    },
     {
       "id": "0001003851",
       "title": "탐욕의 동굴: 리버스",
