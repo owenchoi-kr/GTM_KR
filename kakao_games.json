@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-02-22T03:23:26.052330",
-  "count": 2,
+  "updated_at": "2026-02-23T03:26:49.214913",
+  "count": 3,
   "games": [
+    {
+      "id": "zZkE7V",
+      "title": "프린세스 커넥트! Re:Dive",
+      "url": "https://game.kakao.com/ar/zZkE7V?rtc=atb_K-GAM02X0111"
+    },
     {
       "id": "tlwOmz",
       "title": "어비스디아",

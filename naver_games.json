@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-02-22T03:23:26.052644",
-  "count": 18,
+  "updated_at": "2026-02-23T03:26:49.215247",
+  "count": 19,
   "games": [
+    {
+      "id": "GM_NCR_022140",
+      "title": "레인보우 식스 모바일",
+      "url": "https://game.naver.com/Rainbow_Six_Mobile",
+      "release_date": "2026-02-23 오픈",
+      "platform": "Android,iOS"
+    },
     {
       "id": "GM_NCR_021875",
       "title": "식스타 게이트: 유니버스",
       "url": "https://game.naver.com/Sixtar_Gate_UNIVERSE",
       "release_date": "2026-02-08 ~  사전예약",
-      "platform": "Android,iOS"
+      "platform": "iOS"
     },
     {
       "id": "GM_NCR_013601",

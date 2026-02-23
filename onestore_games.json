@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-22T03:23:26.052428",
+  "updated_at": "2026-02-23T03:26:49.215055",
   "count": 13,
   "games": [
     {
@@ -63,12 +63,6 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0000779318",
-      "title": "조선협객전 클래식",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000779318",
-      "developer": "(주)스마트나우"
-    },
-    {
       "id": "0001003149",
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
@@ -78,6 +72,11 @@
       "id": "0001003372",
       "title": "데스 헌터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372"
+    },
+    {
+      "id": "0000779318",
+      "title": "조선협객전 클래식",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000779318"
     }
   ]
 }
