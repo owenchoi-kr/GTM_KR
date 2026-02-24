@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-23T03:26:49.214189",
-  "count": 39,
+  "updated_at": "2026-02-24T03:21:01.587450",
+  "count": 38,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -91,12 +91,6 @@
       "title": "Prime Rush",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
       "developer": "SuperGaming SG"
-    },
-    {
-      "id": "com.kakaogames.smgame",
-      "title": "SMiniz",
-      "url": "https://play.google.com/store/apps/details?id=com.kakaogames.smgame&hl=ko",
-      "developer": "Kakao Games Corp."
     },
     {
       "id": "com.linegames.fq",
@@ -216,7 +210,7 @@
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
-      "developer": "Wemade Connect"
+      "developer": "nitrox"
     },
     {
       "id": "com.zestbeat.tripletile",

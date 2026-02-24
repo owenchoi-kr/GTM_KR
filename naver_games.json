@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-02-23T03:26:49.215247",
+  "updated_at": "2026-02-24T03:21:01.588297",
   "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_022140",
-      "title": "레인보우 식스 모바일",
-      "url": "https://game.naver.com/Rainbow_Six_Mobile",
-      "release_date": "2026-02-23 오픈",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_021875",
-      "title": "식스타 게이트: 유니버스",
-      "url": "https://game.naver.com/Sixtar_Gate_UNIVERSE",
-      "release_date": "2026-02-08 ~  사전예약",
-      "platform": "iOS"
-    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
@@ -29,6 +15,20 @@
       "url": "https://game.naver.com/dx_awaken",
       "release_date": "2026-01-06 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022143",
+      "title": "창세기전 키우기",
+      "url": "https://game.naver.com/War_Of_Genesis",
+      "release_date": "2026-02-23 ~ 2026-03-10 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_020325",
+      "title": "크로스림:오디세이",
+      "url": "https://game.naver.com/crossrim",
+      "release_date": "2026-02-23 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_019382",

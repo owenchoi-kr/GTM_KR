@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-23T03:26:49.215055",
-  "count": 13,
+  "updated_at": "2026-02-24T03:21:01.588171",
+  "count": 14,
   "games": [
+    {
+      "id": "0001004121",
+      "title": "크로스림:오디세이",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121",
+      "developer": "CAP CLOUD Corp"
+    },
     {
       "id": "0001004452",
       "title": "마법사 강화하기: 미소녀 성장 RPG",
