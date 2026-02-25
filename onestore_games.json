@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-24T03:21:01.588171",
+  "updated_at": "2026-02-25T03:22:23.383015",
   "count": 14,
   "games": [
+    {
+      "id": "0001003822",
+      "title": "다크로드 사가: 한붓그리기 퍼즐 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003822",
+      "developer": "NUSOFT"
+    },
     {
       "id": "0001004121",
       "title": "크로스림:오디세이",
@@ -43,12 +49,6 @@
       "title": "패스트던전",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
       "developer": "gameduo Co Ltd"
-    },
-    {
-      "id": "0001003431",
-      "title": "페달소녀",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003431",
-      "developer": "275GAMES"
     },
     {
       "id": "0001003789",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-24T03:21:01.587450",
-  "count": 38,
+  "updated_at": "2026-02-25T03:22:23.382297",
+  "count": 37,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -27,12 +27,6 @@
       "developer": "Act Seven Entertainment Inc."
     },
     {
-      "id": "com.arumgames.darkwizard",
-      "title": "66666년만에 환생한 흑마법사 : 전략 디펜스 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.arumgames.darkwizard&hl=ko",
-      "developer": "Arumgames"
-    },
-    {
       "id": "com.brazle.dollssort",
       "title": "Dolls Sort",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.dollssort&hl=ko",
@@ -51,16 +45,16 @@
       "developer": "Com2uS"
     },
     {
-      "id": "com.com2usholdings.starsailors.android.google.global.normal",
-      "title": "Star Sailors",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal&hl=ko",
-      "developer": "Com2uS Holdings"
-    },
-    {
       "id": "com.daeri.TenValkyrie",
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
+    },
+    {
+      "id": "com.devolverdigital.ballxpit",
+      "title": "BALL x PIT",
+      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ballxpit&hl=ko",
+      "developer": "DevolverDigital"
     },
     {
       "id": "com.ellagames.bigguy",
@@ -79,12 +73,6 @@
       "title": "God Rivals: RPG Roguelike",
       "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
       "developer": "GameeStudio"
-    },
-    {
-      "id": "com.gamehouse.little.rescue.mosaic.novel.art.puzzle.jigsaw.games",
-      "title": "Little Rescue: Mosaic Novel",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehouse.little.rescue.mosaic.novel.art.puzzle.jigsaw.games&hl=ko",
-      "developer": "GameHouse LLC"
     },
     {
       "id": "com.indusgame.play",
@@ -217,6 +205,12 @@
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
+    },
+    {
+      "id": "jp.co.imagineer.medarotsurvivors",
+      "title": "Medabots Survivors",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medarotsurvivors&hl=ko",
+      "developer": "Imagineer Co.,Ltd."
     },
     {
       "id": "net.gameduo.dfd",
