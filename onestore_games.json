@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T03:22:23.383015",
+  "updated_at": "2026-02-26T03:17:58.656861",
   "count": 14,
   "games": [
     {
@@ -19,12 +19,6 @@
       "title": "마법사 강화하기: 미소녀 성장 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452",
       "developer": "302GAMES"
-    },
-    {
-      "id": "0001003851",
-      "title": "탐욕의 동굴: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003851",
-      "developer": "Chengdu Avalon Network Media Co Ltd"
     },
     {
       "id": "0001002358",
@@ -57,6 +51,12 @@
       "developer": "gameduo Co Ltd"
     },
     {
+      "id": "0001003303",
+      "title": "픽셀 히어로즈: 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003303",
+      "developer": "JOYFORGE CO., LIMITED"
+    },
+    {
       "id": "0001003337",
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
@@ -75,9 +75,9 @@
       "developer": "SHARK ENTERTAINMENT LIMITED"
     },
     {
-      "id": "0001003372",
-      "title": "데스 헌터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003372"
+      "id": "0001003851",
+      "title": "탐욕의 동굴: 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003851"
     },
     {
       "id": "0000779318",

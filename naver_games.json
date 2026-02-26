@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-02-25T03:22:23.383212",
-  "count": 19,
+  "updated_at": "2026-02-26T03:17:58.657031",
+  "count": 24,
   "games": [
+    {
+      "id": "GM_NCR_022069",
+      "title": "시티헌터",
+      "url": "https://game.naver.com/City_Hunter",
+      "release_date": "2026-02-26 오픈",
+      "platform": "PS5,닌텐도 스위치,닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_019619",
+      "title": "이스 X -프라우드 노딕스-",
+      "url": "https://game.naver.com/Ys_X_Proud_Nordics",
+      "release_date": "2026-02-26 오픈",
+      "platform": "PS5"
+    },
+    {
+      "id": "GM_NCR_021857",
+      "title": "레인즈: 더 위쳐",
+      "url": "https://game.naver.com/Reigns_The_Witcher",
+      "release_date": "2026-02-26 오픈",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021812",
+      "title": "테일즈 오브 베르세리아 리마스터",
+      "url": "https://game.naver.com/Tales_of_Berseria_Remastered",
+      "release_date": "2026-02-26 오픈",
+      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
@@ -36,6 +64,13 @@
       "url": "https://game.naver.com/meowland",
       "release_date": "2026-02-19 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022198",
+      "title": "북두지존",
+      "url": "https://game.naver.com/bdz",
+      "release_date": "2026-02-25 ~ 2026-03-24 사전예약",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_021996",
