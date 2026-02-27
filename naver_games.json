@@ -1,34 +1,20 @@
 {
-  "updated_at": "2026-02-26T03:17:58.657031",
-  "count": 24,
+  "updated_at": "2026-02-27T03:15:17.783237",
+  "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_022069",
-      "title": "시티헌터",
-      "url": "https://game.naver.com/City_Hunter",
-      "release_date": "2026-02-26 오픈",
-      "platform": "PS5,닌텐도 스위치,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_019619",
-      "title": "이스 X -프라우드 노딕스-",
-      "url": "https://game.naver.com/Ys_X_Proud_Nordics",
-      "release_date": "2026-02-26 오픈",
-      "platform": "PS5"
-    },
-    {
-      "id": "GM_NCR_021857",
-      "title": "레인즈: 더 위쳐",
-      "url": "https://game.naver.com/Reigns_The_Witcher",
-      "release_date": "2026-02-26 오픈",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_021812",
       "title": "테일즈 오브 베르세리아 리마스터",
       "url": "https://game.naver.com/Tales_of_Berseria_Remastered",
-      "release_date": "2026-02-26 오픈",
-      "platform": "PS5,XBOX SERIES X/S,닌텐도 스위치,닌텐도 스위치 2"
+      "release_date": "2026-02-27 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_021308",
+      "title": "바이오하자드 레퀴엠",
+      "url": "https://game.naver.com/BIOHAZARD_requiem",
+      "release_date": "2026-02-27 오픈",
+      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
     },
     {
       "id": "GM_NCR_013601",
@@ -143,6 +129,13 @@
       "platform": "Android,iOS,PC"
     },
     {
+      "id": "GM_NCR_022209",
+      "title": "이세계는 스마트폰과 함께. 판타지아 커넥트",
+      "url": "https://game.naver.com/isekone",
+      "release_date": "2026-02-26 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
       "id": "GM_NCR_017394",
       "title": "카케구루이 ALL IN",
       "url": "https://game.naver.com/Kakegurui_ALL_IN",
@@ -162,13 +155,6 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021376",
-      "title": "엘트릭스",
-      "url": "https://game.naver.com/Realgod",
-      "release_date": "2026-02-19 ~ 2026-02-26 OBT",
-      "platform": "Android"
     }
   ]
 }

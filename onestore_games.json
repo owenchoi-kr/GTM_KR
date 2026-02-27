@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-02-26T03:17:58.656861",
-  "count": 14,
+  "updated_at": "2026-02-27T03:15:17.783029",
+  "count": 15,
   "games": [
+    {
+      "id": "0001003574",
+      "title": "갓오브하이스쿨 체인지: 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003574",
+      "developer": "WONCOMZ INC"
+    },
     {
       "id": "0001003822",
       "title": "다크로드 사가: 한붓그리기 퍼즐 RPG",
@@ -13,12 +19,6 @@
       "title": "크로스림:오디세이",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121",
       "developer": "CAP CLOUD Corp"
-    },
-    {
-      "id": "0001004452",
-      "title": "마법사 강화하기: 미소녀 성장 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452",
-      "developer": "302GAMES"
     },
     {
       "id": "0001002358",
@@ -73,6 +73,11 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
+    },
+    {
+      "id": "0001004452",
+      "title": "마법사 강화하기: 미소녀 성장 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452"
     },
     {
       "id": "0001003851",
