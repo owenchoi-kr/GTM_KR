@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-02-27T03:15:17.783237",
+  "updated_at": "2026-02-28T02:45:01.131362",
   "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_021812",
-      "title": "테일즈 오브 베르세리아 리마스터",
-      "url": "https://game.naver.com/Tales_of_Berseria_Remastered",
-      "release_date": "2026-02-27 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_021308",
-      "title": "바이오하자드 레퀴엠",
-      "url": "https://game.naver.com/BIOHAZARD_requiem",
-      "release_date": "2026-02-27 오픈",
-      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
-    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
@@ -38,6 +24,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_021376",
+      "title": "엘트릭스",
+      "url": "https://game.naver.com/Realgod",
+      "release_date": "2026-02-27 ~ 2026-03-12 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_020325",
       "title": "크로스림:오디세이",
       "url": "https://game.naver.com/crossrim",
@@ -50,6 +43,13 @@
       "url": "https://game.naver.com/meowland",
       "release_date": "2026-02-19 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_021692",
+      "title": "우와 모험단",
+      "url": "https://game.naver.com/whoaadventurers",
+      "release_date": "2026-02-27 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022198",

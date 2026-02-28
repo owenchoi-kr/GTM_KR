@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-27T03:15:17.783029",
+  "updated_at": "2026-02-28T02:45:01.131154",
   "count": 15,
   "games": [
     {
@@ -31,12 +31,6 @@
       "title": "영혼 인도자：신의 이름으로",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004317",
       "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
-    },
-    {
-      "id": "0001004273",
-      "title": "뽑만추 : 방치된 뽑기기계 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004273",
-      "developer": "DeliciousGames Inc"
     },
     {
       "id": "0001003823",
@@ -83,6 +77,11 @@
       "id": "0001003851",
       "title": "탐욕의 동굴: 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003851"
+    },
+    {
+      "id": "0001004273",
+      "title": "뽑만추 : 방치된 뽑기기계 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004273"
     },
     {
       "id": "0000779318",

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-02-27T03:15:17.782675",
-  "count": 6,
+  "updated_at": "2026-02-28T02:45:01.130821",
+  "count": 7,
   "games": [
+    {
+      "id": "951",
+      "title": "이환",
+      "url": "https://pick.inven.co.kr/campaign/951/nte",
+      "release_date": "4월 29일 출시 예정",
+      "reward": "[2000이니, 100베니]정식 출시 후 게임 접속 시 수령 가능",
+      "developer": "퍼펙트월드"
+    },
     {
       "id": "952",
       "title": "리니지M",
