@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-02-28T02:45:01.131362",
-  "count": 22,
+  "updated_at": "2026-03-01T03:28:53.014058",
+  "count": 21,
   "games": [
-    {
-      "id": "GM_NCR_013601",
-      "title": "아너 오브 킹즈(왕자영요 글로벌)",
-      "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-02-05 ~ 2026-02-28 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_018920",
       "title": "DX: 각성자들",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-28T02:45:01.130334",
-  "count": 36,
+  "updated_at": "2026-03-01T03:28:53.013144",
+  "count": 35,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -121,12 +121,6 @@
       "title": "스톤에이지 키우기 - 모든 펫 증정!",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko",
       "developer": "Netmarble"
-    },
-    {
-      "id": "com.nexwave.popepoch.android",
-      "title": "Pop Epoch",
-      "url": "https://play.google.com/store/apps/details?id=com.nexwave.popepoch.android&hl=ko",
-      "developer": "Nex Wave Games"
     },
     {
       "id": "com.ondi.pack.adventure",
