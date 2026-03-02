@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-01T03:28:53.013854",
-  "count": 15,
+  "updated_at": "2026-03-02T03:16:53.175859",
+  "count": 14,
   "games": [
     {
       "id": "0001003574",
@@ -82,11 +82,6 @@
       "id": "0001004273",
       "title": "뽑만추 : 방치된 뽑기기계 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004273"
-    },
-    {
-      "id": "0000779318",
-      "title": "조선협객전 클래식",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000779318"
     }
   ]
 }
