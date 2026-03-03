@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-02T03:16:53.175859",
-  "count": 14,
+  "updated_at": "2026-03-03T03:20:22.928778",
+  "count": 15,
   "games": [
+    {
+      "id": "0001002649",
+      "title": "우와 모험단",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002649",
+      "developer": "JOY MOBILE NETWORK PTE. LTD."
+    },
     {
       "id": "0001003574",
       "title": "갓오브하이스쿨 체인지: 방치형 RPG",

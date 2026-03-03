@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-02T03:16:53.176061",
-  "count": 21,
+  "updated_at": "2026-03-03T03:20:22.928944",
+  "count": 22,
   "games": [
     {
       "id": "GM_NCR_018920",
@@ -15,6 +15,13 @@
       "url": "https://game.naver.com/War_Of_Genesis",
       "release_date": "2026-02-23 ~ 2026-03-10 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-03-02 ~ 2026-03-11 사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_021376",

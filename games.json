@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-02T03:16:53.175244",
-  "count": 35,
+  "updated_at": "2026-03-03T03:20:22.928100",
+  "count": 34,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -114,12 +114,6 @@
       "id": "com.netmarble.nanaori",
       "title": "일곱 개의 대죄: Origin",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko",
-      "developer": "Netmarble"
-    },
-    {
-      "id": "com.netmarble.stonkey",
-      "title": "스톤에이지 키우기 - 모든 펫 증정!",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.stonkey&hl=ko",
       "developer": "Netmarble"
     },
     {
