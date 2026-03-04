@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T03:20:22.928100",
+  "updated_at": "2026-03-04T03:12:15.791227",
   "count": 34,
   "games": [
     {
@@ -93,6 +93,12 @@
       "developer": "LINE Games"
     },
     {
+      "id": "com.linegames.pak",
+      "title": "애니멀 버스터즈 : 방치형RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.linegames.pak&hl=ko",
+      "developer": "LINE Games"
+    },
+    {
       "id": "com.mobirix.mgct",
       "title": "머지 캣 타운",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko",
@@ -150,12 +156,6 @@
       "id": "com.superbox.aos.collecthole",
       "title": "드랍 인 더 홀",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.collecthole&hl=ko",
-      "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.superbox.aos.magicSquad",
-      "title": "뿅뿅마법단",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.magicSquad&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {
