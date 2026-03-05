@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-03-04T03:12:15.792153",
-  "count": 24,
+  "updated_at": "2026-03-05T03:15:24.345662",
+  "count": 26,
   "games": [
     {
-      "id": "GM_NCR_021524",
-      "title": "더 레전드 오브 키이모리",
-      "url": "https://game.naver.com/The_Legend_of_Khiimori",
-      "release_date": "2026-03-04 오픈",
-      "platform": "PC"
+      "id": "GM_NCR_022215",
+      "title": "포켓몬 포코피아",
+      "url": "https://game.naver.com/Pokemon_Pokopia",
+      "release_date": "2026-03-05 오픈",
+      "platform": "닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_019147",
+      "title": "Back to the Dawn ~브레이크 더 애니멀 프리즌~",
+      "url": "https://game.naver.com/Back_to_the_Dawn",
+      "release_date": "2026-03-05 오픈",
+      "platform": "닌텐도 스위치,닌텐도 스위치 2"
+    },
+    {
+      "id": "GM_NCR_021049",
+      "title": "플래닛 오브 라나 II",
+      "url": "https://game.naver.com/Planet_of_Lana_II",
+      "release_date": "2026-03-05 오픈",
+      "platform": "닌텐도 스위치,닌텐도 스위치 2"
     },
     {
       "id": "GM_NCR_018920",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-04T03:12:15.791227",
-  "count": 34,
+  "updated_at": "2026-03-05T03:15:24.344604",
+  "count": 33,
   "games": [
     {
       "id": "com.Deliciousgames.NGI",
@@ -139,12 +139,6 @@
       "title": "Basketball Slam MyTEAM",
       "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
       "developer": "Ranida Games"
-    },
-    {
-      "id": "com.runawayplay.dragons",
-      "title": "드래곤 둥지 – 수집 & 육성",
-      "url": "https://play.google.com/store/apps/details?id=com.runawayplay.dragons&hl=ko",
-      "developer": "Runaway Play"
     },
     {
       "id": "com.studiobside.starMain",

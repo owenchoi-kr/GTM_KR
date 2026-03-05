@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-04T03:12:15.791963",
+  "updated_at": "2026-03-05T03:15:24.345446",
   "count": 15,
   "games": [
+    {
+      "id": "0001003809",
+      "title": "2026 프로야구GO",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003809",
+      "developer": "HAEGIN"
+    },
     {
       "id": "0001002649",
       "title": "우와 모험단",
@@ -78,11 +84,6 @@
       "id": "0001004452",
       "title": "마법사 강화하기: 미소녀 성장 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452"
-    },
-    {
-      "id": "0001003851",
-      "title": "탐욕의 동굴: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003851"
     },
     {
       "id": "0001004273",

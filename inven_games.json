@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-04T03:12:15.791691",
-  "count": 7,
+  "updated_at": "2026-03-05T03:15:24.345143",
+  "count": 6,
   "games": [
     {
       "id": "951",
@@ -25,14 +25,6 @@
       "release_date": "3월 10일 출시 예정",
       "reward": "[2000이니, 100베니]영웅 캐릭터 크로우, 루비, 캐릭터 뽑기권 제공",
       "developer": "뉴노멀소프트"
-    },
-    {
-      "id": "945",
-      "title": "린 크로니클",
-      "url": "https://pick.inven.co.kr/campaign/945/lynchronicle",
-      "release_date": "3월 5일 출시 예정",
-      "reward": "[1000이니, 50베니]레드다이아 1,000개 / 상급 정수 선택권 5개 / 고대 소환 1개",
-      "developer": "(주)인포바인"
     },
     {
       "id": "909",
