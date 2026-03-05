@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-05T03:15:24.344604",
-  "count": 33,
+  "updated_at": "2026-03-05T21:59:50.074359",
+  "count": 32,
   "games": [
-    {
-      "id": "com.Deliciousgames.NGI",
-      "title": "닌자 갱스터즈: 방치된 거리",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.NGI&hl=ko",
-      "developer": "DeliciousGames Inc."
-    },
     {
       "id": "com.TeamSparta.SpaceMinions",
       "title": "스페이스 미니언즈: 디펜스",
