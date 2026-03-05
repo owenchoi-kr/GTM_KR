@@ -518,6 +518,10 @@ def send_slack_notification(changes: dict) -> bool:
 
     blocks.append({"type": "divider"})
     blocks.append({
+        "type": "section",
+        "text": {"type": "mrkdwn", "text": "📌 <https://newgamecalender.notion.site/pc-b672193ee56a48539e5bd54d57017a70|노션 신작 알림 달력> | <https://cafe.naver.com/f-e/cafes/24576196/menus/14|신작 게임 평가단 카페>"}
+    })
+    blocks.append({
         "type": "context",
         "elements": [{"type": "mrkdwn", "text": f"⏰ 확인 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} KST"}]
     })
