@@ -2,8 +2,8 @@ name: Check Pre-register Games
 
 on:
   schedule:
-    # 매일 오전 9시 30분 KST (UTC 0시 30분)
-    - cron: '30 0 * * *'
+    # 매일 오전 6시 30분 KST (UTC 21시 30분) - GitHub Actions 지연 감안
+    - cron: '30 21 * * *'
   workflow_dispatch:  # 수동 실행 가능
 
 jobs:
