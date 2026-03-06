@@ -1,34 +1,27 @@
 {
-  "updated_at": "2026-03-05T21:59:50.075112",
-  "count": 26,
+  "updated_at": "2026-03-06T21:54:17.686400",
+  "count": 25,
   "games": [
     {
-      "id": "GM_NCR_022215",
-      "title": "포켓몬 포코피아",
-      "url": "https://game.naver.com/Pokemon_Pokopia",
-      "release_date": "2026-03-05 오픈",
-      "platform": "닌텐도 스위치 2"
+      "id": "GM_NCR_013999",
+      "title": "슬레이 더 스파이어 2",
+      "url": "https://game.naver.com/Slay_the_Spire2",
+      "release_date": "2026-03-06 오픈",
+      "platform": "PC"
     },
     {
-      "id": "GM_NCR_019147",
-      "title": "Back to the Dawn ~브레이크 더 애니멀 프리즌~",
-      "url": "https://game.naver.com/Back_to_the_Dawn",
-      "release_date": "2026-03-05 오픈",
-      "platform": "닌텐도 스위치,닌텐도 스위치 2"
+      "id": "GM_NCR_017905",
+      "title": "마라톤",
+      "url": "https://game.naver.com/MARATHON",
+      "release_date": "2026-03-06 오픈",
+      "platform": "PC,PS5,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_021049",
       "title": "플래닛 오브 라나 II",
       "url": "https://game.naver.com/Planet_of_Lana_II",
-      "release_date": "2026-03-05 오픈",
-      "platform": "닌텐도 스위치,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_018920",
-      "title": "DX: 각성자들",
-      "url": "https://game.naver.com/dx_awaken",
-      "release_date": "2026-01-06 ~ 2026-03-05 사전예약",
-      "platform": "Android,iOS"
+      "release_date": "2026-03-06 오픈",
+      "platform": "XBOX ONE,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_022143",

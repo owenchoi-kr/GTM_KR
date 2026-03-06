@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-05T21:59:50.074359",
-  "count": 32,
+  "updated_at": "2026-03-06T21:54:17.685477",
+  "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.SpaceMinions",
@@ -141,9 +141,9 @@
       "developer": "STUDIOBSIDE"
     },
     {
-      "id": "com.superbox.aos.collecthole",
-      "title": "드랍 인 더 홀",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.collecthole&hl=ko",
+      "id": "com.superbox.aos.tycoon",
+      "title": "에잇! 전사들",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.tycoon&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {
@@ -186,6 +186,12 @@
       "id": "net.gameduo.dfd",
       "title": "에덴 : 더 라스트 라인",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko",
+      "developer": "Gameduo"
+    },
+    {
+      "id": "net.gameduo.nb2",
+      "title": "닌자대전: 월드",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.nb2&hl=ko",
       "developer": "Gameduo"
     },
     {

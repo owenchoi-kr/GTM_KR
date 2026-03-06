@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-03-05T21:59:50.074987",
+  "updated_at": "2026-03-06T21:54:17.686180",
   "count": 15,
   "games": [
+    {
+      "id": "0001004312",
+      "title": "다크 어센션",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004312",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001003809",
       "title": "2026 프로야구GO",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003809",
       "developer": "HAEGIN"
+    },
+    {
+      "id": "0001004502",
+      "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502",
+      "developer": "NADDIC GAMES CO LTD"
     },
     {
       "id": "0001002649",
@@ -79,16 +91,6 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
-    },
-    {
-      "id": "0001004452",
-      "title": "마법사 강화하기: 미소녀 성장 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004452"
-    },
-    {
-      "id": "0001004273",
-      "title": "뽑만추 : 방치된 뽑기기계 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004273"
     }
   ]
 }
