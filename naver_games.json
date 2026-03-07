@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-03-06T21:54:17.686400",
+  "updated_at": "2026-03-07T21:45:42.005237",
   "count": 25,
   "games": [
-    {
-      "id": "GM_NCR_013999",
-      "title": "슬레이 더 스파이어 2",
-      "url": "https://game.naver.com/Slay_the_Spire2",
-      "release_date": "2026-03-06 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_017905",
-      "title": "마라톤",
-      "url": "https://game.naver.com/MARATHON",
-      "release_date": "2026-03-06 오픈",
-      "platform": "PC,PS5,XBOX SERIES X/S"
-    },
-    {
-      "id": "GM_NCR_021049",
-      "title": "플래닛 오브 라나 II",
-      "url": "https://game.naver.com/Planet_of_Lana_II",
-      "release_date": "2026-03-06 오픈",
-      "platform": "XBOX ONE,XBOX SERIES X/S"
-    },
     {
       "id": "GM_NCR_022143",
       "title": "창세기전 키우기",
@@ -43,6 +22,13 @@
       "url": "https://game.naver.com/Realgod",
       "release_date": "2026-02-27 ~ 2026-03-12 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_005701",
+      "title": "팀버본",
+      "url": "https://game.naver.com/Timberborn",
+      "release_date": "2026-03-06 ~ 2026-03-13 사전예약",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_020325",
@@ -73,10 +59,24 @@
       "platform": "PC"
     },
     {
+      "id": "GM_NCR_021909",
+      "title": "비스트 클래시: 라스트 프런트",
+      "url": "https://game.naver.com/Beast_Clash_Last_Front",
+      "release_date": "2026-03-06 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_021996",
       "title": "용사가 돌아왔다 키우기",
       "url": "https://game.naver.com/The_Warrior_Returns_AFK",
       "release_date": "2026-02-12 ~ 2026-04-07 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_020220",
+      "title": "머지 거래소",
+      "url": "https://game.naver.com/Merge_Exchange",
+      "release_date": "2026-03-07 ~ 2026-04-22 사전예약",
       "platform": "Android,iOS"
     },
     {
