@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-08T21:47:38.371116",
-  "count": 7,
+  "updated_at": "2026-03-09T21:56:58.285648",
+  "count": 8,
   "games": [
+    {
+      "id": "957",
+      "title": "파운데이션: 우주 전선",
+      "url": "https://pick.inven.co.kr/campaign/957/Foundation",
+      "release_date": "3월 27일 출시 예정",
+      "reward": "[2000이니, 100베니]행동 포션, 10,000금속, 10,000물, 4,000갤럭시 코인",
+      "developer": "FunPlus"
+    },
     {
       "id": "951",
       "title": "이환",
@@ -22,7 +30,7 @@
       "id": "950",
       "title": "창세기전 키우기",
       "url": "https://pick.inven.co.kr/campaign/950/GGInvenPreOrder",
-      "release_date": "3월 10일 출시 예정",
+      "release_date": "3월 10일 출시 완료",
       "reward": "[2000이니, 100베니]영웅 캐릭터 크로우, 루비, 캐릭터 뽑기권 제공",
       "developer": "뉴노멀소프트"
     },

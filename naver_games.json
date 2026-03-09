@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-03-08T21:47:38.371538",
+  "updated_at": "2026-03-09T21:56:58.286070",
   "count": 26,
   "games": [
+    {
+      "id": "GM_NCR_021064",
+      "title": "커넥티드 클루",
+      "url": "https://game.naver.com/Connected_Clue",
+      "release_date": "2026-03-09 오픈",
+      "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_020325",
+      "title": "크로스림:오디세이",
+      "url": "https://game.naver.com/crossrim",
+      "release_date": "2026-02-23 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
     {
       "id": "GM_NCR_022143",
       "title": "창세기전 키우기",
@@ -29,13 +43,6 @@
       "url": "https://game.naver.com/Timberborn",
       "release_date": "2026-03-06 ~ 2026-03-13 사전예약",
       "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_020325",
-      "title": "크로스림:오디세이",
-      "url": "https://game.naver.com/crossrim",
-      "release_date": "2026-02-23 ~  사전예약",
-      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_019382",
@@ -176,13 +183,6 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021708",
-      "title": "프로젝트 제타",
-      "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-03-03 ~ 2026-03-08 OBT",
-      "platform": "PC"
     }
   ]
 }

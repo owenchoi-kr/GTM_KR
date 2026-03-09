@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-03-08T21:47:38.371369",
-  "count": 15,
+  "updated_at": "2026-03-09T21:56:58.285901",
+  "count": 16,
   "games": [
     {
-      "id": "0001004312",
-      "title": "다크 어센션",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004312",
-      "developer": "GM 게임"
+      "id": "0001001830",
+      "title": "DX: 각성자들",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001830",
+      "developer": "FAMOUS HEART LIMITED"
     },
     {
       "id": "0001003809",
@@ -37,12 +37,6 @@
       "title": "다크로드 사가: 한붓그리기 퍼즐 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003822",
       "developer": "NUSOFT"
-    },
-    {
-      "id": "0001004121",
-      "title": "크로스림:오디세이",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121",
-      "developer": "CAP CLOUD Corp"
     },
     {
       "id": "0001002358",
@@ -91,6 +85,17 @@
       "title": "신수의 전설",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
       "developer": "SHARK ENTERTAINMENT LIMITED"
+    },
+    {
+      "id": "0001004312",
+      "title": "다크 어센션",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004312"
+    },
+    {
+      "id": "0001004121",
+      "title": "크로스림:오디세이",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121",
+      "developer": "CAP CLOUD Corp"
     }
   ]
 }
