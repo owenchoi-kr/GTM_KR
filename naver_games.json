@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-03-09T21:56:58.286070",
+  "updated_at": "2026-03-10T21:52:37.727025",
   "count": 26,
   "games": [
-    {
-      "id": "GM_NCR_021064",
-      "title": "커넥티드 클루",
-      "url": "https://game.naver.com/Connected_Clue",
-      "release_date": "2026-03-09 오픈",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_020325",
       "title": "크로스림:오디세이",
@@ -80,6 +73,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_022018",
+      "title": "드래곤네스트 월드",
+      "url": "https://game.naver.com/DragonnestWorld",
+      "release_date": "2026-03-09 ~ 2026-04-09 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_020220",
       "title": "머지 거래소",
       "url": "https://game.naver.com/Merge_Exchange",
@@ -105,7 +105,7 @@
       "title": "초초초초밥:협동디펜스",
       "url": "https://game.naver.com/sususususushi",
       "release_date": "2026-03-07 ~  사전예약",
-      "platform": "Android"
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_020833",

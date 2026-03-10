@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-09T21:56:58.285648",
-  "count": 8,
+  "updated_at": "2026-03-10T21:52:37.726565",
+  "count": 7,
   "games": [
     {
       "id": "957",
@@ -25,14 +25,6 @@
       "release_date": "3월 18일 출시 예정",
       "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요.",
       "developer": "NCSOFT"
-    },
-    {
-      "id": "950",
-      "title": "창세기전 키우기",
-      "url": "https://pick.inven.co.kr/campaign/950/GGInvenPreOrder",
-      "release_date": "3월 10일 출시 완료",
-      "reward": "[2000이니, 100베니]영웅 캐릭터 크로우, 루비, 캐릭터 뽑기권 제공",
-      "developer": "뉴노멀소프트"
     },
     {
       "id": "909",

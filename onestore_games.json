@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-09T21:56:58.285901",
-  "count": 16,
+  "updated_at": "2026-03-10T21:52:37.726807",
+  "count": 17,
   "games": [
+    {
+      "id": "0001003573",
+      "title": "히어로 서바이버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573",
+      "developer": "Dalian Yunyi Game Technology Co., Ltd"
+    },
     {
       "id": "0001001830",
       "title": "DX: 각성자들",
@@ -94,8 +100,7 @@
     {
       "id": "0001004121",
       "title": "크로스림:오디세이",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121",
-      "developer": "CAP CLOUD Corp"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121"
     }
   ]
 }
