@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-10T21:52:37.726565",
-  "count": 7,
+  "updated_at": "2026-03-11T21:57:33.534348",
+  "count": 9,
   "games": [
+    {
+      "id": "953",
+      "title": "리니지2M",
+      "url": "https://pick.inven.co.kr/campaign/953/L2M",
+      "release_date": "3월 25일 출시 예정",
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NCSOFT"
+    },
     {
       "id": "957",
       "title": "파운데이션: 우주 전선",
@@ -33,6 +41,14 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
+    },
+    {
+      "id": "955",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://pick.inven.co.kr/campaign/955/warriorreturns",
+      "release_date": "4월 28일 출시 예정",
+      "reward": "[1000이니]3,333 용사 소환 티켓, 77,700 여신의 크리스탈, SSR 소환 상자",
+      "developer": "스튜디오리코 주식회사"
     },
     {
       "id": "954",

@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-10T21:52:37.726010",
-  "count": 33,
+  "updated_at": "2026-03-11T21:57:33.533713",
+  "count": 34,
   "games": [
-    {
-      "id": "com.TeamSparta.SpaceMinions",
-      "title": "스페이스 미니언즈: 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.SpaceMinions&hl=ko",
-      "developer": "RocketdanGames"
-    },
     {
       "id": "com.TeamSparta.battleshipgo",
       "title": "배틀 쉽 고 : 몬스터 웨이브",
@@ -61,6 +55,18 @@
       "title": "Arcath Tales: roguelike RPG",
       "url": "https://play.google.com/store/apps/details?id=com.f5game.at&hl=ko",
       "developer": "Proficient City Hong Kong"
+    },
+    {
+      "id": "com.finalflow.cupblast",
+      "title": "Cup Blast",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko",
+      "developer": "Finalflow"
+    },
+    {
+      "id": "com.finalflow.imagejam",
+      "title": "Image Jam : Color Puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.finalflow.imagejam&hl=ko",
+      "developer": "Finalflow"
     },
     {
       "id": "com.gamee.godslayer.rpg.rougelike",

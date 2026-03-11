@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-10T21:52:37.727025",
-  "count": 26,
+  "updated_at": "2026-03-11T21:57:33.534892",
+  "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_020325",
-      "title": "크로스림:오디세이",
-      "url": "https://game.naver.com/crossrim",
-      "release_date": "2026-02-23 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
-      "id": "GM_NCR_022143",
-      "title": "창세기전 키우기",
-      "url": "https://game.naver.com/War_Of_Genesis",
-      "release_date": "2026-02-23 ~ 2026-03-10 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
