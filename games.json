@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-11T21:57:33.533713",
-  "count": 34,
+  "updated_at": "2026-03-12T21:57:31.993372",
+  "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.battleshipgo",
@@ -37,12 +37,6 @@
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
-    },
-    {
-      "id": "com.devolverdigital.ballxpit",
-      "title": "BALL x PIT",
-      "url": "https://play.google.com/store/apps/details?id=com.devolverdigital.ballxpit&hl=ko",
-      "developer": "DevolverDigital"
     },
     {
       "id": "com.ellagames.bigguy",

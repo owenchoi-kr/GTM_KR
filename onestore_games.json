@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-11T21:57:33.534643",
-  "count": 17,
+  "updated_at": "2026-03-12T21:57:31.994337",
+  "count": 18,
   "games": [
     {
       "id": "0001003573",
@@ -9,10 +9,22 @@
       "developer": "Dalian Yunyi Game Technology Co., Ltd"
     },
     {
+      "id": "0001004555",
+      "title": "나루토:듀얼",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555",
+      "developer": "KPENT LIMITED"
+    },
+    {
       "id": "0001001830",
       "title": "DX: 각성자들",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001830",
       "developer": "FAMOUS HEART LIMITED"
+    },
+    {
+      "id": "0001004110",
+      "title": "비스트 클래시: 라스트 프런트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004110",
+      "developer": "king_net"
     },
     {
       "id": "0001003809",
@@ -85,12 +97,6 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
-    },
-    {
-      "id": "0001003149",
-      "title": "신수의 전설",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
-      "developer": "SHARK ENTERTAINMENT LIMITED"
     },
     {
       "id": "0001004312",
