@@ -1,55 +1,27 @@
 {
-  "updated_at": "2026-03-12T21:57:31.994563",
-  "count": 30,
+  "updated_at": "2026-03-13T21:57:41.757370",
+  "count": 27,
   "games": [
-    {
-      "id": "GM_NCR_001561",
-      "title": "거짓말쟁이 공주와 눈먼 왕자",
-      "url": "https://game.naver.com/The_Liar_Princess_and_The_Blind_Prince",
-      "release_date": "2026-03-12 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_022337",
-      "title": "치르노! 바위를 들어라",
-      "url": "https://game.naver.com/Cirno_Lifts_a_Boulder",
-      "release_date": "2026-03-12 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_020787",
-      "title": "제로 ~붉은 나비~ REMAKE",
-      "url": "https://game.naver.com/FATAL_FRAME_II_Crimson_Butterfly_REMAKE",
-      "release_date": "2026-03-12 오픈",
-      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
-    },
     {
       "id": "GM_NCR_010174",
       "title": "존 카펜터의 톡식 코만도",
       "url": "https://game.naver.com/John_Carpenters_Toxic_Commando",
-      "release_date": "2026-03-12 오픈",
-      "platform": "PC,PS5"
-    },
-    {
-      "id": "GM_NCR_015957",
-      "title": "솔라테리아",
-      "url": "https://game.naver.com/Solateria",
-      "release_date": "2026-03-12 오픈",
+      "release_date": "2026-03-13 오픈",
       "platform": "PC"
     },
     {
-      "id": "GM_NCR_021855",
-      "title": "1348 엑스 보토",
-      "url": "https://game.naver.com/1348Ex_Voto",
-      "release_date": "2026-03-12 오픈",
-      "platform": "PC,PS5"
+      "id": "GM_NCR_021923",
+      "title": "WWE 2K26",
+      "url": "https://game.naver.com/WWE2K26",
+      "release_date": "2026-03-13 오픈",
+      "platform": "PC,PS5,Switch 2,XBOX SERIES X/S"
     },
     {
-      "id": "GM_NCR_021376",
-      "title": "엘트릭스",
-      "url": "https://game.naver.com/Realgod",
-      "release_date": "2026-02-27 ~ 2026-03-12 사전예약",
-      "platform": "Android,iOS"
+      "id": "GM_NCR_021324",
+      "title": "몬스터헌터 스토리즈 3 엇갈린 운명",
+      "url": "https://game.naver.com/Monster_Hunter_Stories3_Twisted_Reflection",
+      "release_date": "2026-03-13 오픈",
+      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
     },
     {
       "id": "GM_NCR_005701",
@@ -78,6 +50,13 @@
       "url": "https://game.naver.com/bdz",
       "release_date": "2026-02-25 ~ 2026-03-24 사전예약",
       "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_022305",
+      "title": "다크로드 사가",
+      "url": "https://game.naver.com/Darklord_Saga",
+      "release_date": "2026-03-13 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_105",

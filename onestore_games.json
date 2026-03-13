@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-03-12T21:57:31.994337",
-  "count": 18,
+  "updated_at": "2026-03-13T21:57:41.757137",
+  "count": 21,
   "games": [
+    {
+      "id": "0001004314",
+      "title": "아스트라 엣지",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004314",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001003284",
+      "title": "실크로드 어게인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003284",
+      "developer": "VFive Games co.,Ltd."
+    },
     {
       "id": "0001003573",
       "title": "히어로 서바이버",
@@ -13,6 +25,12 @@
       "title": "나루토:듀얼",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555",
       "developer": "KPENT LIMITED"
+    },
+    {
+      "id": "0001004492",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492",
+      "developer": "STUDIO LICO"
     },
     {
       "id": "0001001830",

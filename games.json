@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-03-12T21:57:31.993372",
-  "count": 33,
+  "updated_at": "2026-03-13T21:57:41.756352",
+  "count": 32,
   "games": [
-    {
-      "id": "com.TeamSparta.battleshipgo",
-      "title": "배틀 쉽 고 : 몬스터 웨이브",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.battleshipgo&hl=ko",
-      "developer": "RocketdanGames"
-    },
     {
       "id": "com.act7ent.evilsword",
       "title": "이블 소드",
@@ -31,6 +25,12 @@
       "title": "Pepp Heroes: Relic Quest",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko",
       "developer": "Com2uS"
+    },
+    {
+      "id": "com.cookapps.bouncedefense",
+      "title": "통통 디펜스 : 핀볼 히어로",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bouncedefense&hl=ko",
+      "developer": "CookApps"
     },
     {
       "id": "com.daeri.TenValkyrie",
@@ -121,12 +121,6 @@
       "title": "Backpack Legends Adventure RPG",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.pujiagames.FishingJourney",
-      "title": "냐옹이 낚시 일기",
-      "url": "https://play.google.com/store/apps/details?id=com.pujiagames.FishingJourney&hl=ko",
-      "developer": "Pujia8 LTD"
     },
     {
       "id": "com.ranidagames.basketballslammyteam",
