@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-03-13T21:57:41.757370",
-  "count": 27,
+  "updated_at": "2026-03-14T21:51:34.635665",
+  "count": 25,
   "games": [
-    {
-      "id": "GM_NCR_010174",
-      "title": "존 카펜터의 톡식 코만도",
-      "url": "https://game.naver.com/John_Carpenters_Toxic_Commando",
-      "release_date": "2026-03-13 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_021923",
-      "title": "WWE 2K26",
-      "url": "https://game.naver.com/WWE2K26",
-      "release_date": "2026-03-13 오픈",
-      "platform": "PC,PS5,Switch 2,XBOX SERIES X/S"
-    },
-    {
-      "id": "GM_NCR_021324",
-      "title": "몬스터헌터 스토리즈 3 엇갈린 운명",
-      "url": "https://game.naver.com/Monster_Hunter_Stories3_Twisted_Reflection",
-      "release_date": "2026-03-13 오픈",
-      "platform": "PC,PS5,XBOX SERIES X/S,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_005701",
-      "title": "팀버본",
-      "url": "https://game.naver.com/Timberborn",
-      "release_date": "2026-03-06 ~ 2026-03-13 사전예약",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_019382",
       "title": "냥냥섬: 전설의 집사",
@@ -59,6 +31,13 @@
       "platform": "Android,iOS,OneStore"
     },
     {
+      "id": "GM_NCR_021912",
+      "title": "영혼 인도자：신의 이름으로",
+      "url": "https://game.naver.com/Soul_Ferryman",
+      "release_date": "2026-03-13 ~ 2026-03-26 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_105",
       "title": "워프레임",
       "url": "https://game.naver.com/Warframe",
@@ -71,6 +50,13 @@
       "url": "https://game.naver.com/Beast_Clash_Last_Front",
       "release_date": "2026-03-06 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-03-13 ~ 2026-04-01 사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_021996",
