@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-03-15T21:54:09.314134",
+  "updated_at": "2026-03-16T22:04:36.338631",
   "count": 25,
   "games": [
-    {
-      "id": "GM_NCR_019382",
-      "title": "냥냥섬: 전설의 집사",
-      "url": "https://game.naver.com/meowland",
-      "release_date": "2026-02-19 ~  사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_021692",
       "title": "우와 모험단",
@@ -63,6 +56,13 @@
       "title": "용사가 돌아왔다 키우기",
       "url": "https://game.naver.com/The_Warrior_Returns_AFK",
       "release_date": "2026-02-12 ~ 2026-04-07 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_019382",
+      "title": "냥냥섬: 전설의 집사",
+      "url": "https://game.naver.com/meowland",
+      "release_date": "2026-02-19 ~  사전예약",
       "platform": "Android,iOS"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T21:54:09.313915",
-  "count": 21,
+  "updated_at": "2026-03-16T22:04:36.338436",
+  "count": 19,
   "games": [
     {
       "id": "0001004314",
@@ -15,16 +15,16 @@
       "developer": "VFive Games co.,Ltd."
     },
     {
-      "id": "0001003573",
-      "title": "히어로 서바이버",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573",
-      "developer": "Dalian Yunyi Game Technology Co., Ltd"
-    },
-    {
       "id": "0001004555",
       "title": "나루토:듀얼",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555",
       "developer": "KPENT LIMITED"
+    },
+    {
+      "id": "0001003573",
+      "title": "히어로 서바이버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573",
+      "developer": "Dalian Yunyi Game Technology Co., Ltd"
     },
     {
       "id": "0001004492",
@@ -115,16 +115,6 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
-    },
-    {
-      "id": "0001004312",
-      "title": "다크 어센션",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004312"
-    },
-    {
-      "id": "0001004121",
-      "title": "크로스림:오디세이",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004121"
     }
   ]
 }
