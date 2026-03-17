@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-16T22:04:36.337762",
-  "count": 32,
+  "updated_at": "2026-03-17T22:04:12.766638",
+  "count": 30,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -93,12 +93,6 @@
       "developer": "LINE Games"
     },
     {
-      "id": "com.mobirix.mgct",
-      "title": "머지 캣 타운",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.mgct&hl=ko",
-      "developer": "mobirix"
-    },
-    {
       "id": "com.ncroquis.zombieisland",
       "title": "배틀레이서 : 좀비아일랜드",
       "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko",
@@ -145,12 +139,6 @@
       "title": "픽셀 기사단 키우기 : 방치형RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko",
       "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.tree.idle.cat.school",
-      "title": "고양이 학교 : 귀여운 방치형 타이쿤 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.school&hl=ko",
-      "developer": "TREEPLLA"
     },
     {
       "id": "com.v2r.AbyssWorld",

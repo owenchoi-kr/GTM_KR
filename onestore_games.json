@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-03-16T22:04:36.338436",
-  "count": 19,
+  "updated_at": "2026-03-17T22:04:12.767401",
+  "count": 21,
   "games": [
+    {
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
+      "developer": "K8GAMES"
+    },
+    {
+      "id": "0001004554",
+      "title": "파운데이션: 우주 전선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004554",
+      "developer": "Funplus International AG"
+    },
     {
       "id": "0001004314",
       "title": "아스트라 엣지",
@@ -13,12 +25,6 @@
       "title": "실크로드 어게인",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003284",
       "developer": "VFive Games co.,Ltd."
-    },
-    {
-      "id": "0001004555",
-      "title": "나루토:듀얼",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555",
-      "developer": "KPENT LIMITED"
     },
     {
       "id": "0001003573",
@@ -115,6 +121,11 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001004555",
+      "title": "나루토:듀얼",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555"
     }
   ]
 }
