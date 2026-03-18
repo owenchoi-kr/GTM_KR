@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-17T22:04:12.766638",
-  "count": 30,
+  "updated_at": "2026-03-18T22:03:58.238763",
+  "count": 29,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -163,12 +163,6 @@
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
-    },
-    {
-      "id": "net.gameduo.dfd",
-      "title": "에덴 : 더 라스트 라인",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.dfd&hl=ko",
-      "developer": "Gameduo"
     },
     {
       "id": "net.gameduo.nb2",

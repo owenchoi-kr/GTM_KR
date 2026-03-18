@@ -1,19 +1,12 @@
 {
-  "updated_at": "2026-03-17T22:04:12.767629",
-  "count": 28,
+  "updated_at": "2026-03-18T22:03:58.240019",
+  "count": 27,
   "games": [
-    {
-      "id": "GM_NCR_022110",
-      "title": "일곱 개의 대죄: Origin",
-      "url": "https://game.naver.com/The_Seven_Deadly_Sins_Origin",
-      "release_date": "2026-03-17 오픈",
-      "platform": "PC,PS5"
-    },
     {
       "id": "GM_NCR_021945",
       "title": "초초초초밥:협동디펜스",
       "url": "https://game.naver.com/sususususushi",
-      "release_date": "2026-03-07 ~  사전예약",
+      "release_date": "2026-03-07 ~ 2026-03-19 사전예약",
       "platform": "Android,iOS"
     },
     {

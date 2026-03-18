@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-17T22:04:12.767106",
-  "count": 9,
+  "updated_at": "2026-03-18T22:03:58.239263",
+  "count": 8,
   "games": [
     {
       "id": "959",
@@ -49,14 +49,6 @@
       "release_date": "4월 28일 출시 예정",
       "reward": "[1000이니]3,333 용사 소환 티켓, 77,700 여신의 크리스탈, SSR 소환 상자",
       "developer": "스튜디오리코 주식회사"
-    },
-    {
-      "id": "954",
-      "title": "라살라스",
-      "url": "https://pick.inven.co.kr/campaign/954/Rasalas",
-      "release_date": "3월 18일 출시 완료",
-      "reward": "[1000이니]아바타 소환권, 펫 소환권, 골드, 강화 주문서",
-      "developer": "레포르게임즈"
     },
     {
       "id": "949",
