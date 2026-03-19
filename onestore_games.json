@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-18T22:03:58.239676",
+  "updated_at": "2026-03-19T21:56:50.689911",
   "count": 21,
   "games": [
     {
@@ -21,22 +21,10 @@
       "developer": "VFive Games co.,Ltd."
     },
     {
-      "id": "0001003573",
-      "title": "히어로 서바이버",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573",
-      "developer": "Dalian Yunyi Game Technology Co., Ltd"
-    },
-    {
       "id": "0001004492",
       "title": "용사가 돌아왔다 키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492",
       "developer": "STUDIO LICO"
-    },
-    {
-      "id": "0001001830",
-      "title": "DX: 각성자들",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001830",
-      "developer": "FAMOUS HEART LIMITED"
     },
     {
       "id": "0001004110",
@@ -49,12 +37,6 @@
       "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502",
       "developer": "NADDIC GAMES CO LTD"
-    },
-    {
-      "id": "0001002649",
-      "title": "우와 모험단",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002649",
-      "developer": "JOY MOBILE NETWORK PTE. LTD."
     },
     {
       "id": "0001003574",
@@ -115,9 +97,24 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555"
     },
     {
+      "id": "0001003573",
+      "title": "히어로 서바이버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573"
+    },
+    {
+      "id": "0001001830",
+      "title": "DX: 각성자들",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001830"
+    },
+    {
       "id": "0001003809",
       "title": "2026 프로야구GO",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003809"
+    },
+    {
+      "id": "0001002649",
+      "title": "우와 모험단",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002649"
     },
     {
       "id": "0001003789",

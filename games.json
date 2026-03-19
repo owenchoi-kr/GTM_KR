@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-18T22:03:58.238763",
-  "count": 29,
+  "updated_at": "2026-03-19T21:56:50.689271",
+  "count": 30,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -37,6 +37,12 @@
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
+    },
+    {
+      "id": "com.dalcomsoft.ssbl",
+      "title": "SUPERSTAR THEBLACKLABEL",
+      "url": "https://play.google.com/store/apps/details?id=com.dalcomsoft.ssbl&hl=ko",
+      "developer": "Dalcomsoft, Inc."
     },
     {
       "id": "com.ellagames.bigguy",
@@ -117,16 +123,16 @@
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {
+      "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
+      "title": "MonMon Masters",
+      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko",
+      "developer": "PLAYHARD STUDIO"
+    },
+    {
       "id": "com.ranidagames.basketballslammyteam",
       "title": "Basketball Slam MyTEAM",
       "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
       "developer": "Ranida Games"
-    },
-    {
-      "id": "com.studiobside.starMain",
-      "title": "스타세이비어",
-      "url": "https://play.google.com/store/apps/details?id=com.studiobside.starMain&hl=ko",
-      "developer": "STUDIOBSIDE"
     },
     {
       "id": "com.superbox.aos.tycoon",
