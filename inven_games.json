@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-19T21:56:50.689696",
-  "count": 8,
+  "updated_at": "2026-03-20T21:55:25.580211",
+  "count": 9,
   "games": [
     {
       "id": "959",
@@ -41,6 +41,14 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
+    },
+    {
+      "id": "961",
+      "title": "애니멀 버스터즈",
+      "url": "https://pick.inven.co.kr/campaign/961/AnimalBusters",
+      "release_date": "4월 7일 출시 예정",
+      "reward": "[1000이니]버스터 뽑기 티켓*300, 영웅 버스터 선택권, 영웅 장비 카드",
+      "developer": "라인게임즈"
     },
     {
       "id": "955",

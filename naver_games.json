@@ -1,55 +1,20 @@
 {
-  "updated_at": "2026-03-19T21:56:50.690134",
-  "count": 33,
+  "updated_at": "2026-03-20T21:55:25.580748",
+  "count": 29,
   "games": [
     {
-      "id": "GM_NCR_001997",
-      "title": "섀도우 택틱스: 블레이드 오브 더 쇼군",
-      "url": "https://game.naver.com/Shadow_Tactics_Blades_of_the_Shogun",
-      "release_date": "2026-03-19 오픈",
-      "platform": "닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_017437",
-      "title": "데스 스트랜딩 2: 온 더 비치",
-      "url": "https://game.naver.com/Death_Stranding2_On_the_Beach",
-      "release_date": "2026-03-19 오픈",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_022437",
-      "title": "러싱 비트 X: 리턴 오브 브롤 브라더스",
-      "url": "https://game.naver.com/RUSHING_BEATX_Return_Of_Brawl_Brothers",
-      "release_date": "2026-03-19 오픈",
-      "platform": "PC,PS5,닌텐도 스위치 2"
-    },
-    {
-      "id": "GM_NCR_015377",
-      "title": "그리드폴: 더 다잉 월드",
-      "url": "https://game.naver.com/GreedFall2_The_Dying_World",
-      "release_date": "2026-03-19 오픈",
-      "platform": "PS5"
-    },
-    {
-      "id": "GM_NCR_022410",
-      "title": "탕! 탕! 반디츠",
-      "url": "https://game.naver.com/BANG_BANG_BANDITS",
-      "release_date": "2026-03-19 오픈",
-      "platform": "닌텐도 스위치,닌텐도 스위치 2"
+      "id": "GM_NCR_015107",
+      "title": "붉은사막",
+      "url": "https://game.naver.com/CrimsonDesert",
+      "release_date": "2026-03-20 오픈",
+      "platform": "PC,PS5,XBOX SERIES X/S"
     },
     {
       "id": "GM_NCR_021945",
       "title": "초초초초밥:협동디펜스",
       "url": "https://game.naver.com/sususususushi",
-      "release_date": "2026-03-07 ~ 2026-03-19 사전예약",
+      "release_date": "2026-03-20 오픈",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_021692",
-      "title": "우와 모험단",
-      "url": "https://game.naver.com/whoaadventurers",
-      "release_date": "2026-02-27 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_003922",
@@ -99,6 +64,13 @@
       "url": "https://game.naver.com/Honor_of_Kings",
       "release_date": "2026-03-13 ~ 2026-04-01 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_021932",
+      "title": "남탓 디펜스",
+      "url": "https://game.naver.com/nam_tat_defense",
+      "release_date": "2026-03-19 ~ 2026-04-01 사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_021996",

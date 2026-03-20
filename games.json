@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-19T21:56:50.689271",
-  "count": 30,
+  "updated_at": "2026-03-20T21:55:25.579576",
+  "count": 31,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -144,6 +144,12 @@
       "id": "com.superpixel.pixelknights",
       "title": "픽셀 기사단 키우기 : 방치형RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko",
+      "developer": "SUPERBOX Inc"
+    },
+    {
+      "id": "com.superpixel.undyinghero",
+      "title": "불사용사 키우기 : 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {
