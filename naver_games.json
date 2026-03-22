@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-21T21:49:34.144646",
-  "count": 29,
+  "updated_at": "2026-03-22T21:52:00.283367",
+  "count": 30,
   "games": [
     {
       "id": "GM_NCR_003922",
@@ -64,6 +64,13 @@
       "url": "https://game.naver.com/nam_tat_defense",
       "release_date": "2026-03-19 ~ 2026-04-01 사전예약",
       "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_022291",
+      "title": "이터널 크로니클",
+      "url": "https://game.naver.com/Eternal_Chronicle",
+      "release_date": "2026-03-21 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_021996",

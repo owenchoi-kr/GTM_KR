@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-21T21:49:34.143670",
-  "count": 31,
+  "updated_at": "2026-03-22T21:52:00.282292",
+  "count": 33,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -49,6 +49,12 @@
       "title": "뚱기사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko",
       "developer": "ELLA Games"
+    },
+    {
+      "id": "com.emagroups.wl",
+      "title": "Spirits of Aetheria",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko",
+      "developer": "NEOCRAFT LIMITED"
     },
     {
       "id": "com.f5game.at",
@@ -169,6 +175,12 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
+    },
+    {
+      "id": "com.x1global.google",
+      "title": "Phantom Edge: Oath",
+      "url": "https://play.google.com/store/apps/details?id=com.x1global.google&hl=ko",
+      "developer": "Hifun Game"
     },
     {
       "id": "com.zestbeat.tripletile",
