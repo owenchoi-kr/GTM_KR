@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-22T21:52:00.282292",
+  "updated_at": "2026-03-23T21:58:29.606961",
   "count": 33,
   "games": [
     {
@@ -45,6 +45,12 @@
       "developer": "Dalcomsoft, Inc."
     },
     {
+      "id": "com.devsisters.cos",
+      "title": "쿠키런: 오븐스매시",
+      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko",
+      "developer": "Devsisters Corporation"
+    },
+    {
       "id": "com.ellagames.bigguy",
       "title": "뚱기사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko",
@@ -55,12 +61,6 @@
       "title": "Spirits of Aetheria",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko",
       "developer": "NEOCRAFT LIMITED"
-    },
-    {
-      "id": "com.f5game.at",
-      "title": "Arcath Tales: roguelike RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.f5game.at&hl=ko",
-      "developer": "Proficient City Hong Kong"
     },
     {
       "id": "com.finalflow.cupblast",
@@ -114,12 +114,6 @@
       "id": "com.netmarble.monster2",
       "title": "몬길: STAR DIVE",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.monster2&hl=ko",
-      "developer": "Netmarble"
-    },
-    {
-      "id": "com.netmarble.nanaori",
-      "title": "일곱 개의 대죄: Origin",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.nanaori&hl=ko",
       "developer": "Netmarble"
     },
     {
@@ -187,6 +181,12 @@
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
+    },
+    {
+      "id": "net.gameduo.fastdungeon",
+      "title": "패스트던전",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.fastdungeon&hl=ko",
+      "developer": "Gameduo"
     },
     {
       "id": "net.gameduo.nb2",

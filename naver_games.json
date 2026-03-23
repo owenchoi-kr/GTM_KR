@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-03-22T21:52:00.283367",
-  "count": 30,
+  "updated_at": "2026-03-23T21:58:29.608158",
+  "count": 29,
   "games": [
     {
-      "id": "GM_NCR_003922",
-      "title": "커피 토크",
-      "url": "https://game.naver.com/Coffee_Talk",
-      "release_date": "2026-03-16 ~ 2026-03-22 사전예약",
-      "platform": "Android,iOS"
+      "id": "GM_NCR_017394",
+      "title": "카케구루이 ALL IN",
+      "url": "https://game.naver.com/Kakegurui_ALL_IN",
+      "release_date": "2025-03-12 ~  사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_022198",
@@ -190,13 +190,6 @@
       "url": "https://game.naver.com/isekone",
       "release_date": "2026-02-26 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_017394",
-      "title": "카케구루이 ALL IN",
-      "url": "https://game.naver.com/Kakegurui_ALL_IN",
-      "release_date": "2025-03-12 ~  사전예약",
-      "platform": "Android,PC,iOS"
     },
     {
       "id": "GM_NCR_020152",

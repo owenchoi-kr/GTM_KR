@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-22T21:52:00.283096",
-  "count": 21,
+  "updated_at": "2026-03-23T21:58:29.607902",
+  "count": 22,
   "games": [
     {
       "id": "0001004680",
@@ -85,6 +85,12 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001003149",
+      "title": "신수의 전설",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
+      "developer": "SHARK ENTERTAINMENT LIMITED"
     },
     {
       "id": "0001004314",
