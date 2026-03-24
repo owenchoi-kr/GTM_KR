@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-23T21:58:29.607902",
+  "updated_at": "2026-03-24T22:02:21.155601",
   "count": 22,
   "games": [
+    {
+      "id": "0001004010",
+      "title": "용혈:저주",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001004680",
       "title": "남탓 디펜스",
@@ -87,20 +93,9 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001003149",
-      "title": "신수의 전설",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
-      "developer": "SHARK ENTERTAINMENT LIMITED"
-    },
-    {
       "id": "0001004314",
       "title": "아스트라 엣지",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004314"
-    },
-    {
-      "id": "0001004555",
-      "title": "나루토:듀얼",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004555"
     },
     {
       "id": "0001003573",
@@ -126,6 +121,12 @@
       "id": "0001003789",
       "title": "에덴 : 더 라스트 라인",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003789"
+    },
+    {
+      "id": "0001003149",
+      "title": "신수의 전설",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
+      "developer": "SHARK ENTERTAINMENT LIMITED"
     }
   ]
 }

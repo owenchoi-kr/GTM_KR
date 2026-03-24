@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-23T21:58:29.606961",
+  "updated_at": "2026-03-24T22:02:21.154825",
   "count": 33,
   "games": [
     {
@@ -45,12 +45,6 @@
       "developer": "Dalcomsoft, Inc."
     },
     {
-      "id": "com.devsisters.cos",
-      "title": "쿠키런: 오븐스매시",
-      "url": "https://play.google.com/store/apps/details?id=com.devsisters.cos&hl=ko",
-      "developer": "Devsisters Corporation"
-    },
-    {
       "id": "com.ellagames.bigguy",
       "title": "뚱기사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko",
@@ -61,6 +55,12 @@
       "title": "Spirits of Aetheria",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko",
       "developer": "NEOCRAFT LIMITED"
+    },
+    {
+      "id": "com.feelingtouch.rush",
+      "title": "Zombie World War: Storm",
+      "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rush&hl=ko",
+      "developer": "FT Games"
     },
     {
       "id": "com.finalflow.cupblast",
