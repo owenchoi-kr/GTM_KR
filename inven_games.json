@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-03-24T22:02:21.155321",
-  "count": 8,
+  "updated_at": "2026-03-25T22:04:28.841099",
+  "count": 9,
   "games": [
+    {
+      "id": "962",
+      "title": "남 탓 디펜스",
+      "url": "https://pick.inven.co.kr/campaign/962/namtatdef",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]1000회 뽑기권 지급",
+      "developer": "주식회사 엔드나인게임즈"
+    },
     {
       "id": "959",
       "title": "드래곤 퀘스트 스매시 그로우",
