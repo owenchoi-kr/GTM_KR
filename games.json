@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T22:04:28.840581",
+  "updated_at": "2026-03-26T21:55:41.436839",
   "count": 33,
   "games": [
     {
@@ -117,12 +117,6 @@
       "developer": "Netmarble"
     },
     {
-      "id": "com.ondi.pack.adventure",
-      "title": "Backpack Legends Adventure RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.pack.adventure&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
       "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
       "title": "MonMon Masters",
       "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko",
@@ -181,6 +175,12 @@
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
+    },
+    {
+      "id": "com.zjcs.android.us",
+      "title": "Sword x Staff",
+      "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us&hl=ko",
+      "developer": "BOLTRAY GAMES"
     },
     {
       "id": "net.gameduo.fastdungeon",

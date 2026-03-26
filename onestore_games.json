@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-25T22:04:28.841383",
-  "count": 19,
+  "updated_at": "2026-03-26T21:55:41.437745",
+  "count": 16,
   "games": [
     {
       "id": "0001004010",
@@ -13,12 +13,6 @@
       "title": "남탓 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
       "developer": "K8GAMES"
-    },
-    {
-      "id": "0001004554",
-      "title": "파운데이션: 우주 전선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004554",
-      "developer": "Funplus International AG"
     },
     {
       "id": "0001003284",
@@ -69,19 +63,9 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001003573",
-      "title": "히어로 서바이버",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003573"
-    },
-    {
-      "id": "0001001830",
-      "title": "DX: 각성자들",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001830"
-    },
-    {
-      "id": "0001002649",
-      "title": "우와 모험단",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002649"
+      "id": "0001004554",
+      "title": "파운데이션: 우주 전선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004554"
     },
     {
       "id": "0001003574",

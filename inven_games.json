@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-25T22:04:28.841099",
-  "count": 9,
+  "updated_at": "2026-03-26T21:55:41.437486",
+  "count": 8,
   "games": [
     {
       "id": "962",
@@ -17,14 +17,6 @@
       "release_date": "출시 미정",
       "reward": "[2000이니, 100베니]서비스 시작 시 '프리미엄 장비 뽑기 티켓 10연분' 증정!",
       "developer": "SQUARE ENIX CO., LTD"
-    },
-    {
-      "id": "957",
-      "title": "파운데이션: 우주 전선",
-      "url": "https://pick.inven.co.kr/campaign/957/Foundation",
-      "release_date": "3월 27일 출시 예정",
-      "reward": "[2000이니, 100베니]행동 포션, 10,000금속, 10,000물, 4,000갤럭시 코인",
-      "developer": "FunPlus"
     },
     {
       "id": "951",
