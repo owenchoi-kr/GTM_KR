@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-03-26T21:55:41.437960",
-  "count": 27,
+  "updated_at": "2026-03-27T21:59:53.929623",
+  "count": 25,
   "games": [
-    {
-      "id": "GM_NCR_021912",
-      "title": "영혼 인도자：신의 이름으로",
-      "url": "https://game.naver.com/Soul_Ferryman",
-      "release_date": "2026-03-13 ~ 2026-03-26 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_105",
-      "title": "워프레임",
-      "url": "https://game.naver.com/Warframe",
-      "release_date": "2026-03-11 ~ 2026-03-26 사전예약",
-      "platform": "Console"
-    },
     {
       "id": "GM_NCR_022346",
       "title": "구리구리왕국:방치형RPG",
@@ -188,7 +174,7 @@
       "id": "GM_NCR_021708",
       "title": "프로젝트 제타",
       "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-03-23 ~ 2026-03-30 OBT",
+      "release_date": "2026-03-23 ~ 2026-03-29 OBT",
       "platform": "PC"
     }
   ]

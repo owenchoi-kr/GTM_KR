@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-03-26T21:55:41.437745",
-  "count": 16,
+  "updated_at": "2026-03-27T21:59:53.929403",
+  "count": 19,
   "games": [
+    {
+      "id": "0001003852",
+      "title": "창세기전 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003852",
+      "developer": "New Normal Soft"
+    },
+    {
+      "id": "0001004613",
+      "title": "에스카라",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001004010",
       "title": "용혈:저주",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001002902",
+      "title": "이터널 크로니클",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902",
+      "developer": "SPGAME CO., LIMITED"
     },
     {
       "id": "0001004680",
