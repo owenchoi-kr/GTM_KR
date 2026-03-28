@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-03-27T21:59:53.929623",
-  "count": 25,
+  "updated_at": "2026-03-28T21:55:52.916792",
+  "count": 24,
   "games": [
     {
-      "id": "GM_NCR_022346",
-      "title": "구리구리왕국:방치형RPG",
-      "url": "https://game.naver.com/GURIGURIKINGDOM",
-      "release_date": "2026-03-20 ~ 2026-03-27 사전예약",
-      "platform": "Android,iOS"
+      "id": "GM_NCR_021932",
+      "title": "남탓 디펜스",
+      "url": "https://game.naver.com/nam_tat_defense",
+      "release_date": "2026-03-19 ~ 2026-04-01 사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_021909",
@@ -22,13 +22,6 @@
       "url": "https://game.naver.com/Honor_of_Kings",
       "release_date": "2026-03-13 ~ 2026-04-01 사전예약",
       "platform": "Android,iOS,OneStore,PC"
-    },
-    {
-      "id": "GM_NCR_021932",
-      "title": "남탓 디펜스",
-      "url": "https://game.naver.com/nam_tat_defense",
-      "release_date": "2026-03-19 ~ 2026-04-01 사전예약",
-      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022291",
@@ -66,17 +59,17 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_020220",
-      "title": "머지 거래소",
-      "url": "https://game.naver.com/Merge_Exchange",
-      "release_date": "2026-03-07 ~ 2026-04-22 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_022364",
       "title": "딸깍 다이스",
       "url": "https://game.naver.com/dicerco",
       "release_date": "2026-03-16 ~ 2026-04-22 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_020220",
+      "title": "머지 거래소",
+      "url": "https://game.naver.com/Merge_Exchange",
+      "release_date": "2026-03-07 ~ 2026-04-22 사전예약",
       "platform": "Android,iOS"
     },
     {
