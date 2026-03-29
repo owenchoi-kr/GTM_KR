@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-28T21:55:52.915843",
-  "count": 33,
+  "updated_at": "2026-03-29T21:57:46.418412",
+  "count": 35,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -57,6 +57,12 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
+      "id": "com.f5game.ag",
+      "title": "Alchemy Guardians",
+      "url": "https://play.google.com/store/apps/details?id=com.f5game.ag&hl=ko",
+      "developer": "F5 Game"
+    },
+    {
       "id": "com.feelingtouch.rush",
       "title": "Zombie World War: Storm",
       "url": "https://play.google.com/store/apps/details?id=com.feelingtouch.rush&hl=ko",
@@ -79,6 +85,12 @@
       "title": "God Rivals: RPG Roguelike",
       "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
       "developer": "God Rivals"
+    },
+    {
+      "id": "com.hottagames.nte",
+      "title": "이환",
+      "url": "https://play.google.com/store/apps/details?id=com.hottagames.nte&hl=ko",
+      "developer": "N2E"
     },
     {
       "id": "com.indusgame.play",
