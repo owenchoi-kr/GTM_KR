@@ -11,12 +11,14 @@
 | 🟡 카카오게임즈 | [game.kakao.com/pr](https://game.kakao.com/pr) | requests (AJAX API) | 게임명 | `kakao_games.json` |
 | 🟣 원스토어 | [사전예약](https://m.onestore.co.kr/v2/ko-kr/event/preregistrations) | requests (RSC 데이터 파싱) | 게임명, 개발사 | `onestore_games.json` |
 | 🟢 네이버게임 | [game.naver.com](https://game.naver.com/) | requests (REST API) | 게임명, 출시일, 플랫폼 | `naver_games.json` |
+| 📅 wame.is | [wame.is/ko/upcoming](https://wame.is/ko/upcoming) | Playwright (API 응답 가로채기) | 게임명, 플랫폼, 퍼블리셔, 출시일 | - (매주 월요일) |
 
 ## 기능
 
 - 5개 플랫폼의 사전등록/출시 게임 목록 크롤링
 - JSON 파일로 게임 목록 저장 및 이전 데이터와 비교
 - **신규 게임이 추가되었을 때만** 해당 게임 정보를 Slack으로 알림 (게임명, 개발사 등)
+- **wame.is 신작 게임 캘린더**: 매주 월요일 향후 2개월 출시 예정 게임 목록 (타이틀, 플랫폼, 퍼블리셔) 자동 전송
 - 변경사항이 없으면 알림 없음
 - GitHub Actions를 통한 자동 실행 (매일 오전 9시 30분 KST)
 
@@ -35,6 +37,10 @@
 1. GitHub Repository → Settings → Secrets and variables → Actions
 2. **New repository secret** 클릭
 3. Name: `SLACK_WEBHOOK_URL`, Value: Slack Webhook URL
+4. Name: `SLACK_BOT_TOKEN`, Value: NewGameBot Bot Token (`xoxb-...`, `chat:write` scope 필요)
+
+> `SLACK_BOT_TOKEN`이 설정되면 `chat.postMessage` API로 전환되어 스레드 기능이 활성화됩니다.
+> 설정하지 않으면 기존 Webhook 방식으로 동작합니다 (스레드 미지원).
 
 ### 3. GitHub Actions 권한 설정
 

@@ -5,7 +5,8 @@ import json
 import os
 import re
 import sys
-from datetime import datetime
+from collections import defaultdict
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests as req
@@ -21,6 +22,8 @@ KAKAO_GAMES_FILE = BASE_DIR / "kakao_games.json"
 ONESTORE_GAMES_FILE = BASE_DIR / "onestore_games.json"
 NAVER_GAMES_FILE = BASE_DIR / "naver_games.json"
 SLACK_WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
+SLACK_BOT_TOKEN = os.environ.get("SLACK_BOT_TOKEN")
+SLACK_CHANNEL_ID = os.environ.get("SLACK_CHANNEL_ID", "C06L38PUWTA")
 
 # URL
 GPLAY_URL = "https://play.google.com/store/apps/collection/promotion_3000000d51_pre_registration_games?hl=ko"
@@ -28,6 +31,7 @@ INVEN_URL = "https://pick.inven.co.kr/"
 KAKAO_URL = "https://game.kakao.com/pr"
 ONESTORE_URL = "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations"
 NAVER_API_URL = "https://comm-api.game.naver.com/nng_main/v1/home/launchGameOfMonth"
+WAME_URL = "https://wame.is/ko/upcoming"
 
 
 # ──────────────────────────────────────────────
@@ -430,6 +434,102 @@ def fetch_naver_games() -> list[dict]:
 
 
 # ──────────────────────────────────────────────
+# wame.is 신작 게임 캘린더
+# ──────────────────────────────────────────────
+
+def _parse_wame_game(item: dict) -> dict:
+    """wame.is API 응답의 게임 항목을 파싱합니다."""
+    platforms = item.get("platformTypes", [])
+    platform_map = {"MOBILE": "📱", "PC": "🖥️", "PS": "🎮", "NS": "🕹️"}
+    platform_str = " ".join(platform_map.get(p, p) for p in platforms)
+
+    return {
+        "title": item.get("title", ""),
+        "platform": platform_str,
+        "publisher": item.get("publisher", ""),
+        "release_ts": item.get("launchDateToTimestamp"),
+    }
+
+
+def fetch_wame_games() -> list[dict]:
+    """wame.is에서 향후 2개월 출시 예정 게임 목록을 가져옵니다."""
+    seen_ids = {}  # gameId -> game (중복 제거)
+
+    print("[wame.is] 출시 예정 게임 목록 조회 중...")
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            locale="ko-KR",
+            viewport={"width": 1920, "height": 1080},
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        )
+
+        # 페이지별 새 탭으로 순회 (SSG hydration 중복 방지)
+        total_pages = 1
+        for pg in range(1, 11):
+            if pg > total_pages:
+                break
+
+            page = context.new_page()
+            api_data = []
+
+            def handle_response(response):
+                if "game/ranking" in response.url and response.status == 200:
+                    try:
+                        api_data.append(response.json())
+                    except Exception:
+                        pass
+
+            page.on("response", handle_response)
+
+            try:
+                page.goto(f"{WAME_URL}?page={pg}", timeout=20000)
+                page.wait_for_load_state("networkidle", timeout=10000)
+            except PlaywrightTimeout:
+                print(f"  페이지 {pg} 타임아웃, 계속...")
+
+            if api_data:
+                data = api_data[0].get("data", {})
+                if pg == 1:
+                    total_pages = min(data.get("totalPages", 1), 10)
+                for item in data.get("content", []):
+                    gid = item.get("gameId") or item.get("uniqueName") or item.get("title", "")
+                    if gid not in seen_ids:
+                        seen_ids[gid] = _parse_wame_game(item)
+                is_last = data.get("last", False)
+                page.close()
+                if is_last:
+                    break
+            else:
+                page.close()
+                break
+
+        browser.close()
+
+    # 날짜 필터: 오늘 ~ 오늘 + 60일
+    games = list(seen_ids.values())
+    today = datetime.now()
+    cutoff = today + timedelta(days=60)
+
+    filtered = []
+    for g in games:
+        ts = g.get("release_ts")
+        if not ts:
+            continue
+        release_date = datetime.fromtimestamp(ts / 1000)
+        if release_date <= cutoff:
+            g["release_date_str"] = release_date.strftime("%m/%d")
+            g["release_month"] = release_date.strftime("%Y년 %m월")
+            filtered.append(g)
+
+    filtered.sort(key=lambda x: x.get("release_ts", 0))
+
+    print(f"[wame.is] 총 {len(games)}개 중 {len(filtered)}개 (향후 2개월)\n")
+    return filtered
+
+
+# ──────────────────────────────────────────────
 # 공통 유틸
 # ──────────────────────────────────────────────
 
@@ -496,11 +596,11 @@ def _add_source_blocks(blocks: list, header: str, emoji: str, new: list):
         })
 
 
-def send_slack_notification(changes: dict) -> bool:
-    """Slack으로 알림을 보냅니다."""
-    if not SLACK_WEBHOOK_URL:
-        print("SLACK_WEBHOOK_URL이 설정되지 않았습니다.")
-        return False
+def send_slack_notification(changes: dict) -> str | None:
+    """Slack으로 알림을 보냅니다. 성공 시 message ts를 반환합니다."""
+    if not SLACK_BOT_TOKEN and not SLACK_WEBHOOK_URL:
+        print("SLACK_BOT_TOKEN 또는 SLACK_WEBHOOK_URL이 설정되지 않았습니다.")
+        return None
 
     blocks = []
 
@@ -519,21 +619,112 @@ def send_slack_notification(changes: dict) -> bool:
     blocks.append({"type": "divider"})
     blocks.append({
         "type": "section",
-        "text": {"type": "mrkdwn", "text": "📌 <https://newgamecalender.notion.site/pc-b672193ee56a48539e5bd54d57017a70|노션 신작 알림 달력> | <https://cafe.naver.com/f-e/cafes/24576196/menus/14|신작 게임 평가단 카페>"}
+        "text": {"type": "mrkdwn", "text": "📌 <https://wame.is/ko/new|wame.is 신작 게임 달력> | <https://cafe.naver.com/f-e/cafes/24576196/menus/14|신작 게임 평가단 카페>"}
     })
     blocks.append({
         "type": "context",
         "elements": [{"type": "mrkdwn", "text": f"⏰ 확인 시각: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} KST"}]
     })
 
-    try:
-        response = req.post(SLACK_WEBHOOK_URL, json={"blocks": blocks}, timeout=10)
-        response.raise_for_status()
-        print("Slack 알림 전송 성공")
-        return True
-    except req.RequestException as e:
-        print(f"Slack 알림 전송 실패: {e}")
+    # Bot Token 우선 시도
+    if SLACK_BOT_TOKEN:
+        try:
+            response = req.post(
+                "https://slack.com/api/chat.postMessage",
+                headers={"Authorization": f"Bearer {SLACK_BOT_TOKEN}"},
+                json={
+                    "channel": SLACK_CHANNEL_ID,
+                    "blocks": blocks,
+                    "text": "🎮 사전등록 게임 알림",
+                },
+                timeout=10,
+            )
+            data = response.json()
+            if data.get("ok"):
+                print("Slack 알림 전송 성공 (Bot Token)")
+                return data.get("ts")
+            print(f"Bot Token 실패 ({data.get('error')}), Webhook으로 전환")
+        except req.RequestException as e:
+            print(f"Bot Token 실패 ({e}), Webhook으로 전환")
+
+    # Webhook fallback
+    if SLACK_WEBHOOK_URL:
+        try:
+            response = req.post(SLACK_WEBHOOK_URL, json={"blocks": blocks}, timeout=10)
+            response.raise_for_status()
+            print("Slack 알림 전송 성공 (Webhook)")
+            return "webhook"
+        except req.RequestException as e:
+            print(f"Slack 알림 전송 실패: {e}")
+            return None
+
+    return None
+
+
+def _build_wame_text(games: list[dict]) -> str:
+    """wame.is 게임 목록을 mrkdwn 텍스트로 변환합니다."""
+    monthly = defaultdict(list)
+    for g in games:
+        monthly[g.get("release_month", "미정")].append(g)
+
+    lines = ["*📅 향후 2개월 신작 게임 캘린더*\n"]
+    for month in sorted(monthly.keys()):
+        month_games = monthly[month]
+        lines.append(f"*{month}* ({len(month_games)}개)")
+        for g in month_games:
+            publisher = f" — {g['publisher']}" if g.get("publisher") else ""
+            lines.append(f"• {g['release_date_str']}  {g['platform']}  {g['title']}{publisher}")
+        lines.append("")
+
+    lines.append(f"_출처: <https://wame.is/ko/new|wame.is> | 총 {len(games)}개_")
+    return "\n".join(lines)
+
+
+def send_wame_calendar(games: list[dict], thread_ts: str | None = None) -> bool:
+    """wame.is 게임 목록을 전송합니다. Bot Token이면 스레드, 아니면 Webhook."""
+    if not games:
         return False
+
+    text = _build_wame_text(games)
+
+    # Bot Token + ts가 있으면 스레드 시도
+    if SLACK_BOT_TOKEN and thread_ts:
+        try:
+            response = req.post(
+                "https://slack.com/api/chat.postMessage",
+                headers={"Authorization": f"Bearer {SLACK_BOT_TOKEN}"},
+                json={
+                    "channel": SLACK_CHANNEL_ID,
+                    "thread_ts": thread_ts,
+                    "text": text,
+                    "unfurl_links": False,
+                },
+                timeout=10,
+            )
+            data = response.json()
+            if data.get("ok"):
+                print("wame.is 스레드 전송 성공")
+                return True
+            print(f"wame.is 스레드 실패 ({data.get('error')}), Webhook으로 전환")
+        except req.RequestException as e:
+            print(f"wame.is 스레드 실패 ({e}), Webhook으로 전환")
+
+    # Webhook fallback: 별도 메시지로 전송
+    if SLACK_WEBHOOK_URL:
+        blocks = [
+            {"type": "section", "text": {"type": "mrkdwn", "text": text}},
+        ]
+        try:
+            response = req.post(SLACK_WEBHOOK_URL, json={"blocks": blocks}, timeout=10)
+            response.raise_for_status()
+            print("wame.is 캘린더 전송 성공 (Webhook)")
+            return True
+        except req.RequestException as e:
+            print(f"wame.is 캘린더 전송 실패: {e}")
+            return False
+
+    print("wame.is 캘린더 전송 불가: 전송 수단 없음")
+    return False
 
 
 # ──────────────────────────────────────────────
@@ -585,9 +776,24 @@ def main():
                     extra = f" ({g.get('developer', '')})" if g.get("developer") else ""
                     print(f"  • {g['title']}{extra}")
 
-        send_slack_notification(changes)
+        message_ts = send_slack_notification(changes)
+
     else:
         print("\n변경사항이 없습니다.")
+
+    # wame.is 게임 캘린더: 월요일에만 전송 (변경사항 유무 무관)
+    is_monday = datetime.now().weekday() == 0
+    if is_monday:
+        try:
+            wame_games = fetch_wame_games()
+            if wame_games:
+                send_wame_calendar(wame_games)
+            else:
+                print("[wame.is] 향후 2개월 내 게임 없음, 캘린더 생략")
+        except Exception as e:
+            print(f"[wame.is] 캘린더 실패: {e}")
+    else:
+        print(f"[wame.is] 오늘은 월요일이 아니므로 캘린더 생략 (weekday={datetime.now().weekday()})")
 
     # 저장
     save_games(GAMES_FILE, sources["gplay"]["current"])

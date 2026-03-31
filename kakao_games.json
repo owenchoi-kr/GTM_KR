@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-03-30T22:05:32.536470",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-03-31T13:33:54.191987",
+  "count": 1,
+  "games": [
+    {
+      "id": "n14hFy",
+      "title": "그랜드체이스",
+      "url": "https://game.kakao.com/ar/n14hFy?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }

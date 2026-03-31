@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-03-30T22:05:32.536555",
-  "count": 19,
+  "updated_at": "2026-03-31T13:33:54.192124",
+  "count": 21,
   "games": [
+    {
+      "id": "0001004683",
+      "title": "라스트 헌터 K: 서울",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
+      "developer": "HAEGIN"
+    },
     {
       "id": "0001003852",
       "title": "창세기전 키우기",
@@ -13,6 +19,12 @@
       "title": "에스카라",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001004835",
+      "title": "황제의 검을 떨궜다",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835",
+      "developer": "Hong Kong Qushang Technology Co Limited"
     },
     {
       "id": "0001004010",

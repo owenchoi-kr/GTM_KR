@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-30T22:05:32.535923",
-  "count": 35,
+  "updated_at": "2026-03-31T13:33:54.190931",
+  "count": 33,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -37,12 +37,6 @@
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
-    },
-    {
-      "id": "com.dalcomsoft.ssbl",
-      "title": "SUPERSTAR THEBLACKLABEL",
-      "url": "https://play.google.com/store/apps/details?id=com.dalcomsoft.ssbl&hl=ko",
-      "developer": "Dalcomsoft, Inc."
     },
     {
       "id": "com.ellagames.bigguy",
@@ -144,12 +138,6 @@
       "id": "com.superbox.aos.tycoon",
       "title": "에잇! 전사들",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.tycoon&hl=ko",
-      "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.superpixel.pixelknights",
-      "title": "픽셀 기사단 키우기 : 방치형RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.superpixel.pixelknights&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {
