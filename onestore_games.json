@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T13:33:54.192124",
-  "count": 21,
+  "updated_at": "2026-04-01T22:05:03.982647",
+  "count": 16,
   "games": [
     {
       "id": "0001004683",
@@ -31,12 +31,6 @@
       "title": "용혈:저주",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010",
       "developer": "GM 게임"
-    },
-    {
-      "id": "0001002902",
-      "title": "이터널 크로니클",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902",
-      "developer": "SPGAME CO., LIMITED"
     },
     {
       "id": "0001004680",
@@ -93,35 +87,14 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
+      "id": "0001002902",
+      "title": "이터널 크로니클",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902"
+    },
+    {
       "id": "0001004554",
       "title": "파운데이션: 우주 전선",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004554"
-    },
-    {
-      "id": "0001003574",
-      "title": "갓오브하이스쿨 체인지: 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003574"
-    },
-    {
-      "id": "0001003822",
-      "title": "다크로드 사가: 한붓그리기 퍼즐 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003822"
-    },
-    {
-      "id": "0001002358",
-      "title": "쿠키런: 오븐스매시",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002358"
-    },
-    {
-      "id": "0001004317",
-      "title": "영혼 인도자：신의 이름으로",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004317"
-    },
-    {
-      "id": "0001003149",
-      "title": "신수의 전설",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003149",
-      "developer": "SHARK ENTERTAINMENT LIMITED"
     }
   ]
 }

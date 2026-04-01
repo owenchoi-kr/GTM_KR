@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-31T13:33:54.190931",
-  "count": 33,
+  "updated_at": "2026-04-01T22:05:03.981885",
+  "count": 32,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -45,12 +45,6 @@
       "developer": "ELLA Games"
     },
     {
-      "id": "com.emagroups.wl",
-      "title": "Spirits of Aetheria",
-      "url": "https://play.google.com/store/apps/details?id=com.emagroups.wl&hl=ko",
-      "developer": "NEOCRAFT LIMITED"
-    },
-    {
       "id": "com.f5game.ag",
       "title": "Alchemy Guardians",
       "url": "https://play.google.com/store/apps/details?id=com.f5game.ag&hl=ko",
@@ -91,12 +85,6 @@
       "title": "Prime Rush",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
       "developer": "SuperGaming SG"
-    },
-    {
-      "id": "com.linegames.fq",
-      "title": "페어리테일 퀘스트",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.fq&hl=ko",
-      "developer": "LINE Games"
     },
     {
       "id": "com.linegames.gmg",
@@ -145,6 +133,12 @@
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
+    },
+    {
+      "id": "com.tree.idle.cat.cult",
+      "title": "고양이 마피아 : 방치형 타이쿤 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
+      "developer": "TREEPLLA"
     },
     {
       "id": "com.v2r.AbyssWorld",
