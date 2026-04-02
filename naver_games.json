@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-04-01T22:05:03.982834",
-  "count": 23,
+  "updated_at": "2026-04-02T22:03:28.069200",
+  "count": 21,
   "games": [
-    {
-      "id": "GM_NCR_021932",
-      "title": "남탓 디펜스",
-      "url": "https://game.naver.com/nam_tat_defense",
-      "release_date": "2026-03-19 ~ 2026-04-01 사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
-      "id": "GM_NCR_021909",
-      "title": "비스트 클래시: 라스트 프런트",
-      "url": "https://game.naver.com/Beast_Clash_Last_Front",
-      "release_date": "2026-03-06 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_022291",
       "title": "이터널 크로니클",

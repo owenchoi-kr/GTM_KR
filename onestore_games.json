@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-04-01T22:05:03.982647",
-  "count": 16,
+  "updated_at": "2026-04-02T22:03:28.068937",
+  "count": 15,
   "games": [
     {
       "id": "0001004683",
       "title": "라스트 헌터 K: 서울",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
       "developer": "HAEGIN"
-    },
-    {
-      "id": "0001003852",
-      "title": "창세기전 키우기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003852",
-      "developer": "New Normal Soft"
     },
     {
       "id": "0001004613",
@@ -87,14 +81,14 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
+      "id": "0001003852",
+      "title": "창세기전 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003852"
+    },
+    {
       "id": "0001002902",
       "title": "이터널 크로니클",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902"
-    },
-    {
-      "id": "0001004554",
-      "title": "파운데이션: 우주 전선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004554"
     }
   ]
 }

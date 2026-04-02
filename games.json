@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-01T22:05:03.981885",
-  "count": 32,
+  "updated_at": "2026-04-02T22:03:28.068210",
+  "count": 31,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -133,12 +133,6 @@
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.tree.idle.cat.cult",
-      "title": "고양이 마피아 : 방치형 타이쿤 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
-      "developer": "TREEPLLA"
     },
     {
       "id": "com.v2r.AbyssWorld",
