@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-02T22:03:28.069200",
-  "count": 21,
+  "updated_at": "2026-04-03T21:59:28.268442",
+  "count": 22,
   "games": [
     {
-      "id": "GM_NCR_022291",
-      "title": "이터널 크로니클",
-      "url": "https://game.naver.com/Eternal_Chronicle",
-      "release_date": "2026-03-21 ~  사전예약",
+      "id": "GM_NCR_022625",
+      "title": "실크로드 어게인",
+      "url": "https://game.naver.com/silkroadagain",
+      "release_date": "2026-04-02 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -22,6 +22,13 @@
       "url": "https://game.naver.com/DragonnestWorld",
       "release_date": "2026-03-09 ~ 2026-04-09 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022635",
+      "title": "황제의 검을 떨궜다",
+      "url": "https://game.naver.com/InfiniteImmortalPath",
+      "release_date": "2026-04-02 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_005825",

@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-02T22:03:28.068937",
-  "count": 15,
+  "updated_at": "2026-04-03T21:59:28.268259",
+  "count": 16,
   "games": [
+    {
+      "id": "0001004914",
+      "title": "밤탈출 - 49일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914",
+      "developer": "MOREFUN HK LIMITED"
+    },
     {
       "id": "0001004683",
       "title": "라스트 헌터 K: 서울",
