@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T21:59:28.267404",
-  "count": 31,
+  "updated_at": "2026-04-04T21:56:53.717766",
+  "count": 30,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -133,12 +133,6 @@
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.v2r.AbyssWorld",
-      "title": "Abyss World",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.AbyssWorld&hl=ko",
-      "developer": "V2R"
     },
     {
       "id": "com.v2r.CatHomeMatch",
