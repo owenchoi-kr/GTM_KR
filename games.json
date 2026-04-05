@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-04T21:56:53.717766",
-  "count": 30,
+  "updated_at": "2026-04-05T21:57:01.136516",
+  "count": 29,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -157,12 +157,6 @@
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
-    },
-    {
-      "id": "com.zjcs.android.us",
-      "title": "Sword x Staff",
-      "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us&hl=ko",
-      "developer": "BOLTRAY GAMES"
     },
     {
       "id": "net.gameduo.fastdungeon",
