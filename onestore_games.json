@@ -1,5 +1,99 @@
 {
-  "updated_at": "2026-04-05T21:57:01.137235",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-04-06T22:01:42.570829",
+  "count": 16,
+  "games": [
+    {
+      "id": "0001004914",
+      "title": "밤탈출 - 49일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914",
+      "developer": "MOREFUN HK LIMITED"
+    },
+    {
+      "id": "0001004683",
+      "title": "라스트 헌터 K: 서울",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
+      "developer": "HAEGIN"
+    },
+    {
+      "id": "0001004613",
+      "title": "에스카라",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001004835",
+      "title": "황제의 검을 떨궜다",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835",
+      "developer": "Hong Kong Qushang Technology Co Limited"
+    },
+    {
+      "id": "0001004010",
+      "title": "용혈:저주",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
+      "developer": "K8GAMES"
+    },
+    {
+      "id": "0001004492",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492",
+      "developer": "STUDIO LICO"
+    },
+    {
+      "id": "0001004110",
+      "title": "비스트 클래시: 라스트 프런트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004110",
+      "developer": "king_net"
+    },
+    {
+      "id": "0001004502",
+      "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502",
+      "developer": "NADDIC GAMES CO LTD"
+    },
+    {
+      "id": "0001003823",
+      "title": "패스트던전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
+      "developer": "gameduo Co Ltd"
+    },
+    {
+      "id": "0001003303",
+      "title": "픽셀 히어로즈: 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003303",
+      "developer": "JOYFORGE CO., LIMITED"
+    },
+    {
+      "id": "0001003337",
+      "title": "그레이 사가",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
+      "developer": "Leniu Games"
+    },
+    {
+      "id": "0000781339",
+      "title": "히어로 랜드M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
+      "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001003852",
+      "title": "창세기전 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003852"
+    },
+    {
+      "id": "0001002902",
+      "title": "이터널 크로니클",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902"
+    },
+    {
+      "id": "0001003284",
+      "title": "실크로드 어게인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003284"
+    }
+  ]
 }
