@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-04-06T22:01:42.570829",
-  "count": 16,
+  "updated_at": "2026-04-07T22:05:52.775744",
+  "count": 17,
   "games": [
     {
       "id": "0001004914",
       "title": "밤탈출 - 49일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914",
       "developer": "MOREFUN HK LIMITED"
+    },
+    {
+      "id": "0001004500",
+      "title": "꿈꾸는 가구점",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001004683",
@@ -43,12 +49,6 @@
       "title": "용사가 돌아왔다 키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492",
       "developer": "STUDIO LICO"
-    },
-    {
-      "id": "0001004110",
-      "title": "비스트 클래시: 라스트 프런트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004110",
-      "developer": "king_net"
     },
     {
       "id": "0001004502",
@@ -94,6 +94,11 @@
       "id": "0001003284",
       "title": "실크로드 어게인",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003284"
+    },
+    {
+      "id": "0001004110",
+      "title": "비스트 클래시: 라스트 프런트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004110"
     }
   ]
 }

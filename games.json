@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T22:01:42.570051",
-  "count": 30,
+  "updated_at": "2026-04-07T22:05:52.775041",
+  "count": 28,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -37,12 +37,6 @@
       "title": "텐 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.daeri.TenValkyrie&hl=ko",
       "developer": "DAERI SOFT Inc"
-    },
-    {
-      "id": "com.ellagames.bigguy",
-      "title": "뚱기사 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.ellagames.bigguy&hl=ko",
-      "developer": "ELLA Games"
     },
     {
       "id": "com.f5game.ag",
@@ -90,12 +84,6 @@
       "id": "com.linegames.gmg",
       "title": "Genesis War",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko",
-      "developer": "LINE Games"
-    },
-    {
-      "id": "com.linegames.pak",
-      "title": "애니멀 버스터즈 : 방치형RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.pak&hl=ko",
       "developer": "LINE Games"
     },
     {
