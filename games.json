@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-07T22:05:52.775041",
-  "count": 28,
+  "updated_at": "2026-04-08T22:09:16.527028",
+  "count": 29,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -43,6 +43,12 @@
       "title": "Alchemy Guardians",
       "url": "https://play.google.com/store/apps/details?id=com.f5game.ag&hl=ko",
       "developer": "F5 Game"
+    },
+    {
+      "id": "com.farlightgames.pgame.gp",
+      "title": "뚜까펫: 서바이벌",
+      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
+      "developer": "FARLIGHT"
     },
     {
       "id": "com.feelingtouch.rush",
@@ -111,6 +117,12 @@
       "developer": "Ranida Games"
     },
     {
+      "id": "com.superbox.aos.shot2048",
+      "title": "샷 더 넘버 : 머지 퍼즐",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.shot2048&hl=ko",
+      "developer": "SUPERBOX Inc"
+    },
+    {
       "id": "com.superbox.aos.tycoon",
       "title": "에잇! 전사들",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.tycoon&hl=ko",
@@ -133,12 +145,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.x1global.google",
-      "title": "Phantom Edge: Oath",
-      "url": "https://play.google.com/store/apps/details?id=com.x1global.google&hl=ko",
-      "developer": "Hifun Game"
     },
     {
       "id": "com.zestbeat.tripletile",

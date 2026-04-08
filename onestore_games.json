@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-07T22:05:52.775744",
+  "updated_at": "2026-04-08T22:09:16.527641",
   "count": 17,
   "games": [
+    {
+      "id": "0001002677",
+      "title": "레퀴엠M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
+      "developer": "GRAVITY"
+    },
     {
       "id": "0001004914",
       "title": "밤탈출 - 49일",
@@ -19,12 +25,6 @@
       "title": "라스트 헌터 K: 서울",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
       "developer": "HAEGIN"
-    },
-    {
-      "id": "0001004613",
-      "title": "에스카라",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613",
-      "developer": "GM 게임"
     },
     {
       "id": "0001004835",
@@ -86,9 +86,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003852"
     },
     {
-      "id": "0001002902",
-      "title": "이터널 크로니클",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002902"
+      "id": "0001004613",
+      "title": "에스카라",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613"
     },
     {
       "id": "0001003284",
