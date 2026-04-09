@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-08T22:09:16.527028",
-  "count": 29,
+  "updated_at": "2026-04-09T22:06:36.171976",
+  "count": 28,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -169,12 +169,6 @@
       "title": "닌자대전: 월드",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.nb2&hl=ko",
       "developer": "Gameduo"
-    },
-    {
-      "id": "xyz.lightgame.tuantuan",
-      "title": "픽셀 히어로즈: 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=xyz.lightgame.tuantuan&hl=ko",
-      "developer": "HZ Game"
     }
   ]
 }
