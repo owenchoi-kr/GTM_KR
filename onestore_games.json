@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-04-09T22:06:36.172742",
-  "count": 16,
+  "updated_at": "2026-04-10T22:05:27.220437",
+  "count": 20,
   "games": [
     {
       "id": "0001002677",
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
       "developer": "GRAVITY"
+    },
+    {
+      "id": "0001004115",
+      "title": "마계강림",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004115",
+      "developer": "TeamQuest"
+    },
+    {
+      "id": "0001004690",
+      "title": "희비전 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690",
+      "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED"
     },
     {
       "id": "0001004914",
@@ -25,12 +37,6 @@
       "title": "라스트 헌터 K: 서울",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
       "developer": "HAEGIN"
-    },
-    {
-      "id": "0001004835",
-      "title": "황제의 검을 떨궜다",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835",
-      "developer": "Hong Kong Qushang Technology Co Limited"
     },
     {
       "id": "0001004010",
@@ -57,6 +63,18 @@
       "developer": "NADDIC GAMES CO LTD"
     },
     {
+      "id": "0001003775",
+      "title": "렐리온: NPC들의 생존기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775",
+      "developer": "DAERISOFT"
+    },
+    {
+      "id": "0001003773",
+      "title": "사신키우기2: 중세편",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773",
+      "developer": "DAERISOFT"
+    },
+    {
       "id": "0001003823",
       "title": "패스트던전",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
@@ -78,6 +96,11 @@
       "id": "0001004613",
       "title": "에스카라",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613"
+    },
+    {
+      "id": "0001004835",
+      "title": "황제의 검을 떨궜다",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835"
     },
     {
       "id": "0001003284",
