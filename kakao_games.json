@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-04-13T22:11:48.104380",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-04-14T22:13:03.234910",
+  "count": 1,
+  "games": [
+    {
+      "id": "sR8BR6",
+      "title": "드래곤 플라이트",
+      "url": "https://game.kakao.com/ar/sR8BR6?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }

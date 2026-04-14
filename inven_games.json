@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-04-13T22:11:48.104171",
-  "count": 8,
+  "updated_at": "2026-04-14T22:13:03.234727",
+  "count": 7,
   "games": [
-    {
-      "id": "965",
-      "title": "몬길: STAR DIVE",
-      "url": "https://pick.inven.co.kr/campaign/965/stardive",
-      "release_date": "4월 15일 출시 예정",
-      "reward": "[2000이니, 100베니]프란시스(힐러)",
-      "developer": "넷마블"
-    },
     {
       "id": "962",
       "title": "남 탓 디펜스",
