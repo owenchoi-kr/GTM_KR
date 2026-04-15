@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T22:13:03.234065",
-  "count": 23,
+  "updated_at": "2026-04-15T22:11:38.578864",
+  "count": 24,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -79,6 +79,12 @@
       "title": "배틀레이서 : 좀비아일랜드",
       "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko",
       "developer": "NCROQUIS"
+    },
+    {
+      "id": "com.pikpok.br.play",
+      "title": "Barbie™ Horse Ride & Rescue",
+      "url": "https://play.google.com/store/apps/details?id=com.pikpok.br.play&hl=ko",
+      "developer": "PIKPOK"
     },
     {
       "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",

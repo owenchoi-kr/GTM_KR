@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T22:13:03.235202",
-  "count": 22,
+  "updated_at": "2026-04-15T22:11:38.579633",
+  "count": 23,
   "games": [
     {
       "id": "GM_NCR_005825",
@@ -38,6 +38,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_022855",
+      "title": "심쿵신궁 연대기",
+      "url": "https://game.naver.com/Heartquake_Chronicles",
+      "release_date": "2026-04-14 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_021943",
       "title": "사신키우기2: 중세편",
       "url": "https://game.naver.com/saki2",
@@ -73,6 +80,13 @@
       "platform": "Android,iOS,OneStore"
     },
     {
+      "id": "GM_NCR_022750",
+      "title": "바르디안",
+      "url": "https://game.naver.com/Vardian",
+      "release_date": "2026-04-14 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_020602",
       "title": "레퀴엠M",
       "url": "https://game.naver.com/RequiemM",
@@ -106,13 +120,6 @@
       "url": "https://game.naver.com/earth_defense_club",
       "release_date": "2024-07-29 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_017931",
-      "title": "다섯 왕국 이야기2",
-      "url": "https://game.naver.com/Nine_Lords",
-      "release_date": "2025-07-01 ~ 2026-07-31 사전예약",
-      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_019939",

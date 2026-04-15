@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-14T22:13:03.235009",
+  "updated_at": "2026-04-15T22:11:38.579484",
   "count": 18,
   "games": [
     {
@@ -39,10 +39,16 @@
       "developer": "HAEGIN"
     },
     {
-      "id": "0001004010",
-      "title": "용혈:저주",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010",
-      "developer": "GM 게임"
+      "id": "0001004890",
+      "title": "다크슬레이어2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890",
+      "developer": "스튜디오브리즈"
+    },
+    {
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001004492",
@@ -87,20 +93,14 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001004613",
-      "title": "에스카라",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004613"
-    },
-    {
       "id": "0001004835",
       "title": "황제의 검을 떨궜다",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835"
     },
     {
-      "id": "0001004680",
-      "title": "남탓 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
-      "developer": "K8GAMES"
+      "id": "0001004010",
+      "title": "용혈:저주",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010"
     },
     {
       "id": "0001003303",
