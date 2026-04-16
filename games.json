@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T22:11:38.578864",
-  "count": 24,
+  "updated_at": "2026-04-16T22:08:18.825619",
+  "count": 22,
   "games": [
     {
       "id": "com.act7ent.evilsword",
@@ -27,12 +27,6 @@
       "developer": "Com2uS"
     },
     {
-      "id": "com.cookapps.bouncedefense",
-      "title": "통통 디펜스 : 핀볼 히어로",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.bouncedefense&hl=ko",
-      "developer": "CookApps"
-    },
-    {
       "id": "com.f5game.ag",
       "title": "Alchemy Guardians",
       "url": "https://play.google.com/store/apps/details?id=com.f5game.ag&hl=ko",
@@ -48,12 +42,6 @@
       "id": "com.finalflow.cupblast",
       "title": "Cup Blast",
       "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko",
-      "developer": "Finalflow"
-    },
-    {
-      "id": "com.finalflow.imagejam",
-      "title": "Image Jam: 그림 퍼즐",
-      "url": "https://play.google.com/store/apps/details?id=com.finalflow.imagejam&hl=ko",
       "developer": "Finalflow"
     },
     {

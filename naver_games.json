@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-04-15T22:11:38.579633",
+  "updated_at": "2026-04-16T22:08:18.826440",
   "count": 23,
   "games": [
+    {
+      "id": "GM_NCR_014818",
+      "title": "미남고교 지구방위부 Love Macho",
+      "url": "https://game.naver.com/earth_defense_club",
+      "release_date": "2024-07-29 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
     {
       "id": "GM_NCR_005825",
       "title": "트리 오브 세이비어 M",
@@ -112,13 +119,6 @@
       "title": "THE NEW GATE Best Collection",
       "url": "https://game.naver.com/the_new_gate",
       "release_date": "2024-07-22 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_014818",
-      "title": "미남고교 지구방위부 Love Macho",
-      "url": "https://game.naver.com/earth_defense_club",
-      "release_date": "2024-07-29 ~  사전예약",
       "platform": "Android,iOS,PC"
     },
     {

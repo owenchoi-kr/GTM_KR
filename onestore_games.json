@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T22:11:38.579484",
-  "count": 18,
+  "updated_at": "2026-04-16T22:08:18.826223",
+  "count": 16,
   "games": [
     {
       "id": "0001002677",
@@ -87,12 +87,6 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0000781339",
-      "title": "히어로 랜드M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
-      "developer": "Orienjoy International Company Limited"
-    },
-    {
       "id": "0001004835",
       "title": "황제의 검을 떨궜다",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835"
@@ -101,11 +95,6 @@
       "id": "0001004010",
       "title": "용혈:저주",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010"
-    },
-    {
-      "id": "0001003303",
-      "title": "픽셀 히어로즈: 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003303"
     }
   ]
 }

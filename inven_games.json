@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-15T22:11:38.579271",
-  "count": 7,
+  "updated_at": "2026-04-16T22:08:18.825940",
+  "count": 6,
   "games": [
     {
       "id": "962",
@@ -49,14 +49,6 @@
       "release_date": "4월 28일 출시 예정",
       "reward": "[1000이니]3,333 용사 소환 티켓, 77,700 여신의 크리스탈, SSR 소환 상자",
       "developer": "스튜디오리코 주식회사"
-    },
-    {
-      "id": "902",
-      "title": "미남고교 지구방위부Love Macho",
-      "url": "https://pick.inven.co.kr/campaign/902/binan",
-      "release_date": "출시 미정",
-      "reward": "[20제니]다이아×1000, 캐릭터 소환권×15, SR 하코네 유모토",
-      "developer": "CTW"
     }
   ]
 }
