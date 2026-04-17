@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-16T22:08:18.826223",
+  "updated_at": "2026-04-17T22:08:09.368154",
   "count": 16,
   "games": [
+    {
+      "id": "0001004084",
+      "title": "표류소녀: 다시 만난 세계",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084",
+      "developer": "DAERISOFT"
+    },
     {
       "id": "0001002677",
       "title": "레퀴엠M",
@@ -85,11 +91,6 @@
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
-    },
-    {
-      "id": "0001004835",
-      "title": "황제의 검을 떨궜다",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004835"
     },
     {
       "id": "0001004010",

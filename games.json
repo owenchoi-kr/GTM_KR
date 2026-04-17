@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-16T22:08:18.825619",
-  "count": 22,
+  "updated_at": "2026-04-17T22:08:09.367528",
+  "count": 23,
   "games": [
+    {
+      "id": "com.MonsterPlanet.CatIdleRpg",
+      "title": "냥이 기사단 키우기: 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko",
+      "developer": "MONSTER PLANET Corp."
+    },
     {
       "id": "com.act7ent.evilsword",
       "title": "이블 소드",

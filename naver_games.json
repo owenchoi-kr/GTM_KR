@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-04-16T22:08:18.826440",
-  "count": 23,
+  "updated_at": "2026-04-17T22:08:09.368306",
+  "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_014818",
-      "title": "미남고교 지구방위부 Love Macho",
-      "url": "https://game.naver.com/earth_defense_club",
-      "release_date": "2024-07-29 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_005825",
       "title": "트리 오브 세이비어 M",
@@ -129,6 +122,13 @@
       "platform": "Android,Console,iOS,PC"
     },
     {
+      "id": "GM_NCR_022775",
+      "title": "꿈꾸는 가구점",
+      "url": "https://game.naver.com/dream_furniture",
+      "release_date": "2026-04-16 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
       "id": "GM_NCR_020257",
       "title": "이세계 유유자적 농가 Reverie",
       "url": "https://game.naver.com/Farming_Life_in_Another_World_Reverie",
@@ -162,6 +162,13 @@
       "url": "https://game.naver.com/PROJECT_ZETA",
       "release_date": "2026-04-09 ~ 2026-05-03 OBT",
       "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_022358",
+      "title": "넋나간 삼국지",
+      "url": "https://game.naver.com/nuksam",
+      "release_date": "2026-04-16 ~  OBT",
+      "platform": "Android,iOS,OneStore"
     }
   ]
 }
