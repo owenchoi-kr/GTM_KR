@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-18T22:00:30.458641",
-  "count": 6,
+  "updated_at": "2026-04-19T22:00:51.450633",
+  "count": 5,
   "games": [
     {
       "id": "962",
@@ -9,14 +9,6 @@
       "release_date": "출시 미정",
       "reward": "[2000이니, 100베니]1000회 뽑기권 지급",
       "developer": "주식회사 엔드나인게임즈"
-    },
-    {
-      "id": "959",
-      "title": "드래곤 퀘스트 스매시 그로우",
-      "url": "https://pick.inven.co.kr/campaign/959/DQSG",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]서비스 시작 시 '프리미엄 장비 뽑기 티켓 10연분' 증정!",
-      "developer": "SQUARE ENIX CO., LTD"
     },
     {
       "id": "951",
