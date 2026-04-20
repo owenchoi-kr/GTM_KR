@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-19T22:00:51.449656",
-  "count": 22,
+  "updated_at": "2026-04-20T22:10:39.120330",
+  "count": 21,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -31,12 +31,6 @@
       "title": "Pepp Heroes: Relic Quest",
       "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko",
       "developer": "Com2uS"
-    },
-    {
-      "id": "com.f5game.ag",
-      "title": "Alchemy Guardians",
-      "url": "https://play.google.com/store/apps/details?id=com.f5game.ag&hl=ko",
-      "developer": "F5 Game"
     },
     {
       "id": "com.farlightgames.pgame.gp",
