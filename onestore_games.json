@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-04-20T22:10:39.121084",
-  "count": 16,
+  "updated_at": "2026-04-21T22:09:54.911804",
+  "count": 18,
   "games": [
+    {
+      "id": "0001004641",
+      "title": "넋나간 삼국지",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641",
+      "developer": "BYTEFUN GAMES PTE. LTD."
+    },
     {
       "id": "0001004084",
       "title": "표류소녀: 다시 만난 세계",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084",
       "developer": "DAERISOFT"
+    },
+    {
+      "id": "0001003885",
+      "title": "심쿵신궁 연대기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885",
+      "developer": "Baoboblab"
     },
     {
       "id": "0001002677",

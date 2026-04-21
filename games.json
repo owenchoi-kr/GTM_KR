@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-20T22:10:39.120330",
-  "count": 21,
+  "updated_at": "2026-04-21T22:09:54.910813",
+  "count": 22,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -43,6 +43,12 @@
       "title": "Cup Blast",
       "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko",
       "developer": "Finalflow"
+    },
+    {
+      "id": "com.gamee.godslayer.rpg.rougelike",
+      "title": "God Rivals: RPG Roguelike",
+      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
+      "developer": "GameeStudio"
     },
     {
       "id": "com.indusgame.play",
