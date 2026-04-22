@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T22:09:54.910813",
+  "updated_at": "2026-04-22T22:12:52.523542",
   "count": 22,
   "games": [
     {
@@ -45,12 +45,6 @@
       "developer": "Finalflow"
     },
     {
-      "id": "com.gamee.godslayer.rpg.rougelike",
-      "title": "God Rivals: RPG Roguelike",
-      "url": "https://play.google.com/store/apps/details?id=com.gamee.godslayer.rpg.rougelike&hl=ko",
-      "developer": "GameeStudio"
-    },
-    {
       "id": "com.indusgame.play",
       "title": "Prime Rush",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
@@ -67,6 +61,12 @@
       "title": "배틀레이서 : 좀비아일랜드",
       "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko",
       "developer": "NCROQUIS"
+    },
+    {
+      "id": "com.netmarble.rfnext",
+      "title": "RF 온라인 넥스트",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.pikpok.br.play",

@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-04-21T22:09:54.911720",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-04-22T22:12:52.524053",
+  "count": 1,
+  "games": [
+    {
+      "id": "886VHE",
+      "title": "카발RED",
+      "url": "https://game.kakao.com/ar/886VHE?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }

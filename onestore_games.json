@@ -1,18 +1,12 @@
 {
-  "updated_at": "2026-04-21T22:09:54.911804",
-  "count": 18,
+  "updated_at": "2026-04-22T22:12:52.524243",
+  "count": 17,
   "games": [
     {
       "id": "0001004641",
       "title": "넋나간 삼국지",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641",
       "developer": "BYTEFUN GAMES PTE. LTD."
-    },
-    {
-      "id": "0001004084",
-      "title": "표류소녀: 다시 만난 세계",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084",
-      "developer": "DAERISOFT"
     },
     {
       "id": "0001003885",
@@ -105,9 +99,10 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001004010",
-      "title": "용혈:저주",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004010"
+      "id": "0001004084",
+      "title": "표류소녀: 다시 만난 세계",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084",
+      "developer": "DAERISOFT"
     }
   ]
 }

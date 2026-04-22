@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-04-21T22:09:54.911576",
+  "updated_at": "2026-04-22T22:12:52.523900",
   "count": 5,
   "games": [
-    {
-      "id": "962",
-      "title": "남 탓 디펜스",
-      "url": "https://pick.inven.co.kr/campaign/962/namtatdef",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]1000회 뽑기권 지급",
-      "developer": "주식회사 엔드나인게임즈"
-    },
     {
       "id": "951",
       "title": "이환",
@@ -25,6 +17,14 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
+    },
+    {
+      "id": "967",
+      "title": "궁수키우기 : 스틱맨 RPG",
+      "url": "https://pick.inven.co.kr/campaign/967/IdleArcherStickman",
+      "release_date": "5월 중순~말일경 예정",
+      "reward": "[1000이니][사전예약 보상] 다이아 3,000",
+      "developer": "주식회사 라이언즈코드"
     },
     {
       "id": "963",

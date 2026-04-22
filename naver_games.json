@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T22:09:54.911983",
+  "updated_at": "2026-04-22T22:12:52.524464",
   "count": 24,
   "games": [
     {
@@ -20,7 +20,7 @@
       "id": "GM_NCR_020539",
       "title": "다크슬레이어2",
       "url": "https://game.naver.com/Dark_Slayer_SD",
-      "release_date": "2026-03-20 ~ 2026-04-26 사전예약",
+      "release_date": "2026-03-20 ~ 2026-04-24 사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -78,6 +78,13 @@
       "url": "https://game.naver.com/Vardian",
       "release_date": "2026-04-14 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022358",
+      "title": "넋나간 삼국지",
+      "url": "https://game.naver.com/nuksam",
+      "release_date": "2026-04-16 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022779",
@@ -162,13 +169,6 @@
       "url": "https://game.naver.com/PROJECT_ZETA",
       "release_date": "2026-04-09 ~ 2026-05-03 OBT",
       "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_022358",
-      "title": "넋나간 삼국지",
-      "url": "https://game.naver.com/nuksam",
-      "release_date": "2026-04-16 ~  OBT",
-      "platform": "Android,iOS,OneStore"
     }
   ]
 }
