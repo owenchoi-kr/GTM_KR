@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-22T22:12:52.524243",
+  "updated_at": "2026-04-23T22:09:36.315222",
   "count": 17,
   "games": [
     {
@@ -19,12 +19,6 @@
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
       "developer": "GRAVITY"
-    },
-    {
-      "id": "0001004115",
-      "title": "마계강림",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004115",
-      "developer": "TeamQuest"
     },
     {
       "id": "0001004690",
@@ -49,18 +43,6 @@
       "title": "라스트 헌터 K: 서울",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
       "developer": "HAEGIN"
-    },
-    {
-      "id": "0001004890",
-      "title": "다크슬레이어2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890",
-      "developer": "스튜디오브리즈"
-    },
-    {
-      "id": "0001004680",
-      "title": "남탓 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
-      "developer": "K8GAMES"
     },
     {
       "id": "0001004492",
@@ -101,8 +83,23 @@
     {
       "id": "0001004084",
       "title": "표류소녀: 다시 만난 세계",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084",
-      "developer": "DAERISOFT"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084"
+    },
+    {
+      "id": "0001004115",
+      "title": "마계강림",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004115"
+    },
+    {
+      "id": "0001004890",
+      "title": "다크슬레이어2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890"
+    },
+    {
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
+      "developer": "K8GAMES"
     }
   ]
 }

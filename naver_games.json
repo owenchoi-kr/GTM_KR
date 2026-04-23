@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-04-22T22:12:52.524464",
-  "count": 24,
+  "updated_at": "2026-04-23T22:09:36.315459",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_022364",
-      "title": "딸깍 다이스",
-      "url": "https://game.naver.com/dicerco",
-      "release_date": "2026-03-16 ~ 2026-04-22 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_020220",
-      "title": "머지 거래소",
-      "url": "https://game.naver.com/Merge_Exchange",
-      "release_date": "2026-03-07 ~ 2026-04-22 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_020539",
       "title": "다크슬레이어2",
       "url": "https://game.naver.com/Dark_Slayer_SD",
       "release_date": "2026-03-20 ~ 2026-04-24 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_020220",
+      "title": "머지 거래소",
+      "url": "https://game.naver.com/Merge_Exchange",
+      "release_date": "2026-04-22 ~ 2026-04-26 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_021996",
