@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-04-23T22:09:36.315459",
-  "count": 23,
+  "updated_at": "2026-04-24T22:10:22.682981",
+  "count": 25,
   "games": [
     {
       "id": "GM_NCR_020539",
       "title": "다크슬레이어2",
       "url": "https://game.naver.com/Dark_Slayer_SD",
       "release_date": "2026-03-20 ~ 2026-04-24 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_022479",
+      "title": "오늘의 꽃",
+      "url": "https://game.naver.com/Todays_Flower",
+      "release_date": "2026-04-23 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -57,6 +64,13 @@
       "url": "https://game.naver.com/The_Cozy_Florist",
       "release_date": "2026-04-10 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022995",
+      "title": "혼문 - 달빛을 품은 MMORPG",
+      "url": "https://game.naver.com/honmoon",
+      "release_date": "2026-04-23 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022570",

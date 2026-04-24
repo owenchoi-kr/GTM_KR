@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T22:09:36.314642",
-  "count": 22,
+  "updated_at": "2026-04-24T22:10:22.681924",
+  "count": 23,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -19,6 +19,12 @@
       "title": "판타지타운",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.fantasytown&hl=ko",
       "developer": "Arumgames"
+    },
+    {
+      "id": "com.bilibili.lumi",
+      "title": "Lumi Master",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
+      "developer": "BILIBILI"
     },
     {
       "id": "com.brazle.mylittlehotel",

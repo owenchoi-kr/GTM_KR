@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-04-23T22:09:36.315222",
-  "count": 17,
+  "updated_at": "2026-04-24T22:10:22.682730",
+  "count": 22,
   "games": [
+    {
+      "id": "0001002677",
+      "title": "레퀴엠M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
+      "developer": "GRAVITY"
+    },
+    {
+      "id": "0001004771",
+      "title": "루미마스터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
+      "developer": "BILIBILI HK LIMITED"
+    },
+    {
+      "id": "0001004553",
+      "title": "오늘의 꽃",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553",
+      "developer": "Ujoy Games Limited"
+    },
+    {
+      "id": "0001005327",
+      "title": "엔들리스 사이클",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005327",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001003796",
+      "title": "혼문 - 달빛을 품은 MMORPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796",
+      "developer": "(주)게임에이드"
+    },
     {
       "id": "0001004641",
       "title": "넋나간 삼국지",
@@ -13,12 +43,6 @@
       "title": "심쿵신궁 연대기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885",
       "developer": "Baoboblab"
-    },
-    {
-      "id": "0001002677",
-      "title": "레퀴엠M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
-      "developer": "GRAVITY"
     },
     {
       "id": "0001004690",
@@ -61,6 +85,12 @@
       "title": "렐리온: NPC들의 생존기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775",
       "developer": "DAERISOFT"
+    },
+    {
+      "id": "0001002806",
+      "title": "드래곤네스트 월드",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002806",
+      "developer": "EYEDENTITYGAMES"
     },
     {
       "id": "0001003773",
