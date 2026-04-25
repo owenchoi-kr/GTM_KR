@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-04-24T22:10:22.682981",
-  "count": 25,
+  "updated_at": "2026-04-25T22:02:43.453482",
+  "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_020539",
-      "title": "다크슬레이어2",
-      "url": "https://game.naver.com/Dark_Slayer_SD",
-      "release_date": "2026-03-20 ~ 2026-04-24 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_022479",
-      "title": "오늘의 꽃",
-      "url": "https://game.naver.com/Todays_Flower",
-      "release_date": "2026-04-23 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_020220",
       "title": "머지 거래소",
@@ -147,6 +133,13 @@
       "title": "이세계 유유자적 농가 Reverie",
       "url": "https://game.naver.com/Farming_Life_in_Another_World_Reverie",
       "release_date": "2025-10-10 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_023012",
+      "title": "리인카네이션의 꽃잎 BLOOM",
+      "url": "https://game.naver.com/reinna",
+      "release_date": "2026-04-24 ~ 2027-12-31 사전예약",
       "platform": "Android,iOS,PC"
     },
     {
