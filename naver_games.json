@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-04-26T22:05:09.392958",
-  "count": 24,
+  "updated_at": "2026-04-27T22:15:30.348383",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_020220",
-      "title": "머지 거래소",
-      "url": "https://game.naver.com/Merge_Exchange",
-      "release_date": "2026-04-22 ~ 2026-04-26 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_021996",
       "title": "용사가 돌아왔다 키우기",

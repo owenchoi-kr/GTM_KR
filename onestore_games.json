@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-04-26T22:05:09.392690",
+  "updated_at": "2026-04-27T22:15:30.348145",
   "count": 22,
   "games": [
-    {
-      "id": "0001002677",
-      "title": "레퀴엠M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
-      "developer": "GRAVITY"
-    },
     {
       "id": "0001004771",
       "title": "루미마스터",
@@ -45,6 +39,12 @@
       "developer": "Baoboblab"
     },
     {
+      "id": "0001002677",
+      "title": "레퀴엠M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
+      "developer": "GRAVITY"
+    },
+    {
       "id": "0001004690",
       "title": "희비전 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690",
@@ -69,10 +69,10 @@
       "developer": "HAEGIN"
     },
     {
-      "id": "0001004492",
-      "title": "용사가 돌아왔다 키우기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492",
-      "developer": "STUDIO LICO"
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001004502",
@@ -126,10 +126,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890"
     },
     {
-      "id": "0001004680",
-      "title": "남탓 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
-      "developer": "K8GAMES"
+      "id": "0001004492",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492"
     }
   ]
 }

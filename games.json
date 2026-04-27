@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T22:05:09.391985",
-  "count": 23,
+  "updated_at": "2026-04-27T22:15:30.347404",
+  "count": 22,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -61,12 +61,6 @@
       "title": "Genesis War",
       "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko",
       "developer": "LINE Games"
-    },
-    {
-      "id": "com.ncroquis.zombieisland",
-      "title": "배틀레이서 : 좀비아일랜드",
-      "url": "https://play.google.com/store/apps/details?id=com.ncroquis.zombieisland&hl=ko",
-      "developer": "NCROQUIS"
     },
     {
       "id": "com.netmarble.rfnext",

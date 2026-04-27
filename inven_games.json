@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-26T22:05:09.392353",
-  "count": 5,
+  "updated_at": "2026-04-27T22:15:30.347798",
+  "count": 4,
   "games": [
     {
       "id": "951",
@@ -33,14 +33,6 @@
       "release_date": "5월 1일 출시 예정",
       "reward": "[1000이니]사전예약 보상 다이아몬드 200개 지급!",
       "developer": "IDEAMARKET Inc."
-    },
-    {
-      "id": "955",
-      "title": "용사가 돌아왔다 키우기",
-      "url": "https://pick.inven.co.kr/campaign/955/warriorreturns",
-      "release_date": "4월 28일 출시 예정",
-      "reward": "[1000이니]3,333 용사 소환 티켓, 77,700 여신의 크리스탈, SSR 소환 상자",
-      "developer": "스튜디오리코 주식회사"
     }
   ]
 }
