@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-27T22:15:30.348145",
-  "count": 22,
+  "updated_at": "2026-04-28T22:33:12.040633",
+  "count": 23,
   "games": [
+    {
+      "id": "0001005302",
+      "title": "신명: 타락의 신",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001004771",
       "title": "루미마스터",
@@ -33,12 +39,6 @@
       "developer": "BYTEFUN GAMES PTE. LTD."
     },
     {
-      "id": "0001003885",
-      "title": "심쿵신궁 연대기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885",
-      "developer": "Baoboblab"
-    },
-    {
       "id": "0001002677",
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
@@ -61,12 +61,6 @@
       "title": "꿈꾸는 가구점",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500",
       "developer": "K8GAMES"
-    },
-    {
-      "id": "0001004683",
-      "title": "라스트 헌터 K: 서울",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683",
-      "developer": "HAEGIN"
     },
     {
       "id": "0001004680",
@@ -116,9 +110,19 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084"
     },
     {
+      "id": "0001003885",
+      "title": "심쿵신궁 연대기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885"
+    },
+    {
       "id": "0001004115",
       "title": "마계강림",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004115"
+    },
+    {
+      "id": "0001004683",
+      "title": "라스트 헌터 K: 서울",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683"
     },
     {
       "id": "0001004890",

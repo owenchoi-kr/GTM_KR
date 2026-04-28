@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-27T22:15:30.347404",
-  "count": 22,
+  "updated_at": "2026-04-28T22:33:12.040006",
+  "count": 20,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -33,12 +33,6 @@
       "developer": "Brazle"
     },
     {
-      "id": "com.com2us.rheroes.android.google.global.normal",
-      "title": "Pepp Heroes: Relic Quest",
-      "url": "https://play.google.com/store/apps/details?id=com.com2us.rheroes.android.google.global.normal&hl=ko",
-      "developer": "Com2uS"
-    },
-    {
       "id": "com.farlightgames.pgame.gp",
       "title": "뚜까펫: 서바이벌",
       "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
@@ -55,12 +49,6 @@
       "title": "Prime Rush",
       "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
       "developer": "SuperGaming SG"
-    },
-    {
-      "id": "com.linegames.gmg",
-      "title": "Genesis War",
-      "url": "https://play.google.com/store/apps/details?id=com.linegames.gmg&hl=ko",
-      "developer": "LINE Games"
     },
     {
       "id": "com.netmarble.rfnext",
