@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-04-28T22:33:12.040884",
-  "count": 24,
+  "updated_at": "2026-04-29T22:32:23.879240",
+  "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_021996",
-      "title": "용사가 돌아왔다 키우기",
-      "url": "https://game.naver.com/The_Warrior_Returns_AFK",
-      "release_date": "2026-02-12 ~ 2026-04-28 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_022855",
-      "title": "심쿵신궁 연대기",
-      "url": "https://game.naver.com/Heartquake_Chronicles",
-      "release_date": "2026-04-14 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_020152",
-      "title": "학원묵시록 HIGH SCHOOL OF THE DEAD DAY 0",
-      "url": "https://game.naver.com/HIGH_SCHOOL_OF_THE_DEAD_DAY0",
-      "release_date": "2025-09-26 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_021943",
       "title": "사신키우기2: 중세편",
@@ -52,13 +31,6 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_022995",
-      "title": "혼문 - 달빛을 품은 MMORPG",
-      "url": "https://game.naver.com/honmoon",
-      "release_date": "2026-04-23 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
       "id": "GM_NCR_022570",
       "title": "희비전 리버스",
       "url": "https://game.naver.com/p2rebirth",
@@ -66,10 +38,10 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_022750",
-      "title": "바르디안",
-      "url": "https://game.naver.com/Vardian",
-      "release_date": "2026-04-14 ~  사전예약",
+      "id": "GM_NCR_022617",
+      "title": "문파존망겜",
+      "url": "https://game.naver.com/kungfuchaos",
+      "release_date": "2026-04-29 ~ 2026-05-12 사전예약",
       "platform": "Android,iOS"
     },
     {
@@ -80,11 +52,25 @@
       "platform": "Android,iOS,OneStore"
     },
     {
+      "id": "GM_NCR_022995",
+      "title": "혼문 - 달빛을 품은 MMORPG",
+      "url": "https://game.naver.com/honmoon",
+      "release_date": "2026-04-23 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
       "id": "GM_NCR_022779",
       "title": "패왕의별M",
       "url": "https://game.naver.com/Star_of_the_Overlord",
       "release_date": "2026-04-20 ~  사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_022750",
+      "title": "바르디안",
+      "url": "https://game.naver.com/Vardian",
+      "release_date": "2026-04-14 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_020156",

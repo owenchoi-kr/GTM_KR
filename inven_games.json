@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-28T22:33:12.040379",
-  "count": 4,
+  "updated_at": "2026-04-29T22:32:23.878709",
+  "count": 3,
   "games": [
     {
       "id": "966",
@@ -25,14 +25,6 @@
       "release_date": "5월 중순~말일경 예정",
       "reward": "[1000이니][사전예약 보상] 다이아 3,000",
       "developer": "주식회사 라이언즈코드"
-    },
-    {
-      "id": "963",
-      "title": "BRICK NOVA",
-      "url": "https://pick.inven.co.kr/campaign/963/BrickNova",
-      "release_date": "5월 1일 출시 예정",
-      "reward": "[1000이니]사전예약 보상 다이아몬드 200개 지급!",
-      "developer": "IDEAMARKET Inc."
     }
   ]
 }

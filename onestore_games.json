@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T22:33:12.040633",
+  "updated_at": "2026-04-29T22:32:23.878983",
   "count": 23,
   "games": [
     {
@@ -7,6 +7,12 @@
       "title": "신명: 타락의 신",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001005299",
+      "title": "드래곤빌리지3",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005299",
+      "developer": "highbrow"
     },
     {
       "id": "0001004771",
@@ -63,12 +69,6 @@
       "developer": "K8GAMES"
     },
     {
-      "id": "0001004680",
-      "title": "남탓 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680",
-      "developer": "K8GAMES"
-    },
-    {
       "id": "0001004502",
       "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502",
@@ -87,12 +87,6 @@
       "developer": "EYEDENTITYGAMES"
     },
     {
-      "id": "0001003773",
-      "title": "사신키우기2: 중세편",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773",
-      "developer": "DAERISOFT"
-    },
-    {
       "id": "0001003823",
       "title": "패스트던전",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
@@ -103,11 +97,6 @@
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
-    },
-    {
-      "id": "0001004084",
-      "title": "표류소녀: 다시 만난 세계",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004084"
     },
     {
       "id": "0001003885",
@@ -130,9 +119,20 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890"
     },
     {
+      "id": "0001004680",
+      "title": "남탓 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680"
+    },
+    {
       "id": "0001004492",
       "title": "용사가 돌아왔다 키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492"
+    },
+    {
+      "id": "0001003773",
+      "title": "사신키우기2: 중세편",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773",
+      "developer": "DAERISOFT"
     }
   ]
 }
