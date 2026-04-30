@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-04-29T22:32:23.878709",
-  "count": 3,
+  "updated_at": "2026-04-30T22:30:49.509158",
+  "count": 4,
   "games": [
+    {
+      "id": "970",
+      "title": "아우터플레인",
+      "url": "https://pick.inven.co.kr/campaign/970/outerplane",
+      "release_date": "5월 19일 출시 예정",
+      "reward": "[1000이니, 50베니]리미티드 영입티켓 33장, 에테르 3,333개, 특별 코스튬 3종 지급",
+      "developer": "메이저나인"
+    },
     {
       "id": "966",
       "title": "밤탈출 - 49일",

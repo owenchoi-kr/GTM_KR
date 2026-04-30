@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-04-29T22:32:23.879240",
+  "updated_at": "2026-04-30T22:30:49.509633",
   "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_021943",
-      "title": "사신키우기2: 중세편",
-      "url": "https://game.naver.com/saki2",
-      "release_date": "2026-02-04 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_022055",
       "title": "렐리온: NPC들의 생존기",
@@ -20,7 +13,7 @@
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
       "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-03-13 ~ 2026-05-01 사전예약",
+      "release_date": "2026-03-13 ~ 2026-04-30 사전예약",
       "platform": "Android,iOS,OneStore,PC"
     },
     {
@@ -57,6 +50,13 @@
       "url": "https://game.naver.com/honmoon",
       "release_date": "2026-04-23 ~  사전예약",
       "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_022713",
+      "title": "밤탈출 - 49일",
+      "url": "https://game.naver.com/Escape_Tonight_49Days",
+      "release_date": "2026-04-29 ~ 2026-05-20 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022779",

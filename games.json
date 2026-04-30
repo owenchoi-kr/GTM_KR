@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-29T22:32:23.877912",
-  "count": 20,
+  "updated_at": "2026-04-30T22:30:49.508526",
+  "count": 21,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -13,6 +13,12 @@
       "title": "이블 소드",
       "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko",
       "developer": "Act Seven Entertainment Inc."
+    },
+    {
+      "id": "com.actionfit.toy.defense.aos",
+      "title": "Toy Survivor - 장난감 서바이벌 전쟁",
+      "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
+      "developer": "ACTIONFIT"
     },
     {
       "id": "com.arumgames.fantasytown",

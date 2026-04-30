@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-04-29T22:32:23.878983",
-  "count": 23,
+  "updated_at": "2026-04-30T22:30:49.509386",
+  "count": 22,
   "games": [
+    {
+      "id": "0001004543",
+      "title": "페달소녀",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004543",
+      "developer": "GAMEPIA"
+    },
     {
       "id": "0001005302",
       "title": "신명: 타락의 신",
@@ -104,19 +110,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885"
     },
     {
-      "id": "0001004115",
-      "title": "마계강림",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004115"
-    },
-    {
       "id": "0001004683",
       "title": "라스트 헌터 K: 서울",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683"
-    },
-    {
-      "id": "0001004890",
-      "title": "다크슬레이어2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004890"
     },
     {
       "id": "0001004680",
@@ -131,8 +127,7 @@
     {
       "id": "0001003773",
       "title": "사신키우기2: 중세편",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773",
-      "developer": "DAERISOFT"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773"
     }
   ]
 }
