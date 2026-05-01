@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T22:30:49.508526",
+  "updated_at": "2026-05-01T22:14:20.959617",
   "count": 21,
   "games": [
     {
@@ -51,10 +51,10 @@
       "developer": "Finalflow"
     },
     {
-      "id": "com.indusgame.play",
-      "title": "Prime Rush",
-      "url": "https://play.google.com/store/apps/details?id=com.indusgame.play&hl=ko",
-      "developer": "SuperGaming SG"
+      "id": "com.highbrow.games.dvo",
+      "title": "드래곤빌리지3",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko",
+      "developer": "highbrow"
     },
     {
       "id": "com.netmarble.rfnext",
