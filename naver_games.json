@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T22:14:20.960560",
-  "count": 21,
+  "updated_at": "2026-05-02T22:08:30.631571",
+  "count": 22,
   "games": [
     {
       "id": "GM_NCR_022573",
@@ -57,6 +57,13 @@
       "url": "https://game.naver.com/Vardian",
       "release_date": "2026-04-14 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-05-01 ~ 2026-06-01 사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_020156",
