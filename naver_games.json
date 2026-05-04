@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T22:09:25.158912",
-  "count": 22,
+  "updated_at": "2026-05-04T22:35:59.717424",
+  "count": 21,
   "games": [
     {
       "id": "GM_NCR_022573",
@@ -148,13 +148,6 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021708",
-      "title": "프로젝트 제타",
-      "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-04-09 ~ 2026-05-03 OBT",
-      "platform": "PC"
     }
   ]
 }

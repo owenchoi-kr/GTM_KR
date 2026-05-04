@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-03T22:09:25.158575",
-  "count": 4,
+  "updated_at": "2026-05-04T22:35:59.716819",
+  "count": 5,
   "games": [
     {
       "id": "970",
@@ -25,6 +25,14 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
+    },
+    {
+      "id": "968",
+      "title": "메이크 드라마 : MAD",
+      "url": "https://pick.inven.co.kr/campaign/968/MAkeDrama",
+      "release_date": "출시 미정",
+      "reward": "[1000이니]사전예약 하시면 풍성한 보상을 드립니다.",
+      "developer": "위메이드커넥트"
     },
     {
       "id": "967",

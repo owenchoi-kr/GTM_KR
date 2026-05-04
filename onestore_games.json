@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-03T22:09:25.158745",
+  "updated_at": "2026-05-04T22:35:59.717111",
   "count": 22,
   "games": [
+    {
+      "id": "0001005003",
+      "title": "메이크 드라마 : MAD",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003",
+      "developer": "Wemade Connect"
+    },
     {
       "id": "0001004543",
       "title": "페달소녀",
@@ -118,11 +124,6 @@
       "id": "0001004680",
       "title": "남탓 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680"
-    },
-    {
-      "id": "0001004492",
-      "title": "용사가 돌아왔다 키우기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004492"
     },
     {
       "id": "0001003773",
