@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T22:35:59.717111",
-  "count": 22,
+  "updated_at": "2026-05-05T22:32:50.695775",
+  "count": 20,
   "games": [
     {
       "id": "0001005003",
@@ -109,16 +109,6 @@
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
-    },
-    {
-      "id": "0001003885",
-      "title": "심쿵신궁 연대기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003885"
-    },
-    {
-      "id": "0001004683",
-      "title": "라스트 헌터 K: 서울",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004683"
     },
     {
       "id": "0001004680",

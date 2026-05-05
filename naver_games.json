@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-04T22:35:59.717424",
-  "count": 21,
+  "updated_at": "2026-05-05T22:32:50.695973",
+  "count": 22,
   "games": [
     {
       "id": "GM_NCR_022573",
@@ -57,6 +57,13 @@
       "url": "https://game.naver.com/Vardian",
       "release_date": "2026-04-14 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022859",
+      "title": "드래곤빌리지3",
+      "url": "https://game.naver.com/Dragon_Village3",
+      "release_date": "2026-05-04 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_013601",
