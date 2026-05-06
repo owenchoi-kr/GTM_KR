@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-05T22:32:50.695775",
-  "count": 20,
+  "updated_at": "2026-05-06T22:15:28.029964",
+  "count": 19,
   "games": [
+    {
+      "id": "0001004675",
+      "title": "아키텍트: 랜드 오브 엑자일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
+      "developer": "DRIMAGE Co Ltd"
+    },
     {
       "id": "0001005003",
       "title": "메이크 드라마 : MAD",
@@ -13,12 +19,6 @@
       "title": "페달소녀",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004543",
       "developer": "GAMEPIA"
-    },
-    {
-      "id": "0001005302",
-      "title": "신명: 타락의 신",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302",
-      "developer": "GM 게임"
     },
     {
       "id": "0001005299",
@@ -63,12 +63,6 @@
       "developer": "GRAVITY"
     },
     {
-      "id": "0001004690",
-      "title": "희비전 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690",
-      "developer": "WISH INTERACTIVE TECHNOLOGY LIMITED"
-    },
-    {
       "id": "0001004914",
       "title": "밤탈출 - 49일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914",
@@ -111,14 +105,14 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001004680",
-      "title": "남탓 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004680"
+      "id": "0001005302",
+      "title": "신명: 타락의 신",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302"
     },
     {
-      "id": "0001003773",
-      "title": "사신키우기2: 중세편",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003773"
+      "id": "0001004690",
+      "title": "희비전 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-05T22:32:50.695064",
-  "count": 21,
+  "updated_at": "2026-05-06T22:15:28.029375",
+  "count": 20,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -121,12 +121,6 @@
       "title": "Sword x Staff",
       "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us&hl=ko",
       "developer": "BOLTRAY GAMES"
-    },
-    {
-      "id": "net.gameduo.fastdungeon",
-      "title": "패스트던전",
-      "url": "https://play.google.com/store/apps/details?id=net.gameduo.fastdungeon&hl=ko",
-      "developer": "Gameduo"
     }
   ]
 }
