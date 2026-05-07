@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T22:15:28.029375",
-  "count": 20,
+  "updated_at": "2026-05-07T22:37:02.925006",
+  "count": 21,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -61,6 +61,12 @@
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
       "developer": "Netmarble"
+    },
+    {
+      "id": "com.ondi.fortias.defense",
+      "title": "Pixel Defenders: Merge TD Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.pikpok.br.play",

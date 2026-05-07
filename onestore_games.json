@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T22:15:28.029964",
-  "count": 19,
+  "updated_at": "2026-05-07T22:37:02.925903",
+  "count": 18,
   "games": [
     {
       "id": "0001004675",
@@ -87,18 +87,6 @@
       "developer": "DAERISOFT"
     },
     {
-      "id": "0001002806",
-      "title": "드래곤네스트 월드",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002806",
-      "developer": "EYEDENTITYGAMES"
-    },
-    {
-      "id": "0001003823",
-      "title": "패스트던전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003823",
-      "developer": "gameduo Co Ltd"
-    },
-    {
       "id": "0001003337",
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
@@ -113,6 +101,11 @@
       "id": "0001004690",
       "title": "희비전 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690"
+    },
+    {
+      "id": "0001002806",
+      "title": "드래곤네스트 월드",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002806"
     }
   ]
 }
