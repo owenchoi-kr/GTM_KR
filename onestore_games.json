@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-05-07T22:37:02.925903",
-  "count": 18,
+  "updated_at": "2026-05-08T22:32:03.617477",
+  "count": 19,
   "games": [
     {
       "id": "0001004675",
       "title": "아키텍트: 랜드 오브 엑자일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
       "developer": "DRIMAGE Co Ltd"
+    },
+    {
+      "id": "0001002776",
+      "title": "인투더던전: 리본",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002776",
+      "developer": "REALITY CUBED GAME CO.,LIMITED"
     },
     {
       "id": "0001005003",
