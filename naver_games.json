@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-08T22:32:03.617684",
-  "count": 20,
+  "updated_at": "2026-05-09T22:08:56.770667",
+  "count": 21,
   "games": [
     {
       "id": "GM_NCR_022617",
@@ -36,6 +36,13 @@
       "url": "https://game.naver.com/Star_of_the_Overlord",
       "release_date": "2026-04-20 ~  사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_020111",
+      "title": "인투더던전:리본",
+      "url": "https://game.naver.com/Into_the_dungeon_Reborn",
+      "release_date": "2026-05-08 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022750",
@@ -80,18 +87,11 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_016009",
-      "title": "라스트 소녀 전사",
-      "url": "https://game.naver.com/Doomsday_Warrior",
-      "release_date": "2025-12-11 ~ 2026-07-01 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_022945",
       "title": "루미마스터",
       "url": "https://game.naver.com/lumimaster",
       "release_date": "2026-04-30 ~  사전예약",
-      "platform": "Android,iOS"
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_014731",
@@ -106,6 +106,13 @@
       "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
       "release_date": "2025-12-08 ~  사전예약",
       "platform": "Android,Console,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_016009",
+      "title": "라스트 소녀 전사",
+      "url": "https://game.naver.com/Doomsday_Warrior",
+      "release_date": "2025-12-11 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_022775",
