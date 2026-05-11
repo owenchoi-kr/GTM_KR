@@ -1,16 +1,5 @@
 {
-  "updated_at": "2026-05-10T22:11:39.860936",
-  "count": 2,
-  "games": [
-    {
-      "id": "5qqfdo",
-      "title": "아우터플레인",
-      "url": "https://game.kakao.com/ar/5qqfdo?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "886VHE",
-      "title": "카발RED",
-      "url": "https://game.kakao.com/ar/886VHE?rtc=atb_K-GAM02X0111"
-    }
-  ]
+  "updated_at": "2026-05-11T22:35:08.596984",
+  "count": 0,
+  "games": []
 }

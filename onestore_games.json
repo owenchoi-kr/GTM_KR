@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-05-10T22:11:39.861068",
-  "count": 19,
+  "updated_at": "2026-05-11T22:35:08.597107",
+  "count": 20,
   "games": [
     {
       "id": "0001004675",
       "title": "아키텍트: 랜드 오브 엑자일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
       "developer": "DRIMAGE Co Ltd"
+    },
+    {
+      "id": "0001005373",
+      "title": " 금기의 궁궐 K",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005373",
+      "developer": "GM 게임"
     },
     {
       "id": "0001002776",
