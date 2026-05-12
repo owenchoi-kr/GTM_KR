@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-11T22:35:08.597107",
+  "updated_at": "2026-05-12T22:42:57.790094",
   "count": 20,
   "games": [
     {
@@ -57,18 +57,6 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001003796",
-      "title": "혼문 - 달빛을 품은 MMORPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796",
-      "developer": "(주)게임에이드"
-    },
-    {
-      "id": "0001004641",
-      "title": "넋나간 삼국지",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641",
-      "developer": "BYTEFUN GAMES PTE. LTD."
-    },
-    {
       "id": "0001002677",
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
@@ -93,12 +81,6 @@
       "developer": "NADDIC GAMES CO LTD"
     },
     {
-      "id": "0001003775",
-      "title": "렐리온: NPC들의 생존기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775",
-      "developer": "DAERISOFT"
-    },
-    {
       "id": "0001003337",
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
@@ -110,9 +92,26 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302"
     },
     {
+      "id": "0001003796",
+      "title": "혼문 - 달빛을 품은 MMORPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796",
+      "developer": "(주)게임에이드"
+    },
+    {
+      "id": "0001004641",
+      "title": "넋나간 삼국지",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641"
+    },
+    {
       "id": "0001004690",
       "title": "희비전 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690"
+    },
+    {
+      "id": "0001003775",
+      "title": "렐리온: NPC들의 생존기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775",
+      "developer": "DAERISOFT"
     },
     {
       "id": "0001002806",
