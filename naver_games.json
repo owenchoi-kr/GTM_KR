@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-05-12T22:42:57.790333",
-  "count": 22,
+  "updated_at": "2026-05-13T22:47:05.264277",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_022617",
-      "title": "문파존망겜",
-      "url": "https://game.naver.com/kungfuchaos",
-      "release_date": "2026-04-29 ~ 2026-05-12 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_022358",
-      "title": "넋나간 삼국지",
-      "url": "https://game.naver.com/nuksam",
-      "release_date": "2026-04-16 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_022995",
       "title": "혼문 - 달빛을 품은 MMORPG",
       "url": "https://game.naver.com/honmoon",
       "release_date": "2026-04-23 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_022775",
+      "title": "꿈꾸는 가구점",
+      "url": "https://game.naver.com/dream_furniture",
+      "release_date": "2026-04-16 ~  사전예약",
       "platform": "Android,OneStore"
     },
     {
@@ -120,13 +113,6 @@
       "url": "https://game.naver.com/Doomsday_Warrior",
       "release_date": "2025-12-11 ~  사전예약",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_022775",
-      "title": "꿈꾸는 가구점",
-      "url": "https://game.naver.com/dream_furniture",
-      "release_date": "2026-04-16 ~  사전예약",
-      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_020257",

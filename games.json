@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-12T22:42:57.789450",
-  "count": 22,
+  "updated_at": "2026-05-13T22:47:05.263524",
+  "count": 21,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -49,12 +49,6 @@
       "title": "뚜까펫: 서바이벌",
       "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
       "developer": "FARLIGHT"
-    },
-    {
-      "id": "com.finalflow.cupblast",
-      "title": "Cup Blast",
-      "url": "https://play.google.com/store/apps/details?id=com.finalflow.cupblast&hl=ko",
-      "developer": "Finalflow"
     },
     {
       "id": "com.highbrow.games.dvo",

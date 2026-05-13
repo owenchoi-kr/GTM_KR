@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-05-12T22:42:57.790094",
-  "count": 20,
+  "updated_at": "2026-05-13T22:47:05.264111",
+  "count": 19,
   "games": [
     {
       "id": "0001004675",
       "title": "아키텍트: 랜드 오브 엑자일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
       "developer": "DRIMAGE Co Ltd"
+    },
+    {
+      "id": "0001003596",
+      "title": "미르의 전설: 진",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003596",
+      "developer": "VFive Games co.,Ltd."
     },
     {
       "id": "0001005373",
@@ -87,15 +93,9 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001005302",
-      "title": "신명: 타락의 신",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005302"
-    },
-    {
       "id": "0001003796",
       "title": "혼문 - 달빛을 품은 MMORPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796",
-      "developer": "(주)게임에이드"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796"
     },
     {
       "id": "0001004641",
@@ -103,15 +103,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641"
     },
     {
-      "id": "0001004690",
-      "title": "희비전 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004690"
-    },
-    {
       "id": "0001003775",
       "title": "렐리온: NPC들의 생존기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775",
-      "developer": "DAERISOFT"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775"
     },
     {
       "id": "0001002806",
