@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-05-13T22:47:05.264111",
-  "count": 19,
+  "updated_at": "2026-05-14T22:38:37.238727",
+  "count": 18,
   "games": [
-    {
-      "id": "0001004675",
-      "title": "아키텍트: 랜드 오브 엑자일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
-      "developer": "DRIMAGE Co Ltd"
-    },
     {
       "id": "0001003596",
       "title": "미르의 전설: 진",
@@ -25,6 +19,12 @@
       "title": "인투더던전: 리본",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002776",
       "developer": "REALITY CUBED GAME CO.,LIMITED"
+    },
+    {
+      "id": "0001004675",
+      "title": "아키텍트: 랜드 오브 엑자일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
+      "developer": "DRIMAGE Co Ltd"
     },
     {
       "id": "0001005003",
@@ -75,18 +75,6 @@
       "developer": "MOREFUN HK LIMITED"
     },
     {
-      "id": "0001004500",
-      "title": "꿈꾸는 가구점",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500",
-      "developer": "K8GAMES"
-    },
-    {
-      "id": "0001004502",
-      "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502",
-      "developer": "NADDIC GAMES CO LTD"
-    },
-    {
       "id": "0001003337",
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
@@ -103,14 +91,19 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641"
     },
     {
+      "id": "0001004500",
+      "title": "꿈꾸는 가구점",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500"
+    },
+    {
+      "id": "0001004502",
+      "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502"
+    },
+    {
       "id": "0001003775",
       "title": "렐리온: NPC들의 생존기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775"
-    },
-    {
-      "id": "0001002806",
-      "title": "드래곤네스트 월드",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002806"
     }
   ]
 }
