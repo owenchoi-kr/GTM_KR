@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14T22:38:37.238014",
+  "updated_at": "2026-05-15T22:32:15.182392",
   "count": 21,
   "games": [
     {
@@ -7,6 +7,12 @@
       "title": "냥이 기사단 키우기: 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko",
       "developer": "MONSTER PLANET Corp."
+    },
+    {
+      "id": "com.TeamSparta.MadDefense",
+      "title": "매드 라쿤: 전략 타워 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko",
+      "developer": "RocketdanGames"
     },
     {
       "id": "com.act7ent.evilsword",
@@ -85,12 +91,6 @@
       "title": "Basketball Slam MyTEAM",
       "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
       "developer": "Ranida Games"
-    },
-    {
-      "id": "com.superbox.aos.shot2048",
-      "title": "샷 더 넘버 : 머지 퍼즐",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.shot2048&hl=ko",
-      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superbox.aos.tycoon",

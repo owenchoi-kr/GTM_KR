@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-05-14T22:38:37.238965",
+  "updated_at": "2026-05-15T22:32:15.183233",
   "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_022775",
-      "title": "꿈꾸는 가구점",
-      "url": "https://game.naver.com/dream_furniture",
-      "release_date": "2026-04-16 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
     {
       "id": "GM_NCR_022713",
       "title": "밤탈출 - 49일",
@@ -28,6 +21,13 @@
       "title": "인투더던전:리본",
       "url": "https://game.naver.com/Into_the_dungeon_Reborn",
       "release_date": "2026-05-08 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023219",
+      "title": "NBA Basketball World 2026",
+      "url": "https://game.naver.com/NBABW2026",
+      "release_date": "2026-05-14 ~ 2026-05-22 사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
