@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T22:32:15.182392",
-  "count": 21,
+  "updated_at": "2026-05-16T22:12:46.803421",
+  "count": 31,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -15,12 +15,6 @@
       "developer": "RocketdanGames"
     },
     {
-      "id": "com.act7ent.evilsword",
-      "title": "이블 소드",
-      "url": "https://play.google.com/store/apps/details?id=com.act7ent.evilsword&hl=ko",
-      "developer": "Act Seven Entertainment Inc."
-    },
-    {
       "id": "com.actionfit.toy.defense.aos",
       "title": "Toy Survivor - 장난감 서바이벌 전쟁",
       "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
@@ -33,10 +27,10 @@
       "developer": "Arumgames"
     },
     {
-      "id": "com.bilibili.lumi",
-      "title": "Lumi Master",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
-      "developer": "BILIBILI"
+      "id": "com.arumgames.solitareword",
+      "title": "King of Solitaire: Word Puzzle",
+      "url": "https://play.google.com/store/apps/details?id=com.arumgames.solitareword&hl=ko",
+      "developer": "Arumgames"
     },
     {
       "id": "com.brazle.mylittlehotel",
@@ -45,10 +39,22 @@
       "developer": "Brazle"
     },
     {
+      "id": "com.buffstudio.stillpoint",
+      "title": "스틸포인트: 미니멀 타워 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
+    },
+    {
       "id": "com.cle.yulgang_gb",
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.emagroups.zs",
+      "title": "Dynasty Warriors: Overlords",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
+      "developer": "NEOCRAFT LIMITED"
     },
     {
       "id": "com.farlightgames.pgame.gp",
@@ -57,10 +63,22 @@
       "developer": "FARLIGHT"
     },
     {
+      "id": "com.gamehollywood.dk",
+      "title": "Dragonfall Kingdom",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.dk&hl=ko",
+      "developer": "Game Hollywood Hong Kong Limited"
+    },
+    {
       "id": "com.highbrow.games.dvo",
       "title": "드래곤빌리지3",
       "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko",
       "developer": "highbrow"
+    },
+    {
+      "id": "com.kongorange.felixthereaper",
+      "title": "Felix the Reaper",
+      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko",
+      "developer": "Daedalic Entertainment GmbH"
     },
     {
       "id": "com.netmarble.rfnext",
@@ -93,6 +111,24 @@
       "developer": "Ranida Games"
     },
     {
+      "id": "com.rawhand.midnightmarket",
+      "title": "미드나잇마켓:심야상점 타이쿤",
+      "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
+      "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.soulgame.minishoot.android",
+      "title": "Minishoot' Adventures",
+      "url": "https://play.google.com/store/apps/details?id=com.soulgame.minishoot.android&hl=ko",
+      "developer": "IndieArk"
+    },
+    {
+      "id": "com.sugargame.mjlj.gp",
+      "title": "Illusion Connect: Re",
+      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko",
+      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)"
+    },
+    {
       "id": "com.superbox.aos.tycoon",
       "title": "에잇! 전사들",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.tycoon&hl=ko",
@@ -105,16 +141,34 @@
       "developer": "SUPERBOX Inc"
     },
     {
+      "id": "com.wb.goog.hotd.socialstrategy",
+      "title": "Game of Thrones: Dragonfire",
+      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.hotd.socialstrategy&hl=ko",
+      "developer": "Warner Bros. International Enterprises"
+    },
+    {
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
     },
     {
+      "id": "com.wk.ball34",
+      "title": "3구 4구 당구",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.ball34&hl=ko",
+      "developer": "WK Company"
+    },
+    {
       "id": "com.wk.skewered",
       "title": "Oh My Skewer : 그릴소트",
       "url": "https://play.google.com/store/apps/details?id=com.wk.skewered&hl=ko",
       "developer": "WK Company"
+    },
+    {
+      "id": "com.yongyesea.az",
+      "title": "Ever Night",
+      "url": "https://play.google.com/store/apps/details?id=com.yongyesea.az&hl=ko",
+      "developer": "Hong Kong Longsin Co., Ltd."
     },
     {
       "id": "com.zestbeat.tripletile",
@@ -127,6 +181,12 @@
       "title": "Sword x Staff",
       "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us&hl=ko",
       "developer": "BOLTRAY GAMES"
+    },
+    {
+      "id": "game.qualiarts.hololive.dreams.com",
+      "title": "hololive Dreams",
+      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
+      "developer": "QualiArts, Inc."
     }
   ]
 }
