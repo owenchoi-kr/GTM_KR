@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-16T22:12:46.803421",
-  "count": 31,
+  "updated_at": "2026-05-17T22:16:51.661317",
+  "count": 33,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -45,6 +45,12 @@
       "developer": "Buff Studio Co.,Ltd."
     },
     {
+      "id": "com.casualino.mancala",
+      "title": "Mancala Game Online",
+      "url": "https://play.google.com/store/apps/details?id=com.casualino.mancala&hl=ko",
+      "developer": "Casualino Games"
+    },
+    {
       "id": "com.cle.yulgang_gb",
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
@@ -57,16 +63,16 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
-      "id": "com.farlightgames.pgame.gp",
-      "title": "뚜까펫: 서바이벌",
-      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
-      "developer": "FARLIGHT"
-    },
-    {
       "id": "com.gamehollywood.dk",
       "title": "Dragonfall Kingdom",
       "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.dk&hl=ko",
       "developer": "Game Hollywood Hong Kong Limited"
+    },
+    {
+      "id": "com.gzll.gpen.wlry",
+      "title": "For Glory：Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.gzll.gpen.wlry&hl=ko",
+      "developer": "零楽"
     },
     {
       "id": "com.highbrow.games.dvo",
@@ -79,6 +85,12 @@
       "title": "Felix the Reaper",
       "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko",
       "developer": "Daedalic Entertainment GmbH"
+    },
+    {
+      "id": "com.kr.chens.ete2024",
+      "title": "에타 크로니클",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
+      "developer": "CHENS GLOBAL LIMITED"
     },
     {
       "id": "com.netmarble.rfnext",
