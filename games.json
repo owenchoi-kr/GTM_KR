@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-17T22:16:51.661317",
-  "count": 33,
+  "updated_at": "2026-05-18T22:35:00.599497",
+  "count": 32,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -37,12 +37,6 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
-    },
-    {
-      "id": "com.buffstudio.stillpoint",
-      "title": "스틸포인트: 미니멀 타워 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.stillpoint&hl=ko",
-      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.casualino.mancala",

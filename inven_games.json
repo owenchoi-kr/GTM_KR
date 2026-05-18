@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-05-17T22:16:51.661996",
-  "count": 5,
+  "updated_at": "2026-05-18T22:35:00.599935",
+  "count": 7,
   "games": [
+    {
+      "id": "972",
+      "title": "삼국지: 천하결전",
+      "url": "https://pick.inven.co.kr/campaign/972/newslg",
+      "release_date": "6월 중 출시 예정",
+      "reward": "[2000이니, 100베니]전설 무장과 역대급 혜택을 획득하라!",
+      "developer": "빌리빌리 게임"
+    },
     {
       "id": "966",
       "title": "밤탈출 - 49일",
@@ -17,6 +25,14 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
+    },
+    {
+      "id": "973",
+      "title": "라살라스",
+      "url": "https://pick.inven.co.kr/campaign/973/Rasalas",
+      "release_date": "5월 27일 출시 예정",
+      "reward": "[1000이니]소환권 및 세공석",
+      "developer": "레포르 게임즈"
     },
     {
       "id": "971",
