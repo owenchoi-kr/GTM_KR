@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-18T22:35:00.600249",
-  "count": 20,
+  "updated_at": "2026-05-19T22:46:50.921226",
+  "count": 18,
   "games": [
+    {
+      "id": "0001005317",
+      "title": " 더 코지 플로리스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317",
+      "developer": "RiftSky Games Co Limited"
+    },
     {
       "id": "0001005821",
       "title": "떡상 디펜스",
@@ -93,16 +99,6 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001003796",
-      "title": "혼문 - 달빛을 품은 MMORPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003796"
-    },
-    {
-      "id": "0001004641",
-      "title": "넋나간 삼국지",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004641"
-    },
-    {
       "id": "0001004500",
       "title": "꿈꾸는 가구점",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500"
@@ -111,11 +107,6 @@
       "id": "0001004502",
       "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502"
-    },
-    {
-      "id": "0001003775",
-      "title": "렐리온: NPC들의 생존기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003775"
     }
   ]
 }

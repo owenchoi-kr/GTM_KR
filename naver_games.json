@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T22:35:00.600479",
+  "updated_at": "2026-05-19T22:46:50.921457",
   "count": 19,
   "games": [
     {
@@ -8,13 +8,6 @@
       "url": "https://game.naver.com/Escape_Tonight_49Days",
       "release_date": "2026-04-29 ~  사전예약",
       "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_022779",
-      "title": "패왕의별M",
-      "url": "https://game.naver.com/Star_of_the_Overlord",
-      "release_date": "2026-04-20 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_020111",
@@ -29,6 +22,13 @@
       "url": "https://game.naver.com/NBABW2026",
       "release_date": "2026-05-14 ~ 2026-05-22 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_022779",
+      "title": "패왕의별M",
+      "url": "https://game.naver.com/Star_of_the_Overlord",
+      "release_date": "2026-04-20 ~  사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_022352",

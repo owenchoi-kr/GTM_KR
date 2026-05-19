@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T22:35:00.599497",
+  "updated_at": "2026-05-19T22:46:50.920599",
   "count": 32,
   "games": [
     {
@@ -33,6 +33,18 @@
       "developer": "Arumgames"
     },
     {
+      "id": "com.bigcool.puzzle.merge.city",
+      "title": "머지 시티: 데이터 필요없는 퍼즐 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.city&hl=ko",
+      "developer": "Bigcool Games"
+    },
+    {
+      "id": "com.bilibili.lumi",
+      "title": "Lumi Master",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
+      "developer": "BILIBILI"
+    },
+    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
@@ -57,16 +69,16 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
-      "id": "com.gamehollywood.dk",
-      "title": "Dragonfall Kingdom",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.dk&hl=ko",
-      "developer": "Game Hollywood Hong Kong Limited"
+      "id": "com.farlightgames.pgame.gp",
+      "title": "뚜까펫: 서바이벌",
+      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
+      "developer": "FARLIGHT"
     },
     {
-      "id": "com.gzll.gpen.wlry",
-      "title": "For Glory：Idle RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.gzll.gpen.wlry&hl=ko",
-      "developer": "零楽"
+      "id": "com.global.sea.slmmo",
+      "title": "Soul Land: Awakening World",
+      "url": "https://play.google.com/store/apps/details?id=com.global.sea.slmmo&hl=ko",
+      "developer": "37games.Japan"
     },
     {
       "id": "com.highbrow.games.dvo",
@@ -75,16 +87,16 @@
       "developer": "highbrow"
     },
     {
-      "id": "com.kongorange.felixthereaper",
-      "title": "Felix the Reaper",
-      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko",
-      "developer": "Daedalic Entertainment GmbH"
-    },
-    {
       "id": "com.kr.chens.ete2024",
       "title": "에타 크로니클",
       "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
       "developer": "CHENS GLOBAL LIMITED"
+    },
+    {
+      "id": "com.n2pg.log",
+      "title": "Legends of Glory: Idle Arena",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pg.log&hl=ko",
+      "developer": "Now to Play Game Sucursal en España"
     },
     {
       "id": "com.netmarble.rfnext",
@@ -93,16 +105,22 @@
       "developer": "Netmarble"
     },
     {
+      "id": "com.neutronized.bufojump",
+      "title": "Bufo Jump",
+      "url": "https://play.google.com/store/apps/details?id=com.neutronized.bufojump&hl=ko",
+      "developer": "NEUTRONIZED"
+    },
+    {
+      "id": "com.odencat.wishuponacat",
+      "title": "고양이의 작은 소원",
+      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
+      "developer": "Odencat"
+    },
+    {
       "id": "com.ondi.fortias.defense",
       "title": "Pixel Defenders: Merge TD Game",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.pikpok.br.play",
-      "title": "Barbie™ Horse Ride & Rescue",
-      "url": "https://play.google.com/store/apps/details?id=com.pikpok.br.play&hl=ko",
-      "developer": "PIKPOK"
     },
     {
       "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
@@ -111,22 +129,10 @@
       "developer": "PLAYHARD STUDIO"
     },
     {
-      "id": "com.ranidagames.basketballslammyteam",
-      "title": "Basketball Slam MyTEAM",
-      "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
-      "developer": "Ranida Games"
-    },
-    {
       "id": "com.rawhand.midnightmarket",
       "title": "미드나잇마켓:심야상점 타이쿤",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
       "developer": "Rawhand Games"
-    },
-    {
-      "id": "com.soulgame.minishoot.android",
-      "title": "Minishoot' Adventures",
-      "url": "https://play.google.com/store/apps/details?id=com.soulgame.minishoot.android&hl=ko",
-      "developer": "IndieArk"
     },
     {
       "id": "com.sugargame.mjlj.gp",
@@ -145,6 +151,12 @@
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
+    },
+    {
+      "id": "com.valofe.laotw",
+      "title": "LAST ORIGIN R+",
+      "url": "https://play.google.com/store/apps/details?id=com.valofe.laotw&hl=ko",
+      "developer": "GOP Co., Ltd."
     },
     {
       "id": "com.wb.goog.hotd.socialstrategy",
@@ -171,22 +183,10 @@
       "developer": "WK Company"
     },
     {
-      "id": "com.yongyesea.az",
-      "title": "Ever Night",
-      "url": "https://play.google.com/store/apps/details?id=com.yongyesea.az&hl=ko",
-      "developer": "Hong Kong Longsin Co., Ltd."
-    },
-    {
       "id": "com.zestbeat.tripletile",
       "title": "Kitty Home: Match 3 Tiles",
       "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
       "developer": "ZESTBEAT"
-    },
-    {
-      "id": "com.zjcs.android.us",
-      "title": "Sword x Staff",
-      "url": "https://play.google.com/store/apps/details?id=com.zjcs.android.us&hl=ko",
-      "developer": "BOLTRAY GAMES"
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",
