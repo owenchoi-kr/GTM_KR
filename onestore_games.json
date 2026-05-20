@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-19T22:46:50.921226",
+  "updated_at": "2026-05-20T22:54:05.932045",
   "count": 18,
   "games": [
     {
@@ -27,28 +27,10 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001002776",
-      "title": "인투더던전: 리본",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002776",
-      "developer": "REALITY CUBED GAME CO.,LIMITED"
-    },
-    {
-      "id": "0001004675",
-      "title": "아키텍트: 랜드 오브 엑자일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675",
-      "developer": "DRIMAGE Co Ltd"
-    },
-    {
       "id": "0001005003",
       "title": "메이크 드라마 : MAD",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003",
       "developer": "Wemade Connect"
-    },
-    {
-      "id": "0001004543",
-      "title": "페달소녀",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004543",
-      "developer": "GAMEPIA"
     },
     {
       "id": "0001005299",
@@ -61,12 +43,6 @@
       "title": "루미마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
       "developer": "BILIBILI HK LIMITED"
-    },
-    {
-      "id": "0001004553",
-      "title": "오늘의 꽃",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553",
-      "developer": "Ujoy Games Limited"
     },
     {
       "id": "0001005327",
@@ -87,16 +63,36 @@
       "developer": "GRAVITY"
     },
     {
-      "id": "0001004914",
-      "title": "밤탈출 - 49일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914",
-      "developer": "MOREFUN HK LIMITED"
-    },
-    {
       "id": "0001003337",
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
+    },
+    {
+      "id": "0001002776",
+      "title": "인투더던전: 리본",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002776"
+    },
+    {
+      "id": "0001004675",
+      "title": "아키텍트: 랜드 오브 엑자일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675"
+    },
+    {
+      "id": "0001004543",
+      "title": "페달소녀",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004543"
+    },
+    {
+      "id": "0001004553",
+      "title": "오늘의 꽃",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553",
+      "developer": "Ujoy Games Limited"
+    },
+    {
+      "id": "0001004914",
+      "title": "밤탈출 - 49일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914"
     },
     {
       "id": "0001004500",

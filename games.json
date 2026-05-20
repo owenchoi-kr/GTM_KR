@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T22:46:50.920599",
-  "count": 32,
+  "updated_at": "2026-05-20T22:54:05.931304",
+  "count": 30,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -16,7 +16,7 @@
     },
     {
       "id": "com.actionfit.toy.defense.aos",
-      "title": "Toy Survivor - 장난감 서바이벌 전쟁",
+      "title": "와장창 특공대 - 토이워즈TD",
       "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
       "developer": "ACTIONFIT"
     },
@@ -39,22 +39,10 @@
       "developer": "Bigcool Games"
     },
     {
-      "id": "com.bilibili.lumi",
-      "title": "Lumi Master",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
-      "developer": "BILIBILI"
-    },
-    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
-    },
-    {
-      "id": "com.casualino.mancala",
-      "title": "Mancala Game Online",
-      "url": "https://play.google.com/store/apps/details?id=com.casualino.mancala&hl=ko",
-      "developer": "Casualino Games"
     },
     {
       "id": "com.cle.yulgang_gb",
@@ -123,6 +111,12 @@
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {
+      "id": "com.pikpok.br.play",
+      "title": "Barbie™ Horse Ride & Rescue",
+      "url": "https://play.google.com/store/apps/details?id=com.pikpok.br.play&hl=ko",
+      "developer": "PIKPOK"
+    },
+    {
       "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
       "title": "몬몬 마스터즈",
       "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko",
@@ -139,6 +133,12 @@
       "title": "Illusion Connect: Re",
       "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko",
       "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)"
+    },
+    {
+      "id": "com.superbox.aos.traindefense",
+      "title": "기차 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.traindefense&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superbox.aos.tycoon",
@@ -178,21 +178,9 @@
     },
     {
       "id": "com.wk.skewered",
-      "title": "Oh My Skewer : 그릴소트",
+      "title": "Oh My Skewer : Grill Sort",
       "url": "https://play.google.com/store/apps/details?id=com.wk.skewered&hl=ko",
       "developer": "WK Company"
-    },
-    {
-      "id": "com.zestbeat.tripletile",
-      "title": "Kitty Home: Match 3 Tiles",
-      "url": "https://play.google.com/store/apps/details?id=com.zestbeat.tripletile&hl=ko",
-      "developer": "ZESTBEAT"
-    },
-    {
-      "id": "game.qualiarts.hololive.dreams.com",
-      "title": "hololive Dreams",
-      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
-      "developer": "QualiArts, Inc."
     }
   ]
 }

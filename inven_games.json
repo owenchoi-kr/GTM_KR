@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T22:46:50.920976",
-  "count": 7,
+  "updated_at": "2026-05-20T22:54:05.931803",
+  "count": 6,
   "games": [
     {
       "id": "972",
@@ -9,14 +9,6 @@
       "release_date": "6월 중 출시 예정",
       "reward": "[2000이니, 100베니]전설 무장과 역대급 혜택을 획득하라!",
       "developer": "빌리빌리 게임"
-    },
-    {
-      "id": "966",
-      "title": "밤탈출 - 49일",
-      "url": "https://pick.inven.co.kr/campaign/966/EscapeTonight49Days",
-      "release_date": "출시 미정",
-      "reward": "[1000이니, 50베니]4949뽑기권, 한정 스킨 등 역대급 보상 증정",
-      "developer": "MOREFUN (H.K.) LIMIT"
     },
     {
       "id": "909",

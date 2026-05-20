@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-19T22:46:50.921457",
-  "count": 19,
+  "updated_at": "2026-05-20T22:54:05.932221",
+  "count": 18,
   "games": [
     {
-      "id": "GM_NCR_022713",
-      "title": "밤탈출 - 49일",
-      "url": "https://game.naver.com/Escape_Tonight_49Days",
-      "release_date": "2026-04-29 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
+      "id": "GM_NCR_022750",
+      "title": "바르디안",
+      "url": "https://game.naver.com/Vardian",
+      "release_date": "2026-04-14 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_020111",
@@ -36,13 +36,6 @@
       "url": "https://game.naver.com/Tomb_Busters",
       "release_date": "2026-05-09 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_022750",
-      "title": "바르디안",
-      "url": "https://game.naver.com/Vardian",
-      "release_date": "2026-04-14 ~  사전예약",
-      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_022859",
