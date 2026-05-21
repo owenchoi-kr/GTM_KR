@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T22:54:05.932045",
-  "count": 18,
+  "updated_at": "2026-05-21T22:51:08.875609",
+  "count": 16,
   "games": [
     {
       "id": "0001005317",
@@ -86,23 +86,12 @@
     {
       "id": "0001004553",
       "title": "오늘의 꽃",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553",
-      "developer": "Ujoy Games Limited"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553"
     },
     {
       "id": "0001004914",
       "title": "밤탈출 - 49일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914"
-    },
-    {
-      "id": "0001004500",
-      "title": "꿈꾸는 가구점",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004500"
-    },
-    {
-      "id": "0001004502",
-      "title": "별별 히어로: 사전 등록하면 SSS 영웅과 모험 출발",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004502"
     }
   ]
 }

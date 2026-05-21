@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T22:54:05.931304",
-  "count": 30,
+  "updated_at": "2026-05-21T22:51:08.875038",
+  "count": 29,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -39,10 +39,22 @@
       "developer": "Bigcool Games"
     },
     {
+      "id": "com.bilibili.lumi",
+      "title": "Lumi Master",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
+      "developer": "BILIBILI"
+    },
+    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.casualino.mancala",
+      "title": "Mancala Game Online",
+      "url": "https://play.google.com/store/apps/details?id=com.casualino.mancala&hl=ko",
+      "developer": "Casualino Games"
     },
     {
       "id": "com.cle.yulgang_gb",
@@ -55,12 +67,6 @@
       "title": "Dynasty Warriors: Overlords",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
-    },
-    {
-      "id": "com.farlightgames.pgame.gp",
-      "title": "뚜까펫: 서바이벌",
-      "url": "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp&hl=ko",
-      "developer": "FARLIGHT"
     },
     {
       "id": "com.global.sea.slmmo",
@@ -91,12 +97,6 @@
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
       "developer": "Netmarble"
-    },
-    {
-      "id": "com.neutronized.bufojump",
-      "title": "Bufo Jump",
-      "url": "https://play.google.com/store/apps/details?id=com.neutronized.bufojump&hl=ko",
-      "developer": "NEUTRONIZED"
     },
     {
       "id": "com.odencat.wishuponacat",
@@ -151,12 +151,6 @@
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.valofe.laotw",
-      "title": "LAST ORIGIN R+",
-      "url": "https://play.google.com/store/apps/details?id=com.valofe.laotw&hl=ko",
-      "developer": "GOP Co., Ltd."
     },
     {
       "id": "com.wb.goog.hotd.socialstrategy",
