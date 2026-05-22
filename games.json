@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-05-21T22:51:08.875038",
-  "count": 29,
+  "updated_at": "2026-05-22T22:36:26.560805",
+  "count": 31,
   "games": [
+    {
+      "id": "com.BillionaireGames.TicketHero",
+      "title": "사신소년 키우기",
+      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko",
+      "developer": "BillionaireGames"
+    },
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
       "title": "냥이 기사단 키우기: 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko",
       "developer": "MONSTER PLANET Corp."
+    },
+    {
+      "id": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
+      "title": "Queen’s Letter: Merge & Story",
+      "url": "https://play.google.com/store/apps/details?id=com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games&hl=ko",
+      "developer": "PLAYHARD STUDIO"
     },
     {
       "id": "com.TeamSparta.MadDefense",
@@ -51,12 +63,6 @@
       "developer": "Brazle"
     },
     {
-      "id": "com.casualino.mancala",
-      "title": "Mancala Game Online",
-      "url": "https://play.google.com/store/apps/details?id=com.casualino.mancala&hl=ko",
-      "developer": "Casualino Games"
-    },
-    {
       "id": "com.cle.yulgang_gb",
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
@@ -67,6 +73,12 @@
       "title": "Dynasty Warriors: Overlords",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
+    },
+    {
+      "id": "com.ggv.rogames.global",
+      "title": "라그나로크: 트와일라잇",
+      "url": "https://play.google.com/store/apps/details?id=com.ggv.rogames.global&hl=ko",
+      "developer": "Gravity Game Vision"
     },
     {
       "id": "com.global.sea.slmmo",

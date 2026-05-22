@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-21T22:51:08.875761",
-  "count": 20,
+  "updated_at": "2026-05-22T22:36:26.562026",
+  "count": 21,
   "games": [
     {
       "id": "GM_NCR_020111",
@@ -92,6 +92,13 @@
       "url": "https://game.naver.com/lumimaster",
       "release_date": "2026-04-30 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_022862",
+      "title": "죠죠의 기묘한 모험: 골든 스피릿",
+      "url": "https://game.naver.com/JoJos_Bizarre_Adventure_Golden_Spirit",
+      "release_date": "2026-05-21 ~ 2026-07-16 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_014731",
