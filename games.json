@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-22T22:36:26.560805",
-  "count": 31,
+  "updated_at": "2026-05-23T22:27:43.705945",
+  "count": 33,
   "games": [
     {
       "id": "com.BillionaireGames.TicketHero",
@@ -57,6 +57,12 @@
       "developer": "BILIBILI"
     },
     {
+      "id": "com.blackdust.redblue",
+      "title": "냥찍 히어로즈 : 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko",
+      "developer": "RIFF GAMES Co., Ltd."
+    },
+    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
@@ -67,6 +73,12 @@
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.cookapps.catsurvivor",
+      "title": "쾅냥 서바이버 : 좀비 쓸어버리기",
+      "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko",
+      "developer": "CookApps"
     },
     {
       "id": "com.emagroups.zs",

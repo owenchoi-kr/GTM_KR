@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-05-22T22:36:26.562026",
-  "count": 21,
+  "updated_at": "2026-05-23T22:27:43.706897",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_020111",
-      "title": "인투더던전:리본",
-      "url": "https://game.naver.com/Into_the_dungeon_Reborn",
-      "release_date": "2026-05-08 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_023219",
-      "title": "NBA Basketball World 2026",
-      "url": "https://game.naver.com/NBABW2026",
-      "release_date": "2026-05-14 ~ 2026-05-22 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_011216",
       "title": "Total Football - 25/26 시즌",
@@ -78,6 +64,13 @@
       "url": "https://game.naver.com/toysamguk",
       "release_date": "2026-05-20 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023351",
+      "title": "바람의기사단",
+      "url": "https://game.naver.com/wind",
+      "release_date": "2026-05-22 ~ 2026-06-23 사전예약",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_020833",
