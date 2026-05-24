@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-23T22:27:43.705945",
-  "count": 33,
+  "updated_at": "2026-05-24T22:31:57.648937",
+  "count": 30,
   "games": [
     {
       "id": "com.BillionaireGames.TicketHero",
@@ -105,34 +105,16 @@
       "developer": "highbrow"
     },
     {
-      "id": "com.kr.chens.ete2024",
-      "title": "에타 크로니클",
-      "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
-      "developer": "CHENS GLOBAL LIMITED"
-    },
-    {
-      "id": "com.n2pg.log",
-      "title": "Legends of Glory: Idle Arena",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pg.log&hl=ko",
-      "developer": "Now to Play Game Sucursal en España"
+      "id": "com.kongorange.felixthereaper",
+      "title": "Felix the Reaper",
+      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko",
+      "developer": "Daedalic Entertainment GmbH"
     },
     {
       "id": "com.netmarble.rfnext",
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
       "developer": "Netmarble"
-    },
-    {
-      "id": "com.odencat.wishuponacat",
-      "title": "고양이의 작은 소원",
-      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
-      "developer": "Odencat"
-    },
-    {
-      "id": "com.ondi.fortias.defense",
-      "title": "Pixel Defenders: Merge TD Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.pikpok.br.play",
@@ -151,12 +133,6 @@
       "title": "미드나잇마켓:심야상점 타이쿤",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
       "developer": "Rawhand Games"
-    },
-    {
-      "id": "com.sugargame.mjlj.gp",
-      "title": "Illusion Connect: Re",
-      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko",
-      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)"
     },
     {
       "id": "com.superbox.aos.traindefense",
@@ -199,6 +175,12 @@
       "title": "Oh My Skewer : Grill Sort",
       "url": "https://play.google.com/store/apps/details?id=com.wk.skewered&hl=ko",
       "developer": "WK Company"
+    },
+    {
+      "id": "game.qualiarts.hololive.dreams.com",
+      "title": "hololive Dreams",
+      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
+      "developer": "QualiArts, Inc."
     }
   ]
 }
