@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-24T22:31:57.648937",
-  "count": 30,
+  "updated_at": "2026-05-25T22:36:58.555123",
+  "count": 34,
   "games": [
     {
       "id": "com.BillionaireGames.TicketHero",
@@ -87,6 +87,12 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
+      "id": "com.gamehollywood.dk",
+      "title": "Dragonfall Kingdom",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.dk&hl=ko",
+      "developer": "Game Hollywood Hong Kong Limited"
+    },
+    {
       "id": "com.ggv.rogames.global",
       "title": "라그나로크: 트와일라잇",
       "url": "https://play.google.com/store/apps/details?id=com.ggv.rogames.global&hl=ko",
@@ -153,6 +159,12 @@
       "developer": "SUPERBOX Inc"
     },
     {
+      "id": "com.tree.idle.cat.cult",
+      "title": "고양이 마피아 : 방치형 타이쿤 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
+      "developer": "TREEPLLA"
+    },
+    {
       "id": "com.wb.goog.hotd.socialstrategy",
       "title": "Game of Thrones: Dragonfire",
       "url": "https://play.google.com/store/apps/details?id=com.wb.goog.hotd.socialstrategy&hl=ko",
@@ -177,10 +189,22 @@
       "developer": "WK Company"
     },
     {
+      "id": "com.yongyesea.az",
+      "title": "Ever Night",
+      "url": "https://play.google.com/store/apps/details?id=com.yongyesea.az&hl=ko",
+      "developer": "Hong Kong Longsin Co., Ltd."
+    },
+    {
       "id": "game.qualiarts.hololive.dreams.com",
       "title": "hololive Dreams",
       "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
       "developer": "QualiArts, Inc."
+    },
+    {
+      "id": "kemco.execreate.asdivineknot",
+      "title": "RPG Asdivine Knot",
+      "url": "https://play.google.com/store/apps/details?id=kemco.execreate.asdivineknot&hl=ko",
+      "developer": "KEMCO"
     }
   ]
 }
