@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-25T22:36:58.555802",
-  "count": 18,
+  "updated_at": "2026-05-26T22:50:09.380267",
+  "count": 19,
   "games": [
+    {
+      "id": "0001005605",
+      "title": " 네메시스:나인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001005208",
       "title": "토이 삼국",
@@ -63,12 +69,6 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001005083",
-      "title": "패왕의별M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005083",
-      "developer": "KINGKONGSOFT"
-    },
-    {
       "id": "0001002677",
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677",
@@ -99,6 +99,11 @@
       "id": "0001004553",
       "title": "오늘의 꽃",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553"
+    },
+    {
+      "id": "0001005083",
+      "title": "패왕의별M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005083"
     },
     {
       "id": "0001004914",

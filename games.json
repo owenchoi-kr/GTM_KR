@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-25T22:36:58.555123",
-  "count": 34,
+  "updated_at": "2026-05-26T22:50:09.379478",
+  "count": 33,
   "games": [
     {
       "id": "com.BillionaireGames.TicketHero",
@@ -127,12 +127,6 @@
       "title": "Barbie™ Horse Ride & Rescue",
       "url": "https://play.google.com/store/apps/details?id=com.pikpok.br.play&hl=ko",
       "developer": "PIKPOK"
-    },
-    {
-      "id": "com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid",
-      "title": "몬몬 마스터즈",
-      "url": "https://play.google.com/store/apps/details?id=com.playhardlab.monmonmasters.rpg.battle.monster.pvp.raid&hl=ko",
-      "developer": "PLAYHARD STUDIO"
     },
     {
       "id": "com.rawhand.midnightmarket",

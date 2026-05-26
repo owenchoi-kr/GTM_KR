@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T22:36:58.555968",
+  "updated_at": "2026-05-26T22:50:09.380498",
   "count": 20,
   "games": [
     {
@@ -87,18 +87,18 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_022862",
-      "title": "죠죠의 기묘한 모험: 골든 스피릿",
-      "url": "https://game.naver.com/JoJos_Bizarre_Adventure_Golden_Spirit",
-      "release_date": "2026-05-21 ~ 2026-07-16 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_014731",
       "title": "THE NEW GATE Best Collection",
       "url": "https://game.naver.com/the_new_gate",
       "release_date": "2024-07-22 ~  사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_022862",
+      "title": "죠죠의 기묘한 모험: 골든 스피릿",
+      "url": "https://game.naver.com/JoJos_Bizarre_Adventure_Golden_Spirit",
+      "release_date": "2026-05-21 ~ 2026-08-13 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_019939",
