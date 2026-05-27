@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T22:50:09.380267",
-  "count": 19,
+  "updated_at": "2026-05-27T22:58:45.117387",
+  "count": 14,
   "games": [
     {
       "id": "0001005605",
@@ -39,22 +39,10 @@
       "developer": "VFive Games co.,Ltd."
     },
     {
-      "id": "0001005373",
-      "title": " 금기의 궁궐 K",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005373",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001005003",
       "title": "메이크 드라마 : MAD",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003",
       "developer": "Wemade Connect"
-    },
-    {
-      "id": "0001005299",
-      "title": "드래곤빌리지3",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005299",
-      "developer": "highbrow"
     },
     {
       "id": "0001004771",
@@ -81,34 +69,19 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001002776",
-      "title": "인투더던전: 리본",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002776"
+      "id": "0001005373",
+      "title": " 금기의 궁궐 K",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005373"
     },
     {
-      "id": "0001004675",
-      "title": "아키텍트: 랜드 오브 엑자일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004675"
-    },
-    {
-      "id": "0001004543",
-      "title": "페달소녀",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004543"
-    },
-    {
-      "id": "0001004553",
-      "title": "오늘의 꽃",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004553"
+      "id": "0001005299",
+      "title": "드래곤빌리지3",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005299"
     },
     {
       "id": "0001005083",
       "title": "패왕의별M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005083"
-    },
-    {
-      "id": "0001004914",
-      "title": "밤탈출 - 49일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004914"
     }
   ]
 }

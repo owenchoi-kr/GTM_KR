@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T22:50:09.379478",
-  "count": 33,
+  "updated_at": "2026-05-27T22:58:45.116687",
+  "count": 32,
   "games": [
     {
       "id": "com.BillionaireGames.TicketHero",
@@ -16,7 +16,7 @@
     },
     {
       "id": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
-      "title": "Queen’s Letter: Merge & Story",
+      "title": "퀸즈레터 : 합성 & 스토리",
       "url": "https://play.google.com/store/apps/details?id=com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games&hl=ko",
       "developer": "PLAYHARD STUDIO"
     },
@@ -103,12 +103,6 @@
       "title": "Soul Land: Awakening World",
       "url": "https://play.google.com/store/apps/details?id=com.global.sea.slmmo&hl=ko",
       "developer": "37games.Japan"
-    },
-    {
-      "id": "com.highbrow.games.dvo",
-      "title": "드래곤빌리지3",
-      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.dvo&hl=ko",
-      "developer": "highbrow"
     },
     {
       "id": "com.kongorange.felixthereaper",

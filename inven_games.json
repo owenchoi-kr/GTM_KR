@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T22:50:09.379967",
-  "count": 6,
+  "updated_at": "2026-05-27T22:58:45.117123",
+  "count": 5,
   "games": [
     {
       "id": "972",
@@ -17,14 +17,6 @@
       "release_date": "출시 미정",
       "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
       "developer": "CTW"
-    },
-    {
-      "id": "973",
-      "title": "라살라스",
-      "url": "https://pick.inven.co.kr/campaign/973/Rasalas",
-      "release_date": "5월 27일 출시 완료",
-      "reward": "[1000이니]소환권 및 세공석",
-      "developer": "레포르 게임즈"
     },
     {
       "id": "971",
