@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-05-27T22:58:45.116687",
-  "count": 32,
+  "updated_at": "2026-05-28T22:54:53.148091",
+  "count": 30,
   "games": [
-    {
-      "id": "com.BillionaireGames.TicketHero",
-      "title": "사신소년 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko",
-      "developer": "BillionaireGames"
-    },
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
       "title": "냥이 기사단 키우기: 방치형 RPG",
@@ -33,22 +27,10 @@
       "developer": "ACTIONFIT"
     },
     {
-      "id": "com.arumgames.fantasytown",
-      "title": "판타지타운",
-      "url": "https://play.google.com/store/apps/details?id=com.arumgames.fantasytown&hl=ko",
-      "developer": "Arumgames"
-    },
-    {
       "id": "com.arumgames.solitareword",
       "title": "King of Solitaire: Word Puzzle",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.solitareword&hl=ko",
       "developer": "Arumgames"
-    },
-    {
-      "id": "com.bigcool.puzzle.merge.city",
-      "title": "머지 시티: 데이터 필요없는 퍼즐 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.city&hl=ko",
-      "developer": "Bigcool Games"
     },
     {
       "id": "com.bilibili.lumi",
@@ -171,8 +153,14 @@
       "developer": "WK Company"
     },
     {
+      "id": "com.wk.mmm",
+      "title": "솔저 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
+      "developer": "WK Company"
+    },
+    {
       "id": "com.wk.skewered",
-      "title": "Oh My Skewer : Grill Sort",
+      "title": "오 마이 꼬치 : 그릴 소트",
       "url": "https://play.google.com/store/apps/details?id=com.wk.skewered&hl=ko",
       "developer": "WK Company"
     },

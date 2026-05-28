@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-05-27T22:58:45.117547",
-  "count": 18,
+  "updated_at": "2026-05-28T22:54:53.148882",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_022352",
-      "title": "초자연 작전팀",
-      "url": "https://game.naver.com/Tomb_Busters",
-      "release_date": "2026-05-09 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_022859",
-      "title": "드래곤빌리지3",
-      "url": "https://game.naver.com/Dragon_Village3",
-      "release_date": "2026-05-04 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
