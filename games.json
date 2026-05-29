@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T22:54:53.148091",
-  "count": 30,
+  "updated_at": "2026-05-29T22:52:49.116634",
+  "count": 32,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -51,6 +51,12 @@
       "developer": "Brazle"
     },
     {
+      "id": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
+    },
+    {
       "id": "com.cle.yulgang_gb",
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
@@ -87,16 +93,16 @@
       "developer": "37games.Japan"
     },
     {
-      "id": "com.kongorange.felixthereaper",
-      "title": "Felix the Reaper",
-      "url": "https://play.google.com/store/apps/details?id=com.kongorange.felixthereaper&hl=ko",
-      "developer": "Daedalic Entertainment GmbH"
-    },
-    {
       "id": "com.netmarble.rfnext",
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
       "developer": "Netmarble"
+    },
+    {
+      "id": "com.odencat.wishuponacat",
+      "title": "고양이의 작은 소원",
+      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
+      "developer": "Odencat"
     },
     {
       "id": "com.pikpok.br.play",
@@ -109,6 +115,12 @@
       "title": "미드나잇마켓:심야상점 타이쿤",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.sugargame.mjlj.gp",
+      "title": "Illusion Connect: Re",
+      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko",
+      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)"
     },
     {
       "id": "com.superbox.aos.traindefense",
@@ -133,6 +145,12 @@
       "title": "고양이 마피아 : 방치형 타이쿤 게임",
       "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
       "developer": "TREEPLLA"
+    },
+    {
+      "id": "com.unimob.idle.fishing.charter",
+      "title": "Idle Fishing Charter",
+      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.fishing.charter&hl=ko",
+      "developer": "Unimob Games"
     },
     {
       "id": "com.wb.goog.hotd.socialstrategy",
@@ -175,12 +193,6 @@
       "title": "hololive Dreams",
       "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
       "developer": "QualiArts, Inc."
-    },
-    {
-      "id": "kemco.execreate.asdivineknot",
-      "title": "RPG Asdivine Knot",
-      "url": "https://play.google.com/store/apps/details?id=kemco.execreate.asdivineknot&hl=ko",
-      "developer": "KEMCO"
     }
   ]
 }

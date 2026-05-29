@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-05-28T22:54:53.148733",
-  "count": 14,
+  "updated_at": "2026-05-29T22:52:49.117518",
+  "count": 15,
   "games": [
+    {
+      "id": "0001006194",
+      "title": "에보 트레이너",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
+      "developer": "Cloud Play Network Technology Co., Limited"
+    },
     {
       "id": "0001005605",
       "title": " 네메시스:나인",
