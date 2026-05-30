@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T22:52:49.117731",
-  "count": 16,
+  "updated_at": "2026-05-30T22:33:02.514152",
+  "count": 17,
   "games": [
     {
       "id": "GM_NCR_013601",
@@ -36,6 +36,13 @@
       "url": "https://game.naver.com/toysamguk",
       "release_date": "2026-05-20 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023352",
+      "title": "갓갓갓",
+      "url": "https://game.naver.com/Tiny_Divines",
+      "release_date": "2026-05-29 ~ 2026-06-22 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_023351",

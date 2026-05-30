@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T22:52:49.116634",
-  "count": 32,
+  "updated_at": "2026-05-30T22:33:02.513283",
+  "count": 35,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -22,7 +22,7 @@
     },
     {
       "id": "com.actionfit.toy.defense.aos",
-      "title": "와장창 특공대 - 토이워즈TD",
+      "title": "장난EZ렁",
       "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
       "developer": "ACTIONFIT"
     },
@@ -69,6 +69,12 @@
       "developer": "CookApps"
     },
     {
+      "id": "com.daimaoo.sengokuna",
+      "title": "Sengoku Bushido",
+      "url": "https://play.google.com/store/apps/details?id=com.daimaoo.sengokuna&hl=ko",
+      "developer": "DAIMAOU Co., Ltd."
+    },
+    {
       "id": "com.emagroups.zs",
       "title": "Dynasty Warriors: Overlords",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
@@ -93,6 +99,12 @@
       "developer": "37games.Japan"
     },
     {
+      "id": "com.haoplay.game.gp.duck",
+      "title": "꽥꽥 구조대 - 알 폭격 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.duck&hl=ko",
+      "developer": "HaoPlay Limited"
+    },
+    {
       "id": "com.netmarble.rfnext",
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
@@ -103,6 +115,18 @@
       "title": "고양이의 작은 소원",
       "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
       "developer": "Odencat"
+    },
+    {
+      "id": "com.ondi.fortias.defense",
+      "title": "Pixel Defenders: Merge TD Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
+    },
+    {
+      "id": "com.owlottergames.nekomancer",
+      "title": "네코맨서: 타워 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.owlottergames.nekomancer&hl=ko",
+      "developer": "Olbbaemi wa Sudal Co., Ltd."
     },
     {
       "id": "com.pikpok.br.play",
@@ -151,12 +175,6 @@
       "title": "Idle Fishing Charter",
       "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.fishing.charter&hl=ko",
       "developer": "Unimob Games"
-    },
-    {
-      "id": "com.wb.goog.hotd.socialstrategy",
-      "title": "Game of Thrones: Dragonfire",
-      "url": "https://play.google.com/store/apps/details?id=com.wb.goog.hotd.socialstrategy&hl=ko",
-      "developer": "Warner Bros. International Enterprises"
     },
     {
       "id": "com.wemadeconnect.aos.valkyrie",
