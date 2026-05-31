@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T22:33:02.513972",
+  "updated_at": "2026-05-31T22:34:26.911375",
   "count": 15,
   "games": [
     {
@@ -7,12 +7,6 @@
       "title": "에보 트레이너",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
       "developer": "Cloud Play Network Technology Co., Limited"
-    },
-    {
-      "id": "0001005605",
-      "title": " 네메시스:나인",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
-      "developer": "GM 게임"
     },
     {
       "id": "0001005208",
@@ -73,6 +67,12 @@
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
+    },
+    {
+      "id": "0001005605",
+      "title": " 네메시스:나인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
+      "developer": "GM 게임"
     },
     {
       "id": "0001005373",
