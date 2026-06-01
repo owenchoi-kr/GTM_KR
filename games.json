@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-31T22:34:26.910682",
-  "count": 35,
+  "updated_at": "2026-06-01T23:16:06.747030",
+  "count": 33,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -18,7 +18,7 @@
       "id": "com.TeamSparta.MadDefense",
       "title": "매드 라쿤: 전략 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko",
-      "developer": "RocketdanGames"
+      "developer": "Teamsparta Inc."
     },
     {
       "id": "com.actionfit.toy.defense.aos",
@@ -79,12 +79,6 @@
       "title": "Dynasty Warriors: Overlords",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
-    },
-    {
-      "id": "com.gamehollywood.dk",
-      "title": "Dragonfall Kingdom",
-      "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.dk&hl=ko",
-      "developer": "Game Hollywood Hong Kong Limited"
     },
     {
       "id": "com.ggv.rogames.global",
@@ -195,14 +189,8 @@
       "developer": "WK Company"
     },
     {
-      "id": "com.wk.skewered",
-      "title": "오 마이 꼬치 : 그릴 소트",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.skewered&hl=ko",
-      "developer": "WK Company"
-    },
-    {
       "id": "com.yongyesea.az",
-      "title": "Ever Night",
+      "title": "Ever Night: Reawakening",
       "url": "https://play.google.com/store/apps/details?id=com.yongyesea.az&hl=ko",
       "developer": "Hong Kong Longsin Co., Ltd."
     },
