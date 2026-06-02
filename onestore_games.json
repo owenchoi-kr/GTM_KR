@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-01T23:16:06.747735",
+  "updated_at": "2026-06-02T23:17:27.696813",
   "count": 15,
   "games": [
+    {
+      "id": "0001004374",
+      "title": "브라운더스트2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
+      "developer": "(주)네오위즈"
+    },
     {
       "id": "0001006194",
       "title": "에보 트레이너",
@@ -25,12 +31,6 @@
       "title": "원죄: 신의 심판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873",
       "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
-    },
-    {
-      "id": "0001005821",
-      "title": "떡상 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005821",
-      "developer": "YQGAMES"
     },
     {
       "id": "0001003596",
@@ -75,6 +75,12 @@
       "developer": "GM 게임"
     },
     {
+      "id": "0001005821",
+      "title": "떡상 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005821",
+      "developer": "YQGAMES"
+    },
+    {
       "id": "0001005373",
       "title": " 금기의 궁궐 K",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005373"
@@ -83,11 +89,6 @@
       "id": "0001005299",
       "title": "드래곤빌리지3",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005299"
-    },
-    {
-      "id": "0001005083",
-      "title": "패왕의별M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005083"
     }
   ]
 }

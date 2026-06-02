@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-01T23:16:06.747947",
-  "count": 17,
+  "updated_at": "2026-06-02T23:17:27.697022",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_013601",
-      "title": "아너 오브 킹즈(왕자영요 글로벌)",
-      "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-05-01 ~ 2026-06-01 사전예약",
-      "platform": "Android,iOS,OneStore,PC"
-    },
     {
       "id": "GM_NCR_020156",
       "title": "산너머 도원마을",
