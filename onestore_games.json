@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T23:17:27.696813",
-  "count": 15,
+  "updated_at": "2026-06-03T23:20:09.948033",
+  "count": 13,
   "games": [
     {
       "id": "0001004374",
@@ -21,28 +21,10 @@
       "developer": "XINIU NET LIMITED"
     },
     {
-      "id": "0001005317",
-      "title": " 더 코지 플로리스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317",
-      "developer": "RiftSky Games Co Limited"
-    },
-    {
       "id": "0001005873",
       "title": "원죄: 신의 심판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873",
       "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
-    },
-    {
-      "id": "0001003596",
-      "title": "미르의 전설: 진",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003596",
-      "developer": "VFive Games co.,Ltd."
-    },
-    {
-      "id": "0001005003",
-      "title": "메이크 드라마 : MAD",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003",
-      "developer": "Wemade Connect"
     },
     {
       "id": "0001004771",
@@ -75,20 +57,26 @@
       "developer": "GM 게임"
     },
     {
+      "id": "0001005317",
+      "title": " 더 코지 플로리스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317",
+      "developer": "RiftSky Games Co Limited"
+    },
+    {
       "id": "0001005821",
       "title": "떡상 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005821",
       "developer": "YQGAMES"
     },
     {
-      "id": "0001005373",
-      "title": " 금기의 궁궐 K",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005373"
+      "id": "0001003596",
+      "title": "미르의 전설: 진",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003596"
     },
     {
-      "id": "0001005299",
-      "title": "드래곤빌리지3",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005299"
+      "id": "0001005003",
+      "title": "메이크 드라마 : MAD",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003"
     }
   ]
 }

@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-02T23:17:27.697022",
-  "count": 16,
+  "updated_at": "2026-06-03T23:20:09.948225",
+  "count": 15,
   "games": [
-    {
-      "id": "GM_NCR_020156",
-      "title": "산너머 도원마을",
-      "url": "https://game.naver.com/peachland",
-      "release_date": "2026-04-27 ~ 2026-06-02 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_023259",
       "title": "미르의 전설: 진",

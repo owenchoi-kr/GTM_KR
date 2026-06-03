@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T23:17:27.695930",
+  "updated_at": "2026-06-03T23:20:09.947379",
   "count": 31,
   "games": [
     {
@@ -18,6 +18,12 @@
       "id": "com.TeamSparta.MadDefense",
       "title": "매드 라쿤: 전략 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko",
+      "developer": "Teamsparta Inc."
+    },
+    {
+      "id": "com.TeamSparta.brd",
+      "title": "벙커 딸깍 디펜스: 랜덤TD",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
       "developer": "Teamsparta Inc."
     },
     {
@@ -81,12 +87,6 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
-      "id": "com.ggv.rogames.global",
-      "title": "라그나로크: 트와일라잇",
-      "url": "https://play.google.com/store/apps/details?id=com.ggv.rogames.global&hl=ko",
-      "developer": "Gravity Game Vision"
-    },
-    {
       "id": "com.haoplay.game.gp.duck",
       "title": "꽥꽥 구조대 - 알 폭격 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.duck&hl=ko",
@@ -123,10 +123,10 @@
       "developer": "Rawhand Games"
     },
     {
-      "id": "com.sugargame.mjlj.gp",
-      "title": "Illusion Connect: Re",
-      "url": "https://play.google.com/store/apps/details?id=com.sugargame.mjlj.gp&hl=ko",
-      "developer": "SUGARGAME NETWORK LIMITED (HONG KONG)"
+      "id": "com.spcomes.meowsgarden",
+      "title": "냥이의 정원: 힐링 타일 매치 퍼즐 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.spcomes.meowsgarden&hl=ko",
+      "developer": "Springcomes"
     },
     {
       "id": "com.superbox.aos.traindefense",
