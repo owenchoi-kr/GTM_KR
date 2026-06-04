@@ -1,5 +1,38 @@
 {
-  "updated_at": "2026-06-03T23:20:09.947854",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-06-04T22:55:37.017308",
+  "count": 4,
+  "games": [
+    {
+      "id": "972",
+      "title": "삼국지: 천하결전",
+      "url": "https://pick.inven.co.kr/campaign/972/newslg",
+      "release_date": "6월 중 출시 예정",
+      "reward": "[2000이니, 100베니]전설 무장과 역대급 혜택을 획득하라!",
+      "developer": "빌리빌리 게임"
+    },
+    {
+      "id": "909",
+      "title": "약사의 혼잣말 후궁이문록",
+      "url": "https://pick.inven.co.kr/campaign/909/kusuriya",
+      "release_date": "출시 미정",
+      "reward": "[50베니, 20제니]추첨권×50, 엽차×20, 샤오란",
+      "developer": "CTW"
+    },
+    {
+      "id": "971",
+      "title": "여전사 키우기",
+      "url": "https://pick.inven.co.kr/campaign/971/WarriorPrincessIdl",
+      "release_date": "출시 미정",
+      "reward": "[1000이니]루비 10,000개 지급",
+      "developer": "주식회사 코드독"
+    },
+    {
+      "id": "967",
+      "title": "궁수키우기 : 스틱맨 RPG",
+      "url": "https://pick.inven.co.kr/campaign/967/IdleArcherStickman",
+      "release_date": "6월 26일 출시 예정",
+      "reward": "[1000이니][사전예약 보상] 다이아 3,000",
+      "developer": "주식회사 라이언즈코드"
+    }
+  ]
 }

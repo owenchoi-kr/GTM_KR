@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-03T23:20:09.947379",
-  "count": 31,
+  "updated_at": "2026-06-04T22:55:37.016732",
+  "count": 29,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -87,6 +87,12 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
+      "id": "com.gravity.roocam.android",
+      "title": "Ragnarok Origin: Classic",
+      "url": "https://play.google.com/store/apps/details?id=com.gravity.roocam.android&hl=ko",
+      "developer": "Gravity Game Vision"
+    },
+    {
       "id": "com.haoplay.game.gp.duck",
       "title": "꽥꽥 구조대 - 알 폭격 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.duck&hl=ko",
@@ -135,12 +141,6 @@
       "developer": "SUPERBOX Inc"
     },
     {
-      "id": "com.superbox.aos.tycoon",
-      "title": "에잇! 전사들",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.tycoon&hl=ko",
-      "developer": "SUPERBOX Inc"
-    },
-    {
       "id": "com.superpixel.undyinghero",
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
@@ -163,18 +163,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.wk.ball34",
-      "title": "3구 4구 당구",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.ball34&hl=ko",
-      "developer": "WK Company"
-    },
-    {
-      "id": "com.wk.mmm",
-      "title": "솔저 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
-      "developer": "WK Company"
     },
     {
       "id": "com.yongyesea.az",

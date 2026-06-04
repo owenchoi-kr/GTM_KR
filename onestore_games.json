@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-03T23:20:09.948033",
-  "count": 13,
+  "updated_at": "2026-06-04T22:55:37.017540",
+  "count": 15,
   "games": [
+    {
+      "id": "0001005482",
+      "title": "이클립스 나이트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005482",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001004374",
       "title": "브라운더스트2",
@@ -15,10 +21,22 @@
       "developer": "Cloud Play Network Technology Co., Limited"
     },
     {
+      "id": "0001005605",
+      "title": " 네메시스:나인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
+      "developer": "GM 게임"
+    },
+    {
       "id": "0001005208",
       "title": "토이 삼국",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005208",
       "developer": "XINIU NET LIMITED"
+    },
+    {
+      "id": "0001005463",
+      "title": "캣킹덤:삼국대전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005463",
+      "developer": "KPENT LIMITED"
     },
     {
       "id": "0001005873",
@@ -51,16 +69,9 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001005605",
-      "title": " 네메시스:나인",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001005317",
       "title": " 더 코지 플로리스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317",
-      "developer": "RiftSky Games Co Limited"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317"
     },
     {
       "id": "0001005821",
