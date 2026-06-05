@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-06-04T22:55:37.016732",
-  "count": 29,
+  "updated_at": "2026-06-05T22:43:27.594918",
+  "count": 34,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
       "title": "냥이 기사단 키우기: 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.MonsterPlanet.CatIdleRpg&hl=ko",
       "developer": "MONSTER PLANET Corp."
+    },
+    {
+      "id": "com.ObliqueGames.GodGodGod",
+      "title": "갓갓갓 : 로그라이크 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.GodGodGod&hl=ko",
+      "developer": "OBLIQUE GAMES"
     },
     {
       "id": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
@@ -75,16 +81,22 @@
       "developer": "CookApps"
     },
     {
-      "id": "com.daimaoo.sengokuna",
-      "title": "Sengoku Bushido",
-      "url": "https://play.google.com/store/apps/details?id=com.daimaoo.sengokuna&hl=ko",
-      "developer": "DAIMAOU Co., Ltd."
+      "id": "com.domozoo.elf",
+      "title": "Tap Troop: Dash TD",
+      "url": "https://play.google.com/store/apps/details?id=com.domozoo.elf&hl=ko",
+      "developer": "DOMO ZOO"
     },
     {
       "id": "com.emagroups.zs",
       "title": "Dynasty Warriors: Overlords",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
+    },
+    {
+      "id": "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
+      "title": "Exile: Wasteland Survival PRO",
+      "url": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert&hl=ko",
+      "developer": "Gem Jam"
     },
     {
       "id": "com.gravity.roocam.android",
@@ -99,22 +111,28 @@
       "developer": "HaoPlay Limited"
     },
     {
+      "id": "com.kr.chens.ete2024",
+      "title": "에타 크로니클",
+      "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
+      "developer": "CHENS GLOBAL LIMITED"
+    },
+    {
       "id": "com.netmarble.rfnext",
       "title": "RF 온라인 넥스트",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
       "developer": "Netmarble"
     },
     {
+      "id": "com.niceplaygames.PotionCraft",
+      "title": "Potion Craft",
+      "url": "https://play.google.com/store/apps/details?id=com.niceplaygames.PotionCraft&hl=ko",
+      "developer": "tinyBuild"
+    },
+    {
       "id": "com.ondi.fortias.defense",
       "title": "Pixel Defenders: Merge TD Game",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.owlottergames.nekomancer",
-      "title": "네코맨서: 타워 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.owlottergames.nekomancer&hl=ko",
-      "developer": "Olbbaemi wa Sudal Co., Ltd."
     },
     {
       "id": "com.pikpok.br.play",
@@ -153,6 +171,12 @@
       "developer": "TREEPLLA"
     },
     {
+      "id": "com.unimob.idle.axolotl",
+      "title": "MagiLotl: Idle Wizard Tycoon",
+      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.axolotl&hl=ko",
+      "developer": "Unimob Games"
+    },
+    {
       "id": "com.unimob.idle.fishing.charter",
       "title": "Idle Fishing Charter",
       "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.fishing.charter&hl=ko",
@@ -165,10 +189,16 @@
       "developer": "nitrox"
     },
     {
-      "id": "com.yongyesea.az",
-      "title": "Ever Night: Reawakening",
-      "url": "https://play.google.com/store/apps/details?id=com.yongyesea.az&hl=ko",
-      "developer": "Hong Kong Longsin Co., Ltd."
+      "id": "com.x.aniimos",
+      "title": "애니모",
+      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
+      "developer": "Pawprint Studio"
+    },
+    {
+      "id": "com.xseed.moonlightpeaks",
+      "title": "문라이트 피크스 -Moonlight Peaks-",
+      "url": "https://play.google.com/store/apps/details?id=com.xseed.moonlightpeaks&hl=ko",
+      "developer": "XSEED Games/Marvelous USA, Inc."
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",

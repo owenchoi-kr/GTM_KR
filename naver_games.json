@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-04T22:55:37.017711",
-  "count": 15,
+  "updated_at": "2026-06-05T22:43:27.595873",
+  "count": 14,
   "games": [
-    {
-      "id": "GM_NCR_023259",
-      "title": "미르의 전설: 진",
-      "url": "https://game.naver.com/mirjin",
-      "release_date": "2026-05-20 ~ 2026-06-04 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_020602",
       "title": "레퀴엠M",
