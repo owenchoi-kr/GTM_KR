@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-07T22:38:44.317226",
+  "updated_at": "2026-06-08T22:58:15.306219",
   "count": 17,
   "games": [
+    {
+      "id": "0001004374",
+      "title": "브라운더스트2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
+      "developer": "(주)네오위즈"
+    },
     {
       "id": "0001006244",
       "title": "스카이 어비스: 풀링 팩트",
@@ -15,22 +21,10 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001004374",
-      "title": "브라운더스트2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
-      "developer": "(주)네오위즈"
-    },
-    {
       "id": "0001006194",
       "title": "에보 트레이너",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
       "developer": "Cloud Play Network Technology Co., Limited"
-    },
-    {
-      "id": "0001005605",
-      "title": " 네메시스:나인",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605",
-      "developer": "GM 게임"
     },
     {
       "id": "0001005208",
@@ -79,6 +73,11 @@
       "title": "그레이 사가",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337",
       "developer": "Leniu Games"
+    },
+    {
+      "id": "0001005605",
+      "title": " 네메시스:나인",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605"
     },
     {
       "id": "0001005317",
