@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T22:58:15.305532",
-  "count": 34,
+  "updated_at": "2026-06-09T22:59:11.395019",
+  "count": 33,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -76,7 +76,7 @@
     },
     {
       "id": "com.cookapps.towerroguedefense",
-      "title": "Galactic Outlaw: Tower Defense",
+      "title": "황야의 무법자: 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense&hl=ko",
       "developer": "CookApps"
     },
@@ -169,12 +169,6 @@
       "title": "고양이 마피아 : 방치형 타이쿤 게임",
       "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
       "developer": "TREEPLLA"
-    },
-    {
-      "id": "com.unimob.idle.axolotl",
-      "title": "MagiLotl: Idle Wizard Tycoon",
-      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.axolotl&hl=ko",
-      "developer": "Unimob Games"
     },
     {
       "id": "com.unimob.idle.fishing.charter",

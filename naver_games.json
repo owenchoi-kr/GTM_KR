@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-08T22:58:15.306417",
-  "count": 14,
+  "updated_at": "2026-06-09T22:59:11.395997",
+  "count": 16,
   "games": [
     {
       "id": "GM_NCR_020602",
@@ -52,11 +52,25 @@
       "platform": "Android,iOS,PC"
     },
     {
+      "id": "GM_NCR_023573",
+      "title": "백화요란 검희 연대기",
+      "url": "https://game.naver.com/ryoran",
+      "release_date": "2026-06-08 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
+    {
       "id": "GM_NCR_022862",
       "title": "죠죠의 기묘한 모험: 골든 스피릿",
       "url": "https://game.naver.com/JoJos_Bizarre_Adventure_Golden_Spirit",
       "release_date": "2026-05-21 ~ 2026-08-13 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022565",
+      "title": "애니모",
+      "url": "https://game.naver.com/Aniimo",
+      "release_date": "2026-06-08 ~  사전예약",
+      "platform": "Android,Console,PC"
     },
     {
       "id": "GM_NCR_019939",

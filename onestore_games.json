@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-06-08T22:58:15.306219",
-  "count": 17,
+  "updated_at": "2026-06-09T22:59:11.395753",
+  "count": 18,
   "games": [
     {
       "id": "0001004374",
       "title": "브라운더스트2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
       "developer": "(주)네오위즈"
+    },
+    {
+      "id": "0001005865",
+      "title": "존맛히어로즈",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005865",
+      "developer": "CAP CLOUD Corp"
+    },
+    {
+      "id": "0001005897",
+      "title": "골프 슈퍼 크루 : 실시간 골프 게임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005897",
+      "developer": "TWO HANDS GAMES Inc."
     },
     {
       "id": "0001006244",
@@ -83,12 +95,6 @@
       "id": "0001005317",
       "title": " 더 코지 플로리스트",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317"
-    },
-    {
-      "id": "0001005821",
-      "title": "떡상 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005821",
-      "developer": "YQGAMES"
     },
     {
       "id": "0001003596",
