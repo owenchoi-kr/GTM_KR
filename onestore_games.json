@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-06-09T22:59:11.395753",
-  "count": 18,
+  "updated_at": "2026-06-10T23:09:19.318537",
+  "count": 16,
   "games": [
     {
       "id": "0001004374",
       "title": "브라운더스트2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
       "developer": "(주)네오위즈"
+    },
+    {
+      "id": "0001005336",
+      "title": "FC 모바일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005336",
+      "developer": "NEXON Korea Corporation"
     },
     {
       "id": "0001005865",
@@ -37,12 +43,6 @@
       "title": "에보 트레이너",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
       "developer": "Cloud Play Network Technology Co., Limited"
-    },
-    {
-      "id": "0001005208",
-      "title": "토이 삼국",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005208",
-      "developer": "XINIU NET LIMITED"
     },
     {
       "id": "0001005463",
@@ -92,19 +92,10 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605"
     },
     {
-      "id": "0001005317",
-      "title": " 더 코지 플로리스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005317"
-    },
-    {
-      "id": "0001003596",
-      "title": "미르의 전설: 진",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003596"
-    },
-    {
-      "id": "0001005003",
-      "title": "메이크 드라마 : MAD",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005003"
+      "id": "0001005208",
+      "title": "토이 삼국",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005208",
+      "developer": "XINIU NET LIMITED"
     }
   ]
 }

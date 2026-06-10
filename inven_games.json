@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-09T22:59:11.395513",
-  "count": 4,
+  "updated_at": "2026-06-10T23:09:19.318183",
+  "count": 5,
   "games": [
+    {
+      "id": "974",
+      "title": "리니지M",
+      "url": "https://pick.inven.co.kr/campaign/974/PHOENIX",
+      "release_date": "6월 24일 출시 예정",
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NC"
+    },
     {
       "id": "972",
       "title": "삼국지: 천하결전",

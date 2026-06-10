@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-09T22:59:11.395019",
-  "count": 33,
+  "updated_at": "2026-06-10T23:09:19.317561",
+  "count": 34,
   "games": [
+    {
+      "id": "com.ggv.rogna.aos",
+      "title": "Ragnarok: Rebirth",
+      "url": "https://play.google.com/store/apps/details?id=com.ggv.rogna.aos&hl=ko",
+      "developer": "Gravity Game Vision"
+    },
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
       "title": "냥이 기사단 키우기: 방치형 RPG",
@@ -93,6 +99,12 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
+      "id": "com.funclave.fm2mini",
+      "title": "Football Maestro Mini",
+      "url": "https://play.google.com/store/apps/details?id=com.funclave.fm2mini&hl=ko",
+      "developer": "FunClave"
+    },
+    {
       "id": "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
       "title": "Exile: Wasteland Survival PRO",
       "url": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert&hl=ko",
@@ -103,12 +115,6 @@
       "title": "Ragnarok Origin: Classic",
       "url": "https://play.google.com/store/apps/details?id=com.gravity.roocam.android&hl=ko",
       "developer": "Gravity Game Vision"
-    },
-    {
-      "id": "com.haoplay.game.gp.duck",
-      "title": "꽥꽥 구조대 - 알 폭격 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.haoplay.game.gp.duck&hl=ko",
-      "developer": "HaoPlay Limited"
     },
     {
       "id": "com.kr.chens.ete2024",

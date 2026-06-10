@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-06-09T22:59:11.395654",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-06-10T23:09:19.318378",
+  "count": 1,
+  "games": [
+    {
+      "id": "gwpSzm",
+      "title": "오딘: 발할라 라이징",
+      "url": "https://game.kakao.com/ar/gwpSzm?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }
