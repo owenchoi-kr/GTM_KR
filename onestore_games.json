@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T23:09:19.318537",
+  "updated_at": "2026-06-11T23:08:16.232261",
   "count": 16,
   "games": [
     {
@@ -7,12 +7,6 @@
       "title": "브라운더스트2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
       "developer": "(주)네오위즈"
-    },
-    {
-      "id": "0001005336",
-      "title": "FC 모바일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005336",
-      "developer": "NEXON Korea Corporation"
     },
     {
       "id": "0001005865",
@@ -43,12 +37,6 @@
       "title": "에보 트레이너",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
       "developer": "Cloud Play Network Technology Co., Limited"
-    },
-    {
-      "id": "0001005463",
-      "title": "캣킹덤:삼국대전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005463",
-      "developer": "KPENT LIMITED"
     },
     {
       "id": "0001005873",
@@ -87,6 +75,11 @@
       "developer": "Leniu Games"
     },
     {
+      "id": "0001005336",
+      "title": "FC 모바일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005336"
+    },
+    {
       "id": "0001005605",
       "title": " 네메시스:나인",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005605"
@@ -94,8 +87,12 @@
     {
       "id": "0001005208",
       "title": "토이 삼국",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005208",
-      "developer": "XINIU NET LIMITED"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005208"
+    },
+    {
+      "id": "0001005463",
+      "title": "캣킹덤:삼국대전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005463"
     }
   ]
 }
