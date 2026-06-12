@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-11T23:08:16.231584",
-  "count": 34,
+  "updated_at": "2026-06-12T22:58:47.460287",
+  "count": 40,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -28,7 +28,7 @@
     },
     {
       "id": "com.TeamSparta.MadDefense",
-      "title": "매드 라쿤: 전략 타워 디펜스",
+      "title": "지켜라쿤 : 전략 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko",
       "developer": "Teamsparta Inc."
     },
@@ -51,6 +51,12 @@
       "developer": "Arumgames"
     },
     {
+      "id": "com.bandainamcoent.dgup_ww",
+      "title": "디지몬 UP",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww&hl=ko",
+      "developer": "Bandai Namco Entertainment Inc."
+    },
+    {
       "id": "com.bilibili.lumi",
       "title": "Lumi Master",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
@@ -67,6 +73,12 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.cle.yulgang_gb",
@@ -87,10 +99,10 @@
       "developer": "CookApps"
     },
     {
-      "id": "com.domozoo.elf",
-      "title": "Tap Troop: Dash TD",
-      "url": "https://play.google.com/store/apps/details?id=com.domozoo.elf&hl=ko",
-      "developer": "DOMO ZOO"
+      "id": "com.dreamloft.grumpykingdom",
+      "title": "Grumpy Kingdom",
+      "url": "https://play.google.com/store/apps/details?id=com.dreamloft.grumpykingdom&hl=ko",
+      "developer": "DreamLoft"
     },
     {
       "id": "com.emagroups.zs",
@@ -135,6 +147,12 @@
       "developer": "tinyBuild"
     },
     {
+      "id": "com.odencat.wishuponacat",
+      "title": "고양이의 작은 소원",
+      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
+      "developer": "Odencat"
+    },
+    {
       "id": "com.ondi.fortias.defense",
       "title": "Pixel Defenders: Merge TD Game",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
@@ -165,6 +183,12 @@
       "developer": "SUPERBOX Inc"
     },
     {
+      "id": "com.superpixel.scrap",
+      "title": "고물 히어로",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.scrap&hl=ko",
+      "developer": "SUPERBOX Inc"
+    },
+    {
       "id": "com.superpixel.undyinghero",
       "title": "불사용사 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
@@ -189,6 +213,12 @@
       "developer": "nitrox"
     },
     {
+      "id": "com.wyrmwild.google",
+      "title": "WyrmWild: Monster Trail Global",
+      "url": "https://play.google.com/store/apps/details?id=com.wyrmwild.google&hl=ko",
+      "developer": "Maw3id موعد‎"
+    },
+    {
       "id": "com.x.aniimos",
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
@@ -205,6 +235,12 @@
       "title": "hololive Dreams",
       "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
       "developer": "QualiArts, Inc."
+    },
+    {
+      "id": "net.arena.guildwars.reforged",
+      "title": "Guild Wars® Reforged",
+      "url": "https://play.google.com/store/apps/details?id=net.arena.guildwars.reforged&hl=ko",
+      "developer": "ArenaNet"
     }
   ]
 }
