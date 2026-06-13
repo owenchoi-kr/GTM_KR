@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T22:58:47.460287",
+  "updated_at": "2026-06-13T22:38:41.576815",
   "count": 40,
   "games": [
     {
@@ -85,6 +85,12 @@
       "title": "Ruler of the Land: Fire dragon",
       "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.com2usholdings.agwiv.android.google.global.normal",
+      "title": "ARES: THE IRON VANGUARD",
+      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
+      "developer": "Com2uS Holdings"
     },
     {
       "id": "com.cookapps.catsurvivor",
@@ -186,12 +192,6 @@
       "id": "com.superpixel.scrap",
       "title": "고물 히어로",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.scrap&hl=ko",
-      "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.superpixel.undyinghero",
-      "title": "불사용사 키우기 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.superpixel.undyinghero&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {
