@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-14T22:41:50.566304",
-  "count": 40,
+  "updated_at": "2026-06-15T23:19:22.275666",
+  "count": 38,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -19,12 +19,6 @@
       "title": "갓갓갓 : 로그라이크 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.GodGodGod&hl=ko",
       "developer": "OBLIQUE GAMES"
-    },
-    {
-      "id": "com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games",
-      "title": "퀸즈레터 : 합성 & 스토리",
-      "url": "https://play.google.com/store/apps/details?id=com.PlayHard.mergestage.gossip.travel.reelshort.harbor.town.merge.games&hl=ko",
-      "developer": "PLAYHARD STUDIO"
     },
     {
       "id": "com.TeamSparta.MadDefense",
@@ -112,7 +106,7 @@
     },
     {
       "id": "com.emagroups.zs",
-      "title": "Dynasty Warriors: Overlords",
+      "title": "진 삼국무쌍 오버로드",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
     },
@@ -139,12 +133,6 @@
       "title": "에타 크로니클",
       "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
       "developer": "CHENS GLOBAL LIMITED"
-    },
-    {
-      "id": "com.netmarble.rfnext",
-      "title": "RF 온라인 넥스트",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext&hl=ko",
-      "developer": "Netmarble"
     },
     {
       "id": "com.niceplaygames.PotionCraft",
