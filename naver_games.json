@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-15T23:19:22.276552",
+  "updated_at": "2026-06-16T23:04:33.631157",
   "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_023352",
-      "title": "갓갓갓",
-      "url": "https://game.naver.com/Tiny_Divines",
-      "release_date": "2026-05-29 ~ 2026-06-22 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_023351",
       "title": "바람의기사단",
       "url": "https://game.naver.com/wind",
       "release_date": "2026-05-22 ~ 2026-06-23 사전예약",
       "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_023352",
+      "title": "갓갓갓",
+      "url": "https://game.naver.com/Tiny_Divines",
+      "release_date": "2026-05-29 ~ 2026-06-29 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_020602",

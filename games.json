@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-15T23:19:22.275666",
-  "count": 38,
+  "updated_at": "2026-06-16T23:04:33.629846",
+  "count": 39,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -106,7 +106,7 @@
     },
     {
       "id": "com.emagroups.zs",
-      "title": "진 삼국무쌍 오버로드",
+      "title": "진삼국무쌍-오버로드",
       "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
       "developer": "NEOCRAFT LIMITED"
     },
@@ -135,6 +135,12 @@
       "developer": "CHENS GLOBAL LIMITED"
     },
     {
+      "id": "com.neptune.dawnsedge",
+      "title": "검신제로",
+      "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
+      "developer": "Neptune Corp."
+    },
+    {
       "id": "com.niceplaygames.PotionCraft",
       "title": "Potion Craft",
       "url": "https://play.google.com/store/apps/details?id=com.niceplaygames.PotionCraft&hl=ko",
@@ -153,10 +159,10 @@
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {
-      "id": "com.pikpok.br.play",
-      "title": "Barbie™ Horse Ride & Rescue",
-      "url": "https://play.google.com/store/apps/details?id=com.pikpok.br.play&hl=ko",
-      "developer": "PIKPOK"
+      "id": "com.ondi.space.defense",
+      "title": "스타가드: 에보 병합 TD",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.rawhand.midnightmarket",

@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-06-15T23:19:22.276354",
-  "count": 2,
+  "updated_at": "2026-06-16T23:04:33.630884",
+  "count": 4,
   "games": [
+    {
+      "id": "2chL3G",
+      "title": "그랜드체이스",
+      "url": "https://game.kakao.com/ar/2chL3G?rtc=atb_K-GAM02X0111"
+    },
+    {
+      "id": "swGpmu",
+      "title": "아이러브커피",
+      "url": "https://game.kakao.com/ar/swGpmu?rtc=atb_K-GAM02X0111"
+    },
     {
       "id": "pZ2z0M",
       "title": "마비노기 모바일",
