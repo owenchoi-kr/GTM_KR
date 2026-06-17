@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T23:04:33.629846",
-  "count": 39,
+  "updated_at": "2026-06-17T23:11:35.505605",
+  "count": 37,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -19,12 +19,6 @@
       "title": "갓갓갓 : 로그라이크 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.ObliqueGames.GodGodGod&hl=ko",
       "developer": "OBLIQUE GAMES"
-    },
-    {
-      "id": "com.TeamSparta.MadDefense",
-      "title": "지켜라쿤 : 전략 타워 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.MadDefense&hl=ko",
-      "developer": "Teamsparta Inc."
     },
     {
       "id": "com.TeamSparta.brd",
@@ -187,12 +181,6 @@
       "title": "고물 히어로",
       "url": "https://play.google.com/store/apps/details?id=com.superpixel.scrap&hl=ko",
       "developer": "SUPERBOX Inc"
-    },
-    {
-      "id": "com.tree.idle.cat.cult",
-      "title": "고양이 마피아 : 방치형 타이쿤 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.tree.idle.cat.cult&hl=ko",
-      "developer": "TREEPLLA"
     },
     {
       "id": "com.unimob.idle.fishing.charter",
