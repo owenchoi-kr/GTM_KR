@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-17T23:11:35.506351",
-  "count": 19,
+  "updated_at": "2026-06-18T23:19:32.807112",
+  "count": 22,
   "games": [
     {
       "id": "GM_NCR_023351",
@@ -59,6 +59,13 @@
       "platform": "Android,iOS,PC"
     },
     {
+      "id": "GM_NCR_022625",
+      "title": "실크로드 어게인",
+      "url": "https://game.naver.com/silkroadagain",
+      "release_date": "2026-06-17 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_023584",
       "title": "스카이 어비스: 혈맹의 서약",
       "url": "https://game.naver.com/Sky_Abyss_Blood_Oath",
@@ -101,6 +108,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_023663",
+      "title": "이것이 삼국지다",
+      "url": "https://game.naver.com/This_is_Three_kingdoms",
+      "release_date": "2026-06-17 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
       "id": "GM_NCR_020257",
       "title": "이세계 유유자적 농가 Reverie",
       "url": "https://game.naver.com/Farming_Life_in_Another_World_Reverie",
@@ -134,6 +148,13 @@
       "url": "https://game.naver.com/The_Apothecary_Diaries_Palace_Chronicles",
       "release_date": "2025-07-30 ~  사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021708",
+      "title": "프로젝트 제타",
+      "url": "https://game.naver.com/PROJECT_ZETA",
+      "release_date": "2026-06-17 ~ 2026-06-28 OBT",
+      "platform": "PC"
     }
   ]
 }

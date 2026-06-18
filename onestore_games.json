@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-17T23:11:35.506159",
-  "count": 15,
+  "updated_at": "2026-06-18T23:19:32.806916",
+  "count": 14,
   "games": [
+    {
+      "id": "0001001644",
+      "title": "GO강호",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644",
+      "developer": "KPENT LIMITED"
+    },
     {
       "id": "0001006551",
       "title": "템빨용사: 픽셀 아이템 머지 RPG",
@@ -31,12 +37,6 @@
       "title": "이클립스 나이트",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005482",
       "developer": "GM 게임"
-    },
-    {
-      "id": "0001004374",
-      "title": "브라운더스트2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374",
-      "developer": "(주)네오위즈"
     },
     {
       "id": "0001006194",
@@ -75,14 +75,9 @@
       "developer": "Leniu Games"
     },
     {
-      "id": "0001005336",
-      "title": "FC 모바일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005336"
-    },
-    {
-      "id": "0001005463",
-      "title": "캣킹덤:삼국대전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005463"
+      "id": "0001004374",
+      "title": "브라운더스트2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374"
     },
     {
       "id": "0001005327",
