@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-18T23:19:32.806161",
-  "count": 37,
+  "updated_at": "2026-06-19T22:33:11.690323",
+  "count": 39,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -21,6 +21,12 @@
       "developer": "OBLIQUE GAMES"
     },
     {
+      "id": "com.TeamSparta.CSD",
+      "title": "협동마법디펜스: 마법사 키우기",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.CSD&hl=ko",
+      "developer": "Teamsparta Inc."
+    },
+    {
       "id": "com.TeamSparta.brd",
       "title": "벙커 딸깍 디펜스: 랜덤TD",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
@@ -37,6 +43,12 @@
       "title": "King of Solitaire: Word Puzzle",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.solitareword&hl=ko",
       "developer": "Arumgames"
+    },
+    {
+      "id": "com.azragames.ungodly",
+      "title": "UnGodly",
+      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
+      "developer": "Azra Games"
     },
     {
       "id": "com.bandainamcoent.dgup_ww",
