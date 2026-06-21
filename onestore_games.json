@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-06-20T22:43:14.660693",
+  "updated_at": "2026-06-21T22:44:58.589618",
   "count": 16,
   "games": [
-    {
-      "id": "0001001644",
-      "title": "GO강호",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644",
-      "developer": "KPENT LIMITED"
-    },
     {
       "id": "0001005481",
       "title": "다이너마이트 블루",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005481",
       "developer": "Kosmo's12"
+    },
+    {
+      "id": "0001001644",
+      "title": "GO강호",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644",
+      "developer": "KPENT LIMITED"
     },
     {
       "id": "0001006551",
