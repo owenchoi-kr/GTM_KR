@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-21T22:44:58.588338",
-  "count": 39,
+  "updated_at": "2026-06-22T23:03:19.034528",
+  "count": 38,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -121,12 +121,6 @@
       "title": "Football Maestro Mini",
       "url": "https://play.google.com/store/apps/details?id=com.funclave.fm2mini&hl=ko",
       "developer": "FunClave"
-    },
-    {
-      "id": "com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert",
-      "title": "Exile: Wasteland Survival PRO",
-      "url": "https://play.google.com/store/apps/details?id=com.gemjam.exile.survival.pro.god.of.war.rpg.games.conan.exiles.last.nomad.barbarian.desert&hl=ko",
-      "developer": "Gem Jam"
     },
     {
       "id": "com.gravity.roocam.android",
