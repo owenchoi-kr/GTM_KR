@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-22T23:03:19.035346",
+  "updated_at": "2026-06-23T22:47:58.509210",
   "count": 16,
   "games": [
+    {
+      "id": "0001005477",
+      "title": "열혈강호: 넥스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
+      "developer": "Kingnet Technology HK Limited"
+    },
     {
       "id": "0001005481",
       "title": "다이너마이트 블루",
@@ -90,11 +96,6 @@
       "id": "0001004374",
       "title": "브라운더스트2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374"
-    },
-    {
-      "id": "0001005327",
-      "title": "엔들리스 사이클",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005327"
     }
   ]
 }

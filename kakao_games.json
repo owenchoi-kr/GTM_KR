@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T23:03:19.035238",
-  "count": 4,
+  "updated_at": "2026-06-23T22:47:58.509079",
+  "count": 3,
   "games": [
     {
       "id": "2chL3G",
@@ -16,11 +16,6 @@
       "id": "pZ2z0M",
       "title": "마비노기 모바일",
       "url": "https://game.kakao.com/ar/pZ2z0M?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "gwpSzm",
-      "title": "오딘: 발할라 라이징",
-      "url": "https://game.kakao.com/ar/gwpSzm?rtc=atb_K-GAM02X0111"
     }
   ]
 }

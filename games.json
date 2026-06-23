@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T23:03:19.034528",
-  "count": 38,
+  "updated_at": "2026-06-23T22:47:58.508293",
+  "count": 39,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -223,6 +223,12 @@
       "title": "hololive Dreams",
       "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
       "developer": "QualiArts, Inc."
+    },
+    {
+      "id": "jp.co.cybird.appli.android.sg2.en",
+      "title": "Ikemen Sengoku Eternity: Otome",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
+      "developer": "CYBIRD"
     },
     {
       "id": "net.arena.guildwars.reforged",
