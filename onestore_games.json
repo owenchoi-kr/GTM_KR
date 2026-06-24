@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T22:47:58.509210",
+  "updated_at": "2026-06-24T22:48:32.802969",
   "count": 16,
   "games": [
     {
@@ -51,28 +51,10 @@
       "developer": "Tenfool"
     },
     {
-      "id": "0001005482",
-      "title": "이클립스 나이트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005482",
-      "developer": "GM 게임"
-    },
-    {
-      "id": "0001006194",
-      "title": "에보 트레이너",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
-      "developer": "Cloud Play Network Technology Co., Limited"
-    },
-    {
       "id": "0001005873",
       "title": "원죄: 신의 심판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873",
       "developer": "JOYSTAR GAME INFORMATION TECHNOLOGY COLIMITED"
-    },
-    {
-      "id": "0001004178",
-      "title": " 시티 데몬헌터즈: 각성자들",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004178",
-      "developer": "UniStar Interactive HK Limited"
     },
     {
       "id": "0001004771",
@@ -93,9 +75,25 @@
       "developer": "Leniu Games"
     },
     {
+      "id": "0001005482",
+      "title": "이클립스 나이트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005482"
+    },
+    {
       "id": "0001004374",
       "title": "브라운더스트2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004374"
+    },
+    {
+      "id": "0001006194",
+      "title": "에보 트레이너",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194",
+      "developer": "Cloud Play Network Technology Co., Limited"
+    },
+    {
+      "id": "0001004178",
+      "title": " 시티 데몬헌터즈: 각성자들",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004178"
     }
   ]
 }

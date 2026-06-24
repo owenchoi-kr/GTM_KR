@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-23T22:47:58.508293",
-  "count": 39,
+  "updated_at": "2026-06-24T22:48:32.802064",
+  "count": 40,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -60,6 +60,12 @@
       "id": "com.bilibili.lumi",
       "title": "Lumi Master",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
+      "developer": "BILIBILI"
+    },
+    {
+      "id": "com.bilibili.sirius",
+      "title": "뱅드림! 아워 노트",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko",
       "developer": "BILIBILI"
     },
     {
@@ -177,6 +183,12 @@
       "developer": "Springcomes"
     },
     {
+      "id": "com.springgames.archercastle",
+      "title": "아처캐슬 : 방치형 키우기 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.springgames.archercastle&hl=ko",
+      "developer": "SPRING Games"
+    },
+    {
       "id": "com.superbox.aos.traindefense",
       "title": "기차 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.traindefense&hl=ko",
@@ -229,12 +241,6 @@
       "title": "Ikemen Sengoku Eternity: Otome",
       "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
       "developer": "CYBIRD"
-    },
-    {
-      "id": "net.arena.guildwars.reforged",
-      "title": "Guild Wars® Reforged",
-      "url": "https://play.google.com/store/apps/details?id=net.arena.guildwars.reforged&hl=ko",
-      "developer": "ArenaNet"
     }
   ]
 }

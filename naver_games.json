@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-23T22:47:58.509438",
+  "updated_at": "2026-06-24T22:48:32.803221",
   "count": 21,
   "games": [
-    {
-      "id": "GM_NCR_023351",
-      "title": "바람의기사단",
-      "url": "https://game.naver.com/wind",
-      "release_date": "2026-05-22 ~ 2026-06-23 사전예약",
-      "platform": "PC"
-    },
     {
       "id": "GM_NCR_023352",
       "title": "갓갓갓",
@@ -36,6 +29,13 @@
       "url": "https://game.naver.com/pixel_brave",
       "release_date": "2026-01-13 ~ 2026-06-30 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_020922",
+      "title": "그레이 사가",
+      "url": "https://game.naver.com/Gray_Saga",
+      "release_date": "2026-06-23 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_022960",

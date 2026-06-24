@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-23T22:47:58.508940",
-  "count": 3,
+  "updated_at": "2026-06-24T22:48:32.802657",
+  "count": 4,
   "games": [
+    {
+      "id": "975",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://pick.inven.co.kr/campaign/975/blightwar",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급",
+      "developer": "에이트 스튜디오"
+    },
     {
       "id": "972",
       "title": "삼국지: 천하결전",
@@ -14,7 +22,7 @@
       "id": "971",
       "title": "여전사 키우기",
       "url": "https://pick.inven.co.kr/campaign/971/WarriorPrincessIdl",
-      "release_date": "출시 미정",
+      "release_date": "7월 11일 출시 예정",
       "reward": "[1000이니]루비 10,000개 지급",
       "developer": "주식회사 코드독"
     },
@@ -22,7 +30,7 @@
       "id": "967",
       "title": "궁수키우기 : 스틱맨 RPG",
       "url": "https://pick.inven.co.kr/campaign/967/IdleArcherStickman",
-      "release_date": "6월 26일 출시 예정",
+      "release_date": "출시 미정",
       "reward": "[1000이니][사전예약 보상] 다이아 3,000",
       "developer": "주식회사 라이언즈코드"
     }
