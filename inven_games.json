@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-06-24T22:48:32.802657",
-  "count": 4,
+  "updated_at": "2026-06-25T22:57:24.955562",
+  "count": 5,
   "games": [
     {
-      "id": "975",
-      "title": "블라이트 워 : 사후 처리국",
-      "url": "https://pick.inven.co.kr/campaign/975/blightwar",
-      "release_date": "출시 미정",
-      "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급",
-      "developer": "에이트 스튜디오"
+      "id": "977",
+      "title": "이것이 삼국지다",
+      "url": "https://pick.inven.co.kr/campaign/977/ThisIsThreeKingdoms",
+      "release_date": "7월 8일 출시 예정",
+      "reward": "[2000이니, 100베니]10만원 패키지 구성품 지급!",
+      "developer": "주식회사 엔드나인게임즈"
     },
     {
       "id": "972",
@@ -17,6 +17,14 @@
       "release_date": "6월 중 출시 예정",
       "reward": "[2000이니, 100베니]전설 무장과 역대급 혜택을 획득하라!",
       "developer": "빌리빌리 게임"
+    },
+    {
+      "id": "975",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://pick.inven.co.kr/campaign/975/blightwar",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급",
+      "developer": "에이트 스튜디오"
     },
     {
       "id": "971",

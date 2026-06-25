@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-24T22:48:32.802064",
-  "count": 40,
+  "updated_at": "2026-06-25T22:57:24.955082",
+  "count": 39,
   "games": [
     {
       "id": "com.ggv.rogna.aos",
@@ -223,12 +223,6 @@
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
       "developer": "Pawprint Studio"
-    },
-    {
-      "id": "com.xseed.moonlightpeaks",
-      "title": "문라이트 피크스 -Moonlight Peaks-",
-      "url": "https://play.google.com/store/apps/details?id=com.xseed.moonlightpeaks&hl=ko",
-      "developer": "XSEED Games/Marvelous USA, Inc."
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",
