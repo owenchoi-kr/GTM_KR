@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T22:57:24.956020",
-  "count": 23,
+  "updated_at": "2026-06-26T22:46:25.007394",
+  "count": 24,
   "games": [
     {
       "id": "GM_NCR_023377",
@@ -43,6 +43,13 @@
       "url": "https://game.naver.com/Gray_Saga",
       "release_date": "2026-06-23 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_023417",
+      "title": "꿈의 여행자: 별빛 여정",
+      "url": "https://game.naver.com/DreamTraveler",
+      "release_date": "2026-06-25 ~  사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_022960",

@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-25T22:57:24.955844",
-  "count": 15,
+  "updated_at": "2026-06-26T22:46:25.007265",
+  "count": 16,
   "games": [
+    {
+      "id": "0001006975",
+      "title": "아처캐슬 : 방치형 키우기 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006975",
+      "developer": "Spring Games"
+    },
     {
       "id": "0001005477",
       "title": "열혈강호: 넥스트",
@@ -71,8 +77,7 @@
     {
       "id": "0001006551",
       "title": "템빨용사: 픽셀 아이템 머지 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006551",
-      "developer": "5minlab Corp"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006551"
     },
     {
       "id": "0001005482",
