@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-06-27T22:38:04.438114",
-  "count": 5,
+  "updated_at": "2026-06-28T22:37:04.689618",
+  "count": 6,
   "games": [
+    {
+      "id": "976",
+      "title": "열혈강호: 넥스트",
+      "url": "https://pick.inven.co.kr/campaign/976/yulgangnext",
+      "release_date": "7월 29일 출시 예정",
+      "reward": "[2000이니, 100베니]귀속 원보*200, 랜덤 신수 조각 보물상자*3, 강화석*10",
+      "developer": "KINGNET TECHNOLOGY"
+    },
     {
       "id": "977",
       "title": "이것이 삼국지다",
