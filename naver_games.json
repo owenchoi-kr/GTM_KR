@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-06-28T22:37:04.690073",
-  "count": 25,
+  "updated_at": "2026-06-29T22:38:44.871951",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_023377",
-      "title": "골프 슈퍼 크루",
-      "url": "https://game.naver.com/Golf_Super_Crew",
-      "release_date": "2026-06-24 ~ 2026-06-28 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023352",
       "title": "갓갓갓",
@@ -24,11 +17,11 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,OneStore"
+      "id": "GM_NCR_020833",
+      "title": "픽셀 히어로즈 방치형 RPG",
+      "url": "https://game.naver.com/pixel_brave",
+      "release_date": "2026-01-13 ~ 2026-06-30 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_020922",
@@ -38,18 +31,18 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_020833",
-      "title": "픽셀 히어로즈 방치형 RPG",
-      "url": "https://game.naver.com/pixel_brave",
-      "release_date": "2026-01-13 ~ 2026-06-30 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
       "id": "GM_NCR_023417",
       "title": "꿈의 여행자: 별빛 여정",
       "url": "https://game.naver.com/DreamTraveler",
       "release_date": "2026-06-25 ~  사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_023342",
+      "title": "집행검 클래식",
+      "url": "https://game.naver.com/executionsword",
+      "release_date": "2026-06-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022960",
@@ -73,17 +66,17 @@
       "platform": "Android,iOS,OneStore,PC"
     },
     {
-      "id": "GM_NCR_023584",
-      "title": "스카이 어비스: 혈맹의 서약",
-      "url": "https://game.naver.com/Sky_Abyss_Blood_Oath",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
       "id": "GM_NCR_022625",
       "title": "실크로드 어게인",
       "url": "https://game.naver.com/silkroadagain",
       "release_date": "2026-06-17 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023584",
+      "title": "스카이 어비스: 혈맹의 서약",
+      "url": "https://game.naver.com/Sky_Abyss_Blood_Oath",
+      "release_date": "2026-06-11 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -169,13 +162,6 @@
       "url": "https://game.naver.com/Shakugan",
       "release_date": "2026-04-09 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021708",
-      "title": "프로젝트 제타",
-      "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-06-17 ~ 2026-06-28 OBT",
-      "platform": "PC"
     }
   ]
 }
