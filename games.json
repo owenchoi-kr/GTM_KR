@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T22:38:44.871084",
-  "count": 35,
+  "updated_at": "2026-06-30T22:52:12.478696",
+  "count": 37,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -153,6 +153,12 @@
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {
+      "id": "com.pchk.ht",
+      "title": "Helix Tracker",
+      "url": "https://play.google.com/store/apps/details?id=com.pchk.ht&hl=ko",
+      "developer": "Proficient City Hong Kong"
+    },
+    {
       "id": "com.rawhand.midnightmarket",
       "title": "미드나잇마켓:심야상점 타이쿤",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
@@ -199,6 +205,12 @@
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
       "developer": "Pawprint Studio"
+    },
+    {
+      "id": "com.yzlmus.google",
+      "title": "Whoa Adventure",
+      "url": "https://play.google.com/store/apps/details?id=com.yzlmus.google&hl=ko",
+      "developer": "Joy Nice Games"
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",

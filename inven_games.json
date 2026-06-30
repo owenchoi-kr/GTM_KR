@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-29T22:38:44.871571",
-  "count": 6,
+  "updated_at": "2026-06-30T22:52:12.479715",
+  "count": 7,
   "games": [
     {
       "id": "976",
@@ -33,6 +33,14 @@
       "release_date": "출시 미정",
       "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급",
       "developer": "에이트 스튜디오"
+    },
+    {
+      "id": "978",
+      "title": "스카이 어비스: 혈맹의 서약",
+      "url": "https://pick.inven.co.kr/campaign/978/skyabyss",
+      "release_date": "출시 미정",
+      "reward": "[1000이니]머리·악마의 날개*1외에 1중",
+      "developer": "Bigfool"
     },
     {
       "id": "971",
