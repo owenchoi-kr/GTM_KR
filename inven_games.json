@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T22:52:12.479715",
+  "updated_at": "2026-07-01T22:49:09.373805",
   "count": 7,
   "games": [
     {
@@ -19,20 +19,20 @@
       "developer": "주식회사 엔드나인게임즈"
     },
     {
-      "id": "972",
-      "title": "삼국지: 천하결전",
-      "url": "https://pick.inven.co.kr/campaign/972/newslg",
-      "release_date": "7월 2일 출시 예정",
-      "reward": "[2000이니, 100베니]전설 무장과 역대급 혜택을 획득하라!",
-      "developer": "빌리빌리 게임"
-    },
-    {
       "id": "975",
       "title": "블라이트 워 : 사후 처리국",
       "url": "https://pick.inven.co.kr/campaign/975/blightwar",
       "release_date": "출시 미정",
       "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급",
       "developer": "에이트 스튜디오"
+    },
+    {
+      "id": "980",
+      "title": "윈드러너 키우기",
+      "url": "https://pick.inven.co.kr/campaign/980/GaleKnightsIdle",
+      "release_date": "출시 미정",
+      "reward": "[1000이니][레전더리 등급: 스텔라 마법사] 100% 지급!",
+      "developer": "라이트컨"
     },
     {
       "id": "978",

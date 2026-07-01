@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-06-30T22:52:12.479970",
-  "count": 18,
+  "updated_at": "2026-07-01T22:49:09.373990",
+  "count": 16,
   "games": [
+    {
+      "id": "0001007176",
+      "title": "집행검 클래식",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176",
+      "developer": "PLAYUC"
+    },
     {
       "id": "0001005869",
       "title": "쿠키런 키우기 - 쿠키런: 크럼블",
@@ -59,8 +65,7 @@
     {
       "id": "0001005481",
       "title": "다이너마이트 블루",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005481",
-      "developer": "Kosmo's12"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005481"
     },
     {
       "id": "0001006551",
@@ -73,24 +78,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005897"
     },
     {
-      "id": "0001005482",
-      "title": "이클립스 나이트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005482"
-    },
-    {
-      "id": "0001006194",
-      "title": "에보 트레이너",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006194"
-    },
-    {
       "id": "0001005873",
       "title": "원죄: 신의 심판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873"
-    },
-    {
-      "id": "0001004178",
-      "title": " 시티 데몬헌터즈: 각성자들",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004178"
     },
     {
       "id": "0001002677",
