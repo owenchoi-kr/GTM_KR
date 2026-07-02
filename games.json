@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-01T22:49:09.373246",
-  "count": 38,
+  "updated_at": "2026-07-02T22:38:57.152007",
+  "count": 37,
   "games": [
     {
       "id": "com.MonsterPlanet.CatIdleRpg",
@@ -163,12 +163,6 @@
       "title": "Helix Tracker",
       "url": "https://play.google.com/store/apps/details?id=com.pchk.ht&hl=ko",
       "developer": "Proficient City Hong Kong"
-    },
-    {
-      "id": "com.rawhand.midnightmarket",
-      "title": "미드나잇마켓:심야상점 타이쿤",
-      "url": "https://play.google.com/store/apps/details?id=com.rawhand.midnightmarket&hl=ko",
-      "developer": "Rawhand Games"
     },
     {
       "id": "com.spcomes.meowsgarden",
