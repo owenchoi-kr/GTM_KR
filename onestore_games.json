@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T22:38:57.152785",
-  "count": 15,
+  "updated_at": "2026-07-03T22:35:22.402560",
+  "count": 16,
   "games": [
     {
       "id": "0001007176",
@@ -13,6 +13,12 @@
       "title": "쿠키런 키우기 - 쿠키런: 크럼블",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005869",
       "developer": "Devsisters Corp"
+    },
+    {
+      "id": "0001006319",
+      "title": "꿈의 여행자: 별빛 여정",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006319",
+      "developer": "HONG KONG GRAND SUNRISE CO LIMITED"
     },
     {
       "id": "0001006975",

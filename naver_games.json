@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-02T22:38:57.153007",
+  "updated_at": "2026-07-03T22:35:22.402790",
   "count": 21,
   "games": [
+    {
+      "id": "GM_NCR_023573",
+      "title": "백화요란 검희 연대기",
+      "url": "https://game.naver.com/ryoran",
+      "release_date": "2026-06-08 ~  사전예약",
+      "platform": "Android,iOS,PC"
+    },
     {
       "id": "GM_NCR_023417",
       "title": "꿈의 여행자: 별빛 여정",
@@ -59,13 +66,6 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_023573",
-      "title": "백화요란 검희 연대기",
-      "url": "https://game.naver.com/ryoran",
-      "release_date": "2026-06-08 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
       "id": "GM_NCR_005825",
       "title": "트리 오브 세이비어 M",
       "url": "https://game.naver.com/Tree_of_Savior_M",
@@ -119,7 +119,7 @@
       "title": "이것이 삼국지다",
       "url": "https://game.naver.com/This_is_Three_kingdoms",
       "release_date": "2026-06-17 ~  사전예약",
-      "platform": "Android,OneStore"
+      "platform": "Android,OneStore,iOS"
     },
     {
       "id": "GM_NCR_020257",
