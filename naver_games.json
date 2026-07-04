@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-03T22:35:22.402790",
-  "count": 21,
+  "updated_at": "2026-07-04T22:29:25.670261",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_023573",
-      "title": "백화요란 검희 연대기",
-      "url": "https://game.naver.com/ryoran",
-      "release_date": "2026-06-08 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_023417",
       "title": "꿈의 여행자: 별빛 여정",
