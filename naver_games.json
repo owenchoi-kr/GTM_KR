@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-05T22:32:40.611040",
+  "updated_at": "2026-07-06T22:48:02.085176",
   "count": 20,
   "games": [
+    {
+      "id": "GM_NCR_023379",
+      "title": "존맛히어로즈",
+      "url": "https://game.naver.com/JM_Heroes",
+      "release_date": "2026-06-09 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
     {
       "id": "GM_NCR_023417",
       "title": "꿈의 여행자: 별빛 여정",
@@ -127,13 +134,6 @@
       "url": "https://game.naver.com/reinna",
       "release_date": "2026-04-24 ~ 2027-12-31 사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_023379",
-      "title": "존맛히어로즈",
-      "url": "https://game.naver.com/JM_Heroes",
-      "release_date": "2026-06-09 ~  사전예약",
-      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022785",

@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-07-05T22:32:40.610875",
-  "count": 16,
+  "updated_at": "2026-07-06T22:48:02.084906",
+  "count": 15,
   "games": [
+    {
+      "id": "0001007111",
+      "title": "프로스트킹덤",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007111",
+      "developer": "NEXUS Co Ltd"
+    },
     {
       "id": "0001007176",
       "title": "집행검 클래식",
@@ -74,11 +80,6 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005481"
     },
     {
-      "id": "0001005897",
-      "title": "골프 슈퍼 크루 : 실시간 골프 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005897"
-    },
-    {
       "id": "0001005873",
       "title": "원죄: 신의 심판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873"
@@ -87,11 +88,6 @@
       "id": "0001002677",
       "title": "레퀴엠M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677"
-    },
-    {
-      "id": "0001003337",
-      "title": "그레이 사가",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003337"
     }
   ]
 }
