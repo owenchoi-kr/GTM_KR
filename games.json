@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T22:48:02.084177",
+  "updated_at": "2026-07-07T22:39:32.759737",
   "count": 37,
   "games": [
     {
@@ -27,12 +27,6 @@
       "developer": "ACTIONFIT"
     },
     {
-      "id": "com.arumgames.solitareword",
-      "title": "King of Solitaire: Word Puzzle",
-      "url": "https://play.google.com/store/apps/details?id=com.arumgames.solitareword&hl=ko",
-      "developer": "Arumgames"
-    },
-    {
       "id": "com.azragames.ungodly",
       "title": "UnGodly",
       "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
@@ -43,6 +37,18 @@
       "title": "디지몬 UP",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww&hl=ko",
       "developer": "Bandai Namco Entertainment Inc."
+    },
+    {
+      "id": "com.bigcool.puzzle.merge.kitchen",
+      "title": "머지 키친: 힐링 요리 & 오프라인 퍼즐 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko",
+      "developer": "Bigcool Games"
+    },
+    {
+      "id": "com.bigcool.puzzle.merge.tasty",
+      "title": "머지 테이스티: 데이터 필요없는 힐링 요리 퍼즐 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.tasty&hl=ko",
+      "developer": "Bigcool Limited"
     },
     {
       "id": "com.bilibili.lumi",
@@ -93,6 +99,12 @@
       "developer": "CookApps"
     },
     {
+      "id": "com.darkwind.majo",
+      "title": "MAJO - 아포칼립스 택틱스 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko",
+      "developer": "DarkWind Ltd."
+    },
+    {
       "id": "com.dreamloft.grumpykingdom",
       "title": "Grumpy Kingdom",
       "url": "https://play.google.com/store/apps/details?id=com.dreamloft.grumpykingdom&hl=ko",
@@ -109,12 +121,6 @@
       "title": "Football Maestro Mini",
       "url": "https://play.google.com/store/apps/details?id=com.funclave.fm2mini&hl=ko",
       "developer": "FunClave"
-    },
-    {
-      "id": "com.gametree.sultan.pd",
-      "title": "Sultan's Game",
-      "url": "https://play.google.com/store/apps/details?id=com.gametree.sultan.pd&hl=ko",
-      "developer": "HongKong GameTree Limited"
     },
     {
       "id": "com.gravity.roocam.android",
@@ -199,12 +205,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.x.aniimos",
-      "title": "애니모",
-      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
-      "developer": "Pawprint Studio"
     },
     {
       "id": "com.yzlmus.google",

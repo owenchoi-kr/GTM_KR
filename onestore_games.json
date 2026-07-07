@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-07-06T22:48:02.084906",
-  "count": 15,
+  "updated_at": "2026-07-07T22:39:32.760563",
+  "count": 16,
   "games": [
     {
+      "id": "0001005553",
+      "title": "잔망티키타카",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005553",
+      "developer": "MEGAGIANT INC"
+    },
+    {
+      "id": "0001005623",
+      "title": "식물 운빨 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623",
+      "developer": "GoldFlowGames"
+    },
+    {
       "id": "0001007111",
-      "title": "프로스트킹덤",
+      "title": "프로스트 킹덤: 머지 생존전략 SLG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007111",
       "developer": "NEXUS Co Ltd"
+    },
+    {
+      "id": "0001007060",
+      "title": "부족 또 전쟁:  무한루프 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007060",
+      "developer": "SUPERNEWT"
     },
     {
       "id": "0001007176",
@@ -39,6 +57,12 @@
       "developer": "Kingnet Technology HK Limited"
     },
     {
+      "id": "0001006588",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588",
+      "developer": "EIGHT STUDIO"
+    },
+    {
       "id": "0001001644",
       "title": "GO강호",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644",
@@ -49,18 +73,6 @@
       "title": "이것이 삼국지다",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006079",
       "developer": "END9 GAMES Corp"
-    },
-    {
-      "id": "0001005865",
-      "title": "존맛히어로즈",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005865",
-      "developer": "CAPCLOUD Corp"
-    },
-    {
-      "id": "0001006244",
-      "title": "스카이 어비스: 풀링 팩트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006244",
-      "developer": "Tenfool"
     },
     {
       "id": "0001004771",
@@ -75,19 +87,14 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001005481",
-      "title": "다이너마이트 블루",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005481"
+      "id": "0001005865",
+      "title": "존맛히어로즈",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005865"
     },
     {
-      "id": "0001005873",
-      "title": "원죄: 신의 심판",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005873"
-    },
-    {
-      "id": "0001002677",
-      "title": "레퀴엠M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001002677"
+      "id": "0001006244",
+      "title": "스카이 어비스: 풀링 팩트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006244"
     }
   ]
 }
