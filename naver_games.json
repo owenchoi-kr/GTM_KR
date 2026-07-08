@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-07-07T22:39:32.760730",
-  "count": 22,
+  "updated_at": "2026-07-08T22:34:53.400681",
+  "count": 21,
   "games": [
     {
-      "id": "GM_NCR_023584",
-      "title": "스카이 어비스: 혈맹의 서약",
-      "url": "https://game.naver.com/Sky_Abyss_Blood_Oath",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_023379",
-      "title": "존맛히어로즈",
-      "url": "https://game.naver.com/JM_Heroes",
-      "release_date": "2026-06-09 ~  사전예약",
-      "platform": "Android,OneStore"
+      "id": "GM_NCR_023663",
+      "title": "이것이 삼국지다",
+      "url": "https://game.naver.com/This_is_Three_kingdoms",
+      "release_date": "2026-06-17 ~  사전예약",
+      "platform": "Android,OneStore,iOS"
     },
     {
       "id": "GM_NCR_023417",
@@ -24,18 +17,25 @@
       "platform": "Android,iOS,OneStore,PC"
     },
     {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
       "id": "GM_NCR_022960",
       "title": "냥이 기사단 키우기: 방치형 RPG",
       "url": "https://game.naver.com/Meow_Knights",
       "release_date": "2026-06-11 ~ 2026-07-16 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_023381",
+      "title": "도깨비 소녀와 함께",
+      "url": "https://game.naver.com/Dokkaebi_Girl",
+      "release_date": "2026-07-08 ~ 2026-07-16 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023342",
+      "title": "집행검 클래식",
+      "url": "https://game.naver.com/executionsword",
+      "release_date": "2026-06-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_023834",
@@ -127,13 +127,6 @@
       "url": "https://game.naver.com/Doomsday_Warrior",
       "release_date": "2025-12-11 ~  사전예약",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_023663",
-      "title": "이것이 삼국지다",
-      "url": "https://game.naver.com/This_is_Three_kingdoms",
-      "release_date": "2026-06-17 ~  사전예약",
-      "platform": "Android,OneStore,iOS"
     },
     {
       "id": "GM_NCR_020257",

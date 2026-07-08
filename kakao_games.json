@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-07-07T22:39:32.760465",
+  "updated_at": "2026-07-08T22:34:53.400388",
   "count": 2,
   "games": [
+    {
+      "id": "2RPFXk",
+      "title": "마루는 강쥐: 나 카페 사장됐다? 짱이지!",
+      "url": "https://game.kakao.com/ar/2RPFXk?rtc=atb_K-GAM02X0111"
+    },
     {
       "id": "INXQoe",
       "title": "열혈강호: 넥스트",
       "url": "https://game.kakao.com/ar/INXQoe?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "dhoXTR",
-      "title": "로스트 소드",
-      "url": "https://game.kakao.com/ar/dhoXTR?rtc=atb_K-GAM02X0111"
     }
   ]
 }

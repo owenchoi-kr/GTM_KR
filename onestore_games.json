@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T22:39:32.760563",
+  "updated_at": "2026-07-08T22:34:53.400498",
   "count": 16,
   "games": [
     {
@@ -39,12 +39,6 @@
       "developer": "Devsisters Corp"
     },
     {
-      "id": "0001006319",
-      "title": "꿈의 여행자: 별빛 여정",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006319",
-      "developer": "HONG KONG GRAND SUNRISE CO LIMITED"
-    },
-    {
       "id": "0001006975",
       "title": "아처캐슬 : 방치형 키우기 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006975",
@@ -69,12 +63,6 @@
       "developer": "KPENT LIMITED"
     },
     {
-      "id": "0001006079",
-      "title": "이것이 삼국지다",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006079",
-      "developer": "END9 GAMES Corp"
-    },
-    {
       "id": "0001004771",
       "title": "루미마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
@@ -85,6 +73,16 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001006319",
+      "title": "꿈의 여행자: 별빛 여정",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006319"
+    },
+    {
+      "id": "0001006079",
+      "title": "이것이 삼국지다",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006079"
     },
     {
       "id": "0001005865",
