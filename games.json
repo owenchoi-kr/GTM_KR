@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T22:34:53.399564",
-  "count": 34,
+  "updated_at": "2026-07-09T22:51:55.245115",
+  "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -99,12 +99,6 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
-      "id": "com.fayerdev.pancitomerge",
-      "title": "PancitoMerge",
-      "url": "https://play.google.com/store/apps/details?id=com.fayerdev.pancitomerge&hl=ko",
-      "developer": "FayerDev"
-    },
-    {
       "id": "com.funclave.fm2mini",
       "title": "Football Maestro Mini",
       "url": "https://play.google.com/store/apps/details?id=com.funclave.fm2mini&hl=ko",
@@ -121,6 +115,12 @@
       "title": "에타 크로니클",
       "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
       "developer": "CHENS GLOBAL LIMITED"
+    },
+    {
+      "id": "com.lunosoft.catidle",
+      "title": "고냥이 마법사: 슈팅 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.catidle&hl=ko",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "com.mintrocket.drmobile",
@@ -144,12 +144,6 @@
       "id": "com.ondi.fortias.defense",
       "title": "Pixel Defenders: Merge TD Game",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.ondi.space.defense",
-      "title": "스타가드: 에보 병합 TD",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {

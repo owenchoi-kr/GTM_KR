@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-08T22:34:53.400219",
-  "count": 5,
+  "updated_at": "2026-07-09T22:51:55.245854",
+  "count": 6,
   "games": [
+    {
+      "id": "979",
+      "title": "애니모",
+      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]다양한 보상 제공",
+      "developer": "pawprint"
+    },
     {
       "id": "976",
       "title": "열혈강호: 넥스트",

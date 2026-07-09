@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-08T22:34:53.400498",
-  "count": 16,
+  "updated_at": "2026-07-09T22:51:55.246171",
+  "count": 18,
   "games": [
     {
       "id": "0001005553",
@@ -13,6 +13,12 @@
       "title": "식물 운빨 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623",
       "developer": "GoldFlowGames"
+    },
+    {
+      "id": "0001006684",
+      "title": "고냥이 마법사: 슈팅 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006684",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "0001007111",
@@ -37,6 +43,12 @@
       "title": "쿠키런 키우기 - 쿠키런: 크럼블",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005869",
       "developer": "Devsisters Corp"
+    },
+    {
+      "id": "0001006370",
+      "title": "도깨비 소녀와 함께",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006370",
+      "developer": "ESKYFUN TECHNOLOGY LIMITED"
     },
     {
       "id": "0001006975",
