@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-09T22:51:55.246394",
-  "count": 20,
+  "updated_at": "2026-07-10T22:34:40.204880",
+  "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_023417",
-      "title": "꿈의 여행자: 별빛 여정",
-      "url": "https://game.naver.com/DreamTraveler",
-      "release_date": "2026-06-25 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
-    },
     {
       "id": "GM_NCR_022960",
       "title": "냥이 기사단 키우기: 방치형 RPG",
