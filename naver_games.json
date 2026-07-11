@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-10T22:34:40.204880",
+  "updated_at": "2026-07-11T22:16:22.436110",
   "count": 19,
   "games": [
     {
@@ -84,7 +84,7 @@
       "title": "애니모",
       "url": "https://game.naver.com/Aniimo",
       "release_date": "2026-06-08 ~  사전예약",
-      "platform": "Android,Console,PC"
+      "platform": "Android,Console,PC,iOS"
     },
     {
       "id": "GM_NCR_022945",

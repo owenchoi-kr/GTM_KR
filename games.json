@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T22:34:40.204070",
-  "count": 33,
+  "updated_at": "2026-07-11T22:16:22.435330",
+  "count": 32,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -25,12 +25,6 @@
       "title": "UnGodly",
       "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
       "developer": "Azra Games"
-    },
-    {
-      "id": "com.bandainamcoent.dgup_ww",
-      "title": "디지몬 UP",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dgup_ww&hl=ko",
-      "developer": "Bandai Namco Entertainment Inc."
     },
     {
       "id": "com.bigcool.puzzle.merge.kitchen",
