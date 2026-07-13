@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-12T22:25:03.034226",
-  "count": 32,
+  "updated_at": "2026-07-13T22:29:23.329469",
+  "count": 29,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -19,12 +19,6 @@
       "title": "장난EZ렁",
       "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
       "developer": "ACTIONFIT"
-    },
-    {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
     },
     {
       "id": "com.bigcool.puzzle.merge.kitchen",
@@ -93,12 +87,6 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
-      "id": "com.funclave.fm2mini",
-      "title": "Football Maestro Mini",
-      "url": "https://play.google.com/store/apps/details?id=com.funclave.fm2mini&hl=ko",
-      "developer": "FunClave"
-    },
-    {
       "id": "com.gravity.roocam.android",
       "title": "Ragnarok Origin: Classic",
       "url": "https://play.google.com/store/apps/details?id=com.gravity.roocam.android&hl=ko",
@@ -133,12 +121,6 @@
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
       "developer": "Neptune Corp."
-    },
-    {
-      "id": "com.ondi.fortias.defense",
-      "title": "Pixel Defenders: Merge TD Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.spcomes.meowsgarden",

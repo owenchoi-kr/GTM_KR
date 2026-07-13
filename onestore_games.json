@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-12T22:25:03.035191",
-  "count": 18,
+  "updated_at": "2026-07-13T22:29:23.330165",
+  "count": 20,
   "games": [
+    {
+      "id": "0001007227",
+      "title": "윈드러너 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007227",
+      "developer": "LightCON"
+    },
+    {
+      "id": "0001006389",
+      "title": "프로젝트 오리진 : X",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001005553",
       "title": "잔망티키타카",
