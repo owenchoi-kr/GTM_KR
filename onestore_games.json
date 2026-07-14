@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T22:29:23.330165",
-  "count": 20,
+  "updated_at": "2026-07-14T22:31:56.575056",
+  "count": 18,
   "games": [
     {
       "id": "0001007227",
@@ -31,6 +31,12 @@
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006684",
       "developer": "LUNOSOFT INC"
+    },
+    {
+      "id": "0001007470",
+      "title": "프로스트 킹덤: 머지 생존전략 SLG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007470",
+      "developer": "NEXUS Co., Ltd."
     },
     {
       "id": "0001007060",
@@ -93,11 +99,6 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001007111",
-      "title": "프로스트 킹덤: 머지 생존전략 SLG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007111"
-    },
-    {
       "id": "0001006319",
       "title": "꿈의 여행자: 별빛 여정",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006319"
@@ -106,16 +107,6 @@
       "id": "0001006079",
       "title": "이것이 삼국지다",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006079"
-    },
-    {
-      "id": "0001005865",
-      "title": "존맛히어로즈",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005865"
-    },
-    {
-      "id": "0001006244",
-      "title": "스카이 어비스: 풀링 팩트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006244"
     }
   ]
 }
