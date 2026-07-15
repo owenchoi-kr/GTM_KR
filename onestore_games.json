@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T22:31:56.575056",
-  "count": 18,
+  "updated_at": "2026-07-15T22:31:08.504882",
+  "count": 16,
   "games": [
     {
       "id": "0001007227",
@@ -69,12 +69,6 @@
       "developer": "Spring Games"
     },
     {
-      "id": "0001005477",
-      "title": "열혈강호: 넥스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
-      "developer": "Kingnet Technology HK Limited"
-    },
-    {
       "id": "0001006588",
       "title": "블라이트 워 : 사후 처리국",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588",
@@ -99,14 +93,10 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001006319",
-      "title": "꿈의 여행자: 별빛 여정",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006319"
-    },
-    {
-      "id": "0001006079",
-      "title": "이것이 삼국지다",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006079"
+      "id": "0001005477",
+      "title": "열혈강호: 넥스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
+      "developer": "Kingnet Technology HK Limited"
     }
   ]
 }

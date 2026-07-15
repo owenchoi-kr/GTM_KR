@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T22:31:56.574261",
-  "count": 30,
+  "updated_at": "2026-07-15T22:31:08.504195",
+  "count": 28,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -15,12 +15,6 @@
       "developer": "Teamsparta Inc."
     },
     {
-      "id": "com.actionfit.toy.defense.aos",
-      "title": "장난EZ렁",
-      "url": "https://play.google.com/store/apps/details?id=com.actionfit.toy.defense.aos&hl=ko",
-      "developer": "ACTIONFIT"
-    },
-    {
       "id": "com.azragames.ungodly",
       "title": "UnGodly",
       "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
@@ -31,12 +25,6 @@
       "title": "머지 키친: 힐링 요리 & 오프라인 퍼즐 게임",
       "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko",
       "developer": "Bigcool Games"
-    },
-    {
-      "id": "com.bigcool.puzzle.merge.tasty",
-      "title": "머지 테이스티: 데이터 필요없는 힐링 요리 퍼즐 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.tasty&hl=ko",
-      "developer": "Bigcool Limited"
     },
     {
       "id": "com.bilibili.sirius",
