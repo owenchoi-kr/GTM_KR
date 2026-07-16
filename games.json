@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-15T22:31:08.504195",
-  "count": 28,
+  "updated_at": "2026-07-16T22:32:03.231875",
+  "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -13,12 +13,6 @@
       "title": "벙커 딸깍 디펜스: 랜덤TD",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
       "developer": "Teamsparta Inc."
-    },
-    {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
     },
     {
       "id": "com.bigcool.puzzle.merge.kitchen",
@@ -43,6 +37,12 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.chillyroom.containerofsoul.gp",
+      "title": "Abyssal Soul - 로그라이크 카드 게임",
+      "url": "https://play.google.com/store/apps/details?id=com.chillyroom.containerofsoul.gp&hl=ko",
+      "developer": "ChillyRoom"
     },
     {
       "id": "com.cle.yulgang_gb",
@@ -93,28 +93,58 @@
       "developer": "CHENS GLOBAL LIMITED"
     },
     {
+      "id": "com.kungpowgranny.rogue",
+      "title": "쿵푸 할매: 서바이버",
+      "url": "https://play.google.com/store/apps/details?id=com.kungpowgranny.rogue&hl=ko",
+      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD."
+    },
+    {
       "id": "com.lunosoft.catidle",
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.catidle&hl=ko",
       "developer": "LUNOSOFT INC"
     },
     {
-      "id": "com.mintrocket.drmobile",
-      "title": "데이브 더 다이버",
-      "url": "https://play.google.com/store/apps/details?id=com.mintrocket.drmobile&hl=ko",
-      "developer": "MINTROCKET"
-    },
-    {
-      "id": "com.n2pg.tr",
-      "title": "Titan Revenge",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pg.tr&hl=ko",
-      "developer": "Now to Play Game Sucursal en España"
+      "id": "com.mobirix.bussort",
+      "title": "Bus Sort: Traffic Jam",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.bussort&hl=ko",
+      "developer": "mobirix"
     },
     {
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
       "developer": "Neptune Corp."
+    },
+    {
+      "id": "com.nitrogames.boltgunboom",
+      "title": "워해머 40,000: 볼트건 Boom",
+      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
+      "developer": "Nitro Games Oyj"
+    },
+    {
+      "id": "com.odencat.wishuponacat",
+      "title": "고양이의 작은 소원",
+      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
+      "developer": "Odencat"
+    },
+    {
+      "id": "com.ondi.space.defense",
+      "title": "스타가드: 에보 병합 TD",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
+    },
+    {
+      "id": "com.pchk.ht",
+      "title": "Helix Tracker: gacha adventure",
+      "url": "https://play.google.com/store/apps/details?id=com.pchk.ht&hl=ko",
+      "developer": "Proficient City Hong Kong"
+    },
+    {
+      "id": "com.rabbit.zf",
+      "title": "Zombie Fire : Cabin Survival",
+      "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
+      "developer": "Clegames Inc"
     },
     {
       "id": "com.spcomes.meowsgarden",
@@ -153,10 +183,10 @@
       "developer": "nitrox"
     },
     {
-      "id": "com.yzlmus.google",
-      "title": "Whoa Adventure",
-      "url": "https://play.google.com/store/apps/details?id=com.yzlmus.google&hl=ko",
-      "developer": "Joy Nice Games"
+      "id": "com.wk.mmm",
+      "title": "솔저 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
+      "developer": "WK Company"
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",

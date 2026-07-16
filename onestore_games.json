@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15T22:31:08.504882",
+  "updated_at": "2026-07-16T22:32:03.232590",
   "count": 16,
   "games": [
     {
@@ -69,16 +69,16 @@
       "developer": "Spring Games"
     },
     {
+      "id": "0001005477",
+      "title": "열혈강호: 넥스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
+      "developer": "Kingnet Technology HK Limited"
+    },
+    {
       "id": "0001006588",
       "title": "블라이트 워 : 사후 처리국",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588",
       "developer": "EIGHT STUDIO"
-    },
-    {
-      "id": "0001001644",
-      "title": "GO강호",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644",
-      "developer": "KPENT LIMITED"
     },
     {
       "id": "0001004771",
@@ -93,10 +93,9 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001005477",
-      "title": "열혈강호: 넥스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
-      "developer": "Kingnet Technology HK Limited"
+      "id": "0001001644",
+      "title": "GO강호",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644"
     }
   ]
 }
