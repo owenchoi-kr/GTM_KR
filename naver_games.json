@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-07-16T22:32:03.232779",
-  "count": 19,
+  "updated_at": "2026-07-17T22:16:32.112641",
+  "count": 17,
   "games": [
-    {
-      "id": "GM_NCR_022625",
-      "title": "실크로드 어게인",
-      "url": "https://game.naver.com/silkroadagain",
-      "release_date": "2026-06-17 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_022960",
-      "title": "냥이 기사단 키우기: 방치형 RPG",
-      "url": "https://game.naver.com/Meow_Knights",
-      "release_date": "2026-06-11 ~ 2026-07-16 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
     {
       "id": "GM_NCR_023834",
       "title": "부족 또 전쟁 : 무한루프 RPG",
@@ -43,6 +22,13 @@
       "url": "https://game.naver.com/the_new_gate",
       "release_date": "2024-07-22 ~  사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_023342",
+      "title": "집행검 클래식",
+      "url": "https://game.naver.com/executionsword",
+      "release_date": "2026-06-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_013601",

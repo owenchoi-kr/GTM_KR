@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-07-16T22:32:03.231875",
-  "count": 33,
+  "updated_at": "2026-07-17T22:16:32.111640",
+  "count": 38,
   "games": [
+    {
+      "id": "com.BillionaireGames.TicketHero",
+      "title": "사신소년 키우기",
+      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko",
+      "developer": "BillionaireGames"
+    },
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
@@ -33,10 +39,10 @@
       "developer": "RIFF GAMES Co., Ltd."
     },
     {
-      "id": "com.brazle.mylittlehotel",
-      "title": "마이리틀호텔",
-      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
-      "developer": "Brazle"
+      "id": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.chillyroom.containerofsoul.gp",
@@ -105,10 +111,22 @@
       "developer": "LUNOSOFT INC"
     },
     {
+      "id": "com.megagames.sensultra",
+      "title": "센스울트라",
+      "url": "https://play.google.com/store/apps/details?id=com.megagames.sensultra&hl=ko",
+      "developer": "Mega Games Co., Ltd."
+    },
+    {
       "id": "com.mobirix.bussort",
       "title": "Bus Sort: Traffic Jam",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.bussort&hl=ko",
       "developer": "mobirix"
+    },
+    {
+      "id": "com.msg.serpent",
+      "title": "종말의 뱀: The Apocalypsnake",
+      "url": "https://play.google.com/store/apps/details?id=com.msg.serpent&hl=ko",
+      "developer": "Arumgames"
     },
     {
       "id": "com.neptune.dawnsedge",
@@ -129,6 +147,12 @@
       "developer": "Odencat"
     },
     {
+      "id": "com.ondi.fortias.defense",
+      "title": "Pixel Defenders: Merge TD Game",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
+    },
+    {
       "id": "com.ondi.space.defense",
       "title": "스타가드: 에보 병합 TD",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
@@ -145,6 +169,12 @@
       "title": "Zombie Fire : Cabin Survival",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
+      "title": "파우팝 매치",
+      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko",
+      "developer": "RATEL"
     },
     {
       "id": "com.spcomes.meowsgarden",
