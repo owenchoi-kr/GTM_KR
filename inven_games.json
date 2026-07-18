@@ -1,5 +1,42 @@
 {
-  "updated_at": "2026-07-17T22:16:32.112154",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-07-18T22:17:12.895812",
+  "count": 5,
+  "games": [
+    {
+      "id": "979",
+      "title": "애니모",
+      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]다양한 보상 제공",
+      "developer": "pawprint"
+    },
+    {
+      "id": "976",
+      "title": "열혈강호: 넥스트",
+      "url": "https://pick.inven.co.kr/campaign/976/yulgangnext",
+      "release_date": "7월 29일 출시 예정",
+      "reward": "[2000이니, 100베니]귀속 원보*200, 랜덤 신수 조각 보물상자*3, 강화석*10"
+    },
+    {
+      "id": "975",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://pick.inven.co.kr/campaign/975/blightwar",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]앱 출시 후 인게임 일괄 지급"
+    },
+    {
+      "id": "980",
+      "title": "윈드러너 키우기",
+      "url": "https://pick.inven.co.kr/campaign/980/GaleKnightsIdle",
+      "release_date": "출시 미정",
+      "reward": "[1000이니][레전더리 등급: 스텔라 마법사] 100% 지급!"
+    },
+    {
+      "id": "967",
+      "title": "궁수키우기 : 스틱맨 RPG",
+      "url": "https://pick.inven.co.kr/campaign/967/IdleArcherStickman",
+      "release_date": "출시 미정",
+      "reward": "[1000이니][사전예약 보상] 다이아 3,000"
+    }
+  ]
 }

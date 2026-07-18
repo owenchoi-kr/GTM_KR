@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-07-17T22:16:32.111640",
-  "count": 38,
+  "updated_at": "2026-07-18T22:17:12.895284",
+  "count": 34,
   "games": [
-    {
-      "id": "com.BillionaireGames.TicketHero",
-      "title": "사신소년 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.BillionaireGames.TicketHero&hl=ko",
-      "developer": "BillionaireGames"
-    },
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
@@ -39,10 +33,10 @@
       "developer": "RIFF GAMES Co., Ltd."
     },
     {
-      "id": "com.buffstudio.holdonlord",
-      "title": "버텨라! 영주님!",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
-      "developer": "Buff Studio Co.,Ltd."
+      "id": "com.brazle.mylittlehotel",
+      "title": "마이리틀호텔",
+      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
+      "developer": "Brazle"
     },
     {
       "id": "com.chillyroom.containerofsoul.gp",
@@ -99,12 +93,6 @@
       "developer": "CHENS GLOBAL LIMITED"
     },
     {
-      "id": "com.kungpowgranny.rogue",
-      "title": "쿵푸 할매: 서바이버",
-      "url": "https://play.google.com/store/apps/details?id=com.kungpowgranny.rogue&hl=ko",
-      "developer": "MOBIBRAIN TECHNOLOGY PTE. LTD."
-    },
-    {
       "id": "com.lunosoft.catidle",
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.catidle&hl=ko",
@@ -147,12 +135,6 @@
       "developer": "Odencat"
     },
     {
-      "id": "com.ondi.fortias.defense",
-      "title": "Pixel Defenders: Merge TD Game",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.fortias.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
       "id": "com.ondi.space.defense",
       "title": "스타가드: 에보 병합 TD",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
@@ -169,12 +151,6 @@
       "title": "Zombie Fire : Cabin Survival",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
-    },
-    {
-      "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
-      "title": "파우팝 매치",
-      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko",
-      "developer": "RATEL"
     },
     {
       "id": "com.spcomes.meowsgarden",
