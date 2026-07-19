@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-18T22:17:12.896286",
-  "count": 17,
+  "updated_at": "2026-07-19T22:27:44.934100",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_023834",
-      "title": "부족 또 전쟁 : 무한루프 RPG",
-      "url": "https://game.naver.com/Heart_of_Valor",
-      "release_date": "2026-07-06 ~ 2026-07-18 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023381",
       "title": "도깨비 소녀와 함께",
