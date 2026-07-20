@@ -1,5 +1,99 @@
 {
-  "updated_at": "2026-07-19T22:27:44.933976",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-07-20T22:33:10.495850",
+  "count": 16,
+  "games": [
+    {
+      "id": "0001007470",
+      "title": "프로스트 킹덤: 머지 생존전략 SLG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007470",
+      "developer": "NEXUS Co., Ltd."
+    },
+    {
+      "id": "0001007227",
+      "title": "윈드러너 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007227",
+      "developer": "LightCON"
+    },
+    {
+      "id": "0001006389",
+      "title": "프로젝트 오리진 : X",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001005553",
+      "title": "잔망티키타카",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005553",
+      "developer": "MEGAGIANT INC"
+    },
+    {
+      "id": "0001005623",
+      "title": "식물 운빨 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623",
+      "developer": "GoldFlowGames"
+    },
+    {
+      "id": "0001006684",
+      "title": "고냥이 마법사: 슈팅 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006684",
+      "developer": "LUNOSOFT INC"
+    },
+    {
+      "id": "0001007176",
+      "title": "집행검 클래식",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176",
+      "developer": "PLAYUC"
+    },
+    {
+      "id": "0001005869",
+      "title": "쿠키런 키우기 - 쿠키런: 크럼블",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005869",
+      "developer": "Devsisters Corp"
+    },
+    {
+      "id": "0001006975",
+      "title": "아처캐슬 : 방치형 키우기 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006975",
+      "developer": "Spring Games"
+    },
+    {
+      "id": "0001005477",
+      "title": "열혈강호: 넥스트",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477",
+      "developer": "Kingnet Technology HK Limited"
+    },
+    {
+      "id": "0001006588",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588",
+      "developer": "EIGHT STUDIO"
+    },
+    {
+      "id": "0001004771",
+      "title": "루미마스터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
+      "developer": "BILIBILI HK LIMITED"
+    },
+    {
+      "id": "0000781339",
+      "title": "히어로 랜드M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
+      "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001007060",
+      "title": "부족 또 전쟁:  무한루프 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007060"
+    },
+    {
+      "id": "0001006370",
+      "title": "도깨비 소녀와 함께",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006370"
+    },
+    {
+      "id": "0001001644",
+      "title": "GO강호",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644"
+    }
+  ]
 }

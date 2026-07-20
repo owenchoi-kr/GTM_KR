@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T22:27:44.933227",
+  "updated_at": "2026-07-20T22:33:10.494981",
   "count": 34,
   "games": [
     {
@@ -37,6 +37,12 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.chillyroom.containerofsoul.gp",
@@ -81,6 +87,12 @@
       "developer": "NEOCRAFT LIMITED"
     },
     {
+      "id": "com.gametree.sultan.pd",
+      "title": "Sultan's Game",
+      "url": "https://play.google.com/store/apps/details?id=com.gametree.sultan.pd&hl=ko",
+      "developer": "HongKong GameTree Limited"
+    },
+    {
       "id": "com.gravity.roocam.android",
       "title": "Ragnarok Origin: Classic",
       "url": "https://play.google.com/store/apps/details?id=com.gravity.roocam.android&hl=ko",
@@ -117,6 +129,12 @@
       "developer": "Arumgames"
     },
     {
+      "id": "com.n2pg.tr",
+      "title": "Titan Revenge",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pg.tr&hl=ko",
+      "developer": "Now to Play Game Sucursal en España"
+    },
+    {
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
@@ -129,28 +147,16 @@
       "developer": "Nitro Games Oyj"
     },
     {
-      "id": "com.odencat.wishuponacat",
-      "title": "고양이의 작은 소원",
-      "url": "https://play.google.com/store/apps/details?id=com.odencat.wishuponacat&hl=ko",
-      "developer": "Odencat"
-    },
-    {
-      "id": "com.ondi.space.defense",
-      "title": "스타가드: 에보 병합 TD",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.pchk.ht",
-      "title": "Helix Tracker: gacha adventure",
-      "url": "https://play.google.com/store/apps/details?id=com.pchk.ht&hl=ko",
-      "developer": "Proficient City Hong Kong"
-    },
-    {
       "id": "com.rabbit.zf",
       "title": "Zombie Fire : Cabin Survival",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.snapbreak.discounty",
+      "title": "Discounty: Supermarket Manager",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.discounty&hl=ko",
+      "developer": "Snapbreak"
     },
     {
       "id": "com.spcomes.meowsgarden",
@@ -187,12 +193,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.wk.mmm",
-      "title": "솔저 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
-      "developer": "WK Company"
     },
     {
       "id": "game.qualiarts.hololive.dreams.com",
