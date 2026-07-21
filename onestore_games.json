@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-07-20T22:33:10.495850",
-  "count": 16,
+  "updated_at": "2026-07-21T22:29:06.485331",
+  "count": 17,
   "games": [
     {
       "id": "0001007470",
       "title": "프로스트 킹덤: 머지 생존전략 SLG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007470",
       "developer": "NEXUS Co., Ltd."
+    },
+    {
+      "id": "0001007558",
+      "title": "소울 오브 크라임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
+      "developer": "GM 게임"
     },
     {
       "id": "0001007227",
@@ -19,12 +25,6 @@
       "title": "프로젝트 오리진 : X",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389",
       "developer": "GM 게임"
-    },
-    {
-      "id": "0001005553",
-      "title": "잔망티키타카",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005553",
-      "developer": "MEGAGIANT INC"
     },
     {
       "id": "0001005623",
@@ -79,6 +79,11 @@
       "title": "히어로 랜드M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
       "developer": "Orienjoy International Company Limited"
+    },
+    {
+      "id": "0001005553",
+      "title": "잔망티키타카",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005553"
     },
     {
       "id": "0001007060",

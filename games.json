@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T22:33:10.494981",
-  "count": 34,
+  "updated_at": "2026-07-21T22:29:06.484528",
+  "count": 36,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -147,6 +147,12 @@
       "developer": "Nitro Games Oyj"
     },
     {
+      "id": "com.pid.preserve_complete",
+      "title": "Preserve: Complete Edition",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
+      "developer": "Dear Villagers"
+    },
+    {
       "id": "com.rabbit.zf",
       "title": "Zombie Fire : Cabin Survival",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
@@ -157,6 +163,12 @@
       "title": "Discounty: Supermarket Manager",
       "url": "https://play.google.com/store/apps/details?id=com.snapbreak.discounty&hl=ko",
       "developer": "Snapbreak"
+    },
+    {
+      "id": "com.spcomes.jeweltemple",
+      "title": "쥬얼 템플 (Jewel Temple)",
+      "url": "https://play.google.com/store/apps/details?id=com.spcomes.jeweltemple&hl=ko",
+      "developer": "Springcomes"
     },
     {
       "id": "com.spcomes.meowsgarden",

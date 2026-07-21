@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-20T22:33:10.496034",
-  "count": 16,
+  "updated_at": "2026-07-21T22:29:06.485509",
+  "count": 17,
   "games": [
     {
       "id": "GM_NCR_023381",
@@ -50,6 +50,13 @@
       "url": "https://game.naver.com/JoJos_Bizarre_Adventure_Golden_Spirit",
       "release_date": "2026-05-21 ~ 2026-08-13 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_023979",
+      "title": "LUNAR：에버소울",
+      "url": "https://game.naver.com/LUNAR_EverSoul",
+      "release_date": "2026-07-20 ~ 2026-08-13 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_023074",
