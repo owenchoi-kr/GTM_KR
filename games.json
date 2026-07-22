@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-21T22:29:06.484528",
-  "count": 36,
+  "updated_at": "2026-07-22T22:35:26.272011",
+  "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -93,12 +93,6 @@
       "developer": "HongKong GameTree Limited"
     },
     {
-      "id": "com.gravity.roocam.android",
-      "title": "Ragnarok Origin: Classic",
-      "url": "https://play.google.com/store/apps/details?id=com.gravity.roocam.android&hl=ko",
-      "developer": "Gravity Game Vision"
-    },
-    {
       "id": "com.kr.chens.ete2024",
       "title": "에타 크로니클",
       "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
@@ -109,12 +103,6 @@
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.catidle&hl=ko",
       "developer": "LUNOSOFT INC"
-    },
-    {
-      "id": "com.megagames.sensultra",
-      "title": "센스울트라",
-      "url": "https://play.google.com/store/apps/details?id=com.megagames.sensultra&hl=ko",
-      "developer": "Mega Games Co., Ltd."
     },
     {
       "id": "com.mobirix.bussort",
@@ -205,12 +193,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "game.qualiarts.hololive.dreams.com",
-      "title": "hololive Dreams",
-      "url": "https://play.google.com/store/apps/details?id=game.qualiarts.hololive.dreams.com&hl=ko",
-      "developer": "QualiArts, Inc."
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

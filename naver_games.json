@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-21T22:29:06.485509",
-  "count": 17,
+  "updated_at": "2026-07-22T22:35:26.272885",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_023381",
-      "title": "도깨비 소녀와 함께",
-      "url": "https://game.naver.com/Dokkaebi_Girl",
-      "release_date": "2026-07-08 ~ 2026-07-21 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_014731",
       "title": "THE NEW GATE Best Collection",
