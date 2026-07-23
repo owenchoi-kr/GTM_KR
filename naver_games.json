@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-22T22:35:26.272885",
-  "count": 16,
+  "updated_at": "2026-07-23T22:32:53.779101",
+  "count": 15,
   "games": [
-    {
-      "id": "GM_NCR_014731",
-      "title": "THE NEW GATE Best Collection",
-      "url": "https://game.naver.com/the_new_gate",
-      "release_date": "2024-07-22 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_023342",
       "title": "집행검 클래식",

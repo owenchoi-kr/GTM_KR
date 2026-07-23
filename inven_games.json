@@ -1,5 +1,30 @@
 {
-  "updated_at": "2026-07-22T22:35:26.272452",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-07-23T22:32:53.778598",
+  "count": 3,
+  "games": [
+    {
+      "id": "981",
+      "title": "킹덤2: 타오르는 전장",
+      "url": "https://pick.inven.co.kr/campaign/981/KINGDOM2",
+      "release_date": "8월 5일 출시 예정",
+      "reward": "[2000이니, 100베니]사전예약 특별 보상",
+      "developer": "파우게임즈"
+    },
+    {
+      "id": "979",
+      "title": "애니모",
+      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]다양한 보상 제공",
+      "developer": "pawprint"
+    },
+    {
+      "id": "976",
+      "title": "열혈강호: 넥스트",
+      "url": "https://pick.inven.co.kr/campaign/976/yulgangnext",
+      "release_date": "7월 29일 출시 예정",
+      "reward": "[2000이니, 100베니]귀속 원보*200, 랜덤 신수 조각 보물상자*3, 강화석*10",
+      "developer": "KINGNET TECHNOLOGY"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-22T22:35:26.272683",
-  "count": 18,
+  "updated_at": "2026-07-23T22:32:53.778872",
+  "count": 17,
   "games": [
     {
       "id": "0001003511",
@@ -83,8 +83,7 @@
     {
       "id": "0001007470",
       "title": "프로스트 킹덤: 머지 생존전략 SLG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007470",
-      "developer": "NEXUS Co., Ltd."
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007470"
     },
     {
       "id": "0001005553",
@@ -100,11 +99,6 @@
       "id": "0001006370",
       "title": "도깨비 소녀와 함께",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006370"
-    },
-    {
-      "id": "0001001644",
-      "title": "GO강호",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001001644"
     }
   ]
 }
