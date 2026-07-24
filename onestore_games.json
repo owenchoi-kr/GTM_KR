@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:32:53.778872",
+  "updated_at": "2026-07-24T22:36:36.310955",
   "count": 17,
   "games": [
     {
@@ -63,12 +63,6 @@
       "developer": "Kingnet Technology HK Limited"
     },
     {
-      "id": "0001006588",
-      "title": "블라이트 워 : 사후 처리국",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588",
-      "developer": "EIGHT STUDIO"
-    },
-    {
       "id": "0001004771",
       "title": "루미마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
@@ -99,6 +93,11 @@
       "id": "0001006370",
       "title": "도깨비 소녀와 함께",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006370"
+    },
+    {
+      "id": "0001006588",
+      "title": "블라이트 워 : 사후 처리국",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588"
     }
   ]
 }

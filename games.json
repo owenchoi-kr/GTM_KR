@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T22:32:53.778085",
+  "updated_at": "2026-07-24T22:36:36.310320",
   "count": 33,
   "games": [
     {
@@ -13,6 +13,12 @@
       "title": "벙커 딸깍 디펜스: 랜덤TD",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
       "developer": "Teamsparta Inc."
+    },
+    {
+      "id": "com.azragames.ungodly",
+      "title": "UnGodly",
+      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
+      "developer": "Azra Games"
     },
     {
       "id": "com.bigcool.puzzle.merge.kitchen",
@@ -37,12 +43,6 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
-    },
-    {
-      "id": "com.buffstudio.holdonlord",
-      "title": "버텨라! 영주님!",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
-      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.chillyroom.containerofsoul.gp",
@@ -81,16 +81,10 @@
       "developer": "DarkWind Ltd."
     },
     {
-      "id": "com.emagroups.zs",
-      "title": "진삼국무쌍-오버로드",
-      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
-      "developer": "NEOCRAFT LIMITED"
-    },
-    {
-      "id": "com.gametree.sultan.pd",
-      "title": "Sultan's Game",
-      "url": "https://play.google.com/store/apps/details?id=com.gametree.sultan.pd&hl=ko",
-      "developer": "HongKong GameTree Limited"
+      "id": "com.klab.heroaca.united.survival",
+      "title": "MHA: UNITED SURVIVAL",
+      "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ko",
+      "developer": "KLab"
     },
     {
       "id": "com.kr.chens.ete2024",
@@ -135,22 +129,10 @@
       "developer": "Nitro Games Oyj"
     },
     {
-      "id": "com.pid.preserve_complete",
-      "title": "Preserve: Complete Edition",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
-      "developer": "Dear Villagers"
-    },
-    {
       "id": "com.rabbit.zf",
       "title": "Zombie Fire : Cabin Survival",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
-    },
-    {
-      "id": "com.snapbreak.discounty",
-      "title": "Discounty: Supermarket Manager",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.discounty&hl=ko",
-      "developer": "Snapbreak"
     },
     {
       "id": "com.spcomes.jeweltemple",
@@ -195,10 +177,28 @@
       "developer": "nitrox"
     },
     {
+      "id": "com.wk.mmm",
+      "title": "솔저 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
+      "developer": "WK Company"
+    },
+    {
+      "id": "com.x.aniimos",
+      "title": "애니모",
+      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
+      "developer": "Pawprint Studio"
+    },
+    {
       "id": "jp.co.cybird.appli.android.sg2.en",
       "title": "Ikemen Sengoku Eternity: Otome",
       "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
       "developer": "CYBIRD"
+    },
+    {
+      "id": "kemco.execreate.alphadia4",
+      "title": "RPG Alphadia F",
+      "url": "https://play.google.com/store/apps/details?id=kemco.execreate.alphadia4&hl=ko",
+      "developer": "KEMCO"
     }
   ]
 }

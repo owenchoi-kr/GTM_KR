@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-23T22:32:53.779101",
-  "count": 15,
+  "updated_at": "2026-07-24T22:36:36.311066",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-06-11 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
     {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
@@ -22,6 +15,13 @@
       "url": "https://game.naver.com/yulgang_next",
       "release_date": "2026-06-26 ~ 2026-07-29 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_023342",
+      "title": "집행검 클래식",
+      "url": "https://game.naver.com/executionsword",
+      "release_date": "2026-06-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_005825",
@@ -43,6 +43,13 @@
       "url": "https://game.naver.com/LUNAR_EverSoul",
       "release_date": "2026-07-20 ~ 2026-08-13 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024152",
+      "title": "심연 삼국 -2222 무료 뽑기",
+      "url": "https://game.naver.com/Abyss_Three_Kingdoms",
+      "release_date": "2026-07-23 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_023074",
