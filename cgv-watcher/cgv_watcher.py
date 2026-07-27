@@ -243,6 +243,16 @@ def run_watch(args):
     seen = {}  # schedule_key -> 마지막 관측 잔여석 수 (0 = 매진 상태)
     alerted_at = {}  # schedule_key -> 마지막 알림 시각 (같은 회차 반복 알림 쿨다운)
     first_pass = args.baseline
+    if args.state_file and os.path.exists(args.state_file):
+        try:
+            with open(args.state_file) as f:
+                state = json.load(f)
+            seen = state.get("seen", {})
+            alerted_at = state.get("alerted_at", {})
+            first_pass = False  # 이전 기준선을 이어받는다
+            print(f"상태 파일 로드: 회차 {len(seen)}개 기준선 이어받음")
+        except (OSError, ValueError) as e:
+            print(f"상태 파일 로드 실패(새로 시작): {e}")
     while True:
         hits = []
         status = []
@@ -274,6 +284,12 @@ def run_watch(args):
                         hits.append(item)
                         alerted_at[key] = time.time()
                     seen[key] = remaining
+        if args.state_file:
+            try:
+                with open(args.state_file, "w") as f:
+                    json.dump({"seen": seen, "alerted_at": alerted_at}, f)
+            except OSError as e:
+                print(f"상태 파일 저장 실패: {e}")
         now = f"[{datetime.now(KST):%H:%M:%S}]"
         if first_pass:
             # 시작 시점의 잔여석은 기준선으로만 기록하고 알리지 않는다.
@@ -315,6 +331,8 @@ def main():
                    help="시작 시점 잔여석은 알리지 않고 기준선으로만 기록 (이후 증가분만 알림)")
     p.add_argument("--exit-on-hit", action="store_true",
                    help="알림 발생 시 종료 (외부 슈퍼바이저/알림 연동용)")
+    p.add_argument("--state-file", default="",
+                   help="기준선/쿨다운 상태를 저장할 JSON 경로 (재시작 간 유지)")
     p.add_argument("--debug", action="store_true", help="매칭된 회차의 원본 JSON 출력")
     p.add_argument("--no-open", action="store_true", help="알림 시 브라우저를 열지 않음")
     p.add_argument("--notify-cmd", default="",
