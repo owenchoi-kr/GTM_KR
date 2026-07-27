@@ -194,8 +194,11 @@ def run_watch(args):
             codes.extend(found)
     codes = list(dict.fromkeys(codes))
     names = ", ".join(theater_names.get(c, c) for c in codes)
+    screens = ", ".join(s for s in args.screen if s) or "전체"
+    window = f"{args.time_from or '처음'}~{args.time_to or '끝'}"
     print(f"감시 시작 — 극장: {names} | 날짜: {', '.join(args.date)} | "
-          f"키워드: {', '.join(args.keyword)} | 주기: {args.interval}초")
+          f"키워드: {', '.join(args.keyword)} | 상영관: {screens} | "
+          f"시간대: {window} | 주기: {args.interval}초")
 
     seen = {}  # schedule_key -> 마지막으로 알림 보낸 잔여석 수 (0 = 매진 상태)
     while True:
@@ -242,13 +245,13 @@ def main():
                    help="영화 제목 키워드 (기본: 오디세이 odyssey)")
     p.add_argument("--theater", nargs="+", default=["용산"],
                    help="극장 이름 일부 또는 극장 코드 (기본: 용산)")
-    p.add_argument("--date", nargs="+",
-                   default=[datetime.now(KST).strftime("%Y%m%d")],
-                   help="상영 날짜 YYYYMMDD, 여러 개 가능 (기본: 오늘)")
-    p.add_argument("--screen", nargs="+", default=[],
-                   help="상영관 필터 문자열, 예: IMAX (회차 데이터 전체에서 부분일치)")
+    p.add_argument("--date", nargs="+", default=["20260808", "20260809"],
+                   help="상영 날짜 YYYYMMDD, 여러 개 가능 (기본: 20260808 20260809)")
+    p.add_argument("--screen", nargs="+", default=["IMAX"],
+                   help="상영관 필터 문자열 (기본: IMAX, 전체는 --screen '')")
     p.add_argument("--time-from", default="", help="이 시각(HHMM) 이후 회차만")
-    p.add_argument("--time-to", default="", help="이 시각(HHMM) 이전 회차만")
+    p.add_argument("--time-to", default="2059",
+                   help="이 시각(HHMM) 이전 시작 회차만 (기본: 2059 = 21시 전)")
     p.add_argument("--min-seats", type=int, default=1, help="알림 기준 최소 잔여석 (기본: 1)")
     p.add_argument("--interval", type=int, default=30, help="조회 주기 초 (기본: 30)")
     p.add_argument("--once", action="store_true", help="1회만 조회하고 종료")

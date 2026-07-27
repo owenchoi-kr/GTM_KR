@@ -17,12 +17,12 @@ CGV 연동 방식을 참고해 `api.cgv.co.kr`를 직접 호출하는 감시 스
 # 1. 극장 코드 확인
 python3 cgv_watcher.py --list-theaters 용산
 
-# 2. 감시 시작 (기본값: 용산 / 오늘 / 키워드 "오디세이")
+# 2. 감시 시작 — 기본값이 이미 목표 조건에 맞춰져 있음:
+#    용산 IMAX / 8월 8일(토)·9일(일) / 21시 이전 시작 회차 / 오디세이
 python3 cgv_watcher.py
 
-# 예: 용산 IMAX, 7/27~28, 저녁 회차만, 20초 간격
-python3 cgv_watcher.py --theater 용산 --date 20260727 20260728 \
-    --screen IMAX --time-from 1700 --interval 20
+# 조건을 바꾸고 싶으면 옵션으로 덮어쓰기. 예: 날짜 변경 + 20초 간격
+python3 cgv_watcher.py --date 20260815 20260816 --interval 20
 
 # 응답 필드 구조 확인 (상영관 필터를 정확히 맞추고 싶을 때)
 python3 cgv_watcher.py --once --debug
@@ -34,9 +34,9 @@ python3 cgv_watcher.py --once --debug
 |---|---|---|
 | `--keyword` | 영화 제목 키워드(여러 개 가능) | `오디세이 odyssey` |
 | `--theater` | 극장 이름 일부 또는 코드(여러 개 가능) | `용산` |
-| `--date` | 상영일 `YYYYMMDD`(여러 개 가능) | 오늘(KST) |
-| `--screen` | 상영관 필터(예: `IMAX`) | 없음(전체) |
-| `--time-from` / `--time-to` | 회차 시작시각 범위 `HHMM` | 없음 |
+| `--date` | 상영일 `YYYYMMDD`(여러 개 가능) | `20260808 20260809` |
+| `--screen` | 상영관 필터(전체 감시는 `--screen ''`) | `IMAX` |
+| `--time-from` / `--time-to` | 회차 시작시각 범위 `HHMM` | `~2059` (21시 전) |
 | `--min-seats` | 알림 기준 최소 잔여석 | `1` |
 | `--interval` | 조회 주기(초, 지터 자동 추가) | `30` |
 | `--notify-cmd` | 커스텀 알림 명령 (`{title}`, `{message}` 치환) | macOS 알림+사운드 |
