@@ -241,6 +241,7 @@ def run_watch(args):
         print("(텔레그램 미설정 — 폰 알림을 받으려면 README의 텔레그램 설정 참고)")
 
     seen = {}  # schedule_key -> 마지막으로 알림 보낸 잔여석 수 (0 = 매진 상태)
+    first_pass = args.baseline
     while True:
         hits = []
         status = []
@@ -270,8 +271,15 @@ def run_watch(args):
                         hits.append(item)
                     seen[key] = remaining
         now = f"[{datetime.now(KST):%H:%M:%S}]"
+        if first_pass:
+            # 시작 시점의 잔여석은 기준선으로만 기록하고 알리지 않는다.
+            first_pass = False
+            print(f"{now} 기준선 기록: " + (" | ".join(status) or "회차 없음"))
+            hits = []
         if hits:
             alert(hits, theater_names, args)
+            if args.exit_on_hit:
+                return
         elif status:
             print(f"{now} " + " | ".join(status))
         else:
@@ -297,6 +305,10 @@ def main():
     p.add_argument("--min-seats", type=int, default=1, help="알림 기준 최소 잔여석 (기본: 1)")
     p.add_argument("--interval", type=int, default=30, help="조회 주기 초 (기본: 30)")
     p.add_argument("--once", action="store_true", help="1회만 조회하고 종료")
+    p.add_argument("--baseline", action="store_true",
+                   help="시작 시점 잔여석은 알리지 않고 기준선으로만 기록 (이후 증가분만 알림)")
+    p.add_argument("--exit-on-hit", action="store_true",
+                   help="알림 발생 시 종료 (외부 슈퍼바이저/알림 연동용)")
     p.add_argument("--debug", action="store_true", help="매칭된 회차의 원본 JSON 출력")
     p.add_argument("--no-open", action="store_true", help="알림 시 브라우저를 열지 않음")
     p.add_argument("--notify-cmd", default="",
