@@ -240,7 +240,8 @@ def run_watch(args):
     else:
         print("(텔레그램 미설정 — 폰 알림을 받으려면 README의 텔레그램 설정 참고)")
 
-    seen = {}  # schedule_key -> 마지막으로 알림 보낸 잔여석 수 (0 = 매진 상태)
+    seen = {}  # schedule_key -> 마지막 관측 잔여석 수 (0 = 매진 상태)
+    alerted_at = {}  # schedule_key -> 마지막 알림 시각 (같은 회차 반복 알림 쿨다운)
     first_pass = args.baseline
     while True:
         hits = []
@@ -265,10 +266,13 @@ def run_watch(args):
                         f"{theater_names.get(code, code)} 잔여 {remaining}석"
                     )
                     # 잔여석이 늘어날 때마다 알림 — 첫 자리가 마음에 안 들어
-                    # 패스해도, 새 취소표가 나오면 다시 울린다.
+                    # 패스해도, 새 취소표가 나오면 다시 울린다. 단, 같은 회차가
+                    # 선점/해제로 계속 출렁일 때의 알림 폭탄은 쿨다운으로 막는다.
                     was = seen.get(key, 0)
-                    if remaining >= args.min_seats and remaining > was:
+                    cooled = time.time() - alerted_at.get(key, 0) >= args.cooldown * 60
+                    if remaining >= args.min_seats and remaining > was and cooled:
                         hits.append(item)
+                        alerted_at[key] = time.time()
                     seen[key] = remaining
         now = f"[{datetime.now(KST):%H:%M:%S}]"
         if first_pass:
@@ -303,6 +307,8 @@ def main():
     p.add_argument("--time-to", default="2059",
                    help="이 시각(HHMM) 이전 시작 회차만 (기본: 2059 = 21시 전)")
     p.add_argument("--min-seats", type=int, default=1, help="알림 기준 최소 잔여석 (기본: 1)")
+    p.add_argument("--cooldown", type=int, default=15,
+                   help="같은 회차 재알림 최소 간격(분, 기본: 15)")
     p.add_argument("--interval", type=int, default=30, help="조회 주기 초 (기본: 30)")
     p.add_argument("--once", action="store_true", help="1회만 조회하고 종료")
     p.add_argument("--baseline", action="store_true",
