@@ -263,8 +263,10 @@ def run_watch(args):
                         f"{date} {fmt_time(item.get('scnsrtTm'))} "
                         f"{theater_names.get(code, code)} 잔여 {remaining}석"
                     )
+                    # 잔여석이 늘어날 때마다 알림 — 첫 자리가 마음에 안 들어
+                    # 패스해도, 새 취소표가 나오면 다시 울린다.
                     was = seen.get(key, 0)
-                    if remaining >= args.min_seats and was < args.min_seats:
+                    if remaining >= args.min_seats and remaining > was:
                         hits.append(item)
                     seen[key] = remaining
         now = f"[{datetime.now(KST):%H:%M:%S}]"
