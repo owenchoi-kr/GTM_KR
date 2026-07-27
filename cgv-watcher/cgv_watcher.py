@@ -21,6 +21,7 @@ import base64
 import hashlib
 import hmac
 import json
+import os
 import platform
 import random
 import shutil
@@ -130,6 +131,36 @@ def matches(item: dict, keywords: list, screen_filters: list,
     return True
 
 
+def send_telegram(token: str, chat_id: str, text: str):
+    """텔레그램 봇으로 메시지 전송 (폰 알림용)."""
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    data = urllib.parse.urlencode({"chat_id": chat_id, "text": text}).encode("utf-8")
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, data=data), timeout=10) as r:
+            r.read()
+        print("텔레그램 알림 전송 완료")
+    except (urllib.error.URLError, urllib.error.HTTPError, OSError) as e:
+        print(f"텔레그램 전송 실패: {e}")
+
+
+def telegram_print_chat_id(token: str):
+    """봇에게 아무 메시지나 보낸 뒤 실행하면 chat_id를 알려준다."""
+    url = f"https://api.telegram.org/bot{token}/getUpdates"
+    with urllib.request.urlopen(url, timeout=10) as r:
+        updates = json.loads(r.read().decode("utf-8"))
+    chats = {}
+    for u in updates.get("result", []):
+        chat = (u.get("message") or {}).get("chat") or {}
+        if chat.get("id"):
+            name = chat.get("first_name") or chat.get("title") or ""
+            chats[chat["id"]] = name
+    if not chats:
+        print("메시지가 없습니다. 폰에서 봇에게 아무 메시지나 먼저 보낸 뒤 다시 실행하세요.")
+        return
+    for cid, name in chats.items():
+        print(f"chat_id: {cid}  ({name})")
+
+
 def notify(title: str, message: str, notify_cmd: str = ""):
     system = platform.system()
     if notify_cmd:
@@ -156,7 +187,7 @@ def open_booking_page():
         pass
 
 
-def alert(hits: list, theater_names: dict, notify_cmd: str, no_open: bool):
+def alert(hits: list, theater_names: dict, args):
     lines = []
     for item in hits:
         theater = theater_names.get(item.get("siteNo"), item.get("siteNm", ""))
@@ -171,8 +202,11 @@ def alert(hits: list, theater_names: dict, notify_cmd: str, no_open: bool):
     print(banner)
     print(f"예매: {BOOKING_URL}")
     print("=" * 60 + "\n")
-    notify("CGV 빈자리 발견!", lines[0], notify_cmd)
-    if not no_open:
+    notify("CGV 빈자리 발견!", lines[0], args.notify_cmd)
+    if args.tg_token and args.tg_chat_id:
+        send_telegram(args.tg_token, args.tg_chat_id,
+                      f"🎬 CGV 빈자리 발견!\n{banner}\n\n바로 예매 👉 {BOOKING_URL}")
+    if not args.no_open:
         open_booking_page()
 
 
@@ -199,6 +233,12 @@ def run_watch(args):
     print(f"감시 시작 — 극장: {names} | 날짜: {', '.join(args.date)} | "
           f"키워드: {', '.join(args.keyword)} | 상영관: {screens} | "
           f"시간대: {window} | 주기: {args.interval}초")
+    if args.tg_token and args.tg_chat_id:
+        send_telegram(args.tg_token, args.tg_chat_id,
+                      f"👀 CGV 감시 시작\n극장: {names}\n날짜: {', '.join(args.date)}\n"
+                      f"상영관: {screens} | {window}\n자리 나면 바로 알려드릴게요!")
+    else:
+        print("(텔레그램 미설정 — 폰 알림을 받으려면 README의 텔레그램 설정 참고)")
 
     seen = {}  # schedule_key -> 마지막으로 알림 보낸 잔여석 수 (0 = 매진 상태)
     while True:
@@ -229,7 +269,7 @@ def run_watch(args):
                     seen[key] = remaining
         now = f"[{datetime.now(KST):%H:%M:%S}]"
         if hits:
-            alert(hits, theater_names, args.notify_cmd, args.no_open)
+            alert(hits, theater_names, args)
         elif status:
             print(f"{now} " + " | ".join(status))
         else:
@@ -258,10 +298,22 @@ def main():
     p.add_argument("--debug", action="store_true", help="매칭된 회차의 원본 JSON 출력")
     p.add_argument("--no-open", action="store_true", help="알림 시 브라우저를 열지 않음")
     p.add_argument("--notify-cmd", default="",
-                   help="커스텀 알림 명령, {title} {message} 치환. 예: 텔레그램 curl")
+                   help="커스텀 알림 명령, {title} {message} 치환")
+    p.add_argument("--tg-token", default=os.environ.get("CGV_TG_TOKEN", ""),
+                   help="텔레그램 봇 토큰 (환경변수 CGV_TG_TOKEN 로도 지정 가능)")
+    p.add_argument("--tg-chat-id", default=os.environ.get("CGV_TG_CHAT_ID", ""),
+                   help="텔레그램 chat_id (환경변수 CGV_TG_CHAT_ID 로도 지정 가능)")
+    p.add_argument("--tg-get-chat-id", action="store_true",
+                   help="봇에게 메시지를 보낸 뒤 실행하면 내 chat_id를 알려줌")
     p.add_argument("--list-theaters", nargs="?", const="", metavar="키워드",
                    help="극장 목록 출력 (키워드로 필터 가능)")
     args = p.parse_args()
+
+    if args.tg_get_chat_id:
+        if not args.tg_token:
+            sys.exit("--tg-token (또는 CGV_TG_TOKEN) 이 필요합니다.")
+        telegram_print_chat_id(args.tg_token)
+        return
 
     if args.list_theaters is not None:
         for t in fetch_theaters():

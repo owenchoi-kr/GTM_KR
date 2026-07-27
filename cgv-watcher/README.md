@@ -39,18 +39,37 @@ python3 cgv_watcher.py --once --debug
 | `--time-from` / `--time-to` | 회차 시작시각 범위 `HHMM` | `~2059` (21시 전) |
 | `--min-seats` | 알림 기준 최소 잔여석 | `1` |
 | `--interval` | 조회 주기(초, 지터 자동 추가) | `30` |
+| `--tg-token` / `--tg-chat-id` | 텔레그램 폰 알림 (아래 설정 참고) | 환경변수 |
 | `--notify-cmd` | 커스텀 알림 명령 (`{title}`, `{message}` 치환) | macOS 알림+사운드 |
 | `--once` / `--debug` / `--no-open` | 1회 실행 / 원본 JSON / 브라우저 안 열기 | - |
 
 알림이 오면 열려 있는 CGV 예매 페이지에서 **직접 로그인 상태로 빠르게 결제**하세요.
 취소표는 수 초 안에 사라지므로, 미리 CGV 앱/웹에 로그인 + 결제수단 등록을 해두는 걸 권장합니다.
 
-### 텔레그램 알림 예시
+## 폰 알림 (텔레그램) 설정 — 5분 소요
 
-```bash
-python3 cgv_watcher.py --notify-cmd \
-  'curl -s "https://api.telegram.org/bot<TOKEN>/sendMessage" -d chat_id=<CHAT_ID> -d text="{title} {message}"'
-```
+맥 앞에 없어도 폰으로 알림을 받으려면 텔레그램 봇을 연결하세요.
+
+1. **봇 만들기**: 폰에서 텔레그램을 열고 `@BotFather` 검색 → `/newbot` 입력 →
+   봇 이름/아이디를 정하면 **토큰**(예: `1234567:AAxxxx...`)을 줍니다.
+2. **봇에게 말 걸기**: 방금 만든 봇을 검색해서 아무 메시지나 하나 보냅니다.
+   (봇은 먼저 말을 걸 수 없어서 이 단계가 필요합니다)
+3. **chat_id 확인**: 맥에서 실행:
+   ```bash
+   python3 cgv_watcher.py --tg-get-chat-id --tg-token "1234567:AAxxxx..."
+   ```
+   → `chat_id: 987654321` 처럼 출력됩니다.
+4. **감시 시작**:
+   ```bash
+   export CGV_TG_TOKEN="1234567:AAxxxx..."
+   export CGV_TG_CHAT_ID="987654321"
+   python3 cgv_watcher.py
+   ```
+   시작하자마자 폰으로 "감시 시작" 메시지가 오면 연결 성공입니다.
+   자리가 나면 폰으로 회차·잔여석과 예매 링크가 옵니다.
+
+> 토큰은 환경변수로만 넘기고 **코드나 깃에 커밋하지 마세요.**
+> 매번 export가 귀찮으면 `~/.zshrc`에 두 줄을 넣어두면 됩니다.
 
 ## 동작 원리
 
