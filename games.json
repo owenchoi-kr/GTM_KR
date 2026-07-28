@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-27T22:36:15.031887",
-  "count": 33,
+  "updated_at": "2026-07-28T22:35:56.265543",
+  "count": 32,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -111,12 +111,6 @@
       "developer": "Arumgames"
     },
     {
-      "id": "com.n2pg.tr",
-      "title": "Titan Revenge",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pg.tr&hl=ko",
-      "developer": "Now to Play Game Sucursal en España"
-    },
-    {
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
@@ -130,7 +124,7 @@
     },
     {
       "id": "com.rabbit.zf",
-      "title": "Zombie Fire : Cabin Survival",
+      "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
     },
