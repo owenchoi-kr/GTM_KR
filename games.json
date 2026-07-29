@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-07-28T22:35:56.265543",
-  "count": 32,
+  "updated_at": "2026-07-29T22:31:06.277798",
+  "count": 34,
   "games": [
+    {
+      "id": "com.Pocketpair.NeverGrave",
+      "title": "Never Grave",
+      "url": "https://play.google.com/store/apps/details?id=com.Pocketpair.NeverGrave&hl=ko",
+      "developer": "Pocketpair Publishing"
+    },
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
@@ -45,18 +51,6 @@
       "developer": "Brazle"
     },
     {
-      "id": "com.buffstudio.holdonlord",
-      "title": "버텨라! 영주님!",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
-      "developer": "Buff Studio Co.,Ltd."
-    },
-    {
-      "id": "com.cle.yulgang_gb",
-      "title": "Ruler of the Land: Fire dragon",
-      "url": "https://play.google.com/store/apps/details?id=com.cle.yulgang_gb&hl=ko",
-      "developer": "Clegames Inc"
-    },
-    {
       "id": "com.com2usholdings.agwiv.android.google.global.normal",
       "title": "ARES: THE IRON VANGUARD",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
@@ -79,6 +73,18 @@
       "title": "MAJO - 아포칼립스 택틱스 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko",
       "developer": "DarkWind Ltd."
+    },
+    {
+      "id": "com.emagroups.zs",
+      "title": "진삼국무쌍-오버로드",
+      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
+      "developer": "NEOCRAFT LIMITED"
+    },
+    {
+      "id": "com.izzle.go",
+      "title": "가이더스 원",
+      "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
+      "developer": "izzle"
     },
     {
       "id": "com.klab.heroaca.united.survival",
@@ -117,10 +123,16 @@
       "developer": "Neptune Corp."
     },
     {
-      "id": "com.nitrogames.boltgunboom",
-      "title": "워해머 40,000: 볼트건 Boom",
-      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
-      "developer": "Nitro Games Oyj"
+      "id": "com.noodlecake.wb",
+      "title": "Winter Burrow",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
+      "developer": "Noodlecake"
+    },
+    {
+      "id": "com.ondi.space.defense",
+      "title": "스타가드: 에보 병합 TD",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
     },
     {
       "id": "com.rabbit.zf",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T22:35:56.266941",
-  "count": 16,
+  "updated_at": "2026-07-29T22:31:06.278790",
+  "count": 17,
   "games": [
     {
       "id": "GM_NCR_023157",
@@ -22,6 +22,13 @@
       "url": "https://game.naver.com/Tree_of_Savior_M",
       "release_date": "2026-06-24 ~ 2026-08-02 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_018497",
+      "title": "열혈강호:귀환",
+      "url": "https://game.naver.com/yulgangreturn",
+      "release_date": "2026-07-28 ~ 2026-08-10 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022862",
