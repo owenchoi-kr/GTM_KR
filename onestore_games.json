@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-29T22:31:06.278577",
-  "count": 13,
+  "updated_at": "2026-07-30T22:37:27.210639",
+  "count": 15,
   "games": [
+    {
+      "id": "0001007798",
+      "title": "군주의 전쟁: 진격",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007798",
+      "developer": "SHARK ENTERTAINMENT LIMITED"
+    },
+    {
+      "id": "0001006587",
+      "title": "데블2M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006587",
+      "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
+    },
     {
       "id": "0001003511",
       "title": "킹덤2: 타오르는 전장",
@@ -33,12 +45,6 @@
       "developer": "LUNOSOFT INC"
     },
     {
-      "id": "0001007176",
-      "title": "집행검 클래식",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176",
-      "developer": "PLAYUC"
-    },
-    {
       "id": "0001006975",
       "title": "아처캐슬 : 방치형 키우기 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006975",
@@ -60,6 +66,11 @@
       "id": "0001007227",
       "title": "윈드러너 키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007227"
+    },
+    {
+      "id": "0001007176",
+      "title": "집행검 클래식",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176"
     },
     {
       "id": "0001005869",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T22:31:06.277798",
+  "updated_at": "2026-07-30T22:37:27.209916",
   "count": 34,
   "games": [
     {
@@ -75,12 +75,6 @@
       "developer": "DarkWind Ltd."
     },
     {
-      "id": "com.emagroups.zs",
-      "title": "진삼국무쌍-오버로드",
-      "url": "https://play.google.com/store/apps/details?id=com.emagroups.zs&hl=ko",
-      "developer": "NEOCRAFT LIMITED"
-    },
-    {
       "id": "com.izzle.go",
       "title": "가이더스 원",
       "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
@@ -91,12 +85,6 @@
       "title": "MHA: UNITED SURVIVAL",
       "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ko",
       "developer": "KLab"
-    },
-    {
-      "id": "com.kr.chens.ete2024",
-      "title": "에타 크로니클",
-      "url": "https://play.google.com/store/apps/details?id=com.kr.chens.ete2024&hl=ko",
-      "developer": "CHENS GLOBAL LIMITED"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -139,6 +127,12 @@
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.snowgames.newtroboxing",
+      "title": "뉴트로 복싱",
+      "url": "https://play.google.com/store/apps/details?id=com.snowgames.newtroboxing&hl=ko",
+      "developer": "Snow_Games"
     },
     {
       "id": "com.spcomes.jeweltemple",
@@ -205,6 +199,12 @@
       "title": "RPG Alphadia F",
       "url": "https://play.google.com/store/apps/details?id=kemco.execreate.alphadia4&hl=ko",
       "developer": "KEMCO"
+    },
+    {
+      "id": "net.gameduo.bbc",
+      "title": "붐붐캡틴!",
+      "url": "https://play.google.com/store/apps/details?id=net.gameduo.bbc&hl=ko",
+      "developer": "Gameduo"
     }
   ]
 }
