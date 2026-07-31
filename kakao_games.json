@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-07-30T22:37:27.210530",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-07-31T22:34:48.872875",
+  "count": 1,
+  "games": [
+    {
+      "id": "H5ZYu6",
+      "title": "프렌즈팝",
+      "url": "https://game.kakao.com/ar/H5ZYu6?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }

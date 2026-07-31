@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-07-30T22:37:27.210639",
-  "count": 15,
+  "updated_at": "2026-07-31T22:34:48.872964",
+  "count": 16,
   "games": [
+    {
+      "id": "0001007810",
+      "title": "수프몬스터 - 바다거북스프 AI 채팅 추리 게임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007810",
+      "developer": "Lud Dynamics Co., Ltd."
+    },
+    {
+      "id": "0001007489",
+      "title": "심연 삼국 -2222 무료 뽑기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007489",
+      "developer": "MIAO PLAY ENTERTAINMENT NETWORK LIMITED"
+    },
     {
       "id": "0001007798",
       "title": "군주의 전쟁: 진격",
@@ -81,11 +93,6 @@
       "id": "0001005477",
       "title": "열혈강호: 넥스트",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477"
-    },
-    {
-      "id": "0001006588",
-      "title": "블라이트 워 : 사후 처리국",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006588"
     }
   ]
 }

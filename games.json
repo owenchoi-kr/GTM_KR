@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-30T22:37:27.209916",
-  "count": 34,
+  "updated_at": "2026-07-31T22:34:48.872234",
+  "count": 35,
   "games": [
     {
       "id": "com.Pocketpair.NeverGrave",
@@ -33,6 +33,12 @@
       "developer": "Bigcool Games"
     },
     {
+      "id": "com.bilibili.lumi",
+      "title": "Lumi Master",
+      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
+      "developer": "BILIBILI"
+    },
+    {
       "id": "com.bilibili.sirius",
       "title": "뱅드림! 아워 노트",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko",
@@ -60,7 +66,7 @@
       "id": "com.cookapps.catsurvivor",
       "title": "쾅냥 서바이버 : 좀비 쓸어버리기",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko",
-      "developer": "CookApps"
+      "developer": "Purplecow games"
     },
     {
       "id": "com.cookapps.towerroguedefense",
