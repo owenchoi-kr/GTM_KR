@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-07-31T22:34:48.873136",
-  "count": 19,
+  "updated_at": "2026-08-01T22:28:38.152865",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-06-11 ~ 2026-07-31 사전예약",
-      "platform": "Android,OneStore"
-    },
     {
       "id": "GM_NCR_005825",
       "title": "트리 오브 세이비어 M",
       "url": "https://game.naver.com/Tree_of_Savior_M",
       "release_date": "2026-06-24 ~ 2026-08-02 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_022656",
+      "title": "NBA 덩크 시티",
+      "url": "https://game.naver.com/Dunk_City_Dynasty",
+      "release_date": "2026-07-31 ~ 2026-08-06 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_018497",
@@ -38,6 +38,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_007969",
+      "title": "데블2M",
+      "url": "https://game.naver.com/Devil_M",
+      "release_date": "2026-07-31 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_023979",
       "title": "LUNAR：에버소울",
       "url": "https://game.naver.com/LUNAR_EverSoul",
@@ -49,7 +56,7 @@
       "title": "심연 삼국 -2222 무료 뽑기",
       "url": "https://game.naver.com/Abyss_Three_Kingdoms",
       "release_date": "2026-07-23 ~  사전예약",
-      "platform": "Android"
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_023074",
