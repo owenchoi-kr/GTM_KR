@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-08-02T22:29:43.696153",
-  "count": 35,
+  "updated_at": "2026-08-03T22:35:59.138049",
+  "count": 32,
   "games": [
-    {
-      "id": "com.Pocketpair.NeverGrave",
-      "title": "Never Grave",
-      "url": "https://play.google.com/store/apps/details?id=com.Pocketpair.NeverGrave&hl=ko",
-      "developer": "Pocketpair Publishing"
-    },
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
@@ -19,18 +13,6 @@
       "title": "벙커 딸깍 디펜스: 랜덤TD",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
       "developer": "Teamsparta Inc."
-    },
-    {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
-    },
-    {
-      "id": "com.bigcool.puzzle.merge.kitchen",
-      "title": "머지 키친: 힐링 요리 & 오프라인 퍼즐 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.merge.kitchen&hl=ko",
-      "developer": "Bigcool Games"
     },
     {
       "id": "com.bilibili.lumi",
@@ -117,6 +99,12 @@
       "developer": "Neptune Corp."
     },
     {
+      "id": "com.nitrogames.boltgunboom",
+      "title": "워해머 40,000: 볼트건 Boom",
+      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
+      "developer": "Nitro Games Oyj"
+    },
+    {
       "id": "com.noodlecake.wb",
       "title": "Winter Burrow",
       "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
@@ -181,12 +169,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.wk.mmm",
-      "title": "솔저 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
-      "developer": "WK Company"
     },
     {
       "id": "com.x.aniimos",

@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-08-02T22:29:43.696574",
-  "count": 2,
+  "updated_at": "2026-08-03T22:35:59.138546",
+  "count": 1,
   "games": [
-    {
-      "id": "981",
-      "title": "킹덤2: 타오르는 전장",
-      "url": "https://pick.inven.co.kr/campaign/981/KINGDOM2",
-      "release_date": "8월 5일 출시 예정",
-      "reward": "[2000이니, 100베니]사전예약 특별 보상",
-      "developer": "파우게임즈"
-    },
     {
       "id": "979",
       "title": "애니모",
