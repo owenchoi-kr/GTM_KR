@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T22:35:59.138049",
-  "count": 32,
+  "updated_at": "2026-08-04T22:37:46.043840",
+  "count": 34,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -15,6 +15,12 @@
       "developer": "Teamsparta Inc."
     },
     {
+      "id": "com.azragames.ungodly",
+      "title": "UnGodly",
+      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
+      "developer": "Azra Games"
+    },
+    {
       "id": "com.bilibili.lumi",
       "title": "Lumi Master",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
@@ -25,12 +31,6 @@
       "title": "뱅드림! 아워 노트",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=ko",
       "developer": "BILIBILI"
-    },
-    {
-      "id": "com.blackdust.redblue",
-      "title": "냥찍 히어로즈 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko",
-      "developer": "RIFF GAMES Co., Ltd."
     },
     {
       "id": "com.brazle.mylittlehotel",
@@ -67,12 +67,6 @@
       "title": "가이더스 원",
       "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
       "developer": "izzle"
-    },
-    {
-      "id": "com.klab.heroaca.united.survival",
-      "title": "MHA: UNITED SURVIVAL",
-      "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.united.survival&hl=ko",
-      "developer": "KLab"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -117,6 +111,12 @@
       "developer": "ONDI TECHNOLOGY JSC"
     },
     {
+      "id": "com.pid.preserve_complete",
+      "title": "Preserve: Complete Edition",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
+      "developer": "Dear Villagers"
+    },
+    {
       "id": "com.rabbit.zf",
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
@@ -159,6 +159,12 @@
       "developer": "SUPERBOX Inc"
     },
     {
+      "id": "com.thp023.idle.zombie.shooting.defense",
+      "title": "Zombie War: Idle Defense",
+      "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
+      "developer": "Velocita Z"
+    },
+    {
       "id": "com.v2r.HamsterGarden",
       "title": "Hamster Garden",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
@@ -169,6 +175,12 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
+    },
+    {
+      "id": "com.wk.mmm",
+      "title": "솔저 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
+      "developer": "WK Company"
     },
     {
       "id": "com.x.aniimos",

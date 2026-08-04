@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-03T22:35:59.138811",
-  "count": 16,
+  "updated_at": "2026-08-04T22:37:46.044480",
+  "count": 15,
   "games": [
+    {
+      "id": "0001007321",
+      "title": "로그W : 리메인즈 오브 갓 ",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007321",
+      "developer": "이펀 컴퍼니 "
+    },
     {
       "id": "0001007810",
       "title": "수프몬스터 - 바다거북스프 AI 채팅 추리 게임",
@@ -25,12 +31,6 @@
       "title": "데블2M",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006587",
       "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
-    },
-    {
-      "id": "0001003511",
-      "title": "킹덤2: 타오르는 전장",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003511",
-      "developer": "FOWGAMES Co Ltd"
     },
     {
       "id": "0001007558",
@@ -75,9 +75,9 @@
       "developer": "Orienjoy International Company Limited"
     },
     {
-      "id": "0001007227",
-      "title": "윈드러너 키우기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007227"
+      "id": "0001003511",
+      "title": "킹덤2: 타오르는 전장",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003511"
     },
     {
       "id": "0001007176",
@@ -88,11 +88,6 @@
       "id": "0001005869",
       "title": "쿠키런 키우기 - 쿠키런: 크럼블",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005869"
-    },
-    {
-      "id": "0001005477",
-      "title": "열혈강호: 넥스트",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005477"
     }
   ]
 }
