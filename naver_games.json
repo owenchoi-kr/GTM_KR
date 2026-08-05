@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T22:37:46.044603",
-  "count": 20,
+  "updated_at": "2026-08-05T22:36:22.010295",
+  "count": 21,
   "games": [
     {
       "id": "GM_NCR_022656",
@@ -49,6 +49,13 @@
       "title": "LUNAR：에버소울",
       "url": "https://game.naver.com/LUNAR_EverSoul",
       "release_date": "2026-07-20 ~ 2026-08-21 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023406",
+      "title": "로그W: 리메인즈 오브 갓",
+      "url": "https://game.naver.com/ROGW_Remains_Of_Gods",
+      "release_date": "2026-08-04 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {

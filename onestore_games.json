@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-04T22:37:46.044480",
-  "count": 15,
+  "updated_at": "2026-08-05T22:36:22.009995",
+  "count": 16,
   "games": [
+    {
+      "id": "0001007940",
+      "title": "픽셀 테이머즈",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007940",
+      "developer": "Return Pixel Co., Ltd."
+    },
+    {
+      "id": "0001007471",
+      "title": "소드 앤 프론티아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471",
+      "developer": "ONCE|NUDE"
+    },
     {
       "id": "0001007321",
       "title": "로그W : 리메인즈 오브 갓 ",
@@ -36,12 +48,6 @@
       "id": "0001007558",
       "title": "소울 오브 크라임",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
-      "developer": "GM 게임"
-    },
-    {
-      "id": "0001006389",
-      "title": "프로젝트 오리진 : X",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389",
       "developer": "GM 게임"
     },
     {
@@ -80,14 +86,14 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003511"
     },
     {
+      "id": "0001006389",
+      "title": "프로젝트 오리진 : X",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389"
+    },
+    {
       "id": "0001007176",
       "title": "집행검 클래식",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176"
-    },
-    {
-      "id": "0001005869",
-      "title": "쿠키런 키우기 - 쿠키런: 크럼블",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005869"
     }
   ]
 }

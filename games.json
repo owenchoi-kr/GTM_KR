@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-04T22:37:46.043840",
-  "count": 34,
+  "updated_at": "2026-08-05T22:36:22.008999",
+  "count": 35,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -39,28 +39,34 @@
       "developer": "Brazle"
     },
     {
+      "id": "com.buffstudio.holdonlord",
+      "title": "버텨라! 영주님!",
+      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
+      "developer": "Buff Studio Co.,Ltd."
+    },
+    {
       "id": "com.com2usholdings.agwiv.android.google.global.normal",
       "title": "ARES: THE IRON VANGUARD",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
       "developer": "Com2uS Holdings"
     },
     {
-      "id": "com.cookapps.catsurvivor",
-      "title": "쾅냥 서바이버 : 좀비 쓸어버리기",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.catsurvivor&hl=ko",
-      "developer": "Purplecow games"
-    },
-    {
       "id": "com.cookapps.towerroguedefense",
       "title": "황야의 무법자: 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense&hl=ko",
-      "developer": "CookApps"
+      "developer": "Purplecow games"
     },
     {
       "id": "com.darkwind.majo",
       "title": "MAJO - 아포칼립스 택틱스 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko",
       "developer": "DarkWind Ltd."
+    },
+    {
+      "id": "com.funovus.alternatekeep",
+      "title": "Grim Arcade: Treasure Raid",
+      "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko",
+      "developer": "Funovus"
     },
     {
       "id": "com.izzle.go",
@@ -97,12 +103,6 @@
       "title": "워해머 40,000: 볼트건 Boom",
       "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
       "developer": "Nitro Games Oyj"
-    },
-    {
-      "id": "com.noodlecake.wb",
-      "title": "Winter Burrow",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
-      "developer": "Noodlecake"
     },
     {
       "id": "com.ondi.space.defense",
@@ -162,6 +162,12 @@
       "id": "com.thp023.idle.zombie.shooting.defense",
       "title": "Zombie War: Idle Defense",
       "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
+      "developer": "Velocita Z"
+    },
+    {
+      "id": "com.twh003.stickman.rpg.idle.game",
+      "title": "Age of Stickman: Evolution",
+      "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
       "developer": "Velocita Z"
     },
     {
