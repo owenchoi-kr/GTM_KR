@@ -1,14 +1,5 @@
 {
-  "updated_at": "2026-08-07T01:06:10.929551",
-  "count": 1,
-  "games": [
-    {
-      "id": "979",
-      "title": "애니모",
-      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 보상 제공",
-      "developer": "pawprint"
-    }
-  ]
+  "updated_at": "2026-08-07T22:08:02.407565",
+  "count": 0,
+  "games": []
 }
