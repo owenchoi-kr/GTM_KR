@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-05T22:36:22.009995",
-  "count": 16,
+  "updated_at": "2026-08-07T01:06:10.929694",
+  "count": 17,
   "games": [
+    {
+      "id": "0001007297",
+      "title": "요새하는겜 : 전략적 요새 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297",
+      "developer": "KINGKONGSOFT"
+    },
+    {
+      "id": "0001007613",
+      "title": "드라코니아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007613",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001007940",
       "title": "픽셀 테이머즈",
@@ -75,12 +87,6 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
-      "id": "0000781339",
-      "title": "히어로 랜드M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339",
-      "developer": "Orienjoy International Company Limited"
-    },
-    {
       "id": "0001003511",
       "title": "킹덤2: 타오르는 전장",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003511"
@@ -91,9 +97,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006389"
     },
     {
-      "id": "0001007176",
-      "title": "집행검 클래식",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007176"
+      "id": "0000781339",
+      "title": "히어로 랜드M",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339"
     }
   ]
 }

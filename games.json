@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-05T22:36:22.008999",
-  "count": 35,
+  "updated_at": "2026-08-07T01:06:10.928883",
+  "count": 34,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
@@ -199,12 +199,6 @@
       "title": "Ikemen Sengoku Eternity: Otome",
       "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
       "developer": "CYBIRD"
-    },
-    {
-      "id": "kemco.execreate.alphadia4",
-      "title": "RPG Alphadia F",
-      "url": "https://play.google.com/store/apps/details?id=kemco.execreate.alphadia4&hl=ko",
-      "developer": "KEMCO"
     },
     {
       "id": "net.gameduo.bbc",

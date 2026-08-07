@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-05T22:36:22.010295",
-  "count": 21,
+  "updated_at": "2026-08-07T01:06:10.929821",
+  "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_022656",
-      "title": "NBA 덩크 시티",
-      "url": "https://game.naver.com/Dunk_City_Dynasty",
-      "release_date": "2026-07-31 ~ 2026-08-06 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_023342",
-      "title": "집행검 클래식",
-      "url": "https://game.naver.com/executionsword",
-      "release_date": "2026-08-02 ~ 2026-08-06 사전예약",
-      "platform": "Android"
-    },
     {
       "id": "GM_NCR_018497",
       "title": "열혈강호:귀환",
