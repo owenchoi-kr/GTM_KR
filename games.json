@@ -1,17 +1,11 @@
 {
-  "updated_at": "2026-08-07T22:08:02.407125",
+  "updated_at": "2026-08-08T21:57:56.876451",
   "count": 33,
   "games": [
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.CSD&hl=ko",
-      "developer": "Teamsparta Inc."
-    },
-    {
-      "id": "com.TeamSparta.brd",
-      "title": "벙커 딸깍 디펜스: 랜덤TD",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.brd&hl=ko",
       "developer": "Teamsparta Inc."
     },
     {
@@ -97,6 +91,12 @@
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
       "developer": "Neptune Corp."
+    },
+    {
+      "id": "com.nitrogames.boltgunboom",
+      "title": "워해머 40,000: 볼트건 Boom",
+      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
+      "developer": "Nitro Games Oyj"
     },
     {
       "id": "com.ondi.space.defense",
