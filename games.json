@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-09T22:00:14.257704",
-  "count": 33,
+  "updated_at": "2026-08-10T22:09:28.283324",
+  "count": 31,
   "games": [
+    {
+      "id": "com.AmberbiteGames.ShoeItAllMobile",
+      "title": "Shoe It All!",
+      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
+      "developer": "Amberbite Games"
+    },
     {
       "id": "com.TeamSparta.CSD",
       "title": "협동마법디펜스: 마법사 키우기",
@@ -31,12 +37,6 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
-    },
-    {
-      "id": "com.buffstudio.holdonlord",
-      "title": "버텨라! 영주님!",
-      "url": "https://play.google.com/store/apps/details?id=com.buffstudio.holdonlord&hl=ko",
-      "developer": "Buff Studio Co.,Ltd."
     },
     {
       "id": "com.com2usholdings.agwiv.android.google.global.normal",
@@ -87,6 +87,12 @@
       "developer": "Arumgames"
     },
     {
+      "id": "com.n2pge.eo",
+      "title": "Elysium Order - Anime RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
+      "developer": "Now to Play Game Entertainment S.L."
+    },
+    {
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
@@ -103,12 +109,6 @@
       "title": "스타가드: 에보 병합 TD",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.pid.preserve_complete",
-      "title": "Preserve: Complete Edition",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
-      "developer": "Dear Villagers"
     },
     {
       "id": "com.rabbit.zf",
@@ -153,22 +153,16 @@
       "developer": "SUPERBOX Inc"
     },
     {
-      "id": "com.thp023.idle.zombie.shooting.defense",
-      "title": "Zombie War: Idle Defense",
-      "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
-      "developer": "Velocita Z"
-    },
-    {
       "id": "com.twh003.stickman.rpg.idle.game",
       "title": "Age of Stickman: Evolution",
       "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
       "developer": "Velocita Z"
     },
     {
-      "id": "com.v2r.HamsterGarden",
-      "title": "Hamster Garden",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
-      "developer": "V2R"
+      "id": "com.unimob.idle.cat.farm",
+      "title": "Idle Gnome Garden: Farm Tycoon",
+      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.cat.farm&hl=ko",
+      "developer": "Unimob Games"
     },
     {
       "id": "com.wemadeconnect.aos.valkyrie",
@@ -177,16 +171,10 @@
       "developer": "nitrox"
     },
     {
-      "id": "com.wk.mmm",
-      "title": "솔저 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mmm&hl=ko",
-      "developer": "WK Company"
-    },
-    {
-      "id": "com.x.aniimos",
-      "title": "애니모",
-      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
-      "developer": "Pawprint Studio"
+      "id": "com.zzjhgb.gp",
+      "title": "Sword of Reborn",
+      "url": "https://play.google.com/store/apps/details?id=com.zzjhgb.gp&hl=ko",
+      "developer": "HOWLYO GAME"
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

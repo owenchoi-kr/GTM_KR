@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-09T22:00:14.258298",
-  "count": 17,
+  "updated_at": "2026-08-10T22:09:28.283914",
+  "count": 18,
   "games": [
+    {
+      "id": "0001007974",
+      "title": "여신키우기: 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007974",
+      "developer": "Theplayplus"
+    },
     {
       "id": "0001007297",
       "title": "요새하는겜 : 전략적 요새 디펜스",
