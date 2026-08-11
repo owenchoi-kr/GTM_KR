@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T22:09:28.283324",
-  "count": 31,
+  "updated_at": "2026-08-11T22:13:26.609698",
+  "count": 34,
   "games": [
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
@@ -51,12 +51,6 @@
       "developer": "Purplecow games"
     },
     {
-      "id": "com.darkwind.majo",
-      "title": "MAJO - 아포칼립스 택틱스 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.darkwind.majo&hl=ko",
-      "developer": "DarkWind Ltd."
-    },
-    {
       "id": "com.funovus.alternatekeep",
       "title": "Grim Arcade: Treasure Raid",
       "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko",
@@ -81,6 +75,12 @@
       "developer": "mobirix"
     },
     {
+      "id": "com.mobirix.extfzombie",
+      "title": "좀비 배틀 : FPS Idle",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfzombie&hl=ko",
+      "developer": "mobirix"
+    },
+    {
       "id": "com.msg.serpent",
       "title": "종말의 뱀: The Apocalypsnake",
       "url": "https://play.google.com/store/apps/details?id=com.msg.serpent&hl=ko",
@@ -91,6 +91,12 @@
       "title": "Elysium Order - Anime RPG",
       "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
       "developer": "Now to Play Game Entertainment S.L."
+    },
+    {
+      "id": "com.nep.tr.idle.cat.island",
+      "title": "고양이 무인도 : 귀여운 방치형 힐링 타이쿤",
+      "url": "https://play.google.com/store/apps/details?id=com.nep.tr.idle.cat.island&hl=ko",
+      "developer": "TREEPLLA"
     },
     {
       "id": "com.neptune.dawnsedge",
@@ -153,22 +159,34 @@
       "developer": "SUPERBOX Inc"
     },
     {
-      "id": "com.twh003.stickman.rpg.idle.game",
-      "title": "Age of Stickman: Evolution",
-      "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
-      "developer": "Velocita Z"
-    },
-    {
       "id": "com.unimob.idle.cat.farm",
       "title": "Idle Gnome Garden: Farm Tycoon",
       "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.cat.farm&hl=ko",
       "developer": "Unimob Games"
     },
     {
+      "id": "com.v2r.HamsterGarden",
+      "title": "Hamster Garden",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
+      "developer": "V2R"
+    },
+    {
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
+    },
+    {
+      "id": "com.x.aniimos",
+      "title": "애니모",
+      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
+      "developer": "Pawprint Studio"
+    },
+    {
+      "id": "com.ygjszus.google",
+      "title": "Knock Knock: Room Defense",
+      "url": "https://play.google.com/store/apps/details?id=com.ygjszus.google&hl=ko",
+      "developer": "Joy Nice Games"
     },
     {
       "id": "com.zzjhgb.gp",

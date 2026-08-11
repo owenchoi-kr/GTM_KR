@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-10T22:09:28.283914",
-  "count": 18,
+  "updated_at": "2026-08-11T22:13:26.610440",
+  "count": 20,
   "games": [
+    {
+      "id": "0001006488",
+      "title": "소년가행: 강호의 시작",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488",
+      "developer": "Dreamplay Games"
+    },
     {
       "id": "0001007974",
       "title": "여신키우기: 방치형 RPG",
@@ -19,6 +25,12 @@
       "title": "드라코니아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007613",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001008048",
+      "title": "어쩌다 도굴",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008048",
+      "developer": "ESKYFUN TECHNOLOGY LIMITED"
     },
     {
       "id": "0001007940",
@@ -63,6 +75,12 @@
       "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
     },
     {
+      "id": "0001007577",
+      "title": "LUNAR：에버소울",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007577",
+      "developer": "FLYFUN TECHNOLOGY CO LIMITED"
+    },
+    {
       "id": "0001007558",
       "title": "소울 오브 크라임",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
@@ -91,11 +109,6 @@
       "title": "루미마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
       "developer": "BILIBILI HK LIMITED"
-    },
-    {
-      "id": "0001003511",
-      "title": "킹덤2: 타오르는 전장",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001003511"
     },
     {
       "id": "0001006389",

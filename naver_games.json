@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-10T22:09:28.284155",
-  "count": 20,
+  "updated_at": "2026-08-11T22:13:26.610692",
+  "count": 18,
   "games": [
-    {
-      "id": "GM_NCR_018497",
-      "title": "열혈강호:귀환",
-      "url": "https://game.naver.com/yulgangreturn",
-      "release_date": "2026-07-28 ~ 2026-08-10 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_024203",
-      "title": "운빨로 막자",
-      "url": "https://game.naver.com/LuckyDefense",
-      "release_date": "2026-07-29 ~ 2026-08-10 사전예약",
-      "platform": "Android"
-    },
     {
       "id": "GM_NCR_022862",
       "title": "죠죠의 기묘한 모험: 골든 스피릿",
