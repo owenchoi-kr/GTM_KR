@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-11T22:13:26.610692",
-  "count": 18,
+  "updated_at": "2026-08-12T22:12:34.360970",
+  "count": 20,
   "games": [
     {
       "id": "GM_NCR_022862",
@@ -14,6 +14,13 @@
       "title": "데블2M",
       "url": "https://game.naver.com/Devil_M",
       "release_date": "2026-07-31 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024086",
+      "title": "어쩌다 도굴",
+      "url": "https://game.naver.com/Oops_Tomb_Raid",
+      "release_date": "2026-08-12 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -43,6 +50,13 @@
       "url": "https://game.naver.com/Abyss_Three_Kingdoms",
       "release_date": "2026-07-23 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024384",
+      "title": "소년가행: 강호의 시작",
+      "url": "https://game.naver.com/TheBloodofYouth",
+      "release_date": "2026-08-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_023074",
