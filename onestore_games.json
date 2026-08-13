@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T22:12:34.360786",
-  "count": 19,
+  "updated_at": "2026-08-13T22:12:47.692765",
+  "count": 18,
   "games": [
     {
       "id": "0001006488",
@@ -19,12 +19,6 @@
       "title": "요새하는겜 : 전략적 요새 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297",
       "developer": "KINGKONGSOFT"
-    },
-    {
-      "id": "0001007613",
-      "title": "드라코니아",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007613",
-      "developer": "GM 게임"
     },
     {
       "id": "0001008048",
@@ -87,6 +81,11 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
+      "id": "0001007613",
+      "title": "드라코니아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007613"
+    },
+    {
       "id": "0001007489",
       "title": "심연 삼국 -2222 무료 뽑기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007489"
@@ -105,11 +104,6 @@
       "id": "0001006684",
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006684"
-    },
-    {
-      "id": "0000781339",
-      "title": "히어로 랜드M",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0000781339"
     }
   ]
 }

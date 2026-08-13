@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-08-12T22:12:34.360042",
-  "count": 36,
+  "updated_at": "2026-08-13T22:12:47.691948",
+  "count": 38,
   "games": [
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
       "title": "Shoe It All!",
       "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
       "developer": "Amberbite Games"
+    },
+    {
+      "id": "com.EightStudio.BlightWar",
+      "title": "Blight War: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
+      "developer": "Eight Studio"
     },
     {
       "id": "com.TeamSparta.CSD",
@@ -61,6 +67,12 @@
       "title": "가이더스 원",
       "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
       "developer": "izzle"
+    },
+    {
+      "id": "com.luckystargame.jdxy.gp",
+      "title": "Divine Throne: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.luckystargame.jdxy.gp&hl=ko",
+      "developer": "LUCKYSTAR NETWORK LIMITED"
     },
     {
       "id": "com.lunosoft.catidle",
