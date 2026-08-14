@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-13T22:12:47.691948",
-  "count": 38,
+  "updated_at": "2026-08-14T21:51:45.960944",
+  "count": 39,
   "games": [
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
@@ -84,6 +84,12 @@
       "id": "com.mobirix.bussort",
       "title": "Bus Sort: Traffic Jam",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.bussort&hl=ko",
+      "developer": "mobirix"
+    },
+    {
+      "id": "com.mobirix.extfdf2",
+      "title": "포탈 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfdf2&hl=ko",
       "developer": "mobirix"
     },
     {
@@ -226,7 +232,7 @@
     },
     {
       "id": "net.gameduo.bbc",
-      "title": "붐붐캡틴!",
+      "title": "붐붐캡틴: 서바이벌",
       "url": "https://play.google.com/store/apps/details?id=net.gameduo.bbc&hl=ko",
       "developer": "Gameduo"
     }

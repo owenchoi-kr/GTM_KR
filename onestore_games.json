@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-13T22:12:47.692765",
-  "count": 18,
+  "updated_at": "2026-08-14T21:51:45.961781",
+  "count": 20,
   "games": [
+    {
+      "id": "0001006544",
+      "title": "MLB 9이닝스 라이벌 26",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544",
+      "developer": "Com2uS"
+    },
     {
       "id": "0001006488",
       "title": "소년가행: 강호의 시작",
@@ -25,6 +31,12 @@
       "title": "어쩌다 도굴",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008048",
       "developer": "ESKYFUN TECHNOLOGY LIMITED"
+    },
+    {
+      "id": "0001008004",
+      "title": "운빨해적단",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008004",
+      "developer": "STUCKPIXEL"
     },
     {
       "id": "0001007940",
