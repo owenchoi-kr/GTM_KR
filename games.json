@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T21:51:45.960944",
+  "updated_at": "2026-08-15T21:47:22.716820",
   "count": 39,
   "games": [
     {
@@ -57,12 +57,6 @@
       "developer": "Purplecow games"
     },
     {
-      "id": "com.funovus.alternatekeep",
-      "title": "Grim Arcade: Treasure Raid",
-      "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko",
-      "developer": "Funovus"
-    },
-    {
       "id": "com.izzle.go",
       "title": "가이더스 원",
       "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
@@ -96,6 +90,12 @@
       "id": "com.mobirix.extfzombie",
       "title": "좀비 배틀 : FPS Idle",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfzombie&hl=ko",
+      "developer": "mobirix"
+    },
+    {
+      "id": "com.mobirix.hamdoku",
+      "title": "햄도쿠: 스도쿠 논리 퍼즐",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.hamdoku&hl=ko",
       "developer": "mobirix"
     },
     {

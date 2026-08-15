@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-14T21:51:45.962024",
-  "count": 21,
+  "updated_at": "2026-08-15T21:47:22.718155",
+  "count": 22,
   "games": [
     {
       "id": "GM_NCR_024086",
@@ -71,6 +71,13 @@
       "url": "https://game.naver.com/sink",
       "release_date": "2026-07-30 ~ 2026-09-08 사전예약",
       "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_024256",
+      "title": "요새하는겜",
+      "url": "https://game.naver.com/FortessSamgukDefense",
+      "release_date": "2026-08-14 ~  사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_023067",
