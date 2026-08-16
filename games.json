@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-08-15T21:47:22.716820",
-  "count": 39,
+  "updated_at": "2026-08-16T21:46:26.550552",
+  "count": 42,
   "games": [
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
       "title": "Shoe It All!",
       "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
       "developer": "Amberbite Games"
+    },
+    {
+      "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
+      "title": "리틀 키티, 빅 시티",
+      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko",
+      "developer": "Double Dagger Studio"
     },
     {
       "id": "com.EightStudio.BlightWar",
@@ -57,6 +63,12 @@
       "developer": "Purplecow games"
     },
     {
+      "id": "com.f5game.foa",
+      "title": "Fate of Astra: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.f5game.foa&hl=ko",
+      "developer": "F5 Game"
+    },
+    {
       "id": "com.izzle.go",
       "title": "가이더스 원",
       "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
@@ -105,10 +117,10 @@
       "developer": "Arumgames"
     },
     {
-      "id": "com.n2pge.eo",
-      "title": "Elysium Order - Anime RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
-      "developer": "Now to Play Game Entertainment S.L."
+      "id": "com.n2pg.novasaga",
+      "title": "Nova Saga",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pg.novasaga&hl=ko",
+      "developer": "Now to Play Game Sucursal en España"
     },
     {
       "id": "com.nep.tr.idle.cat.island",
@@ -139,6 +151,18 @@
       "title": "스타가드: 에보 병합 TD",
       "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
       "developer": "ONDI TECHNOLOGY JSC"
+    },
+    {
+      "id": "com.pid.fabledom",
+      "title": "Fabledom",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.fabledom&hl=ko",
+      "developer": "Dear Villagers"
+    },
+    {
+      "id": "com.pid.preserve_complete",
+      "title": "Preserve: Complete Edition",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
+      "developer": "Dear Villagers"
     },
     {
       "id": "com.rabbit.zf",
@@ -183,16 +207,16 @@
       "developer": "SUPERBOX Inc"
     },
     {
-      "id": "com.unimob.idle.cat.farm",
-      "title": "Idle Gnome Garden: Farm Tycoon",
-      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.cat.farm&hl=ko",
-      "developer": "Unimob Games"
-    },
-    {
       "id": "com.v2r.HamsterGarden",
       "title": "Hamster Garden",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
       "developer": "V2R"
+    },
+    {
+      "id": "com.wanda.transformers.gg.am",
+      "title": "Transformers: Eternal War",
+      "url": "https://play.google.com/store/apps/details?id=com.wanda.transformers.gg.am&hl=ko",
+      "developer": "Wanda Cinemas Games"
     },
     {
       "id": "com.wemadeconnect.aos.makedrama.google",
@@ -211,12 +235,6 @@
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
       "developer": "Pawprint Studio"
-    },
-    {
-      "id": "com.ygjszus.google",
-      "title": "Knock Knock: Room Defense",
-      "url": "https://play.google.com/store/apps/details?id=com.ygjszus.google&hl=ko",
-      "developer": "Joy Nice Games"
     },
     {
       "id": "com.zzjhgb.gp",
