@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:46:26.551372",
+  "updated_at": "2026-08-17T21:52:50.279740",
   "count": 20,
   "games": [
     {
@@ -25,12 +25,6 @@
       "title": "요새하는겜 : 전략적 요새 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297",
       "developer": "KINGKONGSOFT"
-    },
-    {
-      "id": "0001008048",
-      "title": "어쩌다 도굴",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008048",
-      "developer": "ESKYFUN TECHNOLOGY LIMITED"
     },
     {
       "id": "0001008004",
@@ -71,7 +65,8 @@
     {
       "id": "0001007558",
       "title": "소울 오브 크라임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
+      "developer": "GM 게임"
     },
     {
       "id": "0001005623",
@@ -95,6 +90,11 @@
       "id": "0001007613",
       "title": "드라코니아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007613"
+    },
+    {
+      "id": "0001008048",
+      "title": "어쩌다 도굴",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008048"
     },
     {
       "id": "0001007489",
