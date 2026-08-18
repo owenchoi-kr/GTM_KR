@@ -1,46 +1,5 @@
 {
-  "updated_at": "2026-08-17T21:52:50.279476",
-  "count": 5,
-  "games": [
-    {
-      "id": "983",
-      "title": "제우스: 오만의 신",
-      "url": "https://pick.inven.co.kr/campaign/983/ZEUS",
-      "release_date": "8월 26일 출시 예정",
-      "reward": "[2000이니, 100베니]사전예약만 해도 쾌속 성장팩 100% 지급",
-      "developer": "컴투스"
-    },
-    {
-      "id": "979",
-      "title": "애니모",
-      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 보상 제공",
-      "developer": "pawprint"
-    },
-    {
-      "id": "984",
-      "title": "로그W: 리메인즈 오브 갓",
-      "url": "https://pick.inven.co.kr/campaign/984/ROGW",
-      "release_date": "출시 미정",
-      "reward": "[1000이니, 50베니]1급 가챠 코인*5, 스킬 노트*100, 장비 강화석*40",
-      "developer": "이펀컴퍼니리미티드"
-    },
-    {
-      "id": "982",
-      "title": "미르의전설2",
-      "url": "https://pick.inven.co.kr/campaign/982/MobidaysM2Pre",
-      "release_date": "8월 19일 출시 예정",
-      "reward": "[1000이니, 50베니]사전예약 보상상자 지급 (성수의 상자, 옥청수, 백년오추마 등)",
-      "developer": "위메이드_전기아이피"
-    },
-    {
-      "id": "985",
-      "title": "아스텔리아M",
-      "url": "https://pick.inven.co.kr/campaign/985/AstelliaM",
-      "release_date": "8월 27일 출시 예정",
-      "reward": "[1000이니]아스텔 소환권, 골드 랜덤 상자, 버프 아이템",
-      "developer": "LeporGames"
-    }
-  ]
+  "updated_at": "2026-08-18T21:49:38.079401",
+  "count": 0,
+  "games": []
 }
