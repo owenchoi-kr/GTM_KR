@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-18T21:49:38.079772",
+  "updated_at": "2026-08-19T21:55:45.325516",
   "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_024086",
-      "title": "어쩌다 도굴",
-      "url": "https://game.naver.com/Oops_Tomb_Raid",
-      "release_date": "2026-08-12 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_024216",
       "title": "여신 키우기: 방치형 RPG",
@@ -91,7 +84,7 @@
       "title": "에버나이트: 리버스",
       "url": "https://game.naver.com/Evernight",
       "release_date": "2026-08-13 ~  사전예약",
-      "platform": "Android,iOS"
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_024487",
@@ -99,6 +92,13 @@
       "url": "https://game.naver.com/Duck_Survival",
       "release_date": "2026-08-13 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024463",
+      "title": "이모탈 라이징: 불멸의 각성",
+      "url": "https://game.naver.com/Immortal_Rising_Awakening",
+      "release_date": "2026-08-18 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_022565",
