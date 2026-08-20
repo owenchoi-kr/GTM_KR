@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-08-19T21:55:45.324479",
-  "count": 41,
+  "updated_at": "2026-08-20T21:55:48.980034",
+  "count": 36,
   "games": [
-    {
-      "id": "com.AmberbiteGames.ShoeItAllMobile",
-      "title": "Shoe It All!",
-      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
-      "developer": "Amberbite Games"
-    },
     {
       "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
       "title": "리틀 키티, 빅 시티",
@@ -27,12 +21,6 @@
       "developer": "Teamsparta Inc."
     },
     {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
-    },
-    {
       "id": "com.bilibili.lumi",
       "title": "Lumi Master",
       "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
@@ -45,6 +33,12 @@
       "developer": "BILIBILI"
     },
     {
+      "id": "com.blackdust.redblue",
+      "title": "냥찍 히어로즈 : 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko",
+      "developer": "RIFF GAMES Co., Ltd."
+    },
+    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
@@ -55,24 +49,6 @@
       "title": "ARES: THE IRON VANGUARD",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
       "developer": "Com2uS Holdings"
-    },
-    {
-      "id": "com.cookapps.towerroguedefense",
-      "title": "황야의 무법자: 타워 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.cookapps.towerroguedefense&hl=ko",
-      "developer": "Purplecow games"
-    },
-    {
-      "id": "com.f5game.foa",
-      "title": "Fate of Astra: Idle RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.f5game.foa&hl=ko",
-      "developer": "F5 Game"
-    },
-    {
-      "id": "com.izzle.go",
-      "title": "가이더스 원",
-      "url": "https://play.google.com/store/apps/details?id=com.izzle.go&hl=ko",
-      "developer": "izzle"
     },
     {
       "id": "com.luckystargame.jdxy.gp",
@@ -117,10 +93,10 @@
       "developer": "Arumgames"
     },
     {
-      "id": "com.n2pg.novasaga",
-      "title": "Nova Saga",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pg.novasaga&hl=ko",
-      "developer": "Now to Play Game Sucursal en España"
+      "id": "com.naddic.iamdead",
+      "title": "죽어서 왔습니다: 방치형 타이쿤 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.naddic.iamdead&hl=ko",
+      "developer": "Mafgames"
     },
     {
       "id": "com.nep.tr.idle.cat.island",
@@ -145,18 +121,6 @@
       "title": "워해머 40,000: 볼트건 Boom",
       "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
       "developer": "Nitro Games Oyj"
-    },
-    {
-      "id": "com.ondi.space.defense",
-      "title": "스타가드: 에보 병합 TD",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
-    },
-    {
-      "id": "com.pid.fabledom",
-      "title": "Fabledom",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.fabledom&hl=ko",
-      "developer": "Dear Villagers"
     },
     {
       "id": "com.pid.preserve_complete",
@@ -201,16 +165,16 @@
       "developer": "SUPERBOX Inc"
     },
     {
+      "id": "com.thp023.idle.zombie.shooting.defense",
+      "title": "Zombie War: Idle Defense",
+      "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
+      "developer": "Velocita Z"
+    },
+    {
       "id": "com.v2r.HamsterGarden",
       "title": "Hamster Garden",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
       "developer": "V2R"
-    },
-    {
-      "id": "com.wanda.transformers.gg.am",
-      "title": "Transformers: Eternal War",
-      "url": "https://play.google.com/store/apps/details?id=com.wanda.transformers.gg.am&hl=ko",
-      "developer": "Wanda Cinemas Games"
     },
     {
       "id": "com.wemadeconnect.aos.makedrama.google",
@@ -229,6 +193,12 @@
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
       "developer": "Pawprint Studio"
+    },
+    {
+      "id": "com.ygjszus.google",
+      "title": "Knock Knock: Room Defense",
+      "url": "https://play.google.com/store/apps/details?id=com.ygjszus.google&hl=ko",
+      "developer": "Joy Nice Games"
     },
     {
       "id": "com.zzjhgb.gp",
