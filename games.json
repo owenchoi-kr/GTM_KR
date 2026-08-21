@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T21:55:48.980034",
-  "count": 36,
+  "updated_at": "2026-08-21T21:51:09.899006",
+  "count": 34,
   "games": [
     {
       "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
@@ -33,12 +33,6 @@
       "developer": "BILIBILI"
     },
     {
-      "id": "com.blackdust.redblue",
-      "title": "냥찍 히어로즈 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.blackdust.redblue&hl=ko",
-      "developer": "RIFF GAMES Co., Ltd."
-    },
-    {
       "id": "com.brazle.mylittlehotel",
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
@@ -51,10 +45,10 @@
       "developer": "Com2uS Holdings"
     },
     {
-      "id": "com.luckystargame.jdxy.gp",
-      "title": "Divine Throne: Idle RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.luckystargame.jdxy.gp&hl=ko",
-      "developer": "LUCKYSTAR NETWORK LIMITED"
+      "id": "com.funovus.alternatekeep",
+      "title": "Grim Arcade: Treasure Raid",
+      "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko",
+      "developer": "Funovus"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -199,12 +193,6 @@
       "title": "Knock Knock: Room Defense",
       "url": "https://play.google.com/store/apps/details?id=com.ygjszus.google&hl=ko",
       "developer": "Joy Nice Games"
-    },
-    {
-      "id": "com.zzjhgb.gp",
-      "title": "Sword of Reborn",
-      "url": "https://play.google.com/store/apps/details?id=com.zzjhgb.gp&hl=ko",
-      "developer": "HOWLYO GAME"
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

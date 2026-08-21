@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-08-20T21:55:48.980777",
-  "count": 16,
+  "updated_at": "2026-08-21T21:51:09.899642",
+  "count": 19,
   "games": [
+    {
+      "id": "0001007208",
+      "title": "플랜츠 온 파이어 ",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208",
+      "developer": "Nuverse Pte Ltd"
+    },
+    {
+      "id": "0001006004",
+      "title": "동방사신전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006004",
+      "developer": "WitGames"
+    },
     {
       "id": "0001008101",
       "title": "토이 드림 헌터스 : 어드벤쳐 RPG 게임",
@@ -13,6 +25,12 @@
       "title": "MLB 9이닝스 라이벌 26",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544",
       "developer": "Com2uS"
+    },
+    {
+      "id": "0001007788",
+      "title": "후더덕 서바이벌",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788",
+      "developer": "JOY MOBILE NETWORK PTE. LTD."
     },
     {
       "id": "0001006488",
@@ -86,8 +104,7 @@
     {
       "id": "0001007577",
       "title": "LUNAR：에버소울",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007577",
-      "developer": "FLYFUN TECHNOLOGY CO LIMITED"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007577"
     },
     {
       "id": "0001006975",

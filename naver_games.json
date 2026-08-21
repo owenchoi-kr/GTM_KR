@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-20T21:55:48.980996",
-  "count": 23,
+  "updated_at": "2026-08-21T21:51:09.899836",
+  "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_024216",
-      "title": "여신 키우기: 방치형 RPG",
-      "url": "https://game.naver.com/My_Goddess_Idle_RPG",
-      "release_date": "2026-08-07 ~ 2026-08-20 사전예약",
-      "platform": "OneStore"
-    },
     {
       "id": "GM_NCR_023979",
       "title": "LUNAR：에버소울",
@@ -106,6 +99,20 @@
       "url": "https://game.naver.com/Aniimo",
       "release_date": "2026-06-08 ~  사전예약",
       "platform": "Android,Console,PC,iOS"
+    },
+    {
+      "id": "GM_NCR_024475",
+      "title": "히어로즈 테일즈2",
+      "url": "https://game.naver.com/Heroes_tales2",
+      "release_date": "2026-08-20 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_023229",
+      "title": "아가타 키우기",
+      "url": "https://game.naver.com/AGATHA_Idle_RPG",
+      "release_date": "2026-08-20 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_022945",
