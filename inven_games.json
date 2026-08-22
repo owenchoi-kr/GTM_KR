@@ -1,5 +1,52 @@
 {
-  "updated_at": "2026-08-21T21:51:09.899434",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-08-22T21:48:17.069778",
+  "count": 6,
+  "games": [
+    {
+      "id": "986",
+      "title": "도깨비의세계",
+      "url": "https://pick.inven.co.kr/campaign/986/dokkaebi",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요",
+      "developer": "카카오게임즈"
+    },
+    {
+      "id": "983",
+      "title": "제우스: 오만의 신",
+      "url": "https://pick.inven.co.kr/campaign/983/ZEUS",
+      "release_date": "8월 26일 출시 예정",
+      "reward": "[2000이니, 100베니]사전예약만 해도 쾌속 성장팩 100% 지급",
+      "developer": "컴투스"
+    },
+    {
+      "id": "979",
+      "title": "애니모",
+      "url": "https://pick.inven.co.kr/campaign/979/aniimo",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]다양한 보상 제공"
+    },
+    {
+      "id": "984",
+      "title": "로그W: 리메인즈 오브 갓",
+      "url": "https://pick.inven.co.kr/campaign/984/ROGW",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]1급 가챠 코인*5, 스킬 노트*100, 장비 강화석*40",
+      "developer": "이펀컴퍼니리미티드"
+    },
+    {
+      "id": "987",
+      "title": "세라핌 키우기",
+      "url": "https://pick.inven.co.kr/campaign/987/seraphimidle",
+      "release_date": "출시 미정",
+      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아"
+    },
+    {
+      "id": "985",
+      "title": "아스텔리아M",
+      "url": "https://pick.inven.co.kr/campaign/985/AstelliaM",
+      "release_date": "2026-08-27 12:00 오픈 예정",
+      "reward": "[1000이니]아스텔 소환권, 골드 랜덤 상자, 버프 아이템",
+      "developer": "LeporGames"
+    }
+  ]
 }

@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-21T21:51:09.899836",
+  "updated_at": "2026-08-22T21:48:17.070268",
   "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_023979",
-      "title": "LUNAR：에버소울",
-      "url": "https://game.naver.com/LUNAR_EverSoul",
-      "release_date": "2026-07-20 ~ 2026-08-21 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023406",
       "title": "로그W: 리메인즈 오브 갓",
@@ -71,6 +64,13 @@
       "url": "https://game.naver.com/FortessSamgukDefense",
       "release_date": "2026-08-14 ~  사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_022710",
+      "title": "무한전인 : 절대고수 키우기",
+      "url": "https://game.naver.com/Infinite_Master",
+      "release_date": "2026-08-21 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_023067",
