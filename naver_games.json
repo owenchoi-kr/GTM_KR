@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:48:17.070268",
+  "updated_at": "2026-08-23T21:47:15.980265",
   "count": 24,
   "games": [
     {
@@ -105,7 +105,7 @@
       "title": "히어로즈 테일즈2",
       "url": "https://game.naver.com/Heroes_tales2",
       "release_date": "2026-08-20 ~  사전예약",
-      "platform": "Android,iOS"
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_023229",

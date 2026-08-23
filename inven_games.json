@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T21:48:17.069778",
+  "updated_at": "2026-08-23T21:47:15.979730",
   "count": 6,
   "games": [
     {
@@ -23,7 +23,8 @@
       "title": "애니모",
       "url": "https://pick.inven.co.kr/campaign/979/aniimo",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 보상 제공"
+      "reward": "[2000이니, 100베니]다양한 보상 제공",
+      "developer": "pawprint"
     },
     {
       "id": "984",
@@ -38,7 +39,8 @@
       "title": "세라핌 키우기",
       "url": "https://pick.inven.co.kr/campaign/987/seraphimidle",
       "release_date": "출시 미정",
-      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아"
+      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아",
+      "developer": "JUAL PROJECT."
     },
     {
       "id": "985",

@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-08-22T21:48:17.069957",
+  "updated_at": "2026-08-23T21:47:15.979895",
   "count": 2,
   "games": [
+    {
+      "id": "gVUmYY",
+      "title": "애니모",
+      "url": "https://game.kakao.com/ar/gVUmYY?rtc=atb_K-GAM02X0111"
+    },
     {
       "id": "YaMnV9",
       "title": "도깨비의세계",
       "url": "https://game.kakao.com/ar/YaMnV9?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "H5ZYu6",
-      "title": "프렌즈팝",
-      "url": "https://game.kakao.com/ar/H5ZYu6?rtc=atb_K-GAM02X0111"
     }
   ]
 }
