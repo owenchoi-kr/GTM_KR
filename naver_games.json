@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:47:15.980265",
+  "updated_at": "2026-08-24T21:56:54.350029",
   "count": 24,
   "games": [
     {
@@ -22,13 +22,6 @@
       "url": "https://game.naver.com/Abyss_Three_Kingdoms",
       "release_date": "2026-07-23 ~  사전예약",
       "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_024384",
-      "title": "소년가행: 강호의 시작",
-      "url": "https://game.naver.com/TheBloodofYouth",
-      "release_date": "2026-08-11 ~  사전예약",
-      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_023074",
@@ -113,6 +106,13 @@
       "url": "https://game.naver.com/AGATHA_Idle_RPG",
       "release_date": "2026-08-20 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024384",
+      "title": "소년가행: 강호의 시작",
+      "url": "https://game.naver.com/TheBloodofYouth",
+      "release_date": "2026-08-11 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022945",

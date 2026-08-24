@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-23T21:47:15.979057",
-  "count": 34,
+  "updated_at": "2026-08-24T21:56:54.349383",
+  "count": 37,
   "games": [
     {
-      "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
-      "title": "리틀 키티, 빅 시티",
-      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko",
-      "developer": "Double Dagger Studio"
+      "id": "com.AmberbiteGames.ShoeItAllMobile",
+      "title": "Shoe It All!",
+      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
+      "developer": "Amberbite Games"
     },
     {
       "id": "com.EightStudio.BlightWar",
@@ -45,10 +45,10 @@
       "developer": "Com2uS Holdings"
     },
     {
-      "id": "com.funovus.alternatekeep",
-      "title": "Grim Arcade: Treasure Raid",
-      "url": "https://play.google.com/store/apps/details?id=com.funovus.alternatekeep&hl=ko",
-      "developer": "Funovus"
+      "id": "com.luckystargame.jdxy.gp",
+      "title": "Divine Throne: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.luckystargame.jdxy.gp&hl=ko",
+      "developer": "LUCKYSTAR NETWORK LIMITED"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -87,6 +87,18 @@
       "developer": "Arumgames"
     },
     {
+      "id": "com.n2pg.novasaga",
+      "title": "Nova Saga",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pg.novasaga&hl=ko",
+      "developer": "Now to Play Game Sucursal en España"
+    },
+    {
+      "id": "com.n2pge.eo",
+      "title": "Elysium Order - Anime RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
+      "developer": "Now to Play Game Entertainment S.L."
+    },
+    {
       "id": "com.naddic.iamdead",
       "title": "죽어서 왔습니다: 방치형 타이쿤 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.naddic.iamdead&hl=ko",
@@ -117,6 +129,12 @@
       "developer": "Nitro Games Oyj"
     },
     {
+      "id": "com.noodlecake.flickshotrogues",
+      "title": "Flick Shot Rogues",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=ko",
+      "developer": "Noodlecake"
+    },
+    {
       "id": "com.pid.preserve_complete",
       "title": "Preserve: Complete Edition",
       "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
@@ -141,12 +159,6 @@
       "developer": "Springcomes"
     },
     {
-      "id": "com.spcomes.meowsgarden",
-      "title": "냥이의 정원: 힐링 타일 매치 퍼즐 게임",
-      "url": "https://play.google.com/store/apps/details?id=com.spcomes.meowsgarden&hl=ko",
-      "developer": "Springcomes"
-    },
-    {
       "id": "com.springgames.archercastle",
       "title": "아처캐슬 키우기 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.springgames.archercastle&hl=ko",
@@ -163,6 +175,12 @@
       "title": "Zombie War: Idle Defense",
       "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
       "developer": "Velocita Z"
+    },
+    {
+      "id": "com.unimob.idle.cat.farm",
+      "title": "Idle Gnome Garden: Farm Tycoon",
+      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.cat.farm&hl=ko",
+      "developer": "Unimob Games"
     },
     {
       "id": "com.v2r.HamsterGarden",

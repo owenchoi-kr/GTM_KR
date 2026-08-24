@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:47:15.980007",
+  "updated_at": "2026-08-24T21:56:54.349934",
   "count": 19,
   "games": [
     {
@@ -25,6 +25,12 @@
       "title": "MLB 9이닝스 라이벌 26",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544",
       "developer": "Com2uS"
+    },
+    {
+      "id": "0001008212",
+      "title": "에버나이트: 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212",
+      "developer": "LONGSIN"
     },
     {
       "id": "0001007788",
@@ -86,11 +92,6 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007974"
     },
     {
-      "id": "0001008048",
-      "title": "어쩌다 도굴",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008048"
-    },
-    {
       "id": "0001007940",
       "title": "픽셀 테이머즈",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007940"
@@ -98,8 +99,7 @@
     {
       "id": "0001007810",
       "title": "수프몬스터 - 바다거북스프 AI 채팅 추리 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007810",
-      "developer": "Lud Dynamics Co., Ltd."
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007810"
     },
     {
       "id": "0001007577",
