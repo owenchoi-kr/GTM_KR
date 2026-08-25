@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-24T21:56:54.349383",
-  "count": 37,
+  "updated_at": "2026-08-25T21:55:26.360648",
+  "count": 36,
   "games": [
+    {
+      "id": "com.tencent.mhadv",
+      "title": "Monster Hunter Outlanders",
+      "url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv&hl=ko",
+      "developer": "Level Infinite"
+    },
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
       "title": "Shoe It All!",
@@ -13,12 +19,6 @@
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
-    },
-    {
-      "id": "com.TeamSparta.CSD",
-      "title": "협동마법디펜스: 마법사 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.CSD&hl=ko",
-      "developer": "Teamsparta Inc."
     },
     {
       "id": "com.bilibili.lumi",
@@ -55,12 +55,6 @@
       "title": "고냥이 마법사: 슈팅 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.catidle&hl=ko",
       "developer": "LUNOSOFT INC"
-    },
-    {
-      "id": "com.mobirix.bussort",
-      "title": "Bus Sort: Traffic Jam",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.bussort&hl=ko",
-      "developer": "mobirix"
     },
     {
       "id": "com.mobirix.extfdf2",
@@ -105,12 +99,6 @@
       "developer": "Mafgames"
     },
     {
-      "id": "com.nep.tr.idle.cat.island",
-      "title": "고양이 무인도 : 귀여운 방치형 힐링 타이쿤",
-      "url": "https://play.google.com/store/apps/details?id=com.nep.tr.idle.cat.island&hl=ko",
-      "developer": "TREEPLLA"
-    },
-    {
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
@@ -132,6 +120,12 @@
       "id": "com.noodlecake.flickshotrogues",
       "title": "Flick Shot Rogues",
       "url": "https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=ko",
+      "developer": "Noodlecake"
+    },
+    {
+      "id": "com.noodlecake.wb",
+      "title": "Winter Burrow",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
       "developer": "Noodlecake"
     },
     {

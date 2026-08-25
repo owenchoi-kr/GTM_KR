@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-08-24T21:56:54.349934",
-  "count": 19,
+  "updated_at": "2026-08-25T21:55:26.361630",
+  "count": 21,
   "games": [
     {
       "id": "0001007208",
       "title": "플랜츠 온 파이어 ",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208",
       "developer": "Nuverse Pte Ltd"
+    },
+    {
+      "id": "0001004726",
+      "title": "드래곤 고고씽",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004726",
+      "developer": "Ujoy Games Limited"
+    },
+    {
+      "id": "0001008063",
+      "title": " 귀문: 퇴마록",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008063",
+      "developer": "GM 게임"
     },
     {
       "id": "0001006004",
