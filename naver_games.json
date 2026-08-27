@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-25T21:55:26.361880",
-  "count": 26,
+  "updated_at": "2026-08-27T01:00:01.123146",
+  "count": 27,
   "games": [
-    {
-      "id": "GM_NCR_023406",
-      "title": "로그W: 리메인즈 오브 갓",
-      "url": "https://game.naver.com/ROGW_Remains_Of_Gods",
-      "release_date": "2026-08-04 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023231",
       "title": "뚜까펫: 서바이벌",
@@ -29,6 +22,20 @@
       "url": "https://game.naver.com/Arrows_Puzzle_Escape",
       "release_date": "2026-07-01 ~ 2026-09-01 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022427",
+      "title": "삼국지: 제후의 전쟁",
+      "url": "https://game.naver.com/Samgukji_Lords_War",
+      "release_date": "2026-08-26 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024720",
+      "title": "라스트걸:코어이브",
+      "url": "https://game.naver.com/LastGirl_CoreEve",
+      "release_date": "2026-08-26 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_013601",

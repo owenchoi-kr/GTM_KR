@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-25T21:55:26.360648",
-  "count": 36,
+  "updated_at": "2026-08-27T01:00:01.121755",
+  "count": 38,
   "games": [
     {
       "id": "com.tencent.mhadv",
@@ -43,6 +43,12 @@
       "title": "ARES: THE IRON VANGUARD",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
       "developer": "Com2uS Holdings"
+    },
+    {
+      "id": "com.ht.marbleheroes",
+      "title": "Marblebound",
+      "url": "https://play.google.com/store/apps/details?id=com.ht.marbleheroes&hl=ko",
+      "developer": "HoopTech Games"
     },
     {
       "id": "com.luckystargame.jdxy.gp",
@@ -109,6 +115,12 @@
       "title": "바람의흔적",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.windtrace&hl=ko",
       "developer": "Neptune Corp."
+    },
+    {
+      "id": "com.netmarble.thered",
+      "title": "뱀피르",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.nitrogames.boltgunboom",

@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-08-25T21:55:26.361630",
-  "count": 21,
+  "updated_at": "2026-08-27T01:00:01.122863",
+  "count": 20,
   "games": [
-    {
-      "id": "0001007208",
-      "title": "플랜츠 온 파이어 ",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208",
-      "developer": "Nuverse Pte Ltd"
-    },
     {
       "id": "0001004726",
       "title": "드래곤 고고씽",
@@ -99,14 +93,14 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
+      "id": "0001007208",
+      "title": "플랜츠 온 파이어 ",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208"
+    },
+    {
       "id": "0001007974",
       "title": "여신키우기: 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007974"
-    },
-    {
-      "id": "0001007940",
-      "title": "픽셀 테이머즈",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007940"
     },
     {
       "id": "0001007810",

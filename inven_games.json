@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-25T21:55:26.361362",
-  "count": 5,
+  "updated_at": "2026-08-27T01:00:01.122596",
+  "count": 6,
   "games": [
+    {
+      "id": "988",
+      "title": "리니지M",
+      "url": "https://pick.inven.co.kr/campaign/988/goldenage",
+      "release_date": "9월 9일 출시 예정",
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NC"
+    },
     {
       "id": "986",
       "title": "도깨비의세계",
