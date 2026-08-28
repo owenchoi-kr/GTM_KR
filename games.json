@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T01:00:01.121755",
-  "count": 38,
+  "updated_at": "2026-08-28T05:35:29.272061",
+  "count": 42,
   "games": [
     {
       "id": "com.tencent.mhadv",
@@ -19,6 +19,12 @@
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
+    },
+    {
+      "id": "com.bandainamcoent.bleach_mh_ww",
+      "title": "BLEACH Mirrors High",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.bleach_mh_ww&hl=ko",
+      "developer": "Bandai Namco Entertainment Inc."
     },
     {
       "id": "com.bilibili.lumi",
@@ -43,6 +49,12 @@
       "title": "ARES: THE IRON VANGUARD",
       "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
       "developer": "Com2uS Holdings"
+    },
+    {
+      "id": "com.deviloper.shadow.dungeon",
+      "title": "Shadow Dungeon: Roguelike Game",
+      "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
+      "developer": "Deviloper Limited"
     },
     {
       "id": "com.ht.marbleheroes",
@@ -123,6 +135,12 @@
       "developer": "Netmarble"
     },
     {
+      "id": "com.ngu.games.zombiebunnyfarm",
+      "title": "버니팜 : 좀비디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.ngu.games.zombiebunnyfarm&hl=ko",
+      "developer": "NGU Studio"
+    },
+    {
       "id": "com.nitrogames.boltgunboom",
       "title": "워해머 40,000: 볼트건 Boom",
       "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
@@ -139,6 +157,12 @@
       "title": "Winter Burrow",
       "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
       "developer": "Noodlecake"
+    },
+    {
+      "id": "com.pchk.csn",
+      "title": "Crystal Saga Nova",
+      "url": "https://play.google.com/store/apps/details?id=com.pchk.csn&hl=ko",
+      "developer": "Proficient City Hong Kong"
     },
     {
       "id": "com.pid.preserve_complete",
