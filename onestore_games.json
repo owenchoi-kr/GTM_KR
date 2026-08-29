@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T05:35:29.273078",
-  "count": 19,
+  "updated_at": "2026-08-29T03:17:31.649672",
+  "count": 21,
   "games": [
     {
       "id": "0001008216",
@@ -13,6 +13,12 @@
       "title": "포트블록스: 이동요새 GO",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008574",
       "developer": "HYPERRISE Co., Ltd"
+    },
+    {
+      "id": "0001008198",
+      "title": "히어로즈 테일즈2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198",
+      "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
     },
     {
       "id": "0001004726",
@@ -31,6 +37,12 @@
       "title": "동방사신전",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006004",
       "developer": "WitGames"
+    },
+    {
+      "id": "0001007384",
+      "title": "포레스트 사이: 네버랜드​",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007384",
+      "developer": "HONGKONG YOULEQU NETWORK TECHNOLOGY CO LIMITED"
     },
     {
       "id": "0001008101",

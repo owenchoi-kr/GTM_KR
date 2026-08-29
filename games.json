@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-28T05:35:29.272061",
-  "count": 42,
+  "updated_at": "2026-08-29T03:17:31.648690",
+  "count": 45,
   "games": [
     {
       "id": "com.tencent.mhadv",
@@ -51,10 +51,22 @@
       "developer": "Com2uS Holdings"
     },
     {
+      "id": "com.davestudio.mika",
+      "title": "미카: 던전 백패커",
+      "url": "https://play.google.com/store/apps/details?id=com.davestudio.mika&hl=ko",
+      "developer": "Dave Studio"
+    },
+    {
       "id": "com.deviloper.shadow.dungeon",
       "title": "Shadow Dungeon: Roguelike Game",
       "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
       "developer": "Deviloper Limited"
+    },
+    {
+      "id": "com.dwus.gp",
+      "title": "Petal Paws",
+      "url": "https://play.google.com/store/apps/details?id=com.dwus.gp&hl=ko",
+      "developer": "NINE LAKES LIMITED"
     },
     {
       "id": "com.ht.marbleheroes",
@@ -120,6 +132,12 @@
       "id": "com.neptune.dawnsedge",
       "title": "검신제로",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.dawnsedge&hl=ko",
+      "developer": "Neptune Corp."
+    },
+    {
+      "id": "com.neptune.tkdefense",
+      "title": "막다보니 천하통일",
+      "url": "https://play.google.com/store/apps/details?id=com.neptune.tkdefense&hl=ko",
       "developer": "Neptune Corp."
     },
     {
