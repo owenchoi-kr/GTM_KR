@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T23:33:01.397501",
-  "count": 45,
+  "updated_at": "2026-08-30T23:44:30.808533",
+  "count": 44,
   "games": [
     {
       "id": "com.tencent.mhadv",
@@ -168,12 +168,6 @@
       "id": "com.noodlecake.flickshotrogues",
       "title": "Flick Shot Rogues",
       "url": "https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=ko",
-      "developer": "Noodlecake"
-    },
-    {
-      "id": "com.noodlecake.wb",
-      "title": "Winter Burrow",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
       "developer": "Noodlecake"
     },
     {

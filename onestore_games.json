@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T23:33:01.398262",
-  "count": 21,
+  "updated_at": "2026-08-30T23:44:30.809343",
+  "count": 20,
   "games": [
     {
       "id": "0001008216",
@@ -120,11 +120,6 @@
       "id": "0001007208",
       "title": "플랜츠 온 파이어 ",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208"
-    },
-    {
-      "id": "0001007810",
-      "title": "수프몬스터 - 바다거북스프 AI 채팅 추리 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007810"
     }
   ]
 }
