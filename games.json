@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T00:46:15.023691",
-  "count": 44,
+  "updated_at": "2026-09-01T23:31:15.861550",
+  "count": 43,
   "games": [
     {
       "id": "com.tencent.mhadv",
@@ -121,12 +121,6 @@
       "title": "Elysium Order - Anime RPG",
       "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
       "developer": "Now to Play Game Entertainment S.L."
-    },
-    {
-      "id": "com.naddic.iamdead",
-      "title": "죽어서 왔습니다: 방치형 타이쿤 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.naddic.iamdead&hl=ko",
-      "developer": "Mafgames"
     },
     {
       "id": "com.neptune.dawnsedge",

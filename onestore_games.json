@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T00:46:15.024636",
-  "count": 21,
+  "updated_at": "2026-09-01T23:31:15.862197",
+  "count": 24,
   "games": [
     {
       "id": "0001008439",
@@ -21,10 +21,22 @@
       "developer": "HYPERRISE Co., Ltd"
     },
     {
+      "id": "0001008378",
+      "title": "토이 신선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
+      "developer": "END9 GAMES Corp"
+    },
+    {
       "id": "0001008198",
       "title": "히어로즈 테일즈2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198",
       "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
+    },
+    {
+      "id": "0001005021",
+      "title": "케이팝 스타 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005021",
+      "developer": "Next Storm Co Ltd"
     },
     {
       "id": "0001004726",
@@ -51,12 +63,6 @@
       "developer": "HONGKONG YOULEQU NETWORK TECHNOLOGY CO LIMITED"
     },
     {
-      "id": "0001008101",
-      "title": "토이 드림 헌터스 : 어드벤쳐 RPG 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008101",
-      "developer": "ONEUNIVERSE Co., Ltd."
-    },
-    {
       "id": "0001006544",
       "title": "MLB 9이닝스 라이벌 26",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544",
@@ -73,6 +79,12 @@
       "title": "후더덕 서바이벌",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788",
       "developer": "JOY MOBILE NETWORK PTE. LTD."
+    },
+    {
+      "id": "0001005637",
+      "title": "월드 마스터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637",
+      "developer": "AlcoveFactory"
     },
     {
       "id": "0001007297",
@@ -114,6 +126,11 @@
       "id": "0001007208",
       "title": "플랜츠 온 파이어 ",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208"
+    },
+    {
+      "id": "0001008101",
+      "title": "토이 드림 헌터스 : 어드벤쳐 RPG 게임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008101"
     },
     {
       "id": "0001006488",
