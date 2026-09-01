@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-30T23:44:30.809587",
-  "count": 28,
+  "updated_at": "2026-09-01T00:46:15.024915",
+  "count": 27,
   "games": [
-    {
-      "id": "GM_NCR_024152",
-      "title": "심연 삼국 -2222 무료 뽑기",
-      "url": "https://game.naver.com/Abyss_Three_Kingdoms",
-      "release_date": "2026-07-23 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023074",
       "title": "애로우즈 – 퍼즐 이스케이프",
       "url": "https://game.naver.com/Arrows_Puzzle_Escape",
       "release_date": "2026-07-01 ~ 2026-09-01 사전예약",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_013601",
-      "title": "아너 오브 킹즈(왕자영요 글로벌)",
-      "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-07-30 ~ 2026-09-01 사전예약",
-      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_022427",
@@ -99,6 +85,13 @@
       "url": "https://game.naver.com/lumimaster",
       "release_date": "2026-04-30 ~ 2026-09-17 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-07-30 ~ 2026-09-23 사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_024463",

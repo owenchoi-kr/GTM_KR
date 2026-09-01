@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-08-30T23:44:30.809343",
-  "count": 20,
+  "updated_at": "2026-09-01T00:46:15.024636",
+  "count": 21,
   "games": [
+    {
+      "id": "0001008439",
+      "title": "궁신 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008439",
+      "developer": "Hong Kong NanSanNan Technology Co., Limited"
+    },
     {
       "id": "0001008216",
       "title": "Hero Wars: Alliance RPG 게임",
@@ -69,12 +75,6 @@
       "developer": "JOY MOBILE NETWORK PTE. LTD."
     },
     {
-      "id": "0001006488",
-      "title": "소년가행: 강호의 시작",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488",
-      "developer": "Dreamplay Games"
-    },
-    {
       "id": "0001007297",
       "title": "요새하는겜 : 전략적 요새 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297",
@@ -91,12 +91,6 @@
       "title": "소드 앤 프론티아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471",
       "developer": "ONCE|NUDE"
-    },
-    {
-      "id": "0001007321",
-      "title": "로그W : 리메인즈 오브 갓 ",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007321",
-      "developer": "이펀 컴퍼니 "
     },
     {
       "id": "0001007558",
@@ -120,6 +114,17 @@
       "id": "0001007208",
       "title": "플랜츠 온 파이어 ",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208"
+    },
+    {
+      "id": "0001006488",
+      "title": "소년가행: 강호의 시작",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488",
+      "developer": "Dreamplay Games"
+    },
+    {
+      "id": "0001007321",
+      "title": "로그W : 리메인즈 오브 갓 ",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007321"
     }
   ]
 }
