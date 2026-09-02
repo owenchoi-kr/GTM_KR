@@ -1,18 +1,24 @@
 {
-  "updated_at": "2026-09-01T23:31:15.861550",
+  "updated_at": "2026-09-02T23:32:20.743873",
   "count": 43,
   "games": [
-    {
-      "id": "com.tencent.mhadv",
-      "title": "Monster Hunter Outlanders",
-      "url": "https://play.google.com/store/apps/details?id=com.tencent.mhadv&hl=ko",
-      "developer": "Level Infinite"
-    },
     {
       "id": "com.AmberbiteGames.ShoeItAllMobile",
       "title": "Shoe It All!",
       "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
       "developer": "Amberbite Games"
+    },
+    {
+      "id": "com.Deliciousgames.PMC",
+      "title": "뽑만추 : 방치된 뽑기기계 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.PMC&hl=ko",
+      "developer": "Delicious Games Co., Ltd."
+    },
+    {
+      "id": "com.Deliciousgames.ZWR",
+      "title": "좀왜진 : 방치된 좀비 잡기",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko",
+      "developer": "Delicious Games Co., Ltd."
     },
     {
       "id": "com.EightStudio.BlightWar",
@@ -96,12 +102,6 @@
       "id": "com.mobirix.extfzombie",
       "title": "좀비 배틀 : FPS Idle",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfzombie&hl=ko",
-      "developer": "mobirix"
-    },
-    {
-      "id": "com.mobirix.hamdoku",
-      "title": "햄도쿠: 스도쿠 논리 퍼즐",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.hamdoku&hl=ko",
       "developer": "mobirix"
     },
     {

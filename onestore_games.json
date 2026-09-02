@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-01T23:31:15.862197",
-  "count": 24,
+  "updated_at": "2026-09-02T23:32:20.744753",
+  "count": 23,
   "games": [
     {
       "id": "0001008439",
@@ -43,12 +43,6 @@
       "title": "드래곤 고고씽",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004726",
       "developer": "Ujoy Games Limited"
-    },
-    {
-      "id": "0001008063",
-      "title": " 귀문: 퇴마록",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008063",
-      "developer": "GM 게임"
     },
     {
       "id": "0001006004",
@@ -99,12 +93,6 @@
       "developer": "STUCKPIXEL"
     },
     {
-      "id": "0001007471",
-      "title": "소드 앤 프론티아",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471",
-      "developer": "ONCE|NUDE"
-    },
-    {
       "id": "0001007558",
       "title": "소울 오브 크라임",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
@@ -123,9 +111,9 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
-      "id": "0001007208",
-      "title": "플랜츠 온 파이어 ",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007208"
+      "id": "0001008063",
+      "title": " 귀문: 퇴마록",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008063"
     },
     {
       "id": "0001008101",
@@ -135,8 +123,12 @@
     {
       "id": "0001006488",
       "title": "소년가행: 강호의 시작",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488",
-      "developer": "Dreamplay Games"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488"
+    },
+    {
+      "id": "0001007471",
+      "title": "소드 앤 프론티아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471"
     },
     {
       "id": "0001007321",

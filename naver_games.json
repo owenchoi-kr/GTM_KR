@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-01T23:31:15.862370",
+  "updated_at": "2026-09-02T23:32:20.745029",
   "count": 27,
   "games": [
-    {
-      "id": "GM_NCR_023074",
-      "title": "애로우즈 – 퍼즐 이스케이프",
-      "url": "https://game.naver.com/Arrows_Puzzle_Escape",
-      "release_date": "2026-07-01 ~ 2026-09-01 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_022427",
       "title": "삼국지: 제후의 전쟁",
@@ -31,13 +24,6 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024720",
-      "title": "라스트걸:코어이브",
-      "url": "https://game.naver.com/LastGirl_CoreEve",
-      "release_date": "2026-08-26 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
       "id": "GM_NCR_024375",
       "title": "신검황",
       "url": "https://game.naver.com/sink",
@@ -56,6 +42,13 @@
       "title": "동방사신전",
       "url": "https://game.naver.com/sasinjeon",
       "release_date": "2026-08-24 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_024720",
+      "title": "라스트걸:코어이브",
+      "url": "https://game.naver.com/LastGirl_CoreEve",
+      "release_date": "2026-08-26 ~  사전예약",
       "platform": "Android,OneStore"
     },
     {
@@ -99,6 +92,13 @@
       "url": "https://game.naver.com/AGATHA_Idle_RPG",
       "release_date": "2026-08-20 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024329",
+      "title": "포레스트 사이: 네버랜드​",
+      "url": "https://game.naver.com/Forest_Sigh_Neverland",
+      "release_date": "2026-09-01 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022710",
