@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-02T23:32:20.744753",
-  "count": 23,
+  "updated_at": "2026-09-03T23:28:16.162255",
+  "count": 24,
   "games": [
+    {
+      "id": "0001008733",
+      "title": "막다보니 천하통일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733",
+      "developer": "Neptune Company"
+    },
     {
       "id": "0001008439",
       "title": "궁신 : 방치형 RPG",

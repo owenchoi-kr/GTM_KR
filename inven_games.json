@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-02T23:32:20.744481",
-  "count": 4,
+  "updated_at": "2026-09-03T23:28:16.162115",
+  "count": 5,
   "games": [
+    {
+      "id": "989",
+      "title": "씰M2",
+      "url": "https://pick.inven.co.kr/campaign/989/SealM2",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]명마 알렉산드리아",
+      "developer": "㈜플레이위드코리아"
+    },
     {
       "id": "988",
       "title": "리니지M",

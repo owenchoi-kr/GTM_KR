@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-09-02T23:32:20.743873",
-  "count": 43,
+  "updated_at": "2026-09-03T23:28:16.161496",
+  "count": 44,
   "games": [
-    {
-      "id": "com.AmberbiteGames.ShoeItAllMobile",
-      "title": "Shoe It All!",
-      "url": "https://play.google.com/store/apps/details?id=com.AmberbiteGames.ShoeItAllMobile&hl=ko",
-      "developer": "Amberbite Games"
-    },
     {
       "id": "com.Deliciousgames.PMC",
       "title": "뽑만추 : 방치된 뽑기기계 RPG",
@@ -21,10 +15,28 @@
       "developer": "Delicious Games Co., Ltd."
     },
     {
+      "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
+      "title": "리틀 키티, 빅 시티",
+      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko",
+      "developer": "Double Dagger Studio"
+    },
+    {
       "id": "com.EightStudio.BlightWar",
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
+    },
+    {
+      "id": "com.HoYoverse.Planet",
+      "title": "쁘띠플래닛",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Planet&hl=ko",
+      "developer": "COGNOSPHERE PTE. LTD."
+    },
+    {
+      "id": "com.azragames.ungodly",
+      "title": "UnGodly",
+      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
+      "developer": "Azra Games"
     },
     {
       "id": "com.bandainamcoent.bleach_mh_ww",
@@ -63,16 +75,10 @@
       "developer": "Dave Studio"
     },
     {
-      "id": "com.deviloper.shadow.dungeon",
-      "title": "Shadow Dungeon: Roguelike Game",
-      "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
-      "developer": "Deviloper Limited"
-    },
-    {
-      "id": "com.dwus.gp",
-      "title": "Petal Paws",
-      "url": "https://play.google.com/store/apps/details?id=com.dwus.gp&hl=ko",
-      "developer": "NINE LAKES LIMITED"
+      "id": "com.feralinteractive.saintsrow3_android",
+      "title": "Saints Row: The Third",
+      "url": "https://play.google.com/store/apps/details?id=com.feralinteractive.saintsrow3_android&hl=ko",
+      "developer": "Feral Interactive"
     },
     {
       "id": "com.ht.marbleheroes",
@@ -165,10 +171,22 @@
       "developer": "Noodlecake"
     },
     {
+      "id": "com.ondi.space.defense",
+      "title": "스타가드: 에보 병합 TD",
+      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
+      "developer": "ONDI TECHNOLOGY JSC"
+    },
+    {
       "id": "com.pchk.csn",
       "title": "Crystal Saga Nova",
       "url": "https://play.google.com/store/apps/details?id=com.pchk.csn&hl=ko",
       "developer": "Proficient City Hong Kong"
+    },
+    {
+      "id": "com.phase4.junkbusters.gl",
+      "title": "쿵쿵 버스터즈",
+      "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
+      "developer": "Rawhand Games"
     },
     {
       "id": "com.pid.preserve_complete",
@@ -213,12 +231,6 @@
       "developer": "Velocita Z"
     },
     {
-      "id": "com.unimob.idle.cat.farm",
-      "title": "Idle Gnome Garden: Farm Tycoon",
-      "url": "https://play.google.com/store/apps/details?id=com.unimob.idle.cat.farm&hl=ko",
-      "developer": "Unimob Games"
-    },
-    {
       "id": "com.v2r.HamsterGarden",
       "title": "Hamster Garden",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
@@ -241,12 +253,6 @@
       "title": "애니모",
       "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
       "developer": "Pawprint Studio"
-    },
-    {
-      "id": "com.ygjszus.google",
-      "title": "Knock Knock: Room Defense",
-      "url": "https://play.google.com/store/apps/details?id=com.ygjszus.google&hl=ko",
-      "developer": "Joy Nice Games"
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

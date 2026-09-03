@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-02T23:32:20.745029",
-  "count": 27,
+  "updated_at": "2026-09-03T23:28:16.162422",
+  "count": 26,
   "games": [
-    {
-      "id": "GM_NCR_022427",
-      "title": "삼국지: 제후의 전쟁",
-      "url": "https://game.naver.com/Samgukji_Lords_War",
-      "release_date": "2026-08-26 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_024384",
-      "title": "소년가행: 강호의 시작",
-      "url": "https://game.naver.com/TheBloodofYouth",
-      "release_date": "2026-08-11 ~  사전예약",
-      "platform": "OneStore,iOS"
-    },
     {
       "id": "GM_NCR_023899",
       "title": "소드 앤 프론티아",
@@ -43,6 +29,13 @@
       "url": "https://game.naver.com/sasinjeon",
       "release_date": "2026-08-24 ~  사전예약",
       "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_024782",
+      "title": "궁신 : 방치형 RPG",
+      "url": "https://game.naver.com/Gungsin_Idle_RPG",
+      "release_date": "2026-09-02 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_024720",
