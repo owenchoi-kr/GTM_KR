@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-03T23:28:16.162422",
-  "count": 26,
+  "updated_at": "2026-09-04T23:13:34.710874",
+  "count": 25,
   "games": [
-    {
-      "id": "GM_NCR_023899",
-      "title": "소드 앤 프론티아",
-      "url": "https://game.naver.com/Sword_Frontier",
-      "release_date": "2026-08-17 ~  사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_024375",
       "title": "신검황",
@@ -31,18 +24,18 @@
       "platform": "Android,OneStore"
     },
     {
-      "id": "GM_NCR_024782",
-      "title": "궁신 : 방치형 RPG",
-      "url": "https://game.naver.com/Gungsin_Idle_RPG",
-      "release_date": "2026-09-02 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_024720",
       "title": "라스트걸:코어이브",
       "url": "https://game.naver.com/LastGirl_CoreEve",
       "release_date": "2026-08-26 ~  사전예약",
       "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_024782",
+      "title": "궁신 : 방치형 RPG",
+      "url": "https://game.naver.com/Gungsin_Idle_RPG",
+      "release_date": "2026-09-02 ~  사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_023067",

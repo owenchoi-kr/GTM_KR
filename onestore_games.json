@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-03T23:28:16.162255",
-  "count": 24,
+  "updated_at": "2026-09-04T23:13:34.710643",
+  "count": 27,
   "games": [
+    {
+      "id": "0001008510",
+      "title": "미르의 전설2: 레볼루션",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510",
+      "developer": "MIAO PLAY ENTERTAINMENT NETWORK LIMITED"
+    },
     {
       "id": "0001008733",
       "title": "막다보니 천하통일",
@@ -15,6 +21,12 @@
       "developer": "Hong Kong NanSanNan Technology Co., Limited"
     },
     {
+      "id": "0001007550",
+      "title": "검신제로",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007550",
+      "developer": "Neptune Company"
+    },
+    {
       "id": "0001008216",
       "title": "Hero Wars: Alliance RPG 게임",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008216",
@@ -25,6 +37,12 @@
       "title": "포트블록스: 이동요새 GO",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008574",
       "developer": "HYPERRISE Co., Ltd"
+    },
+    {
+      "id": "0001006533",
+      "title": "나만 SSS급 퇴마사",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006533",
+      "developer": "STAR DOME TECHNOLOGY LIMITED"
     },
     {
       "id": "0001008378",
