@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T23:13:34.709903",
-  "count": 43,
+  "updated_at": "2026-09-05T23:09:32.886566",
+  "count": 45,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -181,6 +181,18 @@
       "title": "쿵쿵 버스터즈",
       "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.pid.fabledom",
+      "title": "Fabledom",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.fabledom&hl=ko",
+      "developer": "Dear Villagers"
+    },
+    {
+      "id": "com.pid.lilguardsman",
+      "title": "Lil' Guardsman",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
+      "developer": "Plug In Digital"
     },
     {
       "id": "com.pid.preserve_complete",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T23:13:34.710874",
-  "count": 25,
+  "updated_at": "2026-09-05T23:09:32.887773",
+  "count": 26,
   "games": [
     {
       "id": "GM_NCR_024375",
@@ -148,6 +148,13 @@
       "url": "https://game.naver.com/Doomsday_Warrior",
       "release_date": "2025-12-11 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024316",
+      "title": "삼국지 랜덤 디펜스",
+      "url": "https://game.naver.com/three_kingdoms_random_defence",
+      "release_date": "2026-09-05 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_020257",
