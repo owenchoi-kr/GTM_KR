@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T23:09:32.886566",
-  "count": 45,
+  "updated_at": "2026-09-06T23:01:36.735085",
+  "count": 44,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -13,12 +13,6 @@
       "title": "좀왜진 : 방치된 좀비 잡기",
       "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko",
       "developer": "Delicious Games Co., Ltd."
-    },
-    {
-      "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
-      "title": "리틀 키티, 빅 시티",
-      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko",
-      "developer": "Double Dagger Studio"
     },
     {
       "id": "com.EightStudio.BlightWar",
@@ -177,12 +171,6 @@
       "developer": "Proficient City Hong Kong"
     },
     {
-      "id": "com.phase4.junkbusters.gl",
-      "title": "쿵쿵 버스터즈",
-      "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
-      "developer": "Rawhand Games"
-    },
-    {
       "id": "com.pid.fabledom",
       "title": "Fabledom",
       "url": "https://play.google.com/store/apps/details?id=com.pid.fabledom&hl=ko",
@@ -205,6 +193,12 @@
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.ranidagames.basketballslammyteam",
+      "title": "Basketball Slam MyTEAM",
+      "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
+      "developer": "Ranida Games"
     },
     {
       "id": "com.snowgames.newtroboxing",

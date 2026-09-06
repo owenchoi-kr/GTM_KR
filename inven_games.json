@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T23:09:32.887268",
+  "updated_at": "2026-09-06T23:01:36.735624",
   "count": 6,
   "games": [
     {
@@ -15,14 +15,16 @@
       "title": "씰M2",
       "url": "https://pick.inven.co.kr/campaign/989/SealM2",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]명마 알렉산드리아"
+      "reward": "[2000이니, 100베니]명마 알렉산드리아",
+      "developer": "㈜플레이위드코리아"
     },
     {
       "id": "988",
       "title": "리니지M",
       "url": "https://pick.inven.co.kr/campaign/988/goldenage",
       "release_date": "9월 9일 출시 예정",
-      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요"
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NC"
     },
     {
       "id": "986",
@@ -37,7 +39,8 @@
       "title": "애니모",
       "url": "https://pick.inven.co.kr/campaign/979/aniimo",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 보상 제공"
+      "reward": "[2000이니, 100베니]다양한 보상 제공",
+      "developer": "pawprint"
     },
     {
       "id": "987",
