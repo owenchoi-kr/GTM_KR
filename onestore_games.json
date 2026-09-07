@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-06T23:01:36.735986",
-  "count": 27,
+  "updated_at": "2026-09-07T23:43:47.012900",
+  "count": 26,
   "games": [
+    {
+      "id": "0001008880",
+      "title": "KBO 작전야구매니저",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880",
+      "developer": "GrayBits Corp."
+    },
     {
       "id": "0001008510",
       "title": "미르의 전설2: 레볼루션",
@@ -145,19 +151,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008101"
     },
     {
-      "id": "0001006488",
-      "title": "소년가행: 강호의 시작",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006488"
-    },
-    {
       "id": "0001007471",
       "title": "소드 앤 프론티아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471"
-    },
-    {
-      "id": "0001007321",
-      "title": "로그W : 리메인즈 오브 갓 ",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007321"
     }
   ]
 }

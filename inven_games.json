@@ -1,54 +1,55 @@
 {
-  "updated_at": "2026-09-06T23:01:36.735624",
-  "count": 6,
+  "updated_at": "2026-09-07T23:43:47.012504",
+  "count": 7,
   "games": [
+    {
+      "id": "991",
+      "title": "토이 신선",
+      "url": "https://pick.inven.co.kr/campaign/991/toyhermit",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]다양한 사전예약 보상!"
+    },
     {
       "id": "990",
       "title": "팰월드 온라인",
       "url": "https://pick.inven.co.kr/campaign/990/PWO",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]공식 커뮤니티에서 확인하세요",
-      "developer": "Garena International"
+      "reward": "[2000이니, 100베니]공식 커뮤니티에서 확인하세요"
     },
     {
       "id": "989",
       "title": "씰M2",
       "url": "https://pick.inven.co.kr/campaign/989/SealM2",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]명마 알렉산드리아",
-      "developer": "㈜플레이위드코리아"
+      "reward": "[2000이니, 100베니]명마 알렉산드리아"
     },
     {
       "id": "988",
       "title": "리니지M",
       "url": "https://pick.inven.co.kr/campaign/988/goldenage",
       "release_date": "9월 9일 출시 예정",
-      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
-      "developer": "NC"
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요"
     },
     {
       "id": "986",
       "title": "도깨비의세계",
       "url": "https://pick.inven.co.kr/campaign/986/dokkaebi",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요",
-      "developer": "카카오게임즈"
+      "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요"
     },
     {
       "id": "979",
       "title": "애니모",
       "url": "https://pick.inven.co.kr/campaign/979/aniimo",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 보상 제공",
-      "developer": "pawprint"
+      "reward": "[2000이니, 100베니]다양한 보상 제공"
     },
     {
       "id": "987",
       "title": "세라핌 키우기",
       "url": "https://pick.inven.co.kr/campaign/987/seraphimidle",
       "release_date": "출시 미정",
-      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아",
-      "developer": "JUAL PROJECT."
+      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06T23:01:36.736281",
-  "count": 25,
+  "updated_at": "2026-09-07T23:43:47.013193",
+  "count": 24,
   "games": [
     {
       "id": "GM_NCR_024375",
@@ -73,20 +73,6 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_023229",
-      "title": "아가타 키우기",
-      "url": "https://game.naver.com/AGATHA_Idle_RPG",
-      "release_date": "2026-08-20 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_024329",
-      "title": "포레스트 사이: 네버랜드​",
-      "url": "https://game.naver.com/Forest_Sigh_Neverland",
-      "release_date": "2026-09-01 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
       "id": "GM_NCR_022710",
       "title": "무한전인 : 절대고수 키우기",
       "url": "https://game.naver.com/Infinite_Master",
@@ -115,6 +101,20 @@
       "platform": "Android,iOS,OneStore"
     },
     {
+      "id": "GM_NCR_023229",
+      "title": "아가타 키우기",
+      "url": "https://game.naver.com/AGATHA_Idle_RPG",
+      "release_date": "2026-08-20 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024329",
+      "title": "포레스트 사이: 네버랜드​",
+      "url": "https://game.naver.com/Forest_Sigh_Neverland",
+      "release_date": "2026-09-01 ~  사전예약",
+      "platform": "Android,OneStore"
+    },
+    {
       "id": "GM_NCR_023714",
       "title": "드래곤 고고씽",
       "url": "https://game.naver.com/Drago",
@@ -129,18 +129,18 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024008",
-      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
-      "url": "https://game.naver.com/skeleton",
-      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
       "id": "GM_NCR_019939",
       "title": "리리의 세계",
       "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
       "release_date": "2025-12-08 ~  사전예약",
       "platform": "Android,Console,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_024008",
+      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
+      "url": "https://game.naver.com/skeleton",
+      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_016009",
@@ -169,13 +169,6 @@
       "url": "https://game.naver.com/Shakugan",
       "release_date": "2026-04-09 ~  사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_021708",
-      "title": "프로젝트 제타",
-      "url": "https://game.naver.com/PROJECT_ZETA",
-      "release_date": "2026-08-28 ~ 2026-09-06 OBT",
-      "platform": "PC"
     }
   ]
 }
