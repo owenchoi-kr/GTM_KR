@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T23:43:47.012900",
-  "count": 26,
+  "updated_at": "2026-09-08T23:35:05.742503",
+  "count": 25,
   "games": [
     {
       "id": "0001008880",
@@ -51,12 +51,6 @@
       "developer": "STAR DOME TECHNOLOGY LIMITED"
     },
     {
-      "id": "0001008378",
-      "title": "토이 신선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
-      "developer": "END9 GAMES Corp"
-    },
-    {
       "id": "0001008198",
       "title": "히어로즈 테일즈2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198",
@@ -87,12 +81,6 @@
       "developer": "HONGKONG YOULEQU NETWORK TECHNOLOGY CO LIMITED"
     },
     {
-      "id": "0001006544",
-      "title": "MLB 9이닝스 라이벌 26",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544",
-      "developer": "Com2uS"
-    },
-    {
       "id": "0001008212",
       "title": "에버나이트: 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212",
@@ -109,12 +97,6 @@
       "title": "월드 마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637",
       "developer": "AlcoveFactory"
-    },
-    {
-      "id": "0001007297",
-      "title": "요새하는겜 : 전략적 요새 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297",
-      "developer": "KINGKONGSOFT"
     },
     {
       "id": "0001008004",
@@ -141,14 +123,25 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
+      "id": "0001008378",
+      "title": "토이 신선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
+      "developer": "END9 GAMES Corp"
+    },
+    {
       "id": "0001008063",
       "title": " 귀문: 퇴마록",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008063"
     },
     {
-      "id": "0001008101",
-      "title": "토이 드림 헌터스 : 어드벤쳐 RPG 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008101"
+      "id": "0001006544",
+      "title": "MLB 9이닝스 라이벌 26",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006544"
+    },
+    {
+      "id": "0001007297",
+      "title": "요새하는겜 : 전략적 요새 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297"
     },
     {
       "id": "0001007471",

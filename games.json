@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T23:43:47.011888",
-  "count": 43,
+  "updated_at": "2026-09-08T23:35:05.741650",
+  "count": 46,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -93,6 +93,12 @@
       "developer": "LUNOSOFT INC"
     },
     {
+      "id": "com.lunosoft.soullegion",
+      "title": "영혼군단 키우기: 방치형 소울 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.soullegion&hl=ko",
+      "developer": "LUNOSOFT INC"
+    },
+    {
       "id": "com.mobirix.extfdf2",
       "title": "포탈 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfdf2&hl=ko",
@@ -159,10 +165,10 @@
       "developer": "Noodlecake"
     },
     {
-      "id": "com.ondi.space.defense",
-      "title": "스타가드: 에보 병합 TD",
-      "url": "https://play.google.com/store/apps/details?id=com.ondi.space.defense&hl=ko",
-      "developer": "ONDI TECHNOLOGY JSC"
+      "id": "com.noodlecake.wb",
+      "title": "Winter Burrow",
+      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
+      "developer": "Noodlecake"
     },
     {
       "id": "com.pchk.csn",
@@ -231,6 +237,12 @@
       "developer": "V2R"
     },
     {
+      "id": "com.v2r.SushiMaster",
+      "title": "Sushi Cat Match: 고양이 초밥집",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.SushiMaster&hl=ko",
+      "developer": "V2R"
+    },
+    {
       "id": "com.wanda.transformers.gg.am",
       "title": "Transformers: Eternal War",
       "url": "https://play.google.com/store/apps/details?id=com.wanda.transformers.gg.am&hl=ko",
@@ -247,6 +259,12 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
+    },
+    {
+      "id": "com.wk.mergedf",
+      "title": "네온 타워 클래시",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
+      "developer": "WK Company"
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

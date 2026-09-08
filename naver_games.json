@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-09-07T23:43:47.013193",
+  "updated_at": "2026-09-08T23:35:05.742728",
   "count": 24,
   "games": [
+    {
+      "id": "GM_NCR_022710",
+      "title": "무한전인 : 절대고수 키우기",
+      "url": "https://game.naver.com/Infinite_Master",
+      "release_date": "2026-08-21 ~  사전예약",
+      "platform": "Android,iOS"
+    },
     {
       "id": "GM_NCR_024375",
       "title": "신검황",
@@ -17,18 +24,11 @@
       "platform": "Android,iOS,OneStore,PC"
     },
     {
-      "id": "GM_NCR_024459",
-      "title": "동방사신전",
-      "url": "https://game.naver.com/sasinjeon",
-      "release_date": "2026-08-24 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
       "id": "GM_NCR_024720",
       "title": "라스트걸:코어이브",
       "url": "https://game.naver.com/LastGirl_CoreEve",
       "release_date": "2026-08-26 ~  사전예약",
-      "platform": "Android,OneStore"
+      "platform": "Android,OneStore,iOS"
     },
     {
       "id": "GM_NCR_024782",
@@ -36,6 +36,13 @@
       "url": "https://game.naver.com/Gungsin_Idle_RPG",
       "release_date": "2026-09-02 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024459",
+      "title": "동방사신전",
+      "url": "https://game.naver.com/sasinjeon",
+      "release_date": "2026-08-24 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_023067",
@@ -70,13 +77,6 @@
       "title": "이모탈 라이징: 불멸의 각성",
       "url": "https://game.naver.com/Immortal_Rising_Awakening",
       "release_date": "2026-08-18 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_022710",
-      "title": "무한전인 : 절대고수 키우기",
-      "url": "https://game.naver.com/Infinite_Master",
-      "release_date": "2026-08-21 ~  사전예약",
       "platform": "Android,iOS"
     },
     {
