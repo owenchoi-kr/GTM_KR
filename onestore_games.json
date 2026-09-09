@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T23:35:05.742503",
-  "count": 25,
+  "updated_at": "2026-09-09T23:28:42.664090",
+  "count": 23,
   "games": [
     {
       "id": "0001008880",
@@ -19,12 +19,6 @@
       "title": "막다보니 천하통일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733",
       "developer": "Neptune Company"
-    },
-    {
-      "id": "0001008439",
-      "title": "궁신 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008439",
-      "developer": "Hong Kong NanSanNan Technology Co., Limited"
     },
     {
       "id": "0001007550",
@@ -49,6 +43,12 @@
       "title": "나만 SSS급 퇴마사",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006533",
       "developer": "STAR DOME TECHNOLOGY LIMITED"
+    },
+    {
+      "id": "0001008378",
+      "title": "토이 신선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
+      "developer": "END9 GAMES Corp"
     },
     {
       "id": "0001008198",
@@ -123,15 +123,10 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
-      "id": "0001008378",
-      "title": "토이 신선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
-      "developer": "END9 GAMES Corp"
-    },
-    {
-      "id": "0001008063",
-      "title": " 귀문: 퇴마록",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008063"
+      "id": "0001008439",
+      "title": "궁신 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008439",
+      "developer": "Hong Kong NanSanNan Technology Co., Limited"
     },
     {
       "id": "0001006544",
@@ -142,11 +137,6 @@
       "id": "0001007297",
       "title": "요새하는겜 : 전략적 요새 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007297"
-    },
-    {
-      "id": "0001007471",
-      "title": "소드 앤 프론티아",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007471"
     }
   ]
 }

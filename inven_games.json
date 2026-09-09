@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T23:35:05.742254",
+  "updated_at": "2026-09-09T23:28:42.663940",
   "count": 6,
   "games": [
     {
@@ -47,7 +47,8 @@
       "title": "세라핌 키우기",
       "url": "https://pick.inven.co.kr/campaign/987/seraphimidle",
       "release_date": "출시 미정",
-      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아"
+      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아",
+      "developer": "JUAL PROJECT."
     }
   ]
 }

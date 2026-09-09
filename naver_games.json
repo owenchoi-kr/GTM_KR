@@ -1,34 +1,20 @@
 {
-  "updated_at": "2026-09-08T23:35:05.742728",
-  "count": 24,
+  "updated_at": "2026-09-09T23:28:42.664252",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_022710",
-      "title": "무한전인 : 절대고수 키우기",
-      "url": "https://game.naver.com/Infinite_Master",
-      "release_date": "2026-08-21 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_024375",
-      "title": "신검황",
-      "url": "https://game.naver.com/sink",
-      "release_date": "2026-07-30 ~ 2026-09-08 사전예약",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_024256",
-      "title": "요새하는겜",
-      "url": "https://game.naver.com/FortessSamgukDefense",
-      "release_date": "2026-08-14 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
-    },
     {
       "id": "GM_NCR_024720",
       "title": "라스트걸:코어이브",
       "url": "https://game.naver.com/LastGirl_CoreEve",
       "release_date": "2026-08-26 ~  사전예약",
       "platform": "Android,OneStore,iOS"
+    },
+    {
+      "id": "GM_NCR_023229",
+      "title": "아가타 키우기",
+      "url": "https://game.naver.com/AGATHA_Idle_RPG",
+      "release_date": "2026-08-20 ~ 2026-09-09 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_024782",
@@ -101,13 +87,6 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_023229",
-      "title": "아가타 키우기",
-      "url": "https://game.naver.com/AGATHA_Idle_RPG",
-      "release_date": "2026-08-20 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_024329",
       "title": "포레스트 사이: 네버랜드​",
       "url": "https://game.naver.com/Forest_Sigh_Neverland",
@@ -127,6 +106,13 @@
       "url": "https://game.naver.com/Dawns_Edge",
       "release_date": "2026-07-27 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_022710",
+      "title": "무한전인 : 절대고수 키우기",
+      "url": "https://game.naver.com/Infinite_Master",
+      "release_date": "2026-08-21 ~  사전예약",
+      "platform": "iOS"
     },
     {
       "id": "GM_NCR_019939",
@@ -162,6 +148,13 @@
       "url": "https://game.naver.com/reinna",
       "release_date": "2026-04-24 ~ 2027-12-31 사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_024316",
+      "title": "삼국지 랜덤 디펜스",
+      "url": "https://game.naver.com/three_kingdoms_random_defence",
+      "release_date": "2026-09-08 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_022785",
