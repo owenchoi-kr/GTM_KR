@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-09-09T23:28:42.664252",
-  "count": 23,
+  "updated_at": "2026-09-10T23:22:44.174169",
+  "count": 25,
   "games": [
     {
       "id": "GM_NCR_024720",
       "title": "라스트걸:코어이브",
       "url": "https://game.naver.com/LastGirl_CoreEve",
-      "release_date": "2026-08-26 ~  사전예약",
-      "platform": "Android,OneStore,iOS"
-    },
-    {
-      "id": "GM_NCR_023229",
-      "title": "아가타 키우기",
-      "url": "https://game.naver.com/AGATHA_Idle_RPG",
-      "release_date": "2026-08-20 ~ 2026-09-09 사전예약",
-      "platform": "Android,iOS"
+      "release_date": "2026-09-07 ~  사전예약",
+      "platform": "iOS"
     },
     {
       "id": "GM_NCR_024782",
@@ -38,6 +31,13 @@
       "platform": "Android,iOS,OneStore"
     },
     {
+      "id": "GM_NCR_022945",
+      "title": "루미마스터",
+      "url": "https://game.naver.com/lumimaster",
+      "release_date": "2026-04-30 ~ 2026-09-17 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_024487",
       "title": "후더덕 서바이벌",
       "url": "https://game.naver.com/Duck_Survival",
@@ -45,11 +45,11 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_022945",
-      "title": "루미마스터",
-      "url": "https://game.naver.com/lumimaster",
-      "release_date": "2026-04-30 ~ 2026-09-17 사전예약",
-      "platform": "Android,iOS,OneStore"
+      "id": "GM_NCR_023430",
+      "title": "나만 SSS급 퇴마사",
+      "url": "https://game.naver.com/Eternal_Rebirth_Oversouler",
+      "release_date": "2026-09-09 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_013601",
@@ -64,6 +64,13 @@
       "url": "https://game.naver.com/Immortal_Rising_Awakening",
       "release_date": "2026-08-18 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024329",
+      "title": "포레스트 사이: 네버랜드​",
+      "url": "https://game.naver.com/Forest_Sigh_Neverland",
+      "release_date": "2026-09-01 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_022565",
@@ -87,11 +94,11 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_024329",
-      "title": "포레스트 사이: 네버랜드​",
-      "url": "https://game.naver.com/Forest_Sigh_Neverland",
-      "release_date": "2026-09-01 ~  사전예약",
-      "platform": "Android,OneStore"
+      "id": "GM_NCR_005825",
+      "title": "트리 오브 세이비어 M",
+      "url": "https://game.naver.com/Tree_of_Savior_M",
+      "release_date": "2026-09-09 ~ 2026-10-18 사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_023714",
@@ -115,11 +122,11 @@
       "platform": "iOS"
     },
     {
-      "id": "GM_NCR_019939",
-      "title": "리리의 세계",
-      "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
-      "release_date": "2025-12-08 ~  사전예약",
-      "platform": "Android,Console,iOS,PC"
+      "id": "GM_NCR_024910",
+      "title": "갱스터 미라지 시티",
+      "url": "https://game.naver.com/Gangstar_Mirage_City",
+      "release_date": "2026-09-09 ~ 2026-11-30 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_024008",
@@ -127,6 +134,13 @@
       "url": "https://game.naver.com/skeleton",
       "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_019939",
+      "title": "리리의 세계",
+      "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
+      "release_date": "2025-12-08 ~  사전예약",
+      "platform": "Android,Console,iOS,PC"
     },
     {
       "id": "GM_NCR_016009",
