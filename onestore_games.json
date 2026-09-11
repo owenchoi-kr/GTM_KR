@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-09-10T23:22:44.173936",
-  "count": 23,
+  "updated_at": "2026-09-11T23:30:15.819362",
+  "count": 29,
   "games": [
+    {
+      "id": "0001008003",
+      "title": "삼국지: 천하결전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008003",
+      "developer": "BILIBILI HK LIMITED"
+    },
+    {
+      "id": "0001008878",
+      "title": "삼국지: 항우전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008878",
+      "developer": "ENP Games Co., Ltd."
+    },
+    {
+      "id": "0001008671",
+      "title": "라스트 포스 : 강철의 진화",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008671",
+      "developer": "MYTURN Inc"
+    },
     {
       "id": "0001008880",
       "title": "KBO 작전야구매니저",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880",
       "developer": "GrayBits Corp."
+    },
+    {
+      "id": "0001008041",
+      "title": "영혼군단 키우기: 방치형 소울 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "0001008510",
@@ -19,6 +43,12 @@
       "title": "막다보니 천하통일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733",
       "developer": "Neptune Company"
+    },
+    {
+      "id": "0001008710",
+      "title": "닼마: 다크판타지 3D 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710",
+      "developer": "NETTOPDATA"
     },
     {
       "id": "0001007550",
@@ -91,6 +121,12 @@
       "title": "후더덕 서바이벌",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788",
       "developer": "JOY MOBILE NETWORK PTE. LTD."
+    },
+    {
+      "id": "0001008083",
+      "title": "귀혼키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
+      "developer": "MGMAE Corp"
     },
     {
       "id": "0001005637",

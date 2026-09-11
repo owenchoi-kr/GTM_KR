@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T23:22:44.173116",
-  "count": 46,
+  "updated_at": "2026-09-11T23:30:15.818660",
+  "count": 42,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -13,12 +13,6 @@
       "title": "좀왜진 : 방치된 좀비 잡기",
       "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko",
       "developer": "Delicious Games Co., Ltd."
-    },
-    {
-      "id": "com.DoubleDaggerStudio.LittleKittyBigCity",
-      "title": "리틀 키티, 빅 시티",
-      "url": "https://play.google.com/store/apps/details?id=com.DoubleDaggerStudio.LittleKittyBigCity&hl=ko",
-      "developer": "Double Dagger Studio"
     },
     {
       "id": "com.EightStudio.BlightWar",
@@ -69,22 +63,22 @@
       "developer": "Dave Studio"
     },
     {
-      "id": "com.dwus.gp",
-      "title": "Petal Paws",
-      "url": "https://play.google.com/store/apps/details?id=com.dwus.gp&hl=ko",
-      "developer": "NINE LAKES LIMITED"
+      "id": "com.deviloper.shadow.dungeon",
+      "title": "Shadow Dungeon: Roguelike Game",
+      "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
+      "developer": "Deviloper Limited"
     },
     {
-      "id": "com.elementagames.silverpalace.google",
-      "title": "실버 팰리스",
-      "url": "https://play.google.com/store/apps/details?id=com.elementagames.silverpalace.google&hl=ko",
-      "developer": "Elementa Games"
+      "id": "com.doghowl.DropDuchy",
+      "title": "Drop Duchy",
+      "url": "https://play.google.com/store/apps/details?id=com.doghowl.DropDuchy&hl=ko",
+      "developer": "Doghowl Games Ltd"
     },
     {
-      "id": "com.ht.marbleheroes",
-      "title": "Marblebound",
-      "url": "https://play.google.com/store/apps/details?id=com.ht.marbleheroes&hl=ko",
-      "developer": "HoopTech Games"
+      "id": "com.luckystargame.jdxy.gp",
+      "title": "Divine Throne: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.luckystargame.jdxy.gp&hl=ko",
+      "developer": "LUCKYSTAR NETWORK LIMITED"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -123,12 +117,6 @@
       "developer": "Pocketpair Publishing"
     },
     {
-      "id": "com.n2pg.novasaga",
-      "title": "Nova Saga",
-      "url": "https://play.google.com/store/apps/details?id=com.n2pg.novasaga&hl=ko",
-      "developer": "Now to Play Game Sucursal en España"
-    },
-    {
       "id": "com.n2pge.eo",
       "title": "Elysium Order - Anime RPG",
       "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
@@ -165,34 +153,16 @@
       "developer": "Nitro Games Oyj"
     },
     {
-      "id": "com.noodlecake.flickshotrogues",
-      "title": "Flick Shot Rogues",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.flickshotrogues&hl=ko",
-      "developer": "Noodlecake"
-    },
-    {
-      "id": "com.noodlecake.wb",
-      "title": "Winter Burrow",
-      "url": "https://play.google.com/store/apps/details?id=com.noodlecake.wb&hl=ko",
-      "developer": "Noodlecake"
-    },
-    {
       "id": "com.pchk.csn",
       "title": "Crystal Saga Nova",
       "url": "https://play.google.com/store/apps/details?id=com.pchk.csn&hl=ko",
       "developer": "Proficient City Hong Kong"
     },
     {
-      "id": "com.pid.fabledom",
-      "title": "Fabledom",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.fabledom&hl=ko",
-      "developer": "Dear Villagers"
-    },
-    {
-      "id": "com.pid.lilguardsman",
-      "title": "Lil' Guardsman",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
-      "developer": "Plug In Digital"
+      "id": "com.phase4.junkbusters.gl",
+      "title": "쿵쿵 버스터즈",
+      "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
+      "developer": "Rawhand Games"
     },
     {
       "id": "com.pid.preserve_complete",
@@ -201,10 +171,22 @@
       "developer": "Dear Villagers"
     },
     {
+      "id": "com.playdigious.absolum",
+      "title": "Absolum",
+      "url": "https://play.google.com/store/apps/details?id=com.playdigious.absolum&hl=ko",
+      "developer": "Playdigious"
+    },
+    {
       "id": "com.rabbit.zf",
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.rastargames.cdjzsea",
+      "title": "Conquest of Nine Kingdoms",
+      "url": "https://play.google.com/store/apps/details?id=com.rastargames.cdjzsea&hl=ko",
+      "developer": "RASTAR GAMES HK"
     },
     {
       "id": "com.snowgames.newtroboxing",
@@ -225,9 +207,15 @@
       "developer": "SPRING Games"
     },
     {
-      "id": "com.thp023.idle.zombie.shooting.defense",
-      "title": "Zombie War: Idle Defense",
-      "url": "https://play.google.com/store/apps/details?id=com.thp023.idle.zombie.shooting.defense&hl=ko",
+      "id": "com.studiolico.warriorreturns",
+      "title": "용사가 돌아왔다 키우기",
+      "url": "https://play.google.com/store/apps/details?id=com.studiolico.warriorreturns&hl=ko",
+      "developer": "STUDIO LICO Corp."
+    },
+    {
+      "id": "com.twh003.stickman.rpg.idle.game",
+      "title": "Age of Stickman: Evolution",
+      "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
       "developer": "Velocita Z"
     },
     {
@@ -241,12 +229,6 @@
       "title": "Sushi Cat Match: 고양이 초밥집",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.SushiMaster&hl=ko",
       "developer": "V2R"
-    },
-    {
-      "id": "com.wanda.transformers.gg.am",
-      "title": "Transformers: Eternal War",
-      "url": "https://play.google.com/store/apps/details?id=com.wanda.transformers.gg.am&hl=ko",
-      "developer": "Wanda Cinemas Games"
     },
     {
       "id": "com.wemadeconnect.aos.makedrama.google",
@@ -265,12 +247,6 @@
       "title": "네온 타워 클래시",
       "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
       "developer": "WK Company"
-    },
-    {
-      "id": "com.x.aniimos",
-      "title": "애니모",
-      "url": "https://play.google.com/store/apps/details?id=com.x.aniimos&hl=ko",
-      "developer": "Pawprint Studio"
     },
     {
       "id": "jp.co.cybird.appli.android.sg2.en",

@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-09-10T23:22:44.174169",
-  "count": 25,
+  "updated_at": "2026-09-11T23:30:15.819571",
+  "count": 23,
   "games": [
     {
-      "id": "GM_NCR_024720",
-      "title": "라스트걸:코어이브",
-      "url": "https://game.naver.com/LastGirl_CoreEve",
-      "release_date": "2026-09-07 ~  사전예약",
+      "id": "GM_NCR_022710",
+      "title": "무한전인 : 절대고수 키우기",
+      "url": "https://game.naver.com/Infinite_Master",
+      "release_date": "2026-08-21 ~  사전예약",
       "platform": "iOS"
-    },
-    {
-      "id": "GM_NCR_024782",
-      "title": "궁신 : 방치형 RPG",
-      "url": "https://game.naver.com/Gungsin_Idle_RPG",
-      "release_date": "2026-09-02 ~  사전예약",
-      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_024459",
@@ -29,6 +22,13 @@
       "url": "https://game.naver.com/Evernight",
       "release_date": "2026-08-13 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_022565",
+      "title": "애니모",
+      "url": "https://game.naver.com/Aniimo",
+      "release_date": "2026-06-08 ~  사전예약",
+      "platform": "Console,PC,Android,iOS"
     },
     {
       "id": "GM_NCR_022945",
@@ -66,20 +66,6 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024329",
-      "title": "포레스트 사이: 네버랜드​",
-      "url": "https://game.naver.com/Forest_Sigh_Neverland",
-      "release_date": "2026-09-01 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
-      "id": "GM_NCR_022565",
-      "title": "애니모",
-      "url": "https://game.naver.com/Aniimo",
-      "release_date": "2026-06-08 ~  사전예약",
-      "platform": "Android,Console,PC,iOS"
-    },
-    {
       "id": "GM_NCR_024475",
       "title": "히어로즈 테일즈2",
       "url": "https://game.naver.com/Heroes_tales2",
@@ -92,6 +78,13 @@
       "url": "https://game.naver.com/FORTBLOX",
       "release_date": "2026-08-28 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024329",
+      "title": "포레스트 사이: 네버랜드​",
+      "url": "https://game.naver.com/Forest_Sigh_Neverland",
+      "release_date": "2026-09-01 ~  사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_005825",
@@ -115,13 +108,6 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_022710",
-      "title": "무한전인 : 절대고수 키우기",
-      "url": "https://game.naver.com/Infinite_Master",
-      "release_date": "2026-08-21 ~  사전예약",
-      "platform": "iOS"
-    },
-    {
       "id": "GM_NCR_024910",
       "title": "갱스터 미라지 시티",
       "url": "https://game.naver.com/Gangstar_Mirage_City",
@@ -129,18 +115,18 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024008",
-      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
-      "url": "https://game.naver.com/skeleton",
-      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
       "id": "GM_NCR_019939",
       "title": "리리의 세계",
       "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
       "release_date": "2025-12-08 ~  사전예약",
       "platform": "Android,Console,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_024008",
+      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
+      "url": "https://game.naver.com/skeleton",
+      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_016009",
