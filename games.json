@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-12T23:12:20.686542",
-  "count": 42,
+  "updated_at": "2026-09-13T23:21:55.794544",
+  "count": 46,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -19,6 +19,18 @@
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
+    },
+    {
+      "id": "com.TeamSparta.DuckBrothers",
+      "title": "레전드 오브 덕 브라더스 : 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.DuckBrothers&hl=ko",
+      "developer": "Teamsparta Inc."
+    },
+    {
+      "id": "com.acingame.wgllworld.google",
+      "title": "Mortal to Immortal: Idle RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.acingame.wgllworld.google&hl=ko",
+      "developer": "Acingfun"
     },
     {
       "id": "com.azragames.ungodly",
@@ -73,6 +85,12 @@
       "title": "Drop Duchy",
       "url": "https://play.google.com/store/apps/details?id=com.doghowl.DropDuchy&hl=ko",
       "developer": "Doghowl Games Ltd"
+    },
+    {
+      "id": "com.girlsecho.gp",
+      "title": "Girls Echo",
+      "url": "https://play.google.com/store/apps/details?id=com.girlsecho.gp&hl=ko",
+      "developer": "HOWLYO GAME"
     },
     {
       "id": "com.luckystargame.jdxy.gp",
@@ -163,6 +181,12 @@
       "title": "쿵쿵 버스터즈",
       "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.pid.lilguardsman",
+      "title": "Lil' Guardsman",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
+      "developer": "Plug In Digital"
     },
     {
       "id": "com.pid.preserve_complete",
