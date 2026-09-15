@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-15T00:00:02.378087",
+  "updated_at": "2026-09-15T23:38:59.626918",
   "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_022785",
-      "title": "작안의 샤나 블레이즈 엣지",
-      "url": "https://game.naver.com/Shakugan",
-      "release_date": "2026-04-09 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_024459",
       "title": "동방사신전",
@@ -106,6 +99,13 @@
       "url": "https://game.naver.com/Dawns_Edge",
       "release_date": "2026-07-27 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024870",
+      "title": "왓더뼈킹",
+      "url": "https://game.naver.com/wtbk",
+      "release_date": "2026-09-14 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_024910",

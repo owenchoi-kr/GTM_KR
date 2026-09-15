@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T00:00:02.377200",
-  "count": 45,
+  "updated_at": "2026-09-15T23:38:59.625300",
+  "count": 37,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -63,18 +63,6 @@
       "developer": "Brazle"
     },
     {
-      "id": "com.com2usholdings.agwiv.android.google.global.normal",
-      "title": "ARES: THE IRON VANGUARD",
-      "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.agwiv.android.google.global.normal&hl=ko",
-      "developer": "Com2uS Holdings"
-    },
-    {
-      "id": "com.davestudio.mika",
-      "title": "미카: 던전 백패커",
-      "url": "https://play.google.com/store/apps/details?id=com.davestudio.mika&hl=ko",
-      "developer": "Dave Studio"
-    },
-    {
       "id": "com.deviloper.shadow.dungeon",
       "title": "Shadow Dungeon: Roguelike Game",
       "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
@@ -91,12 +79,6 @@
       "title": "Girls Echo",
       "url": "https://play.google.com/store/apps/details?id=com.girlsecho.gp&hl=ko",
       "developer": "HOWLYO GAME"
-    },
-    {
-      "id": "com.luckystargame.jdxy.gp",
-      "title": "Divine Throne: Idle RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.luckystargame.jdxy.gp&hl=ko",
-      "developer": "LUCKYSTAR NETWORK LIMITED"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -178,9 +160,15 @@
     },
     {
       "id": "com.phase4.junkbusters.gl",
-      "title": "쿵쿵 버스터즈",
+      "title": "쿵쿵 버스터즈 : 운빨 로그라이크 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.pid.lilguardsman",
+      "title": "Lil' Guardsman",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
+      "developer": "Plug In Digital"
     },
     {
       "id": "com.pid.preserve_complete",
@@ -235,42 +223,6 @@
       "title": "Age of Stickman: Evolution",
       "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
       "developer": "Velocita Z"
-    },
-    {
-      "id": "com.v2r.HamsterGarden",
-      "title": "Hamster Garden",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
-      "developer": "V2R"
-    },
-    {
-      "id": "com.v2r.SushiMaster",
-      "title": "Sushi Cat Match: 고양이 초밥집",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.SushiMaster&hl=ko",
-      "developer": "V2R"
-    },
-    {
-      "id": "com.wemadeconnect.aos.makedrama.google",
-      "title": "메이크 드라마 : MAD",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko",
-      "developer": "Wemade Connect"
-    },
-    {
-      "id": "com.wemadeconnect.aos.valkyrie",
-      "title": "라스트 발키리",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
-      "developer": "nitrox"
-    },
-    {
-      "id": "com.wk.mergedf",
-      "title": "네온 타워 클래시",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
-      "developer": "WK Company"
-    },
-    {
-      "id": "jp.co.cybird.appli.android.sg2.en",
-      "title": "Ikemen Sengoku Eternity: Otome",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
-      "developer": "CYBIRD"
     }
   ]
 }
