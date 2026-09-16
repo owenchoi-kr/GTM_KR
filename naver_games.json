@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-15T23:38:59.626918",
-  "count": 22,
+  "updated_at": "2026-09-16T23:46:54.902195",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_024459",
-      "title": "동방사신전",
-      "url": "https://game.naver.com/sasinjeon",
-      "release_date": "2026-08-24 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
-    {
-      "id": "GM_NCR_024329",
-      "title": "포레스트 사이: 네버랜드​",
-      "url": "https://game.naver.com/Forest_Sigh_Neverland",
-      "release_date": "2026-09-01 ~  사전예약",
-      "platform": "Android,OneStore"
-    },
     {
       "id": "GM_NCR_023067",
       "title": "에버나이트: 리버스",

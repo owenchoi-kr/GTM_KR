@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T23:38:59.625300",
-  "count": 37,
+  "updated_at": "2026-09-16T23:46:54.901065",
+  "count": 42,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -61,6 +61,12 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.davestudio.mika",
+      "title": "미카: 던전 백패커",
+      "url": "https://play.google.com/store/apps/details?id=com.davestudio.mika&hl=ko",
+      "developer": "Dave Studio"
     },
     {
       "id": "com.deviloper.shadow.dungeon",
@@ -189,12 +195,6 @@
       "developer": "Clegames Inc"
     },
     {
-      "id": "com.rastargames.cdjzsea",
-      "title": "Conquest of Nine Kingdoms",
-      "url": "https://play.google.com/store/apps/details?id=com.rastargames.cdjzsea&hl=ko",
-      "developer": "RASTAR GAMES HK"
-    },
-    {
       "id": "com.snowgames.newtroboxing",
       "title": "뉴트로 복싱",
       "url": "https://play.google.com/store/apps/details?id=com.snowgames.newtroboxing&hl=ko",
@@ -213,16 +213,46 @@
       "developer": "SPRING Games"
     },
     {
-      "id": "com.studiolico.warriorreturns",
-      "title": "용사가 돌아왔다 키우기",
-      "url": "https://play.google.com/store/apps/details?id=com.studiolico.warriorreturns&hl=ko",
-      "developer": "STUDIO LICO Corp."
-    },
-    {
       "id": "com.twh003.stickman.rpg.idle.game",
       "title": "Age of Stickman: Evolution",
       "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
       "developer": "Velocita Z"
+    },
+    {
+      "id": "com.v2r.HamsterGarden",
+      "title": "Hamster Garden",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
+      "developer": "V2R"
+    },
+    {
+      "id": "com.v2r.SushiMaster",
+      "title": "Sushi Cat Match: 고양이 초밥집",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.SushiMaster&hl=ko",
+      "developer": "V2R"
+    },
+    {
+      "id": "com.wemadeconnect.aos.makedrama.google",
+      "title": "메이크 드라마 : MAD",
+      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko",
+      "developer": "Wemade Connect"
+    },
+    {
+      "id": "com.wemadeconnect.aos.valkyrie",
+      "title": "라스트 발키리",
+      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
+      "developer": "nitrox"
+    },
+    {
+      "id": "com.wk.mergedf",
+      "title": "네온 타워 클래시",
+      "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
+      "developer": "WK Company"
+    },
+    {
+      "id": "jp.co.cybird.appli.android.sg2.en",
+      "title": "Ikemen Sengoku Eternity: Otome",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.cybird.appli.android.sg2.en&hl=ko",
+      "developer": "CYBIRD"
     }
   ]
 }

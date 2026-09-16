@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T23:38:59.626277",
-  "count": 7,
+  "updated_at": "2026-09-16T23:46:54.901628",
+  "count": 6,
   "games": [
     {
       "id": "992",
@@ -15,7 +15,8 @@
       "title": "토이 신선",
       "url": "https://pick.inven.co.kr/campaign/991/toyhermit",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다양한 사전예약 보상!"
+      "reward": "[2000이니, 100베니]다양한 사전예약 보상!",
+      "developer": "주식회사 엔드나인게임즈"
     },
     {
       "id": "990",
@@ -30,7 +31,8 @@
       "title": "씰M2",
       "url": "https://pick.inven.co.kr/campaign/989/SealM2",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]명마 알렉산드리아"
+      "reward": "[2000이니, 100베니]명마 알렉산드리아",
+      "developer": "㈜플레이위드코리아"
     },
     {
       "id": "986",
@@ -46,14 +48,6 @@
       "url": "https://pick.inven.co.kr/campaign/979/aniimo",
       "release_date": "출시 미정",
       "reward": "[2000이니, 100베니]다양한 보상 제공"
-    },
-    {
-      "id": "987",
-      "title": "세라핌 키우기",
-      "url": "https://pick.inven.co.kr/campaign/987/seraphimidle",
-      "release_date": "9월 16일 출시 완료",
-      "reward": "[1000이니]각종 소환권 및 푸짐한 다이아",
-      "developer": "JUAL PROJECT."
     }
   ]
 }

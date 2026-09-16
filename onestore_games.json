@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-15T23:38:59.626622",
-  "count": 27,
+  "updated_at": "2026-09-16T23:46:54.901927",
+  "count": 26,
   "games": [
     {
       "id": "0001008003",
@@ -19,12 +19,6 @@
       "title": "라스트 포스 : 강철의 진화",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008671",
       "developer": "MYTURN Inc"
-    },
-    {
-      "id": "0001008880",
-      "title": "KBO 작전야구매니저",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880",
-      "developer": "GrayBits Corp."
     },
     {
       "id": "0001008041",
@@ -87,12 +81,6 @@
       "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
     },
     {
-      "id": "0001005021",
-      "title": "케이팝 스타 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005021",
-      "developer": "Next Storm Co Ltd"
-    },
-    {
       "id": "0001004726",
       "title": "드래곤 고고씽",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004726",
@@ -109,12 +97,6 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
-    },
-    {
-      "id": "0001005637",
-      "title": "월드 마스터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637",
-      "developer": "AlcoveFactory"
     },
     {
       "id": "0001007558",
@@ -135,9 +117,15 @@
       "developer": "BILIBILI HK LIMITED"
     },
     {
-      "id": "0001008439",
-      "title": "궁신 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008439"
+      "id": "0001008880",
+      "title": "KBO 작전야구매니저",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880",
+      "developer": "GrayBits Corp."
+    },
+    {
+      "id": "0001005021",
+      "title": "케이팝 스타 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005021"
     },
     {
       "id": "0001006004",
@@ -152,8 +140,12 @@
     {
       "id": "0001008212",
       "title": "에버나이트: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212",
-      "developer": "LONGSIN"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212"
+    },
+    {
+      "id": "0001005637",
+      "title": "월드 마스터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637"
     },
     {
       "id": "0001008004",
