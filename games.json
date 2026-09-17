@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T23:46:54.901065",
-  "count": 42,
+  "updated_at": "2026-09-17T23:39:33.036470",
+  "count": 39,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -43,12 +43,6 @@
       "title": "BLEACH Mirrors High",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.bleach_mh_ww&hl=ko",
       "developer": "Bandai Namco Entertainment Inc."
-    },
-    {
-      "id": "com.bilibili.lumi",
-      "title": "Lumi Master",
-      "url": "https://play.google.com/store/apps/details?id=com.bilibili.lumi&hl=ko",
-      "developer": "BILIBILI"
     },
     {
       "id": "com.bilibili.sirius",
@@ -163,18 +157,6 @@
       "title": "Crystal Saga Nova",
       "url": "https://play.google.com/store/apps/details?id=com.pchk.csn&hl=ko",
       "developer": "Proficient City Hong Kong"
-    },
-    {
-      "id": "com.phase4.junkbusters.gl",
-      "title": "쿵쿵 버스터즈 : 운빨 로그라이크 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.phase4.junkbusters.gl&hl=ko",
-      "developer": "Rawhand Games"
-    },
-    {
-      "id": "com.pid.lilguardsman",
-      "title": "Lil' Guardsman",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
-      "developer": "Plug In Digital"
     },
     {
       "id": "com.pid.preserve_complete",

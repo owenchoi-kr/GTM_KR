@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T23:46:54.901927",
+  "updated_at": "2026-09-17T23:39:33.037662",
   "count": 26,
   "games": [
     {
@@ -87,12 +87,6 @@
       "developer": "Ujoy Games Limited"
     },
     {
-      "id": "0001007788",
-      "title": "후더덕 서바이벌",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788",
-      "developer": "JOY MOBILE NETWORK PTE. LTD."
-    },
-    {
       "id": "0001008083",
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
@@ -105,22 +99,9 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001005623",
-      "title": "식물 운빨 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623",
-      "developer": "GoldFlowGames"
-    },
-    {
-      "id": "0001004771",
-      "title": "루미마스터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771",
-      "developer": "BILIBILI HK LIMITED"
-    },
-    {
       "id": "0001008880",
       "title": "KBO 작전야구매니저",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880",
-      "developer": "GrayBits Corp."
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880"
     },
     {
       "id": "0001005021",
@@ -143,6 +124,11 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212"
     },
     {
+      "id": "0001007788",
+      "title": "후더덕 서바이벌",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788"
+    },
+    {
       "id": "0001005637",
       "title": "월드 마스터",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637"
@@ -151,6 +137,16 @@
       "id": "0001008004",
       "title": "운빨해적단",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008004"
+    },
+    {
+      "id": "0001005623",
+      "title": "식물 운빨 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623"
+    },
+    {
+      "id": "0001004771",
+      "title": "루미마스터",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771"
     }
   ]
 }

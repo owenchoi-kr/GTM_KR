@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-16T23:46:54.902195",
+  "updated_at": "2026-09-17T23:39:33.037945",
   "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_023067",
-      "title": "에버나이트: 리버스",
-      "url": "https://game.naver.com/Evernight",
-      "release_date": "2026-08-13 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_022565",
-      "title": "애니모",
-      "url": "https://game.naver.com/Aniimo",
-      "release_date": "2026-06-08 ~  사전예약",
-      "platform": "Console,PC,Android,iOS"
-    },
     {
       "id": "GM_NCR_022945",
       "title": "루미마스터",
@@ -45,6 +31,13 @@
       "platform": "Android,OneStore"
     },
     {
+      "id": "GM_NCR_022565",
+      "title": "애니모",
+      "url": "https://game.naver.com/Aniimo",
+      "release_date": "2026-06-08 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_013601",
       "title": "아너 오브 킹즈(왕자영요 글로벌)",
       "url": "https://game.naver.com/Honor_of_Kings",
@@ -64,6 +57,13 @@
       "url": "https://game.naver.com/Heroes_tales2",
       "release_date": "2026-08-20 ~  사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_024839",
+      "title": "토이 신선",
+      "url": "https://game.naver.com/Toy_Immortals",
+      "release_date": "2026-09-16 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_005825",
