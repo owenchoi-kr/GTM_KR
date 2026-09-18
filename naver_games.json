@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-09-17T23:39:33.037945",
-  "count": 20,
+  "updated_at": "2026-09-18T23:30:43.134854",
+  "count": 18,
   "games": [
-    {
-      "id": "GM_NCR_022945",
-      "title": "루미마스터",
-      "url": "https://game.naver.com/lumimaster",
-      "release_date": "2026-04-30 ~ 2026-09-17 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_024487",
-      "title": "후더덕 서바이벌",
-      "url": "https://game.naver.com/Duck_Survival",
-      "release_date": "2026-08-13 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_024650",
       "title": "포트블록스: 이동요새 GO!",

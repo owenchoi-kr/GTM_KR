@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-17T23:39:33.037662",
-  "count": 26,
+  "updated_at": "2026-09-18T23:30:43.134562",
+  "count": 29,
   "games": [
+    {
+      "id": "0001008723",
+      "title": "무림소녀 키우기: 리바이브",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008723",
+      "developer": "Game2Gather"
+    },
+    {
+      "id": "0001008948",
+      "title": "설레는: 운빨도깨비",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
+      "developer": "d.play soft Co., Ltd."
+    },
     {
       "id": "0001008003",
       "title": "삼국지: 천하결전",
@@ -43,6 +55,12 @@
       "title": "닼마: 다크판타지 3D 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710",
       "developer": "NETTOPDATA"
+    },
+    {
+      "id": "0001008594",
+      "title": " 오늘도 레벨업 히어로키우기 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008594",
+      "developer": "RainbowRabbit INC"
     },
     {
       "id": "0001007550",
