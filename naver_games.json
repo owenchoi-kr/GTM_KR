@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T23:30:43.134854",
-  "count": 18,
+  "updated_at": "2026-09-19T23:21:46.176111",
+  "count": 19,
   "games": [
     {
       "id": "GM_NCR_024650",
@@ -78,6 +78,13 @@
       "url": "https://game.naver.com/wtbk",
       "release_date": "2026-09-14 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_008119",
+      "title": "듄: 어웨이크닝",
+      "url": "https://game.naver.com/Dune_Awakening",
+      "release_date": "2026-09-18 ~ 2026-11-01 사전예약",
+      "platform": "Console"
     },
     {
       "id": "GM_NCR_024910",
