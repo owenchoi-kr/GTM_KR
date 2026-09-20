@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-19T23:21:46.175210",
+  "updated_at": "2026-09-20T23:25:01.249484",
   "count": 39,
   "games": [
+    {
+      "id": "com.quzizi.juicyjourney.google",
+      "title": "쥬시 저니: 머지&쿠킹",
+      "url": "https://play.google.com/store/apps/details?id=com.quzizi.juicyjourney.google&hl=ko",
+      "developer": "FunTaste"
+    },
     {
       "id": "com.Deliciousgames.PMC",
       "title": "뽑만추 : 방치된 뽑기기계 RPG",
@@ -175,12 +181,6 @@
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
       "developer": "Clegames Inc"
-    },
-    {
-      "id": "com.snowgames.newtroboxing",
-      "title": "뉴트로 복싱",
-      "url": "https://play.google.com/store/apps/details?id=com.snowgames.newtroboxing&hl=ko",
-      "developer": "Snow_Games"
     },
     {
       "id": "com.spcomes.jeweltemple",

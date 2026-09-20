@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T23:21:46.175915",
+  "updated_at": "2026-09-20T23:25:01.250245",
   "count": 29,
   "games": [
     {
@@ -69,12 +69,6 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001008216",
-      "title": "Hero Wars: Alliance RPG 게임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008216",
-      "developer": "NEXTERS GLOBAL LTD"
-    },
-    {
       "id": "0001008574",
       "title": "포트블록스: 이동요새 GO",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008574",
@@ -120,6 +114,12 @@
       "id": "0001008880",
       "title": "KBO 작전야구매니저",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880"
+    },
+    {
+      "id": "0001008216",
+      "title": "Hero Wars: Alliance RPG 게임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008216",
+      "developer": "NEXTERS GLOBAL LTD"
     },
     {
       "id": "0001005021",
