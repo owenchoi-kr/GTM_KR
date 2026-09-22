@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T00:16:58.558448",
+  "updated_at": "2026-09-22T23:45:33.140310",
   "count": 20,
   "games": [
     {
@@ -8,6 +8,13 @@
       "url": "https://game.naver.com/Eternal_Rebirth_Oversouler",
       "release_date": "2026-09-09 ~  사전예약",
       "platform": "Android,OneStore"
+    },
+    {
+      "id": "GM_NCR_024839",
+      "title": "토이 신선",
+      "url": "https://game.naver.com/Toy_Immortals",
+      "release_date": "2026-09-16 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_022565",
@@ -29,13 +36,6 @@
       "url": "https://game.naver.com/Immortal_Rising_Awakening",
       "release_date": "2026-08-18 ~  사전예약",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_024839",
-      "title": "토이 신선",
-      "url": "https://game.naver.com/Toy_Immortals",
-      "release_date": "2026-09-16 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_024879",

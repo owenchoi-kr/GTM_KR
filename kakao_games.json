@@ -1,21 +1,11 @@
 {
-  "updated_at": "2026-09-22T00:16:58.558245",
-  "count": 4,
+  "updated_at": "2026-09-22T23:45:33.139928",
+  "count": 2,
   "games": [
     {
       "id": "fdYtSw",
       "title": "드래곤 레이드",
       "url": "https://game.kakao.com/ar/fdYtSw?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "9KnWuT",
-      "title": "드래곤 플라이트",
-      "url": "https://game.kakao.com/ar/9KnWuT?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "gVUmYY",
-      "title": "애니모",
-      "url": "https://game.kakao.com/ar/gVUmYY?rtc=atb_K-GAM02X0111"
     },
     {
       "id": "YaMnV9",

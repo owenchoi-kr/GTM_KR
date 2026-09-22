@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-22T00:16:58.558292",
-  "count": 27,
+  "updated_at": "2026-09-22T23:45:33.140037",
+  "count": 26,
   "games": [
+    {
+      "id": "0001008808",
+      "title": "노아 키우기 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808",
+      "developer": "LinkZ inc"
+    },
     {
       "id": "0001008723",
       "title": "무림소녀 키우기: 리바이브",
@@ -69,12 +75,6 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001008378",
-      "title": "토이 신선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378",
-      "developer": "END9 GAMES Corp"
-    },
-    {
       "id": "0001008198",
       "title": "히어로즈 테일즈2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198",
@@ -119,19 +119,14 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006533"
     },
     {
+      "id": "0001008378",
+      "title": "토이 신선",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378"
+    },
+    {
       "id": "0001005021",
       "title": "케이팝 스타 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005021"
-    },
-    {
-      "id": "0001006004",
-      "title": "동방사신전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006004"
-    },
-    {
-      "id": "0001008212",
-      "title": "에버나이트: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008212"
     },
     {
       "id": "0001007788",
