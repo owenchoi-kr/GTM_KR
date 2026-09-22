@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-20T23:25:01.250456",
-  "count": 19,
+  "updated_at": "2026-09-22T00:16:58.558448",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_024650",
-      "title": "포트블록스: 이동요새 GO!",
-      "url": "https://game.naver.com/FORTBLOX",
-      "release_date": "2026-08-28 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_023430",
       "title": "나만 SSS급 퇴마사",
@@ -43,6 +36,20 @@
       "url": "https://game.naver.com/Toy_Immortals",
       "release_date": "2026-09-16 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_024879",
+      "title": "렉시오 모바일",
+      "url": "https://game.naver.com/LEXIO_MOBILE",
+      "release_date": "2026-09-21 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025117",
+      "title": "탭 자이언츠",
+      "url": "https://game.naver.com/Tap_Giants",
+      "release_date": "2026-09-21 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_024475",
@@ -112,7 +119,7 @@
       "title": "라스트 소녀 전사",
       "url": "https://game.naver.com/Doomsday_Warrior",
       "release_date": "2025-12-11 ~  사전예약",
-      "platform": "Android,iOS"
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_020257",
