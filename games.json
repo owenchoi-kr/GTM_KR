@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-22T23:45:33.139296",
-  "count": 39,
+  "updated_at": "2026-09-23T23:54:00.458777",
+  "count": 38,
   "games": [
     {
       "id": "com.quzizi.juicyjourney.google",
@@ -48,6 +48,12 @@
       "id": "com.bandainamcoent.bleach_mh_ww",
       "title": "BLEACH Mirrors High",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.bleach_mh_ww&hl=ko",
+      "developer": "Bandai Namco Entertainment Inc."
+    },
+    {
+      "id": "com.bandainamcoent.op_restaurant",
+      "title": "원피스 그랜드 레스토랑",
+      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.op_restaurant&hl=ko",
       "developer": "Bandai Namco Entertainment Inc."
     },
     {
@@ -147,12 +153,6 @@
       "developer": "Netmarble"
     },
     {
-      "id": "com.nitrogames.boltgunboom",
-      "title": "워해머 40,000: 볼트건 Boom",
-      "url": "https://play.google.com/store/apps/details?id=com.nitrogames.boltgunboom&hl=ko",
-      "developer": "Nitro Games Oyj"
-    },
-    {
       "id": "com.pid.preserve_complete",
       "title": "Preserve: Complete Edition",
       "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
@@ -183,10 +183,10 @@
       "developer": "Springcomes"
     },
     {
-      "id": "com.springgames.archercastle",
-      "title": "아처캐슬 키우기 : 방치형 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.springgames.archercastle&hl=ko",
-      "developer": "SPRING Games"
+      "id": "com.superbox.aos.catshooter",
+      "title": "쏘는고양!",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.catshooter&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superbox.mergemysteryresort",
@@ -210,12 +210,6 @@
       "id": "com.v2r.HamsterGarden",
       "title": "Hamster Garden",
       "url": "https://play.google.com/store/apps/details?id=com.v2r.HamsterGarden&hl=ko",
-      "developer": "V2R"
-    },
-    {
-      "id": "com.v2r.SushiMaster",
-      "title": "Sushi Cat Match: 고양이 초밥집",
-      "url": "https://play.google.com/store/apps/details?id=com.v2r.SushiMaster&hl=ko",
       "developer": "V2R"
     },
     {

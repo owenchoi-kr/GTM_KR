@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-09-22T23:45:33.140037",
-  "count": 26,
+  "updated_at": "2026-09-23T23:54:00.459561",
+  "count": 24,
   "games": [
+    {
+      "id": "0001009529",
+      "title": "영주님은 죽지 않는다 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009529",
+      "developer": "Dearto"
+    },
     {
       "id": "0001008808",
       "title": "노아 키우기 : 방치형 RPG",
@@ -19,18 +25,6 @@
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
       "developer": "d.play soft Co., Ltd."
-    },
-    {
-      "id": "0001008003",
-      "title": "삼국지: 천하결전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008003",
-      "developer": "BILIBILI HK LIMITED"
-    },
-    {
-      "id": "0001008878",
-      "title": "삼국지: 항우전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008878",
-      "developer": "ENP Games Co., Ltd."
     },
     {
       "id": "0001008671",
@@ -99,9 +93,14 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001008880",
-      "title": "KBO 작전야구매니저",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008880"
+      "id": "0001008003",
+      "title": "삼국지: 천하결전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008003"
+    },
+    {
+      "id": "0001008878",
+      "title": "삼국지: 항우전",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008878"
     },
     {
       "id": "0001008216",
@@ -124,19 +123,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378"
     },
     {
-      "id": "0001005021",
-      "title": "케이팝 스타 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005021"
-    },
-    {
       "id": "0001007788",
       "title": "후더덕 서바이벌",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788"
-    },
-    {
-      "id": "0001005637",
-      "title": "월드 마스터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005637"
     },
     {
       "id": "0001005623",
