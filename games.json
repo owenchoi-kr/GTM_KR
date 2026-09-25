@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T23:54:00.458777",
+  "updated_at": "2026-09-25T00:00:43.539187",
   "count": 38,
   "games": [
     {
@@ -85,12 +85,6 @@
       "title": "Drop Duchy",
       "url": "https://play.google.com/store/apps/details?id=com.doghowl.DropDuchy&hl=ko",
       "developer": "Doghowl Games Ltd"
-    },
-    {
-      "id": "com.girlsecho.gp",
-      "title": "Girls Echo",
-      "url": "https://play.google.com/store/apps/details?id=com.girlsecho.gp&hl=ko",
-      "developer": "HOWLYO GAME"
     },
     {
       "id": "com.lunosoft.catidle",
@@ -229,6 +223,12 @@
       "title": "네온 타워 클래시",
       "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
       "developer": "WK Company"
+    },
+    {
+      "id": "jp.co.gagex.ankaa",
+      "title": "신・추억의 구멍가게 이야기 ~심금을 울리는 퍼즐 게임~",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.gagex.ankaa&hl=ko",
+      "developer": "GAGEX Co.,Ltd."
     }
   ]
 }

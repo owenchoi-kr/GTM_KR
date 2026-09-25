@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-23T23:54:00.459561",
-  "count": 24,
+  "updated_at": "2026-09-25T00:00:43.540558",
+  "count": 21,
   "games": [
     {
       "id": "0001009529",
@@ -121,21 +121,6 @@
       "id": "0001008378",
       "title": "토이 신선",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378"
-    },
-    {
-      "id": "0001007788",
-      "title": "후더덕 서바이벌",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007788"
-    },
-    {
-      "id": "0001005623",
-      "title": "식물 운빨 디펜스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001005623"
-    },
-    {
-      "id": "0001004771",
-      "title": "루미마스터",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004771"
     }
   ]
 }
