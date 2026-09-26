@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T00:00:43.539986",
+  "updated_at": "2026-09-26T00:03:12.521387",
   "count": 5,
   "games": [
     {
@@ -7,7 +7,8 @@
       "title": "소드 X 스태프",
       "url": "https://pick.inven.co.kr/campaign/994/SwordxStaff",
       "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]추후 공개"
+      "reward": "[2000이니, 100베니]추후 공개",
+      "developer": "볼트레이게임즈"
     },
     {
       "id": "992",
