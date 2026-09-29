@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-27T23:55:41.064074",
-  "count": 16,
+  "updated_at": "2026-09-29T01:11:32.248380",
+  "count": 17,
   "games": [
     {
       "id": "GM_NCR_024879",
@@ -29,6 +29,13 @@
       "url": "https://game.naver.com/Tree_of_Savior_M",
       "release_date": "2026-09-09 ~ 2026-10-18 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_024455",
+      "title": "타워 디펜스 온라인",
+      "url": "https://game.naver.com/Tower_Defense_Online",
+      "release_date": "2026-09-28 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_023714",
