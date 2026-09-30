@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-09-29T01:11:32.248064",
-  "count": 18,
+  "updated_at": "2026-09-30T00:42:26.823526",
+  "count": 19,
   "games": [
+    {
+      "id": "0001006327",
+      "title": "삼국지: 구주제패",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327",
+      "developer": "RASTAR GAMES (HK) CO.,LIMITED"
+    },
+    {
+      "id": "0001008976",
+      "title": "루미나: 세라피아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976",
+      "developer": "GM 게임"
+    },
     {
       "id": "0001009529",
       "title": "영주님은 죽지 않는다 : 방치형 RPG",
@@ -25,12 +37,6 @@
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
       "developer": "d.play soft Co., Ltd."
-    },
-    {
-      "id": "0001008671",
-      "title": "라스트 포스 : 강철의 진화",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008671",
-      "developer": "MYTURN Inc"
     },
     {
       "id": "0001008041",
@@ -87,12 +93,6 @@
       "developer": "MGMAE Corp"
     },
     {
-      "id": "0001007558",
-      "title": "소울 오브 크라임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001008003",
       "title": "삼국지: 천하결전",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008003"
@@ -103,9 +103,14 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008878"
     },
     {
-      "id": "0001008378",
-      "title": "토이 신선",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008378"
+      "id": "0001008671",
+      "title": "라스트 포스 : 강철의 진화",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008671"
+    },
+    {
+      "id": "0001007558",
+      "title": "소울 오브 크라임",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558"
     }
   ]
 }
