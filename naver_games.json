@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-09-30T00:42:26.823791",
-  "count": 17,
+  "updated_at": "2026-10-01T00:43:27.833131",
+  "count": 18,
   "games": [
     {
       "id": "GM_NCR_024879",
       "title": "렉시오 모바일",
       "url": "https://game.naver.com/LEXIO_MOBILE",
       "release_date": "2026-09-21 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025264",
+      "title": "원정대 키우기",
+      "url": "https://game.naver.com/Kaind_idle",
+      "release_date": "2026-10-01 ~ 2026-10-08 사전예약",
       "platform": "Android,iOS"
     },
     {

@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-30T00:42:26.823059",
-  "count": 5,
+  "updated_at": "2026-10-01T00:43:27.832231",
+  "count": 6,
   "games": [
+    {
+      "id": "996",
+      "title": "세계수의 노래",
+      "url": "https://pick.inven.co.kr/campaign/996/worldtree",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]업데이트 예정",
+      "developer": "주식회사 엔드나인게임즈"
+    },
     {
       "id": "994",
       "title": "소드 X 스태프",

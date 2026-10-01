@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:42:26.822386",
-  "count": 36,
+  "updated_at": "2026-10-01T00:43:27.831417",
+  "count": 37,
   "games": [
     {
       "id": "com.quzizi.juicyjourney.google",
@@ -79,6 +79,12 @@
       "title": "Shadow Dungeon: Roguelike Game",
       "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
       "developer": "Deviloper Limited"
+    },
+    {
+      "id": "com.gamehollywood.zi",
+      "title": "Zero Immortal",
+      "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.zi&hl=ko",
+      "developer": "Game Hollywood Hong Kong Limited"
     },
     {
       "id": "com.girlsecho.gp",

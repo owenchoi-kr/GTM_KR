@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-30T00:42:26.823526",
-  "count": 19,
+  "updated_at": "2026-10-01T00:43:27.832768",
+  "count": 17,
   "games": [
     {
       "id": "0001006327",
@@ -91,16 +91,6 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
-    },
-    {
-      "id": "0001008003",
-      "title": "삼국지: 천하결전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008003"
-    },
-    {
-      "id": "0001008878",
-      "title": "삼국지: 항우전",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008878"
     },
     {
       "id": "0001008671",
