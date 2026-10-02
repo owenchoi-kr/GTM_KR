@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-10-01T00:43:27.832768",
-  "count": 17,
+  "updated_at": "2026-10-02T01:04:04.687626",
+  "count": 19,
   "games": [
+    {
+      "id": "0001009277",
+      "title": "숲의 소환단:방치형 판타지 수집 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277",
+      "developer": "Theplayplus"
+    },
+    {
+      "id": "0001006307",
+      "title": "세계수의 노래",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006307",
+      "developer": "END9GAMES Corp"
+    },
     {
       "id": "0001006327",
       "title": "삼국지: 구주제패",
@@ -25,12 +37,6 @@
       "title": "노아 키우기 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808",
       "developer": "LinkZ inc"
-    },
-    {
-      "id": "0001008723",
-      "title": "무림소녀 키우기: 리바이브",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008723",
-      "developer": "Game2Gather"
     },
     {
       "id": "0001008948",
@@ -91,6 +97,11 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
+    },
+    {
+      "id": "0001008723",
+      "title": "무림소녀 키우기: 리바이브",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008723"
     },
     {
       "id": "0001008671",
