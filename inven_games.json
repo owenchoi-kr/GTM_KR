@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T01:04:04.687070",
+  "updated_at": "2026-10-03T00:39:07.869026",
   "count": 6,
   "games": [
     {
@@ -23,7 +23,8 @@
       "title": "드래곤 레이드",
       "url": "https://pick.inven.co.kr/campaign/992/dragonraid",
       "release_date": "10월 14일 출시 예정",
-      "reward": "[2000이니, 100베니]사전예약 전원 코스튬 2종 지급"
+      "reward": "[2000이니, 100베니]사전예약 전원 코스튬 2종 지급",
+      "developer": "퍼니스톰"
     },
     {
       "id": "989",
