@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T00:39:07.869463",
+  "updated_at": "2026-10-04T00:01:19.854451",
   "count": 19,
   "games": [
     {
@@ -31,12 +31,6 @@
       "title": "영주님은 죽지 않는다 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009529",
       "developer": "Dearto"
-    },
-    {
-      "id": "0001008808",
-      "title": "노아 키우기 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808",
-      "developer": "LinkZ inc"
     },
     {
       "id": "0001008948",
@@ -97,6 +91,11 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
+    },
+    {
+      "id": "0001008808",
+      "title": "노아 키우기 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808"
     },
     {
       "id": "0001008723",
