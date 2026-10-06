@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-05T00:06:46.719316",
-  "count": 4,
+  "updated_at": "2026-10-06T01:52:33.601275",
+  "count": 3,
   "games": [
     {
       "id": "s5t9Yj",
@@ -16,11 +16,6 @@
       "id": "fdYtSw",
       "title": "드래곤 레이드",
       "url": "https://game.kakao.com/ar/fdYtSw?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "YaMnV9",
-      "title": "도깨비의세계",
-      "url": "https://game.kakao.com/ar/YaMnV9?rtc=atb_K-GAM02X0111"
     }
   ]
 }
