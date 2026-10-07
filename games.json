@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-06T01:52:33.600452",
+  "updated_at": "2026-10-07T00:56:55.221158",
   "count": 37,
   "games": [
     {
@@ -93,6 +93,12 @@
       "developer": "HOWLYO GAME"
     },
     {
+      "id": "com.hanbitsoft.gemgl.google",
+      "title": "Granado Espada M - Sword2",
+      "url": "https://play.google.com/store/apps/details?id=com.hanbitsoft.gemgl.google&hl=ko",
+      "developer": "HanbitSoft Inc"
+    },
+    {
       "id": "com.lunosoft.soullegion",
       "title": "영혼군단 키우기: 방치형 소울 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.soullegion&hl=ko",
@@ -145,12 +151,6 @@
       "title": "뱀피르",
       "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=ko",
       "developer": "Netmarble"
-    },
-    {
-      "id": "com.pid.preserve_complete",
-      "title": "Preserve: Complete Edition",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.preserve_complete&hl=ko",
-      "developer": "Dear Villagers"
     },
     {
       "id": "com.playdigious.absolum",

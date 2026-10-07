@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T01:52:33.601494",
-  "count": 19,
+  "updated_at": "2026-10-07T00:56:55.223258",
+  "count": 17,
   "games": [
     {
       "id": "0001009277",
@@ -101,16 +101,6 @@
       "id": "0001008723",
       "title": "무림소녀 키우기: 리바이브",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008723"
-    },
-    {
-      "id": "0001008671",
-      "title": "라스트 포스 : 강철의 진화",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008671"
-    },
-    {
-      "id": "0001007558",
-      "title": "소울 오브 크라임",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007558"
     }
   ]
 }

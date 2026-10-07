@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-06T01:52:33.601804",
-  "count": 18,
+  "updated_at": "2026-10-07T00:56:55.223731",
+  "count": 19,
   "games": [
     {
       "id": "GM_NCR_024879",
@@ -13,7 +13,7 @@
       "id": "GM_NCR_025264",
       "title": "원정대 키우기",
       "url": "https://game.naver.com/Kaind_idle",
-      "release_date": "2026-10-01 ~ 2026-10-08 사전예약",
+      "release_date": "2026-10-01 ~ 2026-10-14 사전예약",
       "platform": "Android,iOS"
     },
     {
@@ -127,6 +127,13 @@
       "url": "https://game.naver.com/three_kingdoms_random_defence",
       "release_date": "2026-09-08 ~  사전예약",
       "platform": "Android"
+    },
+    {
+      "id": "GM_NCR_025247",
+      "title": "바람의흔적",
+      "url": "https://game.naver.com/Whisperborne",
+      "release_date": "2026-10-06 ~  사전예약",
+      "platform": "Android,iOS"
     }
   ]
 }
