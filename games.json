@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-10-07T00:56:55.221158",
+  "updated_at": "2026-10-08T01:15:08.048891",
   "count": 37,
   "games": [
-    {
-      "id": "com.quzizi.juicyjourney.google",
-      "title": "쥬시 저니: 머지&쿠킹",
-      "url": "https://play.google.com/store/apps/details?id=com.quzizi.juicyjourney.google&hl=ko",
-      "developer": "FunTaste"
-    },
     {
       "id": "com.Deliciousgames.PMC",
       "title": "뽑만추 : 방치된 뽑기기계 RPG",
@@ -40,7 +34,7 @@
     },
     {
       "id": "com.azragames.ungodly",
-      "title": "UnGodly",
+      "title": "UnGodly 언갓들리",
       "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
       "developer": "Azra Games"
     },
@@ -159,6 +153,12 @@
       "developer": "Playdigious"
     },
     {
+      "id": "com.quzizi.juicyjourney.google",
+      "title": "쥬시 저니: 머지&쿠킹",
+      "url": "https://play.google.com/store/apps/details?id=com.quzizi.juicyjourney.google&hl=ko",
+      "developer": "FunTaste"
+    },
+    {
       "id": "com.rabbit.zf",
       "title": "좀비파이어 : 오두막 생존",
       "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
@@ -201,12 +201,6 @@
       "developer": "Velocita Z"
     },
     {
-      "id": "com.wemadeconnect.aos.makedrama.google",
-      "title": "메이크 드라마 : MAD",
-      "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.makedrama.google&hl=ko",
-      "developer": "Wemade Connect"
-    },
-    {
       "id": "com.wemadeconnect.aos.valkyrie",
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
@@ -223,6 +217,12 @@
       "title": "신・추억의 구멍가게 이야기 ~심금을 울리는 퍼즐 게임~",
       "url": "https://play.google.com/store/apps/details?id=jp.co.gagex.ankaa&hl=ko",
       "developer": "GAGEX Co.,Ltd."
+    },
+    {
+      "id": "net.lightcon.windidle",
+      "title": "윈드러너 키우기 - 3000뽑기 증정!",
+      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle&hl=ko",
+      "developer": "LightCON Co.,Ltd."
     }
   ]
 }
