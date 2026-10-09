@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T01:15:08.061564",
+  "updated_at": "2026-10-09T01:22:21.714628",
   "count": 17,
   "games": [
     {
@@ -37,6 +37,12 @@
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
       "developer": "d.play soft Co., Ltd."
+    },
+    {
+      "id": "0001007149",
+      "title": "왓더뼈킹 : 20000뽑기 FLEX！",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007149",
+      "developer": "TeamQuest"
     },
     {
       "id": "0001008041",
@@ -96,11 +102,6 @@
       "id": "0001008808",
       "title": "노아 키우기 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808"
-    },
-    {
-      "id": "0001008723",
-      "title": "무림소녀 키우기: 리바이브",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008723"
     }
   ]
 }

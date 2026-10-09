@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T01:15:08.048891",
-  "count": 37,
+  "updated_at": "2026-10-09T01:22:21.713269",
+  "count": 40,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -19,6 +19,12 @@
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
+    },
+    {
+      "id": "com.FreeDust.LastCampDefense2",
+      "title": "라스트 캠프 : 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.FreeDust.LastCampDefense2&hl=ko",
+      "developer": "LiberalDust"
     },
     {
       "id": "com.TeamSparta.DuckBrothers",
@@ -91,6 +97,12 @@
       "title": "Granado Espada M - Sword2",
       "url": "https://play.google.com/store/apps/details?id=com.hanbitsoft.gemgl.google&hl=ko",
       "developer": "HanbitSoft Inc"
+    },
+    {
+      "id": "com.lunosoft.jewelnights2",
+      "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
+      "developer": "LUNOSOFT INC"
     },
     {
       "id": "com.lunosoft.soullegion",
@@ -169,6 +181,12 @@
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.rxzggo.global",
+      "title": "熱血主公Go! - 群雄逐鹿",
+      "url": "https://play.google.com/store/apps/details?id=com.rxzggo.global&hl=ko",
+      "developer": "FW Game Studio"
     },
     {
       "id": "com.spcomes.jeweltemple",
