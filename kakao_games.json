@@ -1,21 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:22:21.714409",
-  "count": 3,
-  "games": [
-    {
-      "id": "s5t9Yj",
-      "title": "템빨: 오버기어드",
-      "url": "https://game.kakao.com/ar/s5t9Yj?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "ipU82w",
-      "title": "그랜드체이스",
-      "url": "https://game.kakao.com/ar/ipU82w?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "fdYtSw",
-      "title": "드래곤 레이드",
-      "url": "https://game.kakao.com/ar/fdYtSw?rtc=atb_K-GAM02X0111"
-    }
-  ]
+  "updated_at": "2026-10-10T01:08:28.656607",
+  "count": 0,
+  "games": []
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-09T01:22:21.714934",
-  "count": 23,
+  "updated_at": "2026-10-10T01:08:28.657065",
+  "count": 24,
   "games": [
     {
       "id": "GM_NCR_025264",
@@ -84,6 +84,13 @@
       "title": "왓더뼈킹",
       "url": "https://game.naver.com/wtbk",
       "release_date": "2026-09-14 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_023737",
+      "title": "삼국지: 구주제패",
+      "url": "https://game.naver.com/Three_Kingdoms_Conquering_the_World",
+      "release_date": "2026-10-09 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {

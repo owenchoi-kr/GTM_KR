@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T01:22:21.713269",
+  "updated_at": "2026-10-10T01:08:28.655693",
   "count": 40,
   "games": [
     {
@@ -123,12 +123,6 @@
       "developer": "mobirix"
     },
     {
-      "id": "com.mythicowl.truckful",
-      "title": "Truckful / 트럭풀",
-      "url": "https://play.google.com/store/apps/details?id=com.mythicowl.truckful&hl=ko",
-      "developer": "Pocketpair Publishing"
-    },
-    {
       "id": "com.n2pge.eo",
       "title": "Elysium Order - Anime RPG",
       "url": "https://play.google.com/store/apps/details?id=com.n2pge.eo&hl=ko",
@@ -229,6 +223,12 @@
       "title": "네온 타워 클래시",
       "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
       "developer": "WK Company"
+    },
+    {
+      "id": "highpixel.billion",
+      "title": "암살자 키우기 : 1주년",
+      "url": "https://play.google.com/store/apps/details?id=highpixel.billion&hl=ko",
+      "developer": "하이픽셀(HighPixel)"
     },
     {
       "id": "jp.co.gagex.ankaa",
