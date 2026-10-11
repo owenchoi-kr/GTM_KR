@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-10T01:08:28.656774",
-  "count": 17,
+  "updated_at": "2026-10-11T00:22:29.251179",
+  "count": 16,
   "games": [
     {
       "id": "0001009277",
@@ -97,11 +97,6 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
-    },
-    {
-      "id": "0001008808",
-      "title": "노아 키우기 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008808"
     }
   ]
 }
