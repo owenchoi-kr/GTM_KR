@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-12T00:43:51.924747",
-  "count": 40,
+  "updated_at": "2026-10-13T02:42:54.064088",
+  "count": 39,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -229,12 +229,6 @@
       "title": "암살자 키우기 : 1주년",
       "url": "https://play.google.com/store/apps/details?id=highpixel.billion&hl=ko",
       "developer": "하이픽셀(HighPixel)"
-    },
-    {
-      "id": "jp.co.gagex.ankaa",
-      "title": "신・추억의 구멍가게 이야기 ~심금을 울리는 퍼즐 게임~",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.gagex.ankaa&hl=ko",
-      "developer": "GAGEX Co.,Ltd."
     },
     {
       "id": "net.lightcon.windidle",
