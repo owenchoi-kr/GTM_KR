@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-13T02:42:54.065812",
-  "count": 24,
+  "updated_at": "2026-10-14T00:30:19.729214",
+  "count": 25,
   "games": [
     {
       "id": "GM_NCR_025264",
@@ -10,11 +10,11 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_025117",
-      "title": "탭 자이언츠",
-      "url": "https://game.naver.com/Tap_Giants",
-      "release_date": "2026-09-21 ~  사전예약",
-      "platform": "Android"
+      "id": "GM_NCR_024475",
+      "title": "히어로즈 테일즈2",
+      "url": "https://game.naver.com/Heroes_tales2",
+      "release_date": "2026-08-20 ~  사전예약",
+      "platform": "Android,iOS,OneStore,PC"
     },
     {
       "id": "GM_NCR_021820",
@@ -31,11 +31,11 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024475",
-      "title": "히어로즈 테일즈2",
-      "url": "https://game.naver.com/Heroes_tales2",
-      "release_date": "2026-08-20 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
+      "id": "GM_NCR_025117",
+      "title": "탭 자이언츠",
+      "url": "https://game.naver.com/Tap_Giants",
+      "release_date": "2026-09-21 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_005825",
@@ -43,6 +43,13 @@
       "url": "https://game.naver.com/Tree_of_Savior_M",
       "release_date": "2026-09-09 ~ 2026-10-18 사전예약",
       "platform": "Android,iOS,OneStore,PC"
+    },
+    {
+      "id": "GM_NCR_024448",
+      "title": "삼국지: 킹덤",
+      "url": "https://game.naver.com/Samgukji_Kingdom",
+      "release_date": "2026-10-13 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_000072",
@@ -115,18 +122,18 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_019939",
-      "title": "리리의 세계",
-      "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
-      "release_date": "2025-12-08 ~  사전예약",
-      "platform": "Android,Console,iOS,PC"
-    },
-    {
       "id": "GM_NCR_024008",
       "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
       "url": "https://game.naver.com/skeleton",
       "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_019939",
+      "title": "리리의 세계",
+      "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
+      "release_date": "2025-12-08 ~  사전예약",
+      "platform": "Android,Console,iOS,PC"
     },
     {
       "id": "GM_NCR_016009",
@@ -150,13 +157,6 @@
       "platform": "Android,iOS,PC"
     },
     {
-      "id": "GM_NCR_025051",
-      "title": "막다보니 천하통일",
-      "url": "https://game.naver.com/Tiny_War_Kingdom_Defense",
-      "release_date": "2026-10-08 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
       "id": "GM_NCR_024316",
       "title": "삼국지 랜덤 디펜스",
       "url": "https://game.naver.com/three_kingdoms_random_defence",
@@ -168,6 +168,13 @@
       "title": "바람의흔적",
       "url": "https://game.naver.com/Whisperborne",
       "release_date": "2026-10-06 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025051",
+      "title": "막다보니 천하통일",
+      "url": "https://game.naver.com/Tiny_War_Kingdom_Defense",
+      "release_date": "2026-10-08 ~  사전예약",
       "platform": "Android,iOS"
     }
   ]
