@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-10-14T00:30:19.729214",
-  "count": 25,
+  "updated_at": "2026-10-15T00:03:10.107603",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_025264",
-      "title": "원정대 키우기",
-      "url": "https://game.naver.com/Kaind_idle",
-      "release_date": "2026-10-01 ~ 2026-10-14 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_024475",
-      "title": "히어로즈 테일즈2",
-      "url": "https://game.naver.com/Heroes_tales2",
-      "release_date": "2026-08-20 ~  사전예약",
-      "platform": "Android,iOS,OneStore,PC"
-    },
-    {
-      "id": "GM_NCR_021820",
-      "title": "마린 키우기 : 방치형 RPG",
-      "url": "https://game.naver.com/MarineSquad",
-      "release_date": "2026-10-07 ~ 2026-10-14 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_024879",
-      "title": "렉시오 모바일",
-      "url": "https://game.naver.com/LEXIO_MOBILE",
-      "release_date": "2026-10-08 ~ 2026-10-15 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_025117",
       "title": "탭 자이언츠",
@@ -45,6 +17,13 @@
       "platform": "Android,iOS,OneStore,PC"
     },
     {
+      "id": "GM_NCR_024879",
+      "title": "렉시오 모바일",
+      "url": "https://game.naver.com/LEXIO_MOBILE",
+      "release_date": "2026-10-08 ~ 2026-10-21 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_024448",
       "title": "삼국지: 킹덤",
       "url": "https://game.naver.com/Samgukji_Kingdom",
@@ -56,6 +35,13 @@
       "title": "대항해의길",
       "url": "https://game.naver.com/NUEVA_SALIDA",
       "release_date": "2026-10-08 ~ 2026-10-22 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_025311",
+      "title": "세계수의 노래",
+      "url": "https://game.naver.com/Worldtree_Eternal_Song",
+      "release_date": "2026-10-14 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -94,13 +80,6 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_023737",
-      "title": "삼국지: 구주제패",
-      "url": "https://game.naver.com/Three_Kingdoms_Conquering_the_World",
-      "release_date": "2026-10-09 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
       "id": "GM_NCR_008119",
       "title": "듄: 어웨이크닝",
       "url": "https://game.naver.com/Dune_Awakening",
@@ -115,6 +94,13 @@
       "platform": "Android,iOS"
     },
     {
+      "id": "GM_NCR_023737",
+      "title": "삼국지: 구주제패",
+      "url": "https://game.naver.com/Three_Kingdoms_Conquering_the_World",
+      "release_date": "2026-10-09 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
       "id": "GM_NCR_024910",
       "title": "갱스터 미라지 시티",
       "url": "https://game.naver.com/Gangstar_Mirage_City",
@@ -122,18 +108,18 @@
       "platform": "Android,iOS"
     },
     {
-      "id": "GM_NCR_024008",
-      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
-      "url": "https://game.naver.com/skeleton",
-      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
-      "platform": "Android,iOS,PC"
-    },
-    {
       "id": "GM_NCR_019939",
       "title": "리리의 세계",
       "url": "https://game.naver.com/AnimulaNook_KR_liliWorld",
       "release_date": "2025-12-08 ~  사전예약",
       "platform": "Android,Console,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_024008",
+      "title": "해골기사님은 지금 이세계 모험 중 SKULL BRAVE",
+      "url": "https://game.naver.com/skeleton",
+      "release_date": "2026-07-06 ~ 2026-12-31 사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_016009",
@@ -157,6 +143,13 @@
       "platform": "Android,iOS,PC"
     },
     {
+      "id": "GM_NCR_025051",
+      "title": "막다보니 천하통일",
+      "url": "https://game.naver.com/Tiny_War_Kingdom_Defense",
+      "release_date": "2026-10-08 ~  사전예약",
+      "platform": "Android,iOS"
+    },
+    {
       "id": "GM_NCR_024316",
       "title": "삼국지 랜덤 디펜스",
       "url": "https://game.naver.com/three_kingdoms_random_defence",
@@ -168,13 +161,6 @@
       "title": "바람의흔적",
       "url": "https://game.naver.com/Whisperborne",
       "release_date": "2026-10-06 ~  사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_025051",
-      "title": "막다보니 천하통일",
-      "url": "https://game.naver.com/Tiny_War_Kingdom_Defense",
-      "release_date": "2026-10-08 ~  사전예약",
       "platform": "Android,iOS"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T00:30:19.728969",
+  "updated_at": "2026-10-15T00:03:10.107335",
   "count": 17,
   "games": [
     {
@@ -81,12 +81,6 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001008198",
-      "title": "히어로즈 테일즈2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198",
-      "developer": "SUNFLOWER NETWORK TECHNOLOGY CO LIMITED"
-    },
-    {
       "id": "0001004726",
       "title": "드래곤 고고씽",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004726",
@@ -102,6 +96,11 @@
       "id": "0001009529",
       "title": "영주님은 죽지 않는다 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009529"
+    },
+    {
+      "id": "0001008198",
+      "title": "히어로즈 테일즈2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198"
     }
   ]
 }
