@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T00:03:10.105983",
-  "count": 38,
+  "updated_at": "2026-10-15T23:48:17.526821",
+  "count": 34,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -87,18 +87,6 @@
       "developer": "Game Hollywood Hong Kong Limited"
     },
     {
-      "id": "com.girlsecho.gp",
-      "title": "Girls Echo",
-      "url": "https://play.google.com/store/apps/details?id=com.girlsecho.gp&hl=ko",
-      "developer": "HOWLYO GAME"
-    },
-    {
-      "id": "com.hanbitsoft.gemgl.google",
-      "title": "Granado Espada M - Sword2",
-      "url": "https://play.google.com/store/apps/details?id=com.hanbitsoft.gemgl.google&hl=ko",
-      "developer": "HanbitSoft Inc"
-    },
-    {
       "id": "com.lunosoft.jewelnights2",
       "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
@@ -153,22 +141,16 @@
       "developer": "Netmarble"
     },
     {
+      "id": "com.pantheraplay.dicegeon",
+      "title": "Dicegeon: 로그라이크 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.dicegeon&hl=ko",
+      "developer": "PANTHERA GLOBAL"
+    },
+    {
       "id": "com.playdigious.absolum",
       "title": "Absolum",
       "url": "https://play.google.com/store/apps/details?id=com.playdigious.absolum&hl=ko",
       "developer": "Playdigious"
-    },
-    {
-      "id": "com.quzizi.juicyjourney.google",
-      "title": "쥬시 저니: 머지&쿠킹",
-      "url": "https://play.google.com/store/apps/details?id=com.quzizi.juicyjourney.google&hl=ko",
-      "developer": "FunTaste"
-    },
-    {
-      "id": "com.rabbit.zf",
-      "title": "좀비파이어 : 오두막 생존",
-      "url": "https://play.google.com/store/apps/details?id=com.rabbit.zf&hl=ko",
-      "developer": "rabbithole studio"
     },
     {
       "id": "com.rawhand.pixelslash",
@@ -199,12 +181,6 @@
       "title": "The Roottrees are Dead",
       "url": "https://play.google.com/store/apps/details?id=com.theroottrees.android&hl=ko",
       "developer": "IndieArk"
-    },
-    {
-      "id": "com.twh003.stickman.rpg.idle.game",
-      "title": "스틱맨의 시대: 진화",
-      "url": "https://play.google.com/store/apps/details?id=com.twh003.stickman.rpg.idle.game&hl=ko",
-      "developer": "Velocita Z"
     },
     {
       "id": "com.wemadeconnect.aos.valkyrie",

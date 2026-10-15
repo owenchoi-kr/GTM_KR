@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T00:03:10.107335",
-  "count": 17,
+  "updated_at": "2026-10-15T23:48:17.527906",
+  "count": 16,
   "games": [
     {
       "id": "0001009460",
@@ -39,12 +39,6 @@
       "developer": "d.play soft Co., Ltd."
     },
     {
-      "id": "0001007149",
-      "title": "왓더뼈킹 : 20000뽑기 FLEX！",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007149",
-      "developer": "TeamQuest"
-    },
-    {
       "id": "0001008041",
       "title": "영혼군단 키우기: 방치형 소울 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041",
@@ -81,12 +75,6 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001004726",
-      "title": "드래곤 고고씽",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004726",
-      "developer": "Ujoy Games Limited"
-    },
-    {
       "id": "0001008083",
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
@@ -96,6 +84,11 @@
       "id": "0001009529",
       "title": "영주님은 죽지 않는다 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009529"
+    },
+    {
+      "id": "0001007149",
+      "title": "왓더뼈킹 : 20000뽑기 FLEX！",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007149"
     },
     {
       "id": "0001008198",
