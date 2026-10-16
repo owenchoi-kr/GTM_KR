@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-15T23:48:17.528204",
+  "updated_at": "2026-10-16T23:48:52.778949",
   "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_024870",
-      "title": "왓더뼈킹",
-      "url": "https://game.naver.com/wtbk",
-      "release_date": "2026-09-14 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_025117",
       "title": "탭 자이언츠",
@@ -92,6 +85,13 @@
       "url": "https://game.naver.com/SwordxStaff",
       "release_date": "2026-09-22 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_024937",
+      "title": "전생했더니 검 한 자루",
+      "url": "https://game.naver.com/REBORN_AS_A_SWORD",
+      "release_date": "2026-10-14 ~  사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_023737",

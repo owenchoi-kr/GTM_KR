@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-10-15T23:48:17.527906",
-  "count": 16,
+  "updated_at": "2026-10-16T23:48:52.778715",
+  "count": 20,
   "games": [
+    {
+      "id": "0001009250",
+      "title": "수련의 강호 2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250",
+      "developer": "FUN GAMES STUDIO"
+    },
+    {
+      "id": "0001007223",
+      "title": "야생소녀: 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007223",
+      "developer": "SESISOFT"
+    },
+    {
+      "id": "0001010495",
+      "title": "엑소시스트 키우기 : 고스트 군단 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010495",
+      "developer": "Rawhand Games"
+    },
     {
       "id": "0001009460",
       "title": "판타지포유",
@@ -31,6 +49,12 @@
       "title": "루미나: 세라피아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976",
       "developer": "GM 게임"
+    },
+    {
+      "id": "0001004748",
+      "title": "삼국지: 킹덤",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748",
+      "developer": "FLYFUN TECHNOLOGY CO LIMITED"
     },
     {
       "id": "0001008948",
