@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-16T23:48:52.777613",
-  "count": 33,
+  "updated_at": "2026-10-17T23:20:48.310902",
+  "count": 35,
   "games": [
+    {
+      "id": "com.Deliciousgames.PMC",
+      "title": "뽑만추 : 방치된 뽑기기계 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.PMC&hl=ko",
+      "developer": "Delicious Games Co., Ltd."
+    },
     {
       "id": "com.Deliciousgames.ZWR",
       "title": "좀왜진 : 방치된 좀비 잡기",
@@ -133,6 +139,12 @@
       "title": "바람의흔적",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.windtrace&hl=ko",
       "developer": "Neptune Corp."
+    },
+    {
+      "id": "com.netmarble.thered",
+      "title": "뱀피르",
+      "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=ko",
+      "developer": "Netmarble"
     },
     {
       "id": "com.pantheraplay.dicegeon",
