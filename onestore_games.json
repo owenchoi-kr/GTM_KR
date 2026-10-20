@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-18T23:30:15.888720",
+  "updated_at": "2026-10-20T00:32:45.803486",
   "count": 20,
   "games": [
+    {
+      "id": "0001009081",
+      "title": "아스텔리아2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081",
+      "developer": "Lepor Games CoLtd"
+    },
     {
       "id": "0001009250",
       "title": "수련의 강호 2",
@@ -63,12 +69,6 @@
       "developer": "d.play soft Co., Ltd."
     },
     {
-      "id": "0001008041",
-      "title": "영혼군단 키우기: 방치형 소울 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041",
-      "developer": "LUNOSOFT INC"
-    },
-    {
       "id": "0001008510",
       "title": "미르의 전설2: 레볼루션",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510",
@@ -105,14 +105,14 @@
       "developer": "MGMAE Corp"
     },
     {
-      "id": "0001009529",
-      "title": "영주님은 죽지 않는다 : 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009529"
-    },
-    {
       "id": "0001007149",
       "title": "왓더뼈킹 : 20000뽑기 FLEX！",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007149"
+    },
+    {
+      "id": "0001008041",
+      "title": "영혼군단 키우기: 방치형 소울 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041"
     },
     {
       "id": "0001008198",

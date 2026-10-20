@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-18T23:30:15.889001",
-  "count": 22,
+  "updated_at": "2026-10-20T00:32:45.803811",
+  "count": 21,
   "games": [
-    {
-      "id": "GM_NCR_005825",
-      "title": "트리 오브 세이비어 M",
-      "url": "https://game.naver.com/Tree_of_Savior_M",
-      "release_date": "2026-09-09 ~ 2026-10-18 사전예약",
-      "platform": "Android,iOS,OneStore,PC"
-    },
     {
       "id": "GM_NCR_024448",
       "title": "삼국지: 킹덤",
@@ -24,13 +17,6 @@
       "platform": "Android,iOS,OneStore"
     },
     {
-      "id": "GM_NCR_025311",
-      "title": "세계수의 노래",
-      "url": "https://game.naver.com/Worldtree_Eternal_Song",
-      "release_date": "2026-10-14 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
       "id": "GM_NCR_024455",
       "title": "타워 디펜스 온라인",
       "url": "https://game.naver.com/Tower_Defense_Online",
@@ -42,6 +28,13 @@
       "title": "드래곤 고고씽",
       "url": "https://game.naver.com/Drago",
       "release_date": "2026-08-24 ~ 2026-10-29 사전예약",
+      "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_025311",
+      "title": "세계수의 노래",
+      "url": "https://game.naver.com/Worldtree_Eternal_Song",
+      "release_date": "2026-10-14 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
