@@ -1,5 +1,11 @@
 {
-  "updated_at": "2026-10-20T00:32:45.803261",
-  "count": 0,
-  "games": []
+  "updated_at": "2026-10-21T00:03:14.385760",
+  "count": 1,
+  "games": [
+    {
+      "id": "s5t9Yj",
+      "title": "템빨: 오버기어드",
+      "url": "https://game.kakao.com/ar/s5t9Yj?rtc=atb_K-GAM02X0111"
+    }
+  ]
 }

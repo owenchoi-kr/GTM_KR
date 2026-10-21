@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T00:32:45.802381",
+  "updated_at": "2026-10-21T00:03:14.384955",
   "count": 33,
   "games": [
     {
@@ -75,12 +75,6 @@
       "developer": "Deviloper Limited"
     },
     {
-      "id": "com.eyougame.slen",
-      "title": "Celestial Origins",
-      "url": "https://play.google.com/store/apps/details?id=com.eyougame.slen&hl=ko",
-      "developer": "EYOUGAME(US)"
-    },
-    {
       "id": "com.gamehollywood.zi",
       "title": "Zero Immortal",
       "url": "https://play.google.com/store/apps/details?id=com.gamehollywood.zi&hl=ko",
@@ -145,6 +139,12 @@
       "title": "Dicegeon: 로그라이크 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.dicegeon&hl=ko",
       "developer": "PANTHERA GLOBAL"
+    },
+    {
+      "id": "com.pid.diceomancer",
+      "title": "DICEOMANCER",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.diceomancer&hl=ko",
+      "developer": "Plug In Digital"
     },
     {
       "id": "com.playdigious.absolum",
