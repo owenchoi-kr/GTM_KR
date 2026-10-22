@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T00:03:14.385526",
-  "count": 5,
+  "updated_at": "2026-10-22T00:08:12.988855",
+  "count": 4,
   "games": [
     {
       "id": "995",
@@ -25,14 +25,6 @@
       "release_date": "출시 미정",
       "reward": "[2000이니, 100베니]추후 공개",
       "developer": "볼트레이게임즈"
-    },
-    {
-      "id": "989",
-      "title": "씰M2",
-      "url": "https://pick.inven.co.kr/campaign/989/SealM2",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]명마 알렉산드리아",
-      "developer": "㈜플레이위드코리아"
     },
     {
       "id": "997",

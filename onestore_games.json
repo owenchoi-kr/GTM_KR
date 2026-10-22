@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T00:03:14.385977",
-  "count": 20,
+  "updated_at": "2026-10-22T00:08:12.989288",
+  "count": 19,
   "games": [
     {
       "id": "0001009081",
@@ -113,11 +113,6 @@
       "id": "0001008041",
       "title": "영혼군단 키우기: 방치형 소울 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041"
-    },
-    {
-      "id": "0001008198",
-      "title": "히어로즈 테일즈2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008198"
     }
   ]
 }
