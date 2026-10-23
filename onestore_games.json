@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T00:08:12.989288",
-  "count": 19,
+  "updated_at": "2026-10-23T00:06:43.159229",
+  "count": 18,
   "games": [
     {
       "id": "0001009081",
@@ -57,12 +57,6 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001004748",
-      "title": "삼국지: 킹덤",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748",
-      "developer": "FLYFUN TECHNOLOGY CO LIMITED"
-    },
-    {
       "id": "0001008948",
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
@@ -105,9 +99,9 @@
       "developer": "MGMAE Corp"
     },
     {
-      "id": "0001007149",
-      "title": "왓더뼈킹 : 20000뽑기 FLEX！",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007149"
+      "id": "0001004748",
+      "title": "삼국지: 킹덤",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748"
     },
     {
       "id": "0001008041",

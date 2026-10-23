@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-10-22T00:08:12.989562",
-  "count": 22,
+  "updated_at": "2026-10-23T00:06:43.159682",
+  "count": 20,
   "games": [
-    {
-      "id": "GM_NCR_024448",
-      "title": "삼국지: 킹덤",
-      "url": "https://game.naver.com/Samgukji_Kingdom",
-      "release_date": "2026-10-13 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_000072",
-      "title": "대항해의길",
-      "url": "https://game.naver.com/NUEVA_SALIDA",
-      "release_date": "2026-10-08 ~ 2026-10-22 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_024455",
-      "title": "타워 디펜스 온라인",
-      "url": "https://game.naver.com/Tower_Defense_Online",
-      "release_date": "2026-09-28 ~  사전예약",
-      "platform": "Android"
-    },
     {
       "id": "GM_NCR_024489",
       "title": "워라인: 스나이퍼",
@@ -85,6 +64,13 @@
       "url": "https://game.naver.com/Three_Kingdoms_Conquering_the_World",
       "release_date": "2026-10-09 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_025596",
+      "title": "풍운강호",
+      "url": "https://game.naver.com/ohso",
+      "release_date": "2026-10-22 ~ 2026-11-24 사전예약",
+      "platform": "PC"
     },
     {
       "id": "GM_NCR_024910",

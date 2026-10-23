@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-22T00:08:12.988308",
-  "count": 33,
+  "updated_at": "2026-10-23T00:06:43.158282",
+  "count": 31,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -42,12 +42,6 @@
       "id": "com.bandainamcoent.bleach_mh_ww",
       "title": "BLEACH Mirrors High",
       "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.bleach_mh_ww&hl=ko",
-      "developer": "Bandai Namco Entertainment Inc."
-    },
-    {
-      "id": "com.bandainamcoent.op_restaurant",
-      "title": "원피스 그랜드 레스토랑",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.op_restaurant&hl=ko",
       "developer": "Bandai Namco Entertainment Inc."
     },
     {
@@ -193,12 +187,6 @@
       "title": "암살자 키우기 : 1주년",
       "url": "https://play.google.com/store/apps/details?id=highpixel.billion&hl=ko",
       "developer": "하이픽셀(HighPixel)"
-    },
-    {
-      "id": "net.lightcon.windidle",
-      "title": "윈드러너 키우기 - 3000뽑기 증정!",
-      "url": "https://play.google.com/store/apps/details?id=net.lightcon.windidle&hl=ko",
-      "developer": "LightCON Co.,Ltd."
     }
   ]
 }
