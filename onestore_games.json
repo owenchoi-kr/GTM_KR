@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-23T00:06:43.159229",
-  "count": 18,
+  "updated_at": "2026-10-23T23:57:24.266102",
+  "count": 19,
   "games": [
+    {
+      "id": "0001010802",
+      "title": "루미나리버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802",
+      "developer": "boostuniverse"
+    },
     {
       "id": "0001009081",
       "title": "아스텔리아2",

@@ -1,38 +1,5 @@
 {
-  "updated_at": "2026-10-23T00:06:43.158810",
-  "count": 4,
-  "games": [
-    {
-      "id": "995",
-      "title": "몬스터헌터 아웃랜더스",
-      "url": "https://pick.inven.co.kr/campaign/995/mho",
-      "release_date": "10월 29일 출시 예정",
-      "reward": "[2000이니, 100베니]모험가 라야, 상시 모집권 외 풍성한 보상 지급",
-      "developer": "Garena"
-    },
-    {
-      "id": "996",
-      "title": "세계수의 노래",
-      "url": "https://pick.inven.co.kr/campaign/996/worldtree",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다이아와 모집권 지급!",
-      "developer": "주식회사 엔드나인게임즈"
-    },
-    {
-      "id": "994",
-      "title": "소드 X 스태프",
-      "url": "https://pick.inven.co.kr/campaign/994/SwordxStaff",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]추후 공개",
-      "developer": "볼트레이게임즈"
-    },
-    {
-      "id": "997",
-      "title": "야생소녀 리버스",
-      "url": "https://pick.inven.co.kr/campaign/997/wildgirls",
-      "release_date": "출시 미정",
-      "reward": "[1000이니]캐릭터 소환 티켓 스킬북 소환 티켓 무기 소환 티켓",
-      "developer": "세시소프트"
-    }
-  ]
+  "updated_at": "2026-10-23T23:57:24.265716",
+  "count": 0,
+  "games": []
 }
