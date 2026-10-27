@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-25T23:27:52.506024",
+  "updated_at": "2026-10-27T00:42:36.286063",
   "count": 19,
   "games": [
+    {
+      "id": "0001010866",
+      "title": "머지좀비: 엔드리스워",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
+      "developer": "ENP Games Co., Ltd."
+    },
     {
       "id": "0001010802",
       "title": "루미나리버",
@@ -57,12 +63,6 @@
       "developer": "RASTAR GAMES (HK) CO.,LIMITED"
     },
     {
-      "id": "0001008976",
-      "title": "루미나: 세라피아",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001008948",
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
@@ -105,14 +105,14 @@
       "developer": "MGMAE Corp"
     },
     {
+      "id": "0001008976",
+      "title": "루미나: 세라피아",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976"
+    },
+    {
       "id": "0001004748",
       "title": "삼국지: 킹덤",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748"
-    },
-    {
-      "id": "0001008041",
-      "title": "영혼군단 키우기: 방치형 소울 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008041"
     }
   ]
 }
