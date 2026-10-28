@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T00:42:36.286063",
+  "updated_at": "2026-10-28T00:40:53.313688",
   "count": 19,
   "games": [
     {
@@ -81,12 +81,6 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001008710",
-      "title": "닼마: 다크판타지 3D 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710",
-      "developer": "NETTOPDATA"
-    },
-    {
       "id": "0001008594",
       "title": " 오늘도 레벨업 히어로키우기 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008594",
@@ -113,6 +107,11 @@
       "id": "0001004748",
       "title": "삼국지: 킹덤",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748"
+    },
+    {
+      "id": "0001008710",
+      "title": "닼마: 다크판타지 3D 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710"
     }
   ]
 }

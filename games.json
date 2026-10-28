@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T00:42:36.285097",
-  "count": 28,
+  "updated_at": "2026-10-28T00:40:53.312716",
+  "count": 27,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -37,12 +37,6 @@
       "title": "UnGodly 언갓들리",
       "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
       "developer": "Azra Games"
-    },
-    {
-      "id": "com.bandainamcoent.bleach_mh_ww",
-      "title": "BLEACH Mirrors High",
-      "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.bleach_mh_ww&hl=ko",
-      "developer": "Bandai Namco Entertainment Inc."
     },
     {
       "id": "com.brazle.mylittlehotel",
@@ -105,12 +99,6 @@
       "developer": "Neptune Corp."
     },
     {
-      "id": "com.netmarble.thered",
-      "title": "뱀피르",
-      "url": "https://play.google.com/store/apps/details?id=com.netmarble.thered&hl=ko",
-      "developer": "Netmarble"
-    },
-    {
       "id": "com.pantheraplay.dicegeon",
       "title": "Dicegeon: 로그라이크 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.dicegeon&hl=ko",
@@ -144,6 +132,12 @@
       "id": "com.superbox.mergemysteryresort",
       "title": "머지 미스테리 : 리조트",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.mergemysteryresort&hl=ko",
+      "developer": "SUPERBOX Inc"
+    },
+    {
+      "id": "com.superpixel.player.idle",
+      "title": "플레이어 키우기 : 방치형 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.player.idle&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {

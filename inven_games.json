@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-27T00:42:36.285598",
+  "updated_at": "2026-10-28T00:40:53.313218",
   "count": 4,
   "games": [
+    {
+      "id": "1000",
+      "title": "리니지W",
+      "url": "https://pick.inven.co.kr/campaign/1000/LineageW",
+      "release_date": "11월 4일 출시 예정",
+      "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요.",
+      "developer": "NC"
+    },
     {
       "id": "995",
       "title": "몬스터헌터 아웃랜더스",
@@ -9,14 +17,6 @@
       "release_date": "10월 29일 출시 예정",
       "reward": "[2000이니, 100베니]모험가 라야, 상시 모집권 외 풍성한 보상 지급",
       "developer": "Garena"
-    },
-    {
-      "id": "996",
-      "title": "세계수의 노래",
-      "url": "https://pick.inven.co.kr/campaign/996/worldtree",
-      "release_date": "출시 미정",
-      "reward": "[2000이니, 100베니]다이아와 모집권 지급!",
-      "developer": "주식회사 엔드나인게임즈"
     },
     {
       "id": "994",
