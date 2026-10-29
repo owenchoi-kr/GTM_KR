@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-10-28T00:40:53.313983",
-  "count": 20,
+  "updated_at": "2026-10-29T01:10:40.415817",
+  "count": 18,
   "games": [
-    {
-      "id": "GM_NCR_024489",
-      "title": "워라인: 스나이퍼",
-      "url": "https://game.naver.com/warline",
-      "release_date": "2026-10-21 ~ 2026-10-28 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_023714",
       "title": "드래곤 고고씽",
       "url": "https://game.naver.com/Drago",
       "release_date": "2026-08-24 ~ 2026-10-29 사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
-    {
-      "id": "GM_NCR_025311",
-      "title": "세계수의 노래",
-      "url": "https://game.naver.com/Worldtree_Eternal_Song",
-      "release_date": "2026-10-14 ~  사전예약",
       "platform": "Android,iOS,OneStore"
     },
     {
@@ -46,7 +32,7 @@
     },
     {
       "id": "GM_NCR_023649",
-      "title": "소드 x 스태프",
+      "title": "소드 x 스태프: 화산귀환 콜라보",
       "url": "https://game.naver.com/SwordxStaff",
       "release_date": "2026-09-22 ~  사전예약",
       "platform": "Android,iOS"

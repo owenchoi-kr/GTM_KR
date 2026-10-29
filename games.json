@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T00:40:53.312716",
-  "count": 27,
+  "updated_at": "2026-10-29T01:10:40.414524",
+  "count": 28,
   "games": [
     {
       "id": "com.Deliciousgames.PMC",
@@ -132,6 +132,12 @@
       "id": "com.superbox.mergemysteryresort",
       "title": "머지 미스테리 : 리조트",
       "url": "https://play.google.com/store/apps/details?id=com.superbox.mergemysteryresort&hl=ko",
+      "developer": "SUPERBOX Inc"
+    },
+    {
+      "id": "com.superpixel.catkeycappaint",
+      "title": "고양이 키캡 페인트",
+      "url": "https://play.google.com/store/apps/details?id=com.superpixel.catkeycappaint&hl=ko",
       "developer": "SUPERBOX Inc"
     },
     {

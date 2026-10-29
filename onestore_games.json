@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:40:53.313688",
+  "updated_at": "2026-10-29T01:10:40.415499",
   "count": 19,
   "games": [
     {
@@ -7,6 +7,12 @@
       "title": "머지좀비: 엔드리스워",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
       "developer": "ENP Games Co., Ltd."
+    },
+    {
+      "id": "0001008384",
+      "title": "전생했더니 검 한 자루",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384",
+      "developer": "EmeForge"
     },
     {
       "id": "0001010802",
@@ -51,12 +57,6 @@
       "developer": "Theplayplus"
     },
     {
-      "id": "0001006307",
-      "title": "세계수의 노래",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006307",
-      "developer": "END9GAMES Corp"
-    },
-    {
       "id": "0001006327",
       "title": "삼국지: 구주제패",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327",
@@ -99,14 +99,14 @@
       "developer": "MGMAE Corp"
     },
     {
+      "id": "0001006307",
+      "title": "세계수의 노래",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006307"
+    },
+    {
       "id": "0001008976",
       "title": "루미나: 세라피아",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976"
-    },
-    {
-      "id": "0001004748",
-      "title": "삼국지: 킹덤",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001004748"
     },
     {
       "id": "0001008710",

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T00:40:53.313218",
-  "count": 4,
+  "updated_at": "2026-10-29T01:10:40.415044",
+  "count": 3,
   "games": [
     {
       "id": "1000",
@@ -9,14 +9,6 @@
       "release_date": "11월 4일 출시 예정",
       "reward": "[2000이니, 100베니]공식 홈페이지에서 확인하세요.",
       "developer": "NC"
-    },
-    {
-      "id": "995",
-      "title": "몬스터헌터 아웃랜더스",
-      "url": "https://pick.inven.co.kr/campaign/995/mho",
-      "release_date": "10월 29일 출시 예정",
-      "reward": "[2000이니, 100베니]모험가 라야, 상시 모집권 외 풍성한 보상 지급",
-      "developer": "Garena"
     },
     {
       "id": "994",
