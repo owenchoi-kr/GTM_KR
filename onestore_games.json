@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-10-29T01:10:40.415499",
-  "count": 19,
+  "updated_at": "2026-10-30T01:15:32.225962",
+  "count": 21,
   "games": [
+    {
+      "id": "0001009251",
+      "title": "아쿠아랜드: 크레이지 서바이벌",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009251",
+      "developer": "iyagames"
+    },
     {
       "id": "0001010866",
       "title": "머지좀비: 엔드리스워",
@@ -13,12 +19,6 @@
       "title": "전생했더니 검 한 자루",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384",
       "developer": "EmeForge"
-    },
-    {
-      "id": "0001010802",
-      "title": "루미나리버",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802",
-      "developer": "boostuniverse"
     },
     {
       "id": "0001009081",
@@ -63,6 +63,12 @@
       "developer": "RASTAR GAMES (HK) CO.,LIMITED"
     },
     {
+      "id": "0001007763",
+      "title": "삼국지 전기판",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007763",
+      "developer": "Qookka Games"
+    },
+    {
       "id": "0001008948",
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
@@ -87,16 +93,15 @@
       "developer": "RainbowRabbit INC"
     },
     {
-      "id": "0001007550",
-      "title": "검신제로",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007550",
-      "developer": "Neptune Company"
-    },
-    {
       "id": "0001008083",
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
+    },
+    {
+      "id": "0001010802",
+      "title": "루미나리버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802"
     },
     {
       "id": "0001006307",
@@ -112,6 +117,11 @@
       "id": "0001008710",
       "title": "닼마: 다크판타지 3D 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710"
+    },
+    {
+      "id": "0001007550",
+      "title": "검신제로",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007550"
     }
   ]
 }
