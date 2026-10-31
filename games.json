@@ -1,19 +1,7 @@
 {
-  "updated_at": "2026-10-30T01:15:32.225075",
-  "count": 26,
+  "updated_at": "2026-10-31T00:58:31.154839",
+  "count": 22,
   "games": [
-    {
-      "id": "com.Deliciousgames.PMC",
-      "title": "뽑만추 : 방치된 뽑기기계 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.PMC&hl=ko",
-      "developer": "Delicious Games Co., Ltd."
-    },
-    {
-      "id": "com.Deliciousgames.ZWR",
-      "title": "좀왜진 : 방치된 좀비 잡기",
-      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.ZWR&hl=ko",
-      "developer": "Delicious Games Co., Ltd."
-    },
     {
       "id": "com.EightStudio.BlightWar",
       "title": "Blight War: Idle RPG",
@@ -49,12 +37,6 @@
       "title": "매드덕스: 로그라이크 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.roaddefense&hl=ko",
       "developer": "Purplecow games"
-    },
-    {
-      "id": "com.deviloper.shadow.dungeon",
-      "title": "Shadow Dungeon: Roguelike Game",
-      "url": "https://play.google.com/store/apps/details?id=com.deviloper.shadow.dungeon&hl=ko",
-      "developer": "Deviloper Limited"
     },
     {
       "id": "com.lunosoft.jewelnights2",
@@ -151,12 +133,6 @@
       "title": "네온 타워 클래시",
       "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
       "developer": "WK Company"
-    },
-    {
-      "id": "highpixel.billion",
-      "title": "암살자 키우기 : 1주년",
-      "url": "https://play.google.com/store/apps/details?id=highpixel.billion&hl=ko",
-      "developer": "하이픽셀(HighPixel)"
     }
   ]
 }

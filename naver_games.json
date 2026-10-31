@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-10-30T01:15:32.226284",
-  "count": 16,
+  "updated_at": "2026-10-31T00:58:31.156159",
+  "count": 17,
   "games": [
-    {
-      "id": "GM_NCR_021506",
-      "title": "판타지포유",
-      "url": "https://game.naver.com/Fantasy_For_You",
-      "release_date": "2026-10-07 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_008119",
       "title": "듄: 어웨이크닝",
@@ -36,6 +29,20 @@
       "url": "https://game.naver.com/Three_Kingdoms_Conquering_the_World",
       "release_date": "2026-10-09 ~  사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_025634",
+      "title": "사커워즈",
+      "url": "https://game.naver.com/Soccerwarz",
+      "release_date": "2026-10-31 ~ 2026-11-17 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_013601",
+      "title": "아너 오브 킹즈(왕자영요 글로벌)",
+      "url": "https://game.naver.com/Honor_of_Kings",
+      "release_date": "2026-10-30 ~ 2026-11-17 사전예약",
+      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_025596",

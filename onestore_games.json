@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T01:15:32.225962",
+  "updated_at": "2026-10-31T00:58:31.155826",
   "count": 21,
   "games": [
     {
@@ -51,12 +51,6 @@
       "developer": "지앤아이소프트"
     },
     {
-      "id": "0001009277",
-      "title": "숲의 소환단:방치형 판타지 수집 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277",
-      "developer": "Theplayplus"
-    },
-    {
       "id": "0001006327",
       "title": "삼국지: 구주제패",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327",
@@ -102,6 +96,11 @@
       "id": "0001010802",
       "title": "루미나리버",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802"
+    },
+    {
+      "id": "0001009277",
+      "title": "숲의 소환단:방치형 판타지 수집 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277"
     },
     {
       "id": "0001006307",
