@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-01T00:21:03.156127",
-  "count": 17,
+  "updated_at": "2026-11-02T00:59:57.223888",
+  "count": 16,
   "games": [
-    {
-      "id": "GM_NCR_008119",
-      "title": "듄: 어웨이크닝",
-      "url": "https://game.naver.com/Dune_Awakening",
-      "release_date": "2026-09-18 ~ 2026-11-01 사전예약",
-      "platform": "Console"
-    },
     {
       "id": "GM_NCR_023649",
       "title": "소드 x 스태프: 화산귀환 콜라보",
