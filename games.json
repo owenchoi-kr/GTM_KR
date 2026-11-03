@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:59:57.222714",
+  "updated_at": "2026-11-03T03:02:12.841592",
   "count": 22,
   "games": [
     {
@@ -7,12 +7,6 @@
       "title": "Blight War: Idle RPG",
       "url": "https://play.google.com/store/apps/details?id=com.EightStudio.BlightWar&hl=ko",
       "developer": "Eight Studio"
-    },
-    {
-      "id": "com.FreeDust.LastCampDefense2",
-      "title": "라스트 캠프 : 디펜스",
-      "url": "https://play.google.com/store/apps/details?id=com.FreeDust.LastCampDefense2&hl=ko",
-      "developer": "LiberalDust"
     },
     {
       "id": "com.TeamSparta.DuckBrothers",
@@ -31,6 +25,12 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
+    },
+    {
+      "id": "com.cle.galaxydefense",
+      "title": "갤럭시 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.cle.galaxydefense&hl=ko",
+      "developer": "Clegames Inc"
     },
     {
       "id": "com.cookapps.roaddefense",
@@ -69,10 +69,10 @@
       "developer": "Neptune Corp."
     },
     {
-      "id": "com.pantheraplay.dicegeon",
-      "title": "Dicegeon: 로그라이크 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.dicegeon&hl=ko",
-      "developer": "PANTHERA GLOBAL"
+      "id": "com.oxiwyle.modernage2lite",
+      "title": "MA 2: 대통령 시뮬레이터 라이트",
+      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2lite&hl=ko",
+      "developer": "Oxiwyle Inc"
     },
     {
       "id": "com.pid.diceomancer",

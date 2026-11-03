@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-02T00:59:57.223603",
-  "count": 21,
+  "updated_at": "2026-11-03T03:02:12.842559",
+  "count": 20,
   "games": [
+    {
+      "id": "0001008297",
+      "title": "이 용병단 머지: 디펜스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008297",
+      "developer": "Blue Planet Joy Limited"
+    },
     {
       "id": "0001009251",
       "title": "아쿠아랜드: 크레이지 서바이벌",
@@ -106,16 +112,6 @@
       "id": "0001006307",
       "title": "세계수의 노래",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006307"
-    },
-    {
-      "id": "0001008976",
-      "title": "루미나: 세라피아",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008976"
-    },
-    {
-      "id": "0001008710",
-      "title": "닼마: 다크판타지 3D 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008710"
     },
     {
       "id": "0001007550",

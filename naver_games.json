@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T00:59:57.223888",
-  "count": 16,
+  "updated_at": "2026-11-03T03:02:12.842851",
+  "count": 19,
   "games": [
     {
       "id": "GM_NCR_023649",
@@ -15,6 +15,13 @@
       "url": "https://game.naver.com/REBORN_AS_A_SWORD",
       "release_date": "2026-10-14 ~  사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_021506",
+      "title": "판타지포유",
+      "url": "https://game.naver.com/Fantasy_For_You",
+      "release_date": "2026-11-02 ~ 2026-11-10 사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_023737",
@@ -50,6 +57,20 @@
       "url": "https://game.naver.com/Gangstar_Mirage_City",
       "release_date": "2026-09-09 ~ 2026-11-30 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025633",
+      "title": "섹터31",
+      "url": "https://game.naver.com/Sector31",
+      "release_date": "2026-11-03 ~ 2026-12-08 사전예약",
+      "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025395",
+      "title": "이 용병단 머지: 디펜스",
+      "url": "https://game.naver.com/YBD_Merge",
+      "release_date": "2026-11-02 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_019939",
