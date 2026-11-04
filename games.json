@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T03:02:12.841592",
-  "count": 22,
+  "updated_at": "2026-11-04T01:35:51.442613",
+  "count": 23,
   "games": [
     {
       "id": "com.EightStudio.BlightWar",
@@ -51,12 +51,6 @@
       "developer": "LUNOSOFT INC"
     },
     {
-      "id": "com.mobirix.extfzombie",
-      "title": "좀비 배틀 : FPS Idle",
-      "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfzombie&hl=ko",
-      "developer": "mobirix"
-    },
-    {
       "id": "com.neptune.tkdefense",
       "title": "막다보니 천하통일",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.tkdefense&hl=ko",
@@ -78,6 +72,12 @@
       "id": "com.pid.diceomancer",
       "title": "DICEOMANCER",
       "url": "https://play.google.com/store/apps/details?id=com.pid.diceomancer&hl=ko",
+      "developer": "Plug In Digital"
+    },
+    {
+      "id": "com.pid.lilguardsman",
+      "title": "Lil' Guardsman",
+      "url": "https://play.google.com/store/apps/details?id=com.pid.lilguardsman&hl=ko",
       "developer": "Plug In Digital"
     },
     {
@@ -121,6 +121,12 @@
       "title": "The Roottrees are Dead",
       "url": "https://play.google.com/store/apps/details?id=com.theroottrees.android&hl=ko",
       "developer": "IndieArk"
+    },
+    {
+      "id": "com.v2r.JewelPiratesDepths",
+      "title": "Jewel Pirate Island",
+      "url": "https://play.google.com/store/apps/details?id=com.v2r.JewelPiratesDepths&hl=ko",
+      "developer": "V2R"
     },
     {
       "id": "com.wemadeconnect.aos.valkyrie",
