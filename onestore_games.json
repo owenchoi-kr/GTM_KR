@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T01:35:51.443582",
-  "count": 20,
+  "updated_at": "2026-11-05T01:38:21.158557",
+  "count": 19,
   "games": [
     {
       "id": "0001008297",
@@ -25,12 +25,6 @@
       "title": "전생했더니 검 한 자루",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384",
       "developer": "EmeForge"
-    },
-    {
-      "id": "0001009081",
-      "title": "아스텔리아2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081",
-      "developer": "Lepor Games CoLtd"
     },
     {
       "id": "0001009250",
@@ -104,14 +98,14 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802"
     },
     {
+      "id": "0001009081",
+      "title": "아스텔리아2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081"
+    },
+    {
       "id": "0001009277",
       "title": "숲의 소환단:방치형 판타지 수집 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277"
-    },
-    {
-      "id": "0001006307",
-      "title": "세계수의 노래",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006307"
     },
     {
       "id": "0001007550",

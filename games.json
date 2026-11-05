@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T01:35:51.442613",
-  "count": 23,
+  "updated_at": "2026-11-05T01:38:21.157754",
+  "count": 24,
   "games": [
     {
       "id": "com.EightStudio.BlightWar",
@@ -13,6 +13,12 @@
       "title": "레전드 오브 덕 브라더스 : 방치형 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.TeamSparta.DuckBrothers&hl=ko",
       "developer": "Teamsparta Inc."
+    },
+    {
+      "id": "com.arumgames.spacesg",
+      "title": "스페이스 삼국지: 타워 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.arumgames.spacesg&hl=ko",
+      "developer": "Arumgames"
     },
     {
       "id": "com.azragames.ungodly",
@@ -37,6 +43,12 @@
       "title": "매드덕스: 로그라이크 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.cookapps.roaddefense&hl=ko",
       "developer": "Purplecow games"
+    },
+    {
+      "id": "com.highbrow.games.tkr",
+      "title": "삼국지 GO! : 방치형 키우기 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.tkr&hl=ko",
+      "developer": "highbrow"
     },
     {
       "id": "com.lunosoft.jewelnights2",
@@ -91,12 +103,6 @@
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
       "developer": "Rawhand Games"
-    },
-    {
-      "id": "com.rxzggo.global",
-      "title": "熱血主公Go! - 群雄逐鹿",
-      "url": "https://play.google.com/store/apps/details?id=com.rxzggo.global&hl=ko",
-      "developer": "FW Game Studio"
     },
     {
       "id": "com.superbox.mergemysteryresort",
