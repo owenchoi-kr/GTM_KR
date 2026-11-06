@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-05T01:38:21.158804",
-  "count": 20,
+  "updated_at": "2026-11-06T01:44:09.474348",
+  "count": 19,
   "games": [
-    {
-      "id": "GM_NCR_024937",
-      "title": "전생했더니 검 한 자루",
-      "url": "https://game.naver.com/REBORN_AS_A_SWORD",
-      "release_date": "2026-10-14 ~  사전예약",
-      "platform": "Android,iOS,PC"
-    },
     {
       "id": "GM_NCR_021506",
       "title": "판타지포유",

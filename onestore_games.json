@@ -1,7 +1,19 @@
 {
-  "updated_at": "2026-11-05T01:38:21.158557",
+  "updated_at": "2026-11-06T01:44:09.474060",
   "count": 19,
   "games": [
+    {
+      "id": "0001010996",
+      "title": "D-ARK(디아크)",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010996",
+      "developer": "boostuniverse"
+    },
+    {
+      "id": "0001011466",
+      "title": "빅가이 키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011466",
+      "developer": "메가몬"
+    },
     {
       "id": "0001008297",
       "title": "이 용병단 머지: 디펜스",
@@ -19,12 +31,6 @@
       "title": "머지좀비: 엔드리스워",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
       "developer": "ENP Games Co., Ltd."
-    },
-    {
-      "id": "0001008384",
-      "title": "전생했더니 검 한 자루",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384",
-      "developer": "EmeForge"
     },
     {
       "id": "0001009250",
@@ -93,9 +99,9 @@
       "developer": "MGMAE Corp"
     },
     {
-      "id": "0001010802",
-      "title": "루미나리버",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010802"
+      "id": "0001008384",
+      "title": "전생했더니 검 한 자루",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384"
     },
     {
       "id": "0001009081",
@@ -106,11 +112,6 @@
       "id": "0001009277",
       "title": "숲의 소환단:방치형 판타지 수집 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277"
-    },
-    {
-      "id": "0001007550",
-      "title": "검신제로",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007550"
     }
   ]
 }
