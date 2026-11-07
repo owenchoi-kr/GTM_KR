@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-06T01:44:09.474060",
+  "updated_at": "2026-11-07T01:08:36.863933",
   "count": 19,
   "games": [
+    {
+      "id": "0001010058",
+      "title": "더가디언즈",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058",
+      "developer": "VALOFE Co.,Ltd."
+    },
     {
       "id": "0001010996",
       "title": "D-ARK(디아크)",
@@ -69,12 +75,6 @@
       "developer": "Qookka Games"
     },
     {
-      "id": "0001008948",
-      "title": "설레는: 운빨도깨비",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948",
-      "developer": "d.play soft Co., Ltd."
-    },
-    {
       "id": "0001008510",
       "title": "미르의 전설2: 레볼루션",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510",
@@ -109,9 +109,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081"
     },
     {
-      "id": "0001009277",
-      "title": "숲의 소환단:방치형 판타지 수집 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009277"
+      "id": "0001008948",
+      "title": "설레는: 운빨도깨비",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948"
     }
   ]
 }
