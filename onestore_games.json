@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-08T00:51:56.811271",
-  "count": 19,
+  "updated_at": "2026-11-09T01:07:50.012888",
+  "count": 23,
   "games": [
+    {
+      "id": "0001011885",
+      "title": "드래곤W: 금기의 마법",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011885",
+      "developer": "이펀 컴퍼니"
+    },
     {
       "id": "0001010058",
       "title": "더가디언즈",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058",
       "developer": "VALOFE Co.,Ltd."
+    },
+    {
+      "id": "0001011000",
+      "title": "에버크라운: 하드코어 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
+      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
+    },
+    {
+      "id": "0001010559",
+      "title": "스틱맨: 선 넘네",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001010482",
+      "title": "라스트 아크: S",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
+      "developer": "GM 게임"
     },
     {
       "id": "0001010996",
@@ -57,12 +81,6 @@
       "developer": "Rawhand Games"
     },
     {
-      "id": "0001009460",
-      "title": "판타지포유",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009460",
-      "developer": "지앤아이소프트"
-    },
-    {
       "id": "0001006327",
       "title": "삼국지: 구주제패",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327",
@@ -107,6 +125,11 @@
       "id": "0001009081",
       "title": "아스텔리아2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081"
+    },
+    {
+      "id": "0001009460",
+      "title": "판타지포유",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009460"
     },
     {
       "id": "0001008948",
