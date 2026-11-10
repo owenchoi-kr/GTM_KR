@@ -1,12 +1,36 @@
 {
-  "updated_at": "2026-11-09T01:07:50.012888",
-  "count": 23,
+  "updated_at": "2026-11-10T03:44:56.579676",
+  "count": 26,
   "games": [
+    {
+      "id": "0001011000",
+      "title": "에버크라운: 하드코어 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
+      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
+    },
+    {
+      "id": "0001008578",
+      "title": "대항해시대 Origin",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578",
+      "developer": "LINE Games"
+    },
+    {
+      "id": "0001008575",
+      "title": "심쿵！고양이 소녀",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008575",
+      "developer": "NEOJOY"
+    },
     {
       "id": "0001011885",
       "title": "드래곤W: 금기의 마법",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011885",
       "developer": "이펀 컴퍼니"
+    },
+    {
+      "id": "0001010795",
+      "title": "천상비M2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010795",
+      "developer": "SESISOFT"
     },
     {
       "id": "0001010058",
@@ -15,21 +39,15 @@
       "developer": "VALOFE Co.,Ltd."
     },
     {
-      "id": "0001011000",
-      "title": "에버크라운: 하드코어 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
-      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
+      "id": "0001010482",
+      "title": "라스트 아크: S",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
+      "developer": "GM 게임"
     },
     {
       "id": "0001010559",
       "title": "스틱맨: 선 넘네",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
-      "developer": "GM 게임"
-    },
-    {
-      "id": "0001010482",
-      "title": "라스트 아크: S",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
       "developer": "GM 게임"
     },
     {
@@ -51,28 +69,10 @@
       "developer": "Blue Planet Joy Limited"
     },
     {
-      "id": "0001009251",
-      "title": "아쿠아랜드: 크레이지 서바이벌",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009251",
-      "developer": "iyagames"
-    },
-    {
-      "id": "0001010866",
-      "title": "머지좀비: 엔드리스워",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
-      "developer": "ENP Games Co., Ltd."
-    },
-    {
       "id": "0001009250",
       "title": "수련의 강호 2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250",
       "developer": "FUN GAMES STUDIO"
-    },
-    {
-      "id": "0001007223",
-      "title": "야생소녀: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007223",
-      "developer": "SESISOFT"
     },
     {
       "id": "0001010495",
@@ -105,16 +105,21 @@
       "developer": "Neptune Company"
     },
     {
-      "id": "0001008594",
-      "title": " 오늘도 레벨업 히어로키우기 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008594",
-      "developer": "RainbowRabbit INC"
-    },
-    {
       "id": "0001008083",
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
+    },
+    {
+      "id": "0001009251",
+      "title": "아쿠아랜드: 크레이지 서바이벌",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009251"
+    },
+    {
+      "id": "0001010866",
+      "title": "머지좀비: 엔드리스워",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
+      "developer": "ENP Games Co., Ltd."
     },
     {
       "id": "0001008384",
@@ -127,6 +132,11 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081"
     },
     {
+      "id": "0001007223",
+      "title": "야생소녀: 리버스",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007223"
+    },
+    {
       "id": "0001009460",
       "title": "판타지포유",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009460"
@@ -135,6 +145,11 @@
       "id": "0001008948",
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948"
+    },
+    {
+      "id": "0001008594",
+      "title": " 오늘도 레벨업 히어로키우기 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008594"
     }
   ]
 }

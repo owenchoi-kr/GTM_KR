@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-09T01:07:50.012111",
+  "updated_at": "2026-11-10T03:44:56.578804",
   "count": 20,
   "games": [
+    {
+      "id": "com.Deliciousgames.TidyPuzzle",
+      "title": "쓱맞춰 : 사물 브레인 퍼즐",
+      "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.TidyPuzzle&hl=ko",
+      "developer": "Delicious Games Co., Ltd."
+    },
     {
       "id": "com.TeamSparta.DuckBrothers",
       "title": "레전드 오브 덕 브라더스 : 방치형 RPG",
@@ -13,18 +19,6 @@
       "title": "스페이스 삼국지: 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.spacesg&hl=ko",
       "developer": "Arumgames"
-    },
-    {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly 언갓들리",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
-    },
-    {
-      "id": "com.brazle.mylittlehotel",
-      "title": "마이리틀호텔",
-      "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
-      "developer": "Brazle"
     },
     {
       "id": "com.cle.galaxydefense",
@@ -70,7 +64,7 @@
     },
     {
       "id": "com.oxiwyle.modernage2lite",
-      "title": "MA 2: 대통령 시뮬레이터 라이트",
+      "title": "MA 4 – President Simulator",
       "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2lite&hl=ko",
       "developer": "Oxiwyle Inc"
     },
@@ -85,6 +79,12 @@
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
       "developer": "Rawhand Games"
+    },
+    {
+      "id": "com.redhedgies.pawpopmatch.android.google.global.normal",
+      "title": "파우팝 매치",
+      "url": "https://play.google.com/store/apps/details?id=com.redhedgies.pawpopmatch.android.google.global.normal&hl=ko",
+      "developer": "RATEL"
     },
     {
       "id": "com.superbox.mergemysteryresort",
