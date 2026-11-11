@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T03:44:56.579676",
-  "count": 26,
+  "updated_at": "2026-11-11T01:24:03.892461",
+  "count": 27,
   "games": [
     {
       "id": "0001011000",
@@ -67,6 +67,12 @@
       "title": "이 용병단 머지: 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008297",
       "developer": "Blue Planet Joy Limited"
+    },
+    {
+      "id": "0001008689",
+      "title": "다크에덴R",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008689",
+      "developer": "PlayWorks Corporation"
     },
     {
       "id": "0001009250",
