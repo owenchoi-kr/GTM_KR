@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T01:24:03.892461",
-  "count": 27,
+  "updated_at": "2026-11-12T02:24:35.634352",
+  "count": 26,
   "games": [
     {
       "id": "0001011000",
@@ -87,22 +87,10 @@
       "developer": "Rawhand Games"
     },
     {
-      "id": "0001006327",
-      "title": "삼국지: 구주제패",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327",
-      "developer": "RASTAR GAMES (HK) CO.,LIMITED"
-    },
-    {
       "id": "0001007763",
       "title": "삼국지 전기판",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007763",
       "developer": "Qookka Games"
-    },
-    {
-      "id": "0001008510",
-      "title": "미르의 전설2: 레볼루션",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510",
-      "developer": "MIAO PLAY ENTERTAINMENT NETWORK LIMITED"
     },
     {
       "id": "0001008733",
@@ -133,11 +121,6 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384"
     },
     {
-      "id": "0001009081",
-      "title": "아스텔리아2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009081"
-    },
-    {
       "id": "0001007223",
       "title": "야생소녀: 리버스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007223"
@@ -148,9 +131,19 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009460"
     },
     {
+      "id": "0001006327",
+      "title": "삼국지: 구주제패",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327"
+    },
+    {
       "id": "0001008948",
       "title": "설레는: 운빨도깨비",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008948"
+    },
+    {
+      "id": "0001008510",
+      "title": "미르의 전설2: 레볼루션",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510"
     },
     {
       "id": "0001008594",

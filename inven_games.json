@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T01:24:03.891933",
-  "count": 3,
+  "updated_at": "2026-11-12T02:24:35.633886",
+  "count": 4,
   "games": [
+    {
+      "id": "1002",
+      "title": "리니지2M",
+      "url": "https://pick.inven.co.kr/campaign/1002/L2M",
+      "release_date": "2026.11.25(수) 정기점검 후",
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NC"
+    },
     {
       "id": "999",
       "title": "다크에덴R",

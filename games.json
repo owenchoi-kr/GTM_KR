@@ -1,12 +1,24 @@
 {
-  "updated_at": "2026-11-11T01:24:03.891437",
-  "count": 21,
+  "updated_at": "2026-11-12T02:24:35.633335",
+  "count": 31,
   "games": [
+    {
+      "id": "co.uk.fireshine.gunboatgod",
+      "title": "Gunboat God",
+      "url": "https://play.google.com/store/apps/details?id=co.uk.fireshine.gunboatgod&hl=ko",
+      "developer": "Fireshine Games"
+    },
     {
       "id": "com.Deliciousgames.TidyPuzzle",
       "title": "쓱맞춰 : 사물 브레인 퍼즐",
       "url": "https://play.google.com/store/apps/details?id=com.Deliciousgames.TidyPuzzle&hl=ko",
       "developer": "Delicious Games Co., Ltd."
+    },
+    {
+      "id": "com.HoYoverse.Planet",
+      "title": "쁘띠플래닛",
+      "url": "https://play.google.com/store/apps/details?id=com.HoYoverse.Planet&hl=ko",
+      "developer": "COGNOSPHERE PTE. LTD."
     },
     {
       "id": "com.TeamSparta.DuckBrothers",
@@ -21,10 +33,10 @@
       "developer": "Arumgames"
     },
     {
-      "id": "com.azragames.ungodly",
-      "title": "UnGodly 언갓들리",
-      "url": "https://play.google.com/store/apps/details?id=com.azragames.ungodly&hl=ko",
-      "developer": "Azra Games"
+      "id": "com.bandai.digimonalysionw",
+      "title": "DIGIMON ALYSION",
+      "url": "https://play.google.com/store/apps/details?id=com.bandai.digimonalysionw&hl=ko",
+      "developer": "BANDAI CO.,LTD."
     },
     {
       "id": "com.brazle.mylittlehotel",
@@ -45,10 +57,40 @@
       "developer": "Purplecow games"
     },
     {
+      "id": "com.dwus.gp",
+      "title": "Petal Paws",
+      "url": "https://play.google.com/store/apps/details?id=com.dwus.gp&hl=ko",
+      "developer": "NINE LAKES LIMITED"
+    },
+    {
+      "id": "com.elementagames.silverpalace.google",
+      "title": "실버 팰리스",
+      "url": "https://play.google.com/store/apps/details?id=com.elementagames.silverpalace.google&hl=ko",
+      "developer": "Elementa Games"
+    },
+    {
+      "id": "com.game.xzjh2.global",
+      "title": "수련의 강호 2-플레이 가능한 수양 소설!",
+      "url": "https://play.google.com/store/apps/details?id=com.game.xzjh2.global&hl=ko",
+      "developer": "FUN GAMES STUDIO"
+    },
+    {
       "id": "com.highbrow.games.tkr",
       "title": "삼국지 GO! : 방치형 키우기 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.tkr&hl=ko",
       "developer": "highbrow"
+    },
+    {
+      "id": "com.hykick.catark",
+      "title": "캣아크",
+      "url": "https://play.google.com/store/apps/details?id=com.hykick.catark&hl=ko",
+      "developer": "HYKICK"
+    },
+    {
+      "id": "com.hykick.mewage",
+      "title": "뮤에이지: 고양이 타워 디펜스",
+      "url": "https://play.google.com/store/apps/details?id=com.hykick.mewage&hl=ko",
+      "developer": "HYKICK"
     },
     {
       "id": "com.lunosoft.jewelnights2",
@@ -63,6 +105,12 @@
       "developer": "LUNOSOFT INC"
     },
     {
+      "id": "com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
+      "title": "Mecha Warrior: Robot Idle TD",
+      "url": "https://play.google.com/store/apps/details?id=com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien&hl=ko",
+      "developer": "Gem Jam"
+    },
+    {
       "id": "com.neptune.tkdefense",
       "title": "막다보니 천하통일",
       "url": "https://play.google.com/store/apps/details?id=com.neptune.tkdefense&hl=ko",
@@ -75,22 +123,34 @@
       "developer": "Neptune Corp."
     },
     {
-      "id": "com.oxiwyle.modernage2lite",
-      "title": "MA 4 – President Simulator",
-      "url": "https://play.google.com/store/apps/details?id=com.oxiwyle.modernage2lite&hl=ko",
-      "developer": "Oxiwyle Inc"
+      "id": "com.netease.anantana",
+      "title": "무한대",
+      "url": "https://play.google.com/store/apps/details?id=com.netease.anantana&hl=ko",
+      "developer": "Netease Games Global"
     },
     {
-      "id": "com.pid.diceomancer",
-      "title": "DICEOMANCER",
-      "url": "https://play.google.com/store/apps/details?id=com.pid.diceomancer&hl=ko",
-      "developer": "Plug In Digital"
+      "id": "com.pantheraplay.dicegeon",
+      "title": "Dicegeon: 로그라이크 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.pantheraplay.dicegeon&hl=ko",
+      "developer": "PANTHERA GLOBAL"
+    },
+    {
+      "id": "com.ranidagames.basketballslammyteam",
+      "title": "Basketball Slam MyTEAM",
+      "url": "https://play.google.com/store/apps/details?id=com.ranidagames.basketballslammyteam&hl=ko",
+      "developer": "Ranida Games"
     },
     {
       "id": "com.rawhand.pixelslash",
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
-      "developer": "Rawhand Games"
+      "developer": "METAPLUG Inc."
+    },
+    {
+      "id": "com.snapbreak.fishinginc",
+      "title": "Fishing Inc: Legendary Catch",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.fishinginc&hl=ko",
+      "developer": "Snapbreak"
     },
     {
       "id": "com.superbox.mergemysteryresort",
@@ -123,10 +183,10 @@
       "developer": "nitrox"
     },
     {
-      "id": "com.wk.mergedf",
-      "title": "네온 타워 클래시",
-      "url": "https://play.google.com/store/apps/details?id=com.wk.mergedf&hl=ko",
-      "developer": "WK Company"
+      "id": "jp.co.imagineer.medabotss",
+      "title": "Medabots S",
+      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medabotss&hl=ko",
+      "developer": "Imagineer Co.,Ltd."
     }
   ]
 }

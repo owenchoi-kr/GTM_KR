@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T01:24:03.892776",
-  "count": 18,
+  "updated_at": "2026-11-12T02:24:35.634653",
+  "count": 19,
   "games": [
     {
       "id": "GM_NCR_023737",
@@ -29,6 +29,13 @@
       "url": "https://game.naver.com/ohso",
       "release_date": "2026-10-22 ~ 2026-11-24 사전예약",
       "platform": "PC"
+    },
+    {
+      "id": "GM_NCR_025752",
+      "title": "올림포스X아스가르드 총력전",
+      "url": "https://game.naver.com/olympusX",
+      "release_date": "2026-11-12 ~  사전예약",
+      "platform": "Android,iOS,OneStore"
     },
     {
       "id": "GM_NCR_024641",
