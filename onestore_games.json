@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-11-12T02:24:35.634352",
-  "count": 26,
+  "updated_at": "2026-11-13T02:03:00.876463",
+  "count": 29,
   "games": [
     {
       "id": "0001011000",
       "title": "에버크라운: 하드코어 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
       "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
+    },
+    {
+      "id": "0001010800",
+      "title": "올림포스X아스가르드 총력",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010800",
+      "developer": "KINGKONGSOFT"
     },
     {
       "id": "0001008578",
@@ -19,6 +25,12 @@
       "title": "심쿵！고양이 소녀",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008575",
       "developer": "NEOJOY"
+    },
+    {
+      "id": "0001011549",
+      "title": "천마: 복수자들",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011549",
+      "developer": "RAYS NETWORK TECHNOLOGY LIMITED"
     },
     {
       "id": "0001011885",
@@ -37,6 +49,12 @@
       "title": "더가디언즈",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058",
       "developer": "VALOFE Co.,Ltd."
+    },
+    {
+      "id": "0001007868",
+      "title": "Max classic",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007868",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001010482",
@@ -67,6 +85,12 @@
       "title": "이 용병단 머지: 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008297",
       "developer": "Blue Planet Joy Limited"
+    },
+    {
+      "id": "0001011601",
+      "title": "픽셀슬래쉬 : 끝없는 모험",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011601",
+      "developer": "METAPLUG Inc."
     },
     {
       "id": "0001008689",
@@ -114,11 +138,6 @@
       "title": "머지좀비: 엔드리스워",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
       "developer": "ENP Games Co., Ltd."
-    },
-    {
-      "id": "0001008384",
-      "title": "전생했더니 검 한 자루",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008384"
     },
     {
       "id": "0001007223",

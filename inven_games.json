@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-12T02:24:35.633886",
-  "count": 4,
+  "updated_at": "2026-11-13T02:03:00.876053",
+  "count": 5,
   "games": [
+    {
+      "id": "1004",
+      "title": "일랜시아 모바일",
+      "url": "https://pick.inven.co.kr/campaign/1004/elanciamobile",
+      "release_date": "12월 1일 출시 예정",
+      "reward": "[2000이니, 100베니]꽃무늬 의상 세트 포함 3종의 보상 지급",
+      "developer": "게임듀오"
+    },
     {
       "id": "1002",
       "title": "리니지2M",
