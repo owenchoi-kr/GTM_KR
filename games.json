@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T01:36:13.674054",
-  "count": 31,
+  "updated_at": "2026-11-15T01:13:00.047461",
+  "count": 30,
   "games": [
     {
       "id": "co.uk.fireshine.gunboatgod",
@@ -181,12 +181,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "jp.co.imagineer.medabotss",
-      "title": "Medabots S",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medabotss&hl=ko",
-      "developer": "Imagineer Co.,Ltd."
     }
   ]
 }

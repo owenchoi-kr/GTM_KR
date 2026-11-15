@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:36:13.675163",
+  "updated_at": "2026-11-15T01:13:00.048659",
   "count": 28,
   "games": [
     {
@@ -57,15 +57,15 @@
       "developer": "K8GAMES"
     },
     {
-      "id": "0001010482",
-      "title": "라스트 아크: S",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001010559",
       "title": "스틱맨: 선 넘네",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001010482",
+      "title": "라스트 아크: S",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
       "developer": "GM 게임"
     },
     {

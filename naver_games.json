@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T01:36:13.675565",
-  "count": 22,
+  "updated_at": "2026-11-15T01:13:00.048992",
+  "count": 23,
   "games": [
     {
       "id": "GM_NCR_025634",
@@ -64,6 +64,13 @@
       "url": "https://game.naver.com/THREE_KINGDOMS_SENKIBAN",
       "release_date": "2026-11-03 ~ 2026-12-01 사전예약",
       "platform": "Android,iOS,OneStore"
+    },
+    {
+      "id": "GM_NCR_025607",
+      "title": "아르케인 온라인",
+      "url": "https://game.naver.com/Arcaine",
+      "release_date": "2026-11-15 ~ 2026-12-03 사전예약",
+      "platform": "Android,iOS,PC"
     },
     {
       "id": "GM_NCR_025633",
