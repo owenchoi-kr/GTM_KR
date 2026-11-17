@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T01:18:49.357479",
-  "count": 5,
+  "updated_at": "2026-11-17T04:06:55.105817",
+  "count": 6,
   "games": [
     {
       "id": "1004",
@@ -25,6 +25,14 @@
       "release_date": "12월 10일 출시 예정",
       "reward": "[2000이니, 100베니]10만 골드 포함 3종의 보상 지급",
       "developer": "플레이웍스 주식회사"
+    },
+    {
+      "id": "1005",
+      "title": "스페셜포스2 S.K.I.L.L.",
+      "url": "https://pick.inven.co.kr/campaign/1005/SpecialForce2",
+      "release_date": "출시 미정",
+      "reward": "[1000이니, 50베니]사전 예약 한정판 무기 및 코스튬 패키지",
+      "developer": "파파야 플레이"
     },
     {
       "id": "1001",

@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-11-16T01:18:49.357750",
+  "updated_at": "2026-11-17T04:06:55.106922",
   "count": 27,
   "games": [
     {
-      "id": "0001011000",
-      "title": "에버크라운: 하드코어 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
-      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
+      "id": "0001012251",
+      "title": "라스트 세이프 존",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012251",
+      "developer": "Rakudou Game (HK) Limited"
+    },
+    {
+      "id": "0001012533",
+      "title": "영웅삼국:세개의 태양",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012533",
+      "developer": "메가자이언트"
     },
     {
       "id": "0001010800",
@@ -19,6 +25,12 @@
       "title": "대항해시대 Origin",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578",
       "developer": "LINE Games"
+    },
+    {
+      "id": "0001010510",
+      "title": "플레이어 키우기 : 방치형 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010510",
+      "developer": "SUPERBOX"
     },
     {
       "id": "0001008575",
@@ -49,6 +61,12 @@
       "title": "더가디언즈",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058",
       "developer": "VALOFE Co.,Ltd."
+    },
+    {
+      "id": "0001011000",
+      "title": "에버크라운: 하드코어 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
+      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
     },
     {
       "id": "0001007868",
@@ -129,20 +147,9 @@
       "developer": "MGMAE Corp"
     },
     {
-      "id": "0001009251",
-      "title": "아쿠아랜드: 크레이지 서바이벌",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009251"
-    },
-    {
       "id": "0001010866",
       "title": "머지좀비: 엔드리스워",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866",
-      "developer": "ENP Games Co., Ltd."
-    },
-    {
-      "id": "0001007223",
-      "title": "야생소녀: 리버스",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007223"
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866"
     },
     {
       "id": "0001006327",
@@ -153,11 +160,6 @@
       "id": "0001008510",
       "title": "미르의 전설2: 레볼루션",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510"
-    },
-    {
-      "id": "0001008594",
-      "title": " 오늘도 레벨업 히어로키우기 방치형 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008594"
     }
   ]
 }

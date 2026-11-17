@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T01:18:49.357109",
+  "updated_at": "2026-11-17T04:06:55.104995",
   "count": 32,
   "games": [
     {
@@ -93,12 +93,6 @@
       "developer": "HYKICK"
     },
     {
-      "id": "com.khg.doorkickers2",
-      "title": "Door Kickers 2",
-      "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers2&hl=ko",
-      "developer": "KillHouse Games"
-    },
-    {
       "id": "com.lunosoft.jewelnights2",
       "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
@@ -115,6 +109,12 @@
       "title": "Mecha Warrior: Robot Idle TD",
       "url": "https://play.google.com/store/apps/details?id=com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien&hl=ko",
       "developer": "Sealcat LLC"
+    },
+    {
+      "id": "com.naddic.bongsik2",
+      "title": "중년기사 김봉식2: 원조 방치 RPG",
+      "url": "https://play.google.com/store/apps/details?id=com.naddic.bongsik2&hl=ko",
+      "developer": "Mafgames"
     },
     {
       "id": "com.neptune.tkdefense",
