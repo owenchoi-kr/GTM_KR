@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-17T04:06:55.105817",
-  "count": 6,
+  "updated_at": "2026-11-18T03:03:50.737037",
+  "count": 7,
   "games": [
+    {
+      "id": "1003",
+      "title": "리니지M",
+      "url": "https://pick.inven.co.kr/campaign/1003/UNBREAKABLE",
+      "release_date": "12월 2일 출시 예정",
+      "reward": "[2000이니, 100베니]공식 홈페이지를 참고하세요",
+      "developer": "NC"
+    },
     {
       "id": "1004",
       "title": "일랜시아 모바일",

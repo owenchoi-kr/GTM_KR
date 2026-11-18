@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-17T04:06:55.107471",
-  "count": 24,
+  "updated_at": "2026-11-18T03:03:50.738534",
+  "count": 23,
   "games": [
-    {
-      "id": "GM_NCR_025634",
-      "title": "사커워즈",
-      "url": "https://game.naver.com/Soccerwarz",
-      "release_date": "2026-10-31 ~ 2026-11-17 사전예약",
-      "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_013601",
-      "title": "아너 오브 킹즈(왕자영요 글로벌)",
-      "url": "https://game.naver.com/Honor_of_Kings",
-      "release_date": "2026-10-30 ~ 2026-11-17 사전예약",
-      "platform": "Android,iOS"
-    },
     {
       "id": "GM_NCR_025596",
       "title": "풍운강호",
@@ -78,6 +64,13 @@
       "url": "https://game.naver.com/Arcaine",
       "release_date": "2026-11-15 ~ 2026-12-03 사전예약",
       "platform": "Android,iOS,PC"
+    },
+    {
+      "id": "GM_NCR_025939",
+      "title": "태어나니 슬라임",
+      "url": "https://game.naver.com/From_Slime",
+      "release_date": "2026-11-17 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_025633",

@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-17T04:06:55.106922",
-  "count": 27,
+  "updated_at": "2026-11-18T03:03:50.738027",
+  "count": 28,
   "games": [
+    {
+      "id": "0001012767",
+      "title": "불멸전선: 끝나지 않은 전쟁",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012767",
+      "developer": "위니시스템즈"
+    },
     {
       "id": "0001012251",
       "title": "라스트 세이프 존",
@@ -55,12 +61,6 @@
       "title": "천상비M2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010795",
       "developer": "SESISOFT"
-    },
-    {
-      "id": "0001010058",
-      "title": "더가디언즈",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058",
-      "developer": "VALOFE Co.,Ltd."
     },
     {
       "id": "0001011000",
@@ -145,6 +145,11 @@
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
       "developer": "MGMAE Corp"
+    },
+    {
+      "id": "0001010058",
+      "title": "더가디언즈",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058"
     },
     {
       "id": "0001010866",

@@ -1,13 +1,7 @@
 {
-  "updated_at": "2026-11-17T04:06:55.104995",
-  "count": 32,
+  "updated_at": "2026-11-18T03:03:50.736233",
+  "count": 31,
   "games": [
-    {
-      "id": "co.uk.fireshine.gunboatgod",
-      "title": "Gunboat God",
-      "url": "https://play.google.com/store/apps/details?id=co.uk.fireshine.gunboatgod&hl=ko",
-      "developer": "Fireshine Games"
-    },
     {
       "id": "com.Deliciousgames.TidyPuzzle",
       "title": "쓱맞춰 : 사물 브레인 퍼즐",
@@ -93,6 +87,12 @@
       "developer": "HYKICK"
     },
     {
+      "id": "com.khg.doorkickers2",
+      "title": "Door Kickers 2",
+      "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers2&hl=ko",
+      "developer": "KillHouse Games"
+    },
+    {
       "id": "com.lunosoft.jewelnights2",
       "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
@@ -103,12 +103,6 @@
       "title": "영혼군단 키우기: 방치형 소울 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.soullegion&hl=ko",
       "developer": "LUNOSOFT INC"
-    },
-    {
-      "id": "com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien",
-      "title": "Mecha Warrior: Robot Idle TD",
-      "url": "https://play.google.com/store/apps/details?id=com.mecha.warrior.idle.tower.defense.games.td.strategy.robot.mech.space.sci.fi.base.alien&hl=ko",
-      "developer": "Sealcat LLC"
     },
     {
       "id": "com.naddic.bongsik2",
