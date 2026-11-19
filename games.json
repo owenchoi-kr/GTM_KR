@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T03:03:50.736233",
-  "count": 31,
+  "updated_at": "2026-11-19T02:45:33.210365",
+  "count": 28,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -87,12 +87,6 @@
       "developer": "HYKICK"
     },
     {
-      "id": "com.khg.doorkickers2",
-      "title": "Door Kickers 2",
-      "url": "https://play.google.com/store/apps/details?id=com.khg.doorkickers2&hl=ko",
-      "developer": "KillHouse Games"
-    },
-    {
       "id": "com.lunosoft.jewelnights2",
       "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
       "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
@@ -109,12 +103,6 @@
       "title": "중년기사 김봉식2: 원조 방치 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.naddic.bongsik2&hl=ko",
       "developer": "Mafgames"
-    },
-    {
-      "id": "com.neptune.tkdefense",
-      "title": "막다보니 천하통일",
-      "url": "https://play.google.com/store/apps/details?id=com.neptune.tkdefense&hl=ko",
-      "developer": "Neptune Corp."
     },
     {
       "id": "com.neptune.windtrace",
@@ -145,12 +133,6 @@
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
       "developer": "METAPLUG Inc."
-    },
-    {
-      "id": "com.snapbreak.fishinginc",
-      "title": "Fishing Inc: Legendary Catch",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.fishinginc&hl=ko",
-      "developer": "Snapbreak"
     },
     {
       "id": "com.superbox.mergemysteryresort",

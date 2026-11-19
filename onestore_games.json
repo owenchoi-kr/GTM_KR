@@ -1,12 +1,18 @@
 {
-  "updated_at": "2026-11-18T03:03:50.738027",
-  "count": 28,
+  "updated_at": "2026-11-19T02:45:33.211358",
+  "count": 27,
   "games": [
     {
       "id": "0001012767",
       "title": "불멸전선: 끝나지 않은 전쟁",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012767",
       "developer": "위니시스템즈"
+    },
+    {
+      "id": "0001011664",
+      "title": "냐옹한 해적들",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011664",
+      "developer": "YQGAMES"
     },
     {
       "id": "0001012251",
@@ -135,12 +141,6 @@
       "developer": "Qookka Games"
     },
     {
-      "id": "0001008733",
-      "title": "막다보니 천하통일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733",
-      "developer": "Neptune Company"
-    },
-    {
       "id": "0001008083",
       "title": "귀혼키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
@@ -157,14 +157,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866"
     },
     {
-      "id": "0001006327",
-      "title": "삼국지: 구주제패",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001006327"
-    },
-    {
-      "id": "0001008510",
-      "title": "미르의 전설2: 레볼루션",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008510"
+      "id": "0001008733",
+      "title": "막다보니 천하통일",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733"
     }
   ]
 }

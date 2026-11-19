@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18T03:03:50.738534",
-  "count": 23,
+  "updated_at": "2026-11-19T02:45:33.211668",
+  "count": 24,
   "games": [
     {
       "id": "GM_NCR_025596",
@@ -71,6 +71,13 @@
       "url": "https://game.naver.com/From_Slime",
       "release_date": "2026-11-17 ~  사전예약",
       "platform": "Android"
+    },
+    {
+      "id": "GM_NCR_026009",
+      "title": "꼬마도깨비키우기",
+      "url": "https://game.naver.com/Kkoma_Dokkaebi",
+      "release_date": "2026-11-19 ~ 2026-12-06 사전예약",
+      "platform": "Android,OneStore"
     },
     {
       "id": "GM_NCR_025633",
