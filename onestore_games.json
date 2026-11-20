@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T02:45:33.211358",
-  "count": 27,
+  "updated_at": "2026-11-20T02:31:26.417656",
+  "count": 29,
   "games": [
     {
       "id": "0001012767",
@@ -21,10 +21,22 @@
       "developer": "Rakudou Game (HK) Limited"
     },
     {
+      "id": "0001011990",
+      "title": "잔불의 기사 키우기: 방치형RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011990",
+      "developer": "Blackhammer"
+    },
+    {
       "id": "0001012533",
       "title": "영웅삼국:세개의 태양",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012533",
       "developer": "메가자이언트"
+    },
+    {
+      "id": "0001012333",
+      "title": "블레이드 오브 카오스: 글로벌",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012333",
+      "developer": "UNLOCK INTERNATIONAL LIMITED"
     },
     {
       "id": "0001010800",
@@ -69,12 +81,6 @@
       "developer": "SESISOFT"
     },
     {
-      "id": "0001011000",
-      "title": "에버크라운: 하드코어 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000",
-      "developer": "Guangzhou Mengzhong Entertainment Tech. Co., Ltd."
-    },
-    {
       "id": "0001007868",
       "title": "Max classic",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007868",
@@ -108,7 +114,7 @@
       "id": "0001008297",
       "title": "이 용병단 머지: 디펜스",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008297",
-      "developer": "Blue Planet Joy Limited"
+      "developer": "DREAM CASTLE LIMITED"
     },
     {
       "id": "0001011601",
@@ -121,12 +127,6 @@
       "title": "다크에덴R",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008689",
       "developer": "PlayWorks Corporation"
-    },
-    {
-      "id": "0001009250",
-      "title": "수련의 강호 2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250",
-      "developer": "FUN GAMES STUDIO"
     },
     {
       "id": "0001010495",
@@ -152,9 +152,19 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058"
     },
     {
+      "id": "0001011000",
+      "title": "에버크라운: 하드코어 RPG",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000"
+    },
+    {
       "id": "0001010866",
       "title": "머지좀비: 엔드리스워",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866"
+    },
+    {
+      "id": "0001009250",
+      "title": "수련의 강호 2",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250"
     },
     {
       "id": "0001008733",

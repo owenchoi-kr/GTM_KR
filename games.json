@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T02:45:33.210365",
-  "count": 28,
+  "updated_at": "2026-11-20T02:31:26.416745",
+  "count": 27,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -61,12 +61,6 @@
       "title": "실버 팰리스",
       "url": "https://play.google.com/store/apps/details?id=com.elementagames.silverpalace.google&hl=ko",
       "developer": "Elementa Games"
-    },
-    {
-      "id": "com.game.xzjh2.global",
-      "title": "수련의 강호 2-플레이 가능한 수양 소설!",
-      "url": "https://play.google.com/store/apps/details?id=com.game.xzjh2.global&hl=ko",
-      "developer": "FUN GAMES STUDIO"
     },
     {
       "id": "com.highbrow.games.tkr",
@@ -135,10 +129,10 @@
       "developer": "METAPLUG Inc."
     },
     {
-      "id": "com.superbox.mergemysteryresort",
-      "title": "머지 미스테리 : 리조트",
-      "url": "https://play.google.com/store/apps/details?id=com.superbox.mergemysteryresort&hl=ko",
-      "developer": "SUPERBOX Inc"
+      "id": "com.snapbreak.fishinginc",
+      "title": "Fishing Inc: Legendary Catch",
+      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.fishinginc&hl=ko",
+      "developer": "Snapbreak"
     },
     {
       "id": "com.superpixel.catkeycappaint",

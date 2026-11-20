@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T02:45:33.211668",
+  "updated_at": "2026-11-20T02:31:26.417918",
   "count": 24,
   "games": [
     {
@@ -15,6 +15,13 @@
       "url": "https://game.naver.com/Three_Kingdoms_Go",
       "release_date": "2026-11-12 ~ 2026-11-25 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025233",
+      "title": "웨이스트 건스타 : Idle RPG",
+      "url": "https://game.naver.com/Waste_Gunstar_Idle_RPG",
+      "release_date": "2026-11-19 ~  사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_025752",
@@ -148,13 +155,6 @@
       "url": "https://game.naver.com/reinna",
       "release_date": "2026-04-24 ~ 2027-12-31 사전예약",
       "platform": "Android,iOS,PC"
-    },
-    {
-      "id": "GM_NCR_025051",
-      "title": "막다보니 천하통일",
-      "url": "https://game.naver.com/Tiny_War_Kingdom_Defense",
-      "release_date": "2026-10-08 ~  사전예약",
-      "platform": "Android,iOS"
     },
     {
       "id": "GM_NCR_024316",
