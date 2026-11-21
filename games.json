@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T02:31:26.416745",
-  "count": 27,
+  "updated_at": "2026-11-21T02:42:53.863072",
+  "count": 29,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -39,10 +39,22 @@
       "developer": "Brazle"
     },
     {
+      "id": "com.bywitchlight.themaguscircle",
+      "title": "The Magus Circle",
+      "url": "https://play.google.com/store/apps/details?id=com.bywitchlight.themaguscircle&hl=ko",
+      "developer": "By Witchlight"
+    },
+    {
       "id": "com.cle.galaxydefense",
       "title": "갤럭시 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.cle.galaxydefense&hl=ko",
       "developer": "Clegames Inc"
+    },
+    {
+      "id": "com.cloudcade.shopheroesidle",
+      "title": "Shop Heroes: Idle Slots",
+      "url": "https://play.google.com/store/apps/details?id=com.cloudcade.shopheroesidle&hl=ko",
+      "developer": "Cloudcade Holdings, Inc."
     },
     {
       "id": "com.cookapps.roaddefense",
@@ -159,10 +171,10 @@
       "developer": "nitrox"
     },
     {
-      "id": "jp.co.imagineer.medabotss",
-      "title": "Medabots S",
-      "url": "https://play.google.com/store/apps/details?id=jp.co.imagineer.medabotss&hl=ko",
-      "developer": "Imagineer Co.,Ltd."
+      "id": "com.wjcsen.android",
+      "title": "Skyblade: Idle Immortal",
+      "url": "https://play.google.com/store/apps/details?id=com.wjcsen.android&hl=ko",
+      "developer": "BOLTRAY GAMES"
     }
   ]
 }

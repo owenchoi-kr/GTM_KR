@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-11-20T02:31:26.417260",
-  "count": 7,
+  "updated_at": "2026-11-21T02:42:53.863761",
+  "count": 10,
   "games": [
+    {
+      "id": "1006",
+      "title": "삼국지:천하무쌍",
+      "url": "https://pick.inven.co.kr/campaign/1006/peerless3k",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]10만원 가량의 상품 증정!",
+      "developer": "주식회사 엔드나인게임즈"
+    },
+    {
+      "id": "1007",
+      "title": "Max Classic",
+      "url": "https://pick.inven.co.kr/campaign/1007/maxclassic",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]10만원 가량의 상품 증정!",
+      "developer": "주식회사 엔드나인게임즈"
+    },
+    {
+      "id": "1008",
+      "title": "은밀한 0교시",
+      "url": "https://pick.inven.co.kr/campaign/1008/secretzero",
+      "release_date": "출시 미정",
+      "reward": "[2000이니, 100베니]사전예약 보상 업데이트 예정",
+      "developer": "주식회사 엔드나인게임즈"
+    },
     {
       "id": "1003",
       "title": "리니지M",
@@ -54,7 +78,7 @@
       "id": "998",
       "title": "소울 시프트 리:본",
       "url": "https://pick.inven.co.kr/campaign/998/SSRVIPGift",
-      "release_date": "11월 말 출시 예정",
+      "release_date": "11월 23일 출시 예정",
       "reward": "[1000이니]캠퍼스 입학 축하 선물! 신입생 환영 패키지 100% 전원 증정 !",
       "developer": "PLAYLINKS"
     }
