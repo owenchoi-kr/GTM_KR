@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T01:31:08.832821",
-  "count": 10,
+  "updated_at": "2026-11-23T01:56:15.969502",
+  "count": 9,
   "games": [
     {
       "id": "1006",
@@ -73,14 +73,6 @@
       "release_date": "출시 미정",
       "reward": "[1000이니, 50베니]인벤 포인트 지급",
       "developer": "세시소프트"
-    },
-    {
-      "id": "998",
-      "title": "소울 시프트 리:본",
-      "url": "https://pick.inven.co.kr/campaign/998/SSRVIPGift",
-      "release_date": "11월 23일 출시 예정",
-      "reward": "[1000이니]캠퍼스 입학 축하 선물! 신입생 환영 패키지 100% 전원 증정 !",
-      "developer": "PLAYLINKS"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-22T01:31:08.832299",
-  "count": 29,
+  "updated_at": "2026-11-23T01:56:15.969029",
+  "count": 26,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -37,12 +37,6 @@
       "title": "마이리틀호텔",
       "url": "https://play.google.com/store/apps/details?id=com.brazle.mylittlehotel&hl=ko",
       "developer": "Brazle"
-    },
-    {
-      "id": "com.bywitchlight.themaguscircle",
-      "title": "The Magus Circle",
-      "url": "https://play.google.com/store/apps/details?id=com.bywitchlight.themaguscircle&hl=ko",
-      "developer": "By Witchlight"
     },
     {
       "id": "com.cle.galaxydefense",
@@ -91,12 +85,6 @@
       "title": "뮤에이지: 고양이 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.hykick.mewage&hl=ko",
       "developer": "HYKICK"
-    },
-    {
-      "id": "com.lunosoft.jewelnights2",
-      "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
-      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
-      "developer": "LUNOSOFT INC"
     },
     {
       "id": "com.lunosoft.soullegion",
@@ -169,12 +157,6 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
-    },
-    {
-      "id": "com.wjcsen.android",
-      "title": "Skyblade: Idle Immortal",
-      "url": "https://play.google.com/store/apps/details?id=com.wjcsen.android&hl=ko",
-      "developer": "BOLTRAY GAMES"
     }
   ]
 }
