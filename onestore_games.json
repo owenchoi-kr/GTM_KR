@@ -1,7 +1,13 @@
 {
-  "updated_at": "2026-11-23T01:56:15.970267",
-  "count": 29,
+  "updated_at": "2026-11-24T05:27:22.434422",
+  "count": 31,
   "games": [
+    {
+      "id": "0001007354",
+      "title": "마스터탱커 AFK",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007354",
+      "developer": "GuruLab Co.,Ltd"
+    },
     {
       "id": "0001012767",
       "title": "불멸전선: 끝나지 않은 전쟁",
@@ -13,6 +19,18 @@
       "title": "냐옹한 해적들",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011664",
       "developer": "YQGAMES"
+    },
+    {
+      "id": "0001007177",
+      "title": "은밀한 0교시",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
+      "developer": "K8GAMES"
+    },
+    {
+      "id": "0001012107",
+      "title": "삼국지:천하무쌍",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012107",
+      "developer": "GoldFlowGames"
     },
     {
       "id": "0001012251",
@@ -81,15 +99,15 @@
       "developer": "K8GAMES"
     },
     {
-      "id": "0001010482",
-      "title": "라스트 아크: S",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001010559",
       "title": "스틱맨: 선 넘네",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001010482",
+      "title": "라스트 아크: S",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
       "developer": "GM 게임"
     },
     {
@@ -135,12 +153,6 @@
       "developer": "Qookka Games"
     },
     {
-      "id": "0001008083",
-      "title": "귀혼키우기",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083",
-      "developer": "MGMAE Corp"
-    },
-    {
       "id": "0001008578",
       "title": "대항해시대 Origin",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578"
@@ -156,11 +168,6 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000"
     },
     {
-      "id": "0001010866",
-      "title": "머지좀비: 엔드리스워",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010866"
-    },
-    {
       "id": "0001009250",
       "title": "수련의 강호 2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250"
@@ -169,6 +176,11 @@
       "id": "0001008733",
       "title": "막다보니 천하통일",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733"
+    },
+    {
+      "id": "0001008083",
+      "title": "귀혼키우기",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008083"
     }
   ]
 }

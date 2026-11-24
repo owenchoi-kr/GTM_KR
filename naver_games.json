@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T01:56:15.970605",
-  "count": 24,
+  "updated_at": "2026-11-24T05:27:22.434780",
+  "count": 25,
   "games": [
     {
       "id": "GM_NCR_025596",
@@ -10,18 +10,18 @@
       "platform": "PC"
     },
     {
+      "id": "GM_NCR_025233",
+      "title": "웨이스트 건스타 : Idle RPG",
+      "url": "https://game.naver.com/Waste_Gunstar_Idle_RPG",
+      "release_date": "2026-11-19 ~ 2026-11-25 사전예약",
+      "platform": "Android"
+    },
+    {
       "id": "GM_NCR_025569",
       "title": "삼국지 GO! : 방치형 키우기 RPG",
       "url": "https://game.naver.com/Three_Kingdoms_Go",
       "release_date": "2026-11-12 ~ 2026-11-25 사전예약",
       "platform": "Android,iOS"
-    },
-    {
-      "id": "GM_NCR_025233",
-      "title": "웨이스트 건스타 : Idle RPG",
-      "url": "https://game.naver.com/Waste_Gunstar_Idle_RPG",
-      "release_date": "2026-11-19 ~  사전예약",
-      "platform": "Android"
     },
     {
       "id": "GM_NCR_025752",
@@ -169,6 +169,13 @@
       "url": "https://game.naver.com/Whisperborne",
       "release_date": "2026-10-06 ~  사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_021708",
+      "title": "프로젝트 제타",
+      "url": "https://game.naver.com/PROJECT_ZETA",
+      "release_date": "2026-11-24 ~ 2026-12-08 OBT",
+      "platform": "PC"
     }
   ]
 }

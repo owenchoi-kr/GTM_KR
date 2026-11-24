@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-23T01:56:15.969029",
-  "count": 26,
+  "updated_at": "2026-11-24T05:27:22.433378",
+  "count": 28,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -87,9 +87,9 @@
       "developer": "HYKICK"
     },
     {
-      "id": "com.lunosoft.soullegion",
-      "title": "영혼군단 키우기: 방치형 소울 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.soullegion&hl=ko",
+      "id": "com.lunosoft.jewelnights2",
+      "title": "1001 쥬얼 나이츠: 매치 퍼즐 시즌 2",
+      "url": "https://play.google.com/store/apps/details?id=com.lunosoft.jewelnights2&hl=ko",
       "developer": "LUNOSOFT INC"
     },
     {
@@ -109,6 +109,12 @@
       "title": "무한대",
       "url": "https://play.google.com/store/apps/details?id=com.netease.anantana&hl=ko",
       "developer": "Netease Games Global"
+    },
+    {
+      "id": "com.openew.monster",
+      "title": "괴물은 죽어야 해!",
+      "url": "https://play.google.com/store/apps/details?id=com.openew.monster&hl=ko",
+      "developer": "Habby"
     },
     {
       "id": "com.pantheraplay.dicegeon",
@@ -157,6 +163,12 @@
       "title": "라스트 발키리",
       "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.aos.valkyrie&hl=ko",
       "developer": "nitrox"
+    },
+    {
+      "id": "com.wjcsen.android",
+      "title": "Skyblade: Idle Immortal",
+      "url": "https://play.google.com/store/apps/details?id=com.wjcsen.android&hl=ko",
+      "developer": "BOLTRAY GAMES"
     }
   ]
 }
