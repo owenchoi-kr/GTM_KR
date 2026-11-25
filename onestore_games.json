@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T05:27:22.434422",
-  "count": 31,
+  "updated_at": "2026-11-25T04:28:30.490381",
+  "count": 30,
   "games": [
     {
       "id": "0001007354",
@@ -21,16 +21,16 @@
       "developer": "YQGAMES"
     },
     {
-      "id": "0001007177",
-      "title": "은밀한 0교시",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
-      "developer": "K8GAMES"
-    },
-    {
       "id": "0001012107",
       "title": "삼국지:천하무쌍",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012107",
       "developer": "GoldFlowGames"
+    },
+    {
+      "id": "0001007177",
+      "title": "은밀한 0교시",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001012251",
@@ -99,15 +99,15 @@
       "developer": "K8GAMES"
     },
     {
-      "id": "0001010559",
-      "title": "스틱맨: 선 넘네",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001010482",
       "title": "라스트 아크: S",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001010559",
+      "title": "스틱맨: 선 넘네",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
       "developer": "GM 게임"
     },
     {
@@ -156,11 +156,6 @@
       "id": "0001008578",
       "title": "대항해시대 Origin",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578"
-    },
-    {
-      "id": "0001010058",
-      "title": "더가디언즈",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010058"
     },
     {
       "id": "0001011000",

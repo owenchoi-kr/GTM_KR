@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-11-24T05:27:22.434780",
-  "count": 25,
+  "updated_at": "2026-11-25T04:28:30.490982",
+  "count": 24,
   "games": [
-    {
-      "id": "GM_NCR_025596",
-      "title": "풍운강호",
-      "url": "https://game.naver.com/ohso",
-      "release_date": "2026-10-22 ~ 2026-11-24 사전예약",
-      "platform": "PC"
-    },
-    {
-      "id": "GM_NCR_025233",
-      "title": "웨이스트 건스타 : Idle RPG",
-      "url": "https://game.naver.com/Waste_Gunstar_Idle_RPG",
-      "release_date": "2026-11-19 ~ 2026-11-25 사전예약",
-      "platform": "Android"
-    },
     {
       "id": "GM_NCR_025569",
       "title": "삼국지 GO! : 방치형 키우기 RPG",
@@ -43,6 +29,13 @@
       "url": "https://game.naver.com/Gangstar_Mirage_City",
       "release_date": "2026-09-09 ~ 2026-11-30 사전예약",
       "platform": "Android,iOS"
+    },
+    {
+      "id": "GM_NCR_025233",
+      "title": "웨이스트 건스타 : Idle RPG",
+      "url": "https://game.naver.com/Waste_Gunstar_Idle_RPG",
+      "release_date": "2026-11-19 ~ 2026-11-30 사전예약",
+      "platform": "Android"
     },
     {
       "id": "GM_NCR_025537",

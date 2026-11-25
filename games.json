@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T05:27:22.433378",
-  "count": 28,
+  "updated_at": "2026-11-25T04:28:30.487219",
+  "count": 27,
   "games": [
     {
       "id": "com.Deliciousgames.TidyPuzzle",
@@ -25,12 +25,6 @@
       "title": "스페이스 삼국지: 타워 디펜스",
       "url": "https://play.google.com/store/apps/details?id=com.arumgames.spacesg&hl=ko",
       "developer": "Arumgames"
-    },
-    {
-      "id": "com.bandai.digimonalysionw",
-      "title": "DIGIMON ALYSION",
-      "url": "https://play.google.com/store/apps/details?id=com.bandai.digimonalysionw&hl=ko",
-      "developer": "BANDAI CO.,LTD."
     },
     {
       "id": "com.brazle.mylittlehotel",
@@ -67,12 +61,6 @@
       "title": "실버 팰리스",
       "url": "https://play.google.com/store/apps/details?id=com.elementagames.silverpalace.google&hl=ko",
       "developer": "Elementa Games"
-    },
-    {
-      "id": "com.highbrow.games.tkr",
-      "title": "삼국지 GO! : 방치형 키우기 RPG",
-      "url": "https://play.google.com/store/apps/details?id=com.highbrow.games.tkr&hl=ko",
-      "developer": "highbrow"
     },
     {
       "id": "com.hykick.catark",
@@ -139,6 +127,12 @@
       "title": "Fishing Inc: Legendary Catch",
       "url": "https://play.google.com/store/apps/details?id=com.snapbreak.fishinginc&hl=ko",
       "developer": "Snapbreak"
+    },
+    {
+      "id": "com.superbox.aos.clearblocks",
+      "title": "캣 블록 슬라이드 : 옮기냥?",
+      "url": "https://play.google.com/store/apps/details?id=com.superbox.aos.clearblocks&hl=ko",
+      "developer": "SUPERBOX Inc"
     },
     {
       "id": "com.superpixel.catkeycappaint",
