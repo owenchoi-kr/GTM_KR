@@ -1,16 +1,11 @@
 {
-  "updated_at": "2026-11-25T04:28:30.489442",
-  "count": 2,
+  "updated_at": "2026-11-26T03:48:14.260445",
+  "count": 1,
   "games": [
     {
       "id": "nc0f1n",
       "title": "다크에덴R",
       "url": "https://game.kakao.com/ar/nc0f1n?rtc=atb_K-GAM02X0111"
-    },
-    {
-      "id": "s5t9Yj",
-      "title": "템빨: 오버기어드",
-      "url": "https://game.kakao.com/ar/s5t9Yj?rtc=atb_K-GAM02X0111"
     }
   ]
 }

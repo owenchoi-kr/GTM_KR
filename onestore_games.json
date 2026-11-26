@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-25T04:28:30.490381",
-  "count": 30,
+  "updated_at": "2026-11-26T03:48:14.260656",
+  "count": 29,
   "games": [
     {
       "id": "0001007354",
@@ -57,12 +57,6 @@
       "developer": "UNLOCK INTERNATIONAL LIMITED"
     },
     {
-      "id": "0001010800",
-      "title": "올림포스X아스가르드 총력",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010800",
-      "developer": "KINGKONGSOFT"
-    },
-    {
       "id": "0001010510",
       "title": "플레이어 키우기 : 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010510",
@@ -111,12 +105,6 @@
       "developer": "GM 게임"
     },
     {
-      "id": "0001010996",
-      "title": "D-ARK(디아크)",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010996",
-      "developer": "boostuniverse"
-    },
-    {
       "id": "0001011466",
       "title": "빅가이 키우기",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011466",
@@ -153,6 +141,11 @@
       "developer": "Qookka Games"
     },
     {
+      "id": "0001010800",
+      "title": "올림포스X아스가르드 총력",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010800"
+    },
+    {
       "id": "0001008578",
       "title": "대항해시대 Origin",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578"
@@ -163,14 +156,14 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000"
     },
     {
+      "id": "0001010996",
+      "title": "D-ARK(디아크)",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010996"
+    },
+    {
       "id": "0001009250",
       "title": "수련의 강호 2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250"
-    },
-    {
-      "id": "0001008733",
-      "title": "막다보니 천하통일",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008733"
     },
     {
       "id": "0001008083",

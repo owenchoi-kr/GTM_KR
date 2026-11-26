@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:28:30.487219",
+  "updated_at": "2026-11-26T03:48:14.259571",
   "count": 27,
   "games": [
     {
@@ -81,6 +81,12 @@
       "developer": "LUNOSOFT INC"
     },
     {
+      "id": "com.mobirix.extfmmr",
+      "title": "캣 마블 : 고양이 구슬 퍼즐",
+      "url": "https://play.google.com/store/apps/details?id=com.mobirix.extfmmr&hl=ko",
+      "developer": "mobirix"
+    },
+    {
       "id": "com.naddic.bongsik2",
       "title": "중년기사 김봉식2: 원조 방치 RPG",
       "url": "https://play.google.com/store/apps/details?id=com.naddic.bongsik2&hl=ko",
@@ -121,12 +127,6 @@
       "title": "픽셀슬래쉬 : 끝없는 모험",
       "url": "https://play.google.com/store/apps/details?id=com.rawhand.pixelslash&hl=ko",
       "developer": "METAPLUG Inc."
-    },
-    {
-      "id": "com.snapbreak.fishinginc",
-      "title": "Fishing Inc: Legendary Catch",
-      "url": "https://play.google.com/store/apps/details?id=com.snapbreak.fishinginc&hl=ko",
-      "developer": "Snapbreak"
     },
     {
       "id": "com.superbox.aos.clearblocks",
