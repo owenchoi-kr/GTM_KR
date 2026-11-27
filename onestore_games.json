@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T03:48:14.260656",
+  "updated_at": "2026-11-27T03:44:49.418916",
   "count": 29,
   "games": [
     {
@@ -7,6 +7,12 @@
       "title": "마스터탱커 AFK",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007354",
       "developer": "GuruLab Co.,Ltd"
+    },
+    {
+      "id": "0001010889",
+      "title": "무협의 세계",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010889",
+      "developer": "GoldFlowGames"
     },
     {
       "id": "0001012767",
@@ -21,16 +27,16 @@
       "developer": "YQGAMES"
     },
     {
-      "id": "0001012107",
-      "title": "삼국지:천하무쌍",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012107",
-      "developer": "GoldFlowGames"
-    },
-    {
       "id": "0001007177",
       "title": "은밀한 0교시",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
       "developer": "K8GAMES"
+    },
+    {
+      "id": "0001012107",
+      "title": "삼국지:천하무쌍",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012107",
+      "developer": "GoldFlowGames"
     },
     {
       "id": "0001012251",
@@ -43,12 +49,6 @@
       "title": "잔불의 기사 키우기: 방치형 RPG",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011990",
       "developer": "Blackhammer"
-    },
-    {
-      "id": "0001012533",
-      "title": "영웅삼국:세개의 태양",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012533",
-      "developer": "메가자이언트"
     },
     {
       "id": "0001012333",
@@ -81,6 +81,12 @@
       "developer": "이펀 컴퍼니"
     },
     {
+      "id": "0001011288",
+      "title": "뉴 어스 : 서바이버",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011288",
+      "developer": "IndieCode"
+    },
+    {
       "id": "0001010795",
       "title": "천상비M2",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010795",
@@ -93,15 +99,15 @@
       "developer": "K8GAMES"
     },
     {
-      "id": "0001010482",
-      "title": "라스트 아크: S",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
-      "developer": "GM 게임"
-    },
-    {
       "id": "0001010559",
       "title": "스틱맨: 선 넘네",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010559",
+      "developer": "GM 게임"
+    },
+    {
+      "id": "0001010482",
+      "title": "라스트 아크: S",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010482",
       "developer": "GM 게임"
     },
     {
@@ -141,6 +147,11 @@
       "developer": "Qookka Games"
     },
     {
+      "id": "0001012533",
+      "title": "영웅삼국:세개의 태양",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012533"
+    },
+    {
       "id": "0001010800",
       "title": "올림포스X아스가르드 총력",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010800"
@@ -151,19 +162,9 @@
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001008578"
     },
     {
-      "id": "0001011000",
-      "title": "에버크라운: 하드코어 RPG",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001011000"
-    },
-    {
       "id": "0001010996",
       "title": "D-ARK(디아크)",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001010996"
-    },
-    {
-      "id": "0001009250",
-      "title": "수련의 강호 2",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001009250"
     },
     {
       "id": "0001008083",

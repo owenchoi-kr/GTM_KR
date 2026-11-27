@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-26T03:48:14.261003",
-  "count": 23,
+  "updated_at": "2026-11-27T03:44:49.419279",
+  "count": 22,
   "games": [
-    {
-      "id": "GM_NCR_025752",
-      "title": "올림포스X아스가르드 총력전",
-      "url": "https://game.naver.com/olympusX",
-      "release_date": "2026-11-12 ~  사전예약",
-      "platform": "Android,iOS,OneStore"
-    },
     {
       "id": "GM_NCR_024641",
       "title": "에셋온라인",
