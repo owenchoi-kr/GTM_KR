@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-27T03:44:49.419279",
-  "count": 22,
+  "updated_at": "2026-11-28T03:28:02.986408",
+  "count": 21,
   "games": [
-    {
-      "id": "GM_NCR_024641",
-      "title": "에셋온라인",
-      "url": "https://game.naver.com/assetonline",
-      "release_date": "2026-11-03 ~ 2026-11-27 사전예약",
-      "platform": "Android,PC"
-    },
     {
       "id": "GM_NCR_024910",
       "title": "갱스터 미라지 시티",

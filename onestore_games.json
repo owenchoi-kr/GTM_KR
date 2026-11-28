@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T03:44:49.418916",
+  "updated_at": "2026-11-28T03:28:02.986028",
   "count": 29,
   "games": [
     {
@@ -27,16 +27,16 @@
       "developer": "YQGAMES"
     },
     {
-      "id": "0001007177",
-      "title": "은밀한 0교시",
-      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
-      "developer": "K8GAMES"
-    },
-    {
       "id": "0001012107",
       "title": "삼국지:천하무쌍",
       "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001012107",
       "developer": "GoldFlowGames"
+    },
+    {
+      "id": "0001007177",
+      "title": "은밀한 0교시",
+      "url": "https://m.onestore.co.kr/v2/ko-kr/event/preregistrations/0001007177",
+      "developer": "K8GAMES"
     },
     {
       "id": "0001012251",
